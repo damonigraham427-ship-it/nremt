@@ -1,0 +1,368 @@
+{
+ "questions": [
+  {
+   "question": "Assessment in Action: Encouraging this patient to provide more information about his injury is an example of which therapeutic communication technique?",
+   "choices": [
+    "Facilitation",
+    "Clarification",
+    "Reflection",
+    "Interpretation"
+   ],
+   "answer": 0,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Assessment in Action: Which of the following actions should you avoid while interviewing this patient?",
+   "choices": [
+    "Being empathetic",
+    "Asking leading or biased questions",
+    "Clarifying information",
+    "Giving the patient time to answer the question"
+   ],
+   "answer": 1,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Assessment in Action: If this patient refuses to be transported to the hospital, you should:",
+   "choices": [
+    "contact medical control.",
+    "ask law enforcement to take him into custody.",
+    "immediately stop patient care and leave.",
+    "find another person to continue medical care."
+   ],
+   "answer": 0,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Assessment in Action: As you radio the hospital to give a report on your patient, remember to:",
+   "choices": [
+    "provide as much detail as possible.",
+    "use code words to protect the patient’s identity.",
+    "speak as quickly and loudly as possible.",
+    "mention that this is an “alert” level patient as soon as possible."
+   ],
+   "answer": 3,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Assessment in Action: What information should you include in your initial report to the hospital?",
+   "choices": [
+    "Your estimated time of arrival",
+    "The patient’s full name and date of birth",
+    "The address of the location you are coming from",
+    "Your personal opinion of the patient’s condition"
+   ],
+   "answer": 0,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Assessment in Action: As you write your narrative for this call, it is important to include:",
+   "choices": [
+    "your opinions.",
+    "many abbreviations.",
+    "physical assessment findings.",
+    "the address of your location. Emergency Care and Transportation of the Sick and Injured, Twelfth Edition AAOS Copyright © 2021 by Jones & Bartlett Learning, LLC an Ascend Learning Company. www.jblearning.com."
+   ],
+   "answer": 2,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Assessment in Action: After you submit the electronic PCR for this call, you realize that you accidentally documented the wrong vital signs. You should:",
+   "choices": [
+    "leave the record as it is and seek legal advice.",
+    "notify your agency’s information technology department.",
+    "follow your agency’s directions for making an amendment.",
+    "say nothing and hope that the error goes unnoticed."
+   ],
+   "answer": 2,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Assessment in Action: Your partner takes several photos of the patient and the scene to post online to share with friends. This could be a violation of:",
+   "choices": [
+    "Internet laws.",
+    "patient care report protocol.",
+    "NEMSIS.",
+    "HIPAA."
+   ],
+   "answer": 3,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Assessment in Action: When communicating in a crisis it is vital to:",
+   "choices": [
+    "establish your authority as an emergency responder.",
+    "consider the perspective of the other person.",
+    "call for additional resources.",
+    "immediately exert your influence to move the situation forward."
+   ],
+   "answer": 1,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Assessment in Action: To establish a mental model, it is vital to answer which of the following questions?",
+   "choices": [
+    "What got us to this point in care?",
+    "What are the future possible options?",
+    "What category does this patient fit into?",
+    "How often does this situation occur?"
+   ],
+   "answer": 0,
+   "explanation": "From the book's printed answer key.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "YOU are the Provider (83-year-old woman, lightheadedness and nausea): How can you maximize successful communication with a patient who is hard of hearing?",
+   "choices": [
+    "First determine the degree of hearing loss; hearing aids may let her hear normally. Do not assume deafness or low intelligence. Position yourself so she can see your lips and facial expressions; never shout in her ear. Ask short questions and give short answers, and listen carefully. If aids fail, a stethoscope in her ears while you speak into the diaphragm can amplify sound. If speech fails, write questions down; a family member may interpret, and basic sign language ('hurt,' 'sick,' 'help') helps.",
+    "Rely mainly on her family to answer for her, because direct communication with a hearing-impaired patient is usually unsuccessful.",
+    "Avoid written notes and gestures, since they can confuse older patients; instead, keep explanations brief and move on if she does not respond.",
+    "Speak as loudly as possible directly into her ear, since volume is the main barrier, and repeat each question several times until she answers."
+   ],
+   "answer": 0,
+   "explanation": "From the book's printed YOU are the Provider summary.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "YOU are the Provider (83-year-old woman, lightheadedness and nausea): How does the handover report differ from the radio report?",
+   "choices": [
+    "The handover report is given to the dispatcher on arrival at the hospital, while the radio report is given directly to the charge nurse.",
+    "The handover report is a written document left with the hospital, while the radio report is the only verbal report given during a call.",
+    "The handover report is person-to-person and interactive: information flows both ways and the nurse or physician can ask questions, which you may answer from memory beyond what is written. It gives a brief but complete synopsis of the patient's condition and care, and face-to-face contact lets nonverbal communication clarify meaning.",
+    "The handover report covers only vital signs and treatments, while the radio report includes the patient's full history and assessment."
+   ],
+   "answer": 2,
+   "explanation": "From the book's printed YOU are the Provider summary.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "YOU are the Provider (83-year-old woman, lightheadedness and nausea): Should your general approach to the assessment process be any different for this patient versus a younger patient? Why or why not?",
+   "choices": [
+    "No. Older patients generally feel pain more intensely than younger patients, so their reported pain should be treated as an overestimate of injury severity.",
+    "Yes. Older patients should receive a shortened assessment focused only on the chief complaint, because a full assessment takes too long and tires them.",
+    "Assess her the same way, but allow extra time for answers. Aging can blunt the pain response, so an older patient may not report pain despite an obvious injury. Watch for poor eyesight, poor hearing, and dentures, use all your senses, and pay attention to subtle clues such as behavior changes.",
+    "Yes. Assume an older patient's complaints are less reliable, so base the assessment mainly on family reports and your own observations."
+   ],
+   "answer": 2,
+   "explanation": "From the book's printed YOU are the Provider summary.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "YOU are the Provider (83-year-old woman, lightheadedness and nausea): What are the components of a radio report to the hospital?",
+   "choices": [
+    "In order: the patient's full name and address; insurance information; a detailed past medical history; every set of vital signs taken; a list of all medications; and your estimated billing code for the call.",
+    "Keep it to three items only: the patient's age, the chief complaint, and your ETA. Detailed findings are left for the written PCR so the radio channel stays clear.",
+    "Begin with your diagnosis of the patient's condition, then give a complete narrative of the scene, all treatments available on your unit, and the names of the crew members responding.",
+    "Brief but comprehensive, in order: your EMS system and unit number; the receiving hospital and your ETA; the patient's age and sex; chief complaint and level of consciousness; a brief elaboration of the complaint (history of present illness); assessment findings; pertinent history; initial vital signs and the most recent set; treatment provided and the patient's response; your ETA again; then ask if the facility has questions or orders."
+   ],
+   "answer": 3,
+   "explanation": "From the book's printed YOU are the Provider summary.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "YOU are the Provider (83-year-old woman, lightheadedness and nausea): What functions does the PCR serve?",
+   "choices": [
+    "1) Documentation for the patient's insurance claim only. 2) A record kept by the hospital billing office. 3) A form the patient signs to authorize charges. 4) A summary sent to the patient's family.",
+    "1) A personal journal for the crew to review later. 2) A dispatch log of response times. 3) A maintenance record for the vehicle. 4) A scheduling tool for future shifts.",
+    "1) Billing record used to set the transport charge. 2) Proof of the crew's on-duty hours. 3) Inventory log for restocking the ambulance. 4) Marketing data for the EMS agency.",
+    "1) Written record of the event documenting care. 2) Medical documentation the physician or hospital can reference for treatment rendered and patient response. 3) Information for other EMS providers who may assist the patient. 4) Record of the care and supplies used. 5) Quality improvement and training. 6) Medical and legal issues."
+   ],
+   "answer": 3,
+   "explanation": "From the book's printed YOU are the Provider summary.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "YOU are the Provider (83-year-old woman, lightheadedness and nausea): What information should you ask the dispatcher to obtain from the caller?",
+   "choices": [
+    "A complete medical history and a full set of vital signs taken by the caller, so the crew can form a diagnosis before arriving.",
+    "Only the address and callback number; additional questions delay the response and are the crew's responsibility once they arrive on scene.",
+    "The caller's insurance information and the patient's preferred hospital first, then the patient's full medication list and the name of her personal physician.",
+    "Nature of the illness and scene safety first: possible infectious disease (PPE), environmental hazards such as odors or carbon monoxide (fire department), or a psychiatric emergency with violence risk (law enforcement). Then whether the patient is conscious and breathing adequately, plus age and sex if possible. The more information gathered before arrival, the better prepared you are."
+   ],
+   "answer": 3,
+   "explanation": "From the book's printed YOU are the Provider summary.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "YOU are the Provider (83-year-old woman, lightheadedness and nausea): What techniques can facilitate the process of interviewing an older patient?",
+   "choices": [
+    "Limit the interview to yes-or-no questions, avoid eye contact so the patient does not feel pressured, and finish as quickly as possible.",
+    "Stand over the patient while asking questions, avoid touch, and discuss the patient's condition with your partner in front of her to save time.",
+    "Look directly at the patient and speak slowly and distinctly. Do not raise your volume unless the patient has hearing loss. Use nonverbal communication clues and touch as appropriate. Never talk about the patient in front of her; it implies she has no say in her care and can escalate her fear of losing independence.",
+    "Speak quickly and raise your volume so the patient can follow along, and direct most questions to family members who can answer more clearly."
+   ],
+   "answer": 2,
+   "explanation": "From the book's printed YOU are the Provider summary.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "YOU are the Provider (83-year-old woman, lightheadedness and nausea): Why is effective communication between the responding EMS unit and the dispatcher so important?",
+   "choices": [
+    "So the dispatcher can diagnose the patient over the phone and direct the crew to skip the on-scene assessment and transport immediately.",
+    "Mainly so the dispatcher can bill the call correctly and assign the run number; field care is not affected by dispatcher communication.",
+    "Because the dispatcher replaces the need for a radio report to the hospital, since all information passes through the dispatch center.",
+    "Accurate, thorough communication produces quicker, more effective care. You confirm you are en route and report any delay so the response can be adjusted. The dispatcher coordinates other public agencies and resources, and can relay new information from the caller or from responders who arrive before you."
+   ],
+   "answer": 3,
+   "explanation": "From the book's printed YOU are the Provider summary.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Navigate Case Study (86-year-old woman, fall into bathtub): How should you answer her?",
+   "choices": [
+    "Tell her you cannot discuss it and that she will have to ask the doctor, then change the subject to avoid increasing her anxiety.",
+    "Give her an exact time, such as 30 minutes, so she has a definite answer and stops asking about the collar.",
+    "Tell her the collar will come off as soon as you reach the hospital, even though you are not certain, so that she stays calm during transport.",
+    "Be honest: tell her you do not know exactly how long, explain that the collar stays on until the hospital can take images and clear her spine, and reassure her that you will keep checking her comfort and update her as you learn more."
+   ],
+   "answer": 3,
+   "explanation": "Answer written from the chapter (no printed key).",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Navigate Case Study (86-year-old woman, fall into bathtub): Is it ever justifiable to misinform a patient to reduce the patient’s anxiety temporarily?",
+   "choices": [
+    "No. Never lie to a patient or invent an answer. Misinformation breaks the patient's trust, can distort her decisions about her own care, and creates ethical and legal exposure. Reduce anxiety with honest reassurance and clear explanations instead.",
+    "Yes, but only when the patient is elderly or confused, because accurate information would upset them more than it helps.",
+    "Yes. If the truth would raise the patient's anxiety, withholding or softening it is considered part of therapeutic communication.",
+    "Yes. A small, harmless exaggeration is acceptable if it keeps the patient calm and cooperative during transport."
+   ],
+   "answer": 0,
+   "explanation": "Answer written from the chapter (no printed key).",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Navigate Case Study (86-year-old woman, fall into bathtub): What are some therapeutic communication techniques that you can use when interacting with a patient?",
+   "choices": [
+    "Keep a professional distance, avoid eye contact while working, answer questions only when asked, and let your partner do all the talking.",
+    "Introduce yourself, make eye contact, and listen actively without interrupting. Show empathy, ask open-ended questions, explain every procedure before you do it, use a calm tone, use touch appropriately, and respect the patient's privacy and dignity.",
+    "Use medical terminology to sound knowledgeable, speak quickly to finish faster, and reassure the patient by promising a full recovery.",
+    "Stand where the patient cannot easily see you, avoid touch entirely, and direct all explanations to family members instead of the patient."
+   ],
+   "answer": 1,
+   "explanation": "Answer written from the chapter (no printed key).",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Navigate Case Study (86-year-old woman, fall into bathtub): What are the primary reasons that a prearrival radio report is given to the receiving hospital?",
+   "choices": [
+    "So the dispatcher can close out the call record and the crew can avoid giving a report in person when they arrive.",
+    "To obtain permission to transport the patient and to have the hospital assign the crew a room number before they leave the scene.",
+    "So the hospital can prepare before you arrive: the right room, staff, and equipment, and activation of any specialty resources. The report gives your ETA, the patient's age and sex, chief complaint, condition and vital signs, and treatment so far, which shortens the time to definitive care.",
+    "Mainly to satisfy documentation requirements and to give the hospital a recording it can bill from; preparation is handled after arrival."
+   ],
+   "answer": 2,
+   "explanation": "Answer written from the chapter (no printed key).",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Navigate Case Study (86-year-old woman, fall into bathtub): What can you do to minimize the potential for miscommunication?",
+   "choices": [
+    "Speak more loudly and repeat each instruction several times, since repetition guarantees the patient understands.",
+    "Keep explanations to a minimum and rely on gestures alone, because spoken details are the most common source of confusion.",
+    "Use standard medical abbreviations and jargon so your message matches the terminology the hospital uses.",
+    "Use plain words instead of jargon, keep sentences short and clear, speak slowly, and face the patient. Confirm understanding by having key points repeated back, minimize noise and distractions, and use a qualified interpreter when language is a barrier."
+   ],
+   "answer": 3,
+   "explanation": "Answer written from the chapter (no printed key).",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Navigate Case Study (86-year-old woman, fall into bathtub): What questions do you anticipate emergency department personnel to ask?",
+   "choices": [
+    "Mostly administrative questions: her insurance carrier, her preferred pharmacy, the name of her employer, and who will pay for the transport.",
+    "How long she was in the tub and how she was extricated; her mental and neuro status; signs of hypothermia and what warming was done; her blood glucose; medications, allergies, and last food or medication; pulse, motor, and sensory function after immobilization; and any other injuries found.",
+    "Questions about your agency's protocols, staffing, and response times rather than the patient's condition.",
+    "Only questions about the radio report itself, such as your unit number and the time you left the scene."
+   ],
+   "answer": 1,
+   "explanation": "Answer written from the chapter (no printed key).",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Navigate Case Study (86-year-old woman, fall into bathtub): Why is it important to document in a narrative format rather than just completing check boxes on a prehospital care report?",
+   "choices": [
+    "Narratives are required so the crew can include personal opinions and impressions that check boxes do not allow.",
+    "A narrative matters only because it takes longer to complete, which shows the crew was thorough on the call.",
+    "Check boxes cannot capture the full story: the timeline, the patient's own words, and the context of your findings. A narrative supports continuity of care for the hospital team and stands as the legal record of what you found and did if the call is ever reviewed.",
+    "Check boxes alone are acceptable in most systems; a narrative is mainly a courtesy for the billing department."
+   ],
+   "answer": 2,
+   "explanation": "Answer written from the chapter (no printed key).",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Navigate Case Study (86-year-old woman, fall into bathtub): With the patient’s history of diabetes, what else might play a role in your care? How does this disease affect the patient’s perception of pain?",
+   "choices": [
+    "Diabetes mainly affects wound care after transport; it has no effect on pain perception, circulation, or blood glucose during a call of this length.",
+    "Diabetes heightens pain perception, so her reported pain likely overstates her injuries; her glucose is also unlikely to change after only a few hours without food, so it does not need checking.",
+    "Diabetic peripheral neuropathy blunts pain perception, so her injuries (possible hip or pelvis fracture, with crepitus noted) may be worse than her reported pain suggests; assess beyond the pain score. After roughly 7 hours without food or medication, check her blood glucose for hypoglycemia. Poor circulation also slows healing.",
+    "Her diabetes is unrelated to this fall, since it is controlled by diet alone and does not affect sensation in the extremities."
+   ],
+   "answer": 2,
+   "explanation": "Answer written from the chapter (no printed key).",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  }
+ ]
+}

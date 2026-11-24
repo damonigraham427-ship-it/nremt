@@ -1,0 +1,3630 @@
+{
+ "questions": [
+  {
+   "question": "Assessment in Action: Which of the following agencies is the federal source for the model EMT scope of practice and education standards?",
+   "choices": [
+    "Department of Health and Human Services",
+    "National Highway Traffic Safety Administration",
+    "Federal Emergency Management Agency",
+    "Department of Transportation"
+   ],
+   "answer": 1,
+   "explanation": "Book's printed key: National Highway Traffic Safety Administration.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "The Emergency Medical Treatment and Labor Act (EMTALA)",
+    "The Health Insurance Portability and Accountability Act (HIPAA)",
+    "The Ryan White CARE Act",
+    "The National EMS Education Standards"
+   ],
+   "explanation": "HIPAA limits who can see a patient's health information and penalizes privacy violations.",
+   "question": "An EMT posts a patient's name and injuries on social media after a crash, and the agency warns this violates a 1996 federal law. Which law is it?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "HIPAA",
+   "topic_n": 4
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Intubation doubled survival compared with BVM alone",
+    "BVM alone doubled survival compared with intubation",
+    "Survival was similar (30% BVM vs. 26% intubation), with no significant difference",
+    "Neither group had any survivors"
+   ],
+   "explanation": "The JAMA 2000 trial found no significant survival difference, showing core EMT ventilation skills are what count.",
+   "question": "In a Los Angeles and Orange County trial (1994-1997), 830 children who needed airway help received bag-valve-mask (BVM) ventilation only on odd days, or BVM followed by field intubation on even days. What did the study find about survival to hospital discharge?",
+   "source": "Case Studies — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "An annual public health audit",
+    "Credentialing, by verifying documents against state records",
+    "A mutual aid review by a neighboring agency",
+    "Checking the applicant's own photocopies"
+   ],
+   "explanation": "Checking documents against state records (primary-source verification) is part of credentialing, and it is what caught the forged license.",
+   "question": "A Florida fire department hired an EMT who claimed he had passed the paramedic exam and turned in a license verification. A deputy chief checked the license number against state records and found it belonged to someone else, exposing the forgery. What practice caught the fraud?",
+   "source": "Case Studies — Set 2",
+   "topic": "credentialing",
+   "topic_n": 12
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "An automated external defibrillator",
+    "A manual monitor/defibrillator",
+    "A mechanical CPR device",
+    "A 12-lead ECG machine"
+   ],
+   "explanation": "An AED gives voice prompts so trained responders can defibrillate before the ambulance arrives.",
+   "question": "Firefighters arrive before the ambulance at a collapse and start care on a patient with no pulse and no breathing, attaching a defibrillator that talks them through the steps. What device did they attach?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "automated external defibrillator",
+   "topic_n": 2
+  },
+  {
+   "question": "A 2013 study of Massachusetts communities found opioid death rates were 27% lower with moderate enrollment and 46% lower with high enrollment in bystander naloxone (OEND) programs. What kind of intervention is bystander naloxone in this study?",
+   "choices": [
+    "A population-level intervention that works alongside 911",
+    "A hospital-based treatment that replaces EMS response",
+    "A credentialing requirement for Massachusetts EMTs",
+    "A licensing standard for ambulance services"
+   ],
+   "answer": 0,
+   "explanation": "The deck describes bystander naloxone as a population-level intervention with measurable results that works alongside 911.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "public health",
+   "topic_n": 10
+  },
+  {
+   "question": "A Texas EMT program run by TEEX requires applicants to submit proof of MMR and varicella vaccination (two doses or a positive titer), hepatitis B vaccination (three doses or a positive titer), and Tdap within the last ten years before the application moves forward. These requirements are part of what?",
+   "choices": [
+    "Continuing education hours for recertification",
+    "OSHA's vaccination offer to current employees",
+    "EMT licensure/employment requirements, which include proof of immunization against certain communicable diseases",
+    "State office of EMS disciplinary rules"
+   ],
+   "answer": 2,
+   "explanation": "A real Texas EMT pipeline will not move an applicant forward without documented immunization or a titer proving immunity.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "EMT licensure/employment requirements",
+   "topic_n": 33
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "The state office of EMS",
+    "The individual EMT",
+    "His medical director",
+    "His partner"
+   ],
+   "explanation": "The duty to obtain continuing education sits with the EMT personally, even when others offer the classes.",
+   "question": "An EMT blames the state bureau because nobody scheduled his refresher before his card lapsed. Who was responsible for obtaining that education?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Mutual aid area",
+    "Primary service area",
+    "Credentialing zone",
+    "Public health district"
+   ],
+   "explanation": "The assigned zone is the agency's primary service area, the geographic area it is responsible for covering.",
+   "question": "A county assigns one ambulance service to answer all 911 medical calls inside the city limits of Killeen. What is that assigned zone called for the service?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "primary service area",
+   "topic_n": 8
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Mobile integrated health care",
+    "Public health",
+    "Credentialing",
+    "Primary care"
+   ],
+   "explanation": "The program targets the health of an entire population rather than one patient, which is the field of public health.",
+   "question": "A county health department tracks flu cases across the whole city and opens free vaccination clinics for everyone. Which field is leading this effort?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "public health",
+   "topic_n": 10
+  },
+  {
+   "question": "An agency changes its treatment protocol only after well-conducted studies show the new method gives patients better outcomes. What approach to medicine is the agency using?",
+   "choices": [
+    "Primary prevention",
+    "Evidence-based medicine",
+    "Emergency medical response",
+    "Mobile integrated health care"
+   ],
+   "answer": 1,
+   "explanation": "A protocol change driven by the strength of the scientific evidence is evidence-based medicine.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "evidence-based medicine",
+   "topic_n": 20
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Intravenous therapy",
+    "Advanced airway management",
+    "Manual defibrillation with a cardiac monitor",
+    "Automated external defibrillator"
+   ],
+   "explanation": "Use of an AED is a skill taught at every level of prehospital training.",
+   "question": "A first responder, an EMT, and a paramedic all respond to a cardiac arrest at different times, and each one is trained to apply and use the same device. Which device is included at every level of prehospital training?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "automated external defibrillator",
+   "topic_n": 2
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Quality control",
+    "Continuous quality improvement",
+    "Benchmarking",
+    "Total quality management"
+   ],
+   "explanation": "Call-by-call oversight by the medical director is quality control, unlike CQI's system-wide review.",
+   "question": "Instead of auditing a year of system-wide data, a medical director spot-checks charts from this week's calls to confirm EMTs met care standards on each call. What is this called?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "question": "What does \"continuous quality improvement\" (CQI) mean in EMS?",
+   "choices": [
+    "A system of internal and external reviews and audits of all aspects of an EMS system aimed at improving outcomes",
+    "Physician instructions given by radio during a call",
+    "A device that delivers a shock for ventricular fibrillation",
+    "Federal legislation that penalizes patient-privacy violations"
+   ],
+   "answer": 0,
+   "explanation": "CQI is the continuous cycle of reviewing and auditing EMS care in order to improve outcomes.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "continuous quality improvement",
+   "topic_n": 3
+  },
+  {
+   "question": "YOU are the Provider (48-year-old woman, back pain): How do your roles and responsibilities as an EMT compare to those of other EMS provider certification/licensure levels?",
+   "choices": [
+    "EMTs and paramedics have identical scopes of practice; only their job titles and employers differ",
+    "EMRs receive deeper training in anatomy, physiology, and patient assessment than EMTs do",
+    "Only paramedics are responsible for patient safety; lower levels simply follow the paramedic's directions",
+    "All levels share the fundamental roles of providing safe, effective emergency care and transporting patients; EMT education is deeper than EMR, AEMTs add invasive skills such as IV access and advanced airways, and paramedics have the greatest scope"
+   ],
+   "answer": 3,
+   "explanation": "Every level shares the fundamental roles of safe, effective emergency care and transport, but education and scope grow by level, from EMR through EMT and AEMT to the paramedic's broadest scope.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "What does the term \"human resources department\" mean?",
+   "choices": [
+    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
+    "The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
+    "The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
+    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it."
+   ],
+   "answer": 1,
+   "explanation": "human resources department: The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "human resources department",
+   "topic_n": 28
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Advanced life support",
+    "Emergency medical dispatch",
+    "Emergency medical services",
+    "Basic life support"
+   ],
+   "explanation": "EMS is the combined team of professionals and agencies providing prehospital care and transport.",
+   "question": "Dispatchers, first responders, EMTs, paramedics, and hospital staff all work together so a sick patient gets field care and transport to the hospital. What overall system is this?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "question": "Every 911 call in the county goes first to one center, where staff sort the call and route it to the right agency. What is that center known as?",
+   "choices": [
+    "Public safety access point",
+    "Evidence-based dispatch center",
+    "Emergency medical responder station",
+    "Mobile integrated health hub"
+   ],
+   "answer": 0,
+   "explanation": "It is the single point that receives and manages public safety requests: the public safety access point.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "public safety access point",
+   "topic_n": 22
+  },
+  {
+   "question": "What is an emergency medical technician (EMT)?",
+   "choices": [
+    "A provider trained in specific aspects of advanced life support, such as IV therapy",
+    "Advanced life-saving procedures, some now provided by the EMT",
+    "A dispatcher who selects responding units and coaches callers by phone",
+    "A provider trained in basic life support, including automated external defibrillation, use of a definitive airway adjunct, and assisting patients with certain medications"
+   ],
+   "answer": 3,
+   "explanation": "Per the deck, the EMT's training is in basic life support: AED use, a definitive airway adjunct, and assisting patients with certain medications.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "question": "Which term is defined as: An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
+   "choices": [
+    "human resources department",
+    "Accidental Death and Disability: The Neglected Disease of Modern Society",
+    "State office of EMS",
+    "Knowledge-based failure"
+   ],
+   "answer": 3,
+   "explanation": "Knowledge-based failure: An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Knowledge-based failure",
+   "topic_n": 31
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "The American College of Surgeons",
+    "Her agency's human resources department",
+    "The state office of EMS",
+    "The U.S. Department of Transportation"
+   ],
+   "explanation": "State EMS offices authorize and regulate training programs, courses, and providers inside their state.",
+   "question": "A course director must get her EMT program and its continuing education courses approved before she can teach. Whose approval does she need?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "State office of EMS",
+   "topic_n": 32
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "The medical director",
+    "The training officer",
+    "The human resources department",
+    "The shift supervisor"
+   ],
+   "explanation": "Career progression and well-being are human resources matters; protocols belong to medical direction.",
+   "question": "A new EMT wants to know who to see about his career ladder and well-being support, not about a patient-care protocol. Who should he see?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "human resources department",
+   "topic_n": 28
+  },
+  {
+   "question": "In Brooklyn in 2016, EMS found 33 people intoxicated by a synthetic cannabinoid near one intersection, and the city's health department issued a public alert. How did EMS contribute to the public health response?",
+   "choices": [
+    "EMS crews arrested the people selling the drug",
+    "EMS closed the intersection until the drug was identified",
+    "EMS calls and syndromic surveillance drove a population-level public health response",
+    "EMS treated the event as isolated calls with no wider significance"
+   ],
+   "answer": 2,
+   "explanation": "The deck's connection: EMS calls and syndromic surveillance drove a population-level public health response.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "public health",
+   "topic_n": 10
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Emergency medical responder",
+    "Paramedic",
+    "Emergency medical dispatcher",
+    "Advanced EMT"
+   ],
+   "explanation": "The advanced EMT sits between EMT and paramedic, with IV and select medication skills.",
+   "question": "During a call, the provider giving IV fluids and an approved emergency medication is working above the EMT level but below the paramedic level. Which provider level is this?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "question": "Which term is defined as: \"The process whereby a competent authority, usually the state, allows people to perform a regulated act\"?",
+   "choices": [
+    "Licensure",
+    "Certification",
+    "Credentialing",
+    "Public health"
+   ],
+   "answer": 0,
+   "explanation": "The deck defines licensure as a competent authority, usually the state, allowing people to perform a regulated act.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "licensure",
+   "topic_n": 9
+  },
+  {
+   "question": "What does the term \"Continuing education\" mean?",
+   "choices": [
+    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
+    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
+    "The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
+    "Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification."
+   ],
+   "answer": 3,
+   "explanation": "Continuing education: Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "question": "What is a paramedic?",
+   "choices": [
+    "A provider limited to basic first aid and transport only",
+    "The physician who oversees EMTs as medical director",
+    "A dispatcher who assigns ambulances to calls",
+    "An individual with extensive training in advanced life support, including intubation, emergency pharmacology, and cardiac monitoring"
+   ],
+   "answer": 3,
+   "explanation": "A paramedic has extensive training in advanced life support, including endotracheal intubation, emergency pharmacology, and cardiac monitoring.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "question": "In Cumberland, Rhode Island in 2018, Rena Fleury collapsed at her son's football game. At least four people called 911, but the call takers did not recognize cardiac arrest or give phone CPR instructions, and she received no CPR for up to five minutes despite two nearby AEDs. What failed in this case?",
+   "choices": [
+    "The AEDs at the field were not maintained",
+    "The callers refused to follow instructions",
+    "Ambulances were sent to the wrong address",
+    "EMD protocols for recognizing arrest and coaching CPR were not applied"
+   ],
+   "answer": 3,
+   "explanation": "The deck says the Cumberland case shows what happens when EMD protocols for recognizing arrest and coaching CPR aren't applied.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "60 college credits",
+    "The ability to lift 200 pounds",
+    "A bystander CPR card",
+    "Proof of immunization against certain communicable diseases"
+   ],
+   "explanation": "Of those choices, proof of immunization is the textbook criterion for EMT licensure and employment.",
+   "question": "An applicant is offered four possible requirements and must pick the real one. Which is actually required for EMT licensure and employment?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "EMT licensure/employment requirements",
+   "topic_n": 33
+  },
+  {
+   "question": "In Kent, Washington, a Tri-Med Ambulance crew transported a deaf patient with no communication aids and never told the hospital the patient needed communication services; the 2022 settlement required aids and video remote interpreting in every emergency ambulance. Under the ADA, what must EMS do for such a patient?",
+   "choices": [
+    "Transport without communicating until a family member arrives",
+    "Communicate effectively, using aids or interpreters and alerting the hospital in advance",
+    "Refuse transport until the patient provides an interpreter",
+    "Document the call without notifying the receiving hospital"
+   ],
+   "answer": 1,
+   "explanation": "The deck states that under the ADA, EMS must communicate effectively with patients with disabilities and alert the hospital.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Health Insurance Portability and Accountability Act",
+    "Americans With Disabilities Act",
+    "Emergency Medical Treatment and Labor Act",
+    "National EMS Scope of Practice Model"
+   ],
+   "explanation": "The ADA protects access for people with disabilities, including use of service animals in public places.",
+   "question": "A man is told his service dog cannot enter a clinic waiting room, even though the dog is trained to assist him. Which federal law is being raised by this complaint?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "Because they are often already out in the community, police and fire personnel frequently begin care before EMS crews arrive. What are these trained first-arriving personnel called?",
+   "choices": [
+    "Community paramedics",
+    "Emergency medical dispatchers",
+    "Emergency medical technicians",
+    "Emergency medical responders"
+   ],
+   "answer": 3,
+   "explanation": "Arriving first and starting care is the defining part of the emergency medical responder role.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "emergency medical responder",
+   "topic_n": 21
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "His comments disclosed protected health information, even without a name or face",
+    "Posting scene photos is a federal crime in every case",
+    "The patient had refused transport to the hospital",
+    "The forum charged a fee for access"
+   ],
+   "explanation": "A patient's condition and location can be protected health information even when no name or face is shown.",
+   "question": "In 2006, a Missouri EMT posted photos from an ATV-crash call on a public web forum and commented that the patient 'is in rehab.' The patient was not identifiable in the photos, yet the EMT was fired. Why?",
+   "source": "Case Studies — Set 1",
+   "topic": "HIPAA",
+   "topic_n": 4
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Public health surveillance",
+    "Licensure evidence",
+    "Credentialing paperwork",
+    "A primary service area report"
+   ],
+   "explanation": "Accurate EMS documentation becomes public health surveillance when run data is used to detect and warn communities about overdose spikes.",
+   "question": "The Minnesota Department of Health uses ambulance run data to flag local overdose spikes, confirms each spike with other data, and then alerts local and tribal health agencies. This is an example of EMS documentation serving as:",
+   "source": "Case Studies — Set 2",
+   "topic": "public health",
+   "topic_n": 10
+  },
+  {
+   "question": "Which term is defined as: The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
+   "choices": [
+    "EMT licensure/employment requirements",
+    "Accidental Death and Disability: The Neglected Disease of Modern Society",
+    "human resources department",
+    "Continuing education"
+   ],
+   "answer": 2,
+   "explanation": "human resources department: The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "human resources department",
+   "topic_n": 28
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "The shift supervisor",
+    "The medical director",
+    "The continuous quality improvement committee",
+    "The receiving hospital's administrator"
+   ],
+   "explanation": "A medical director may expand an EMT's scope of practice only after proper training and state approval.",
+   "question": "An agency wants its EMTs to perform a new skill. It can only be added after the EMTs complete proper training and the state gives approval. Who may expand the EMTs' scope of practice this way?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "medical director",
+   "topic_n": 6
+  },
+  {
+   "question": "What does the term \"State office of EMS\" mean?",
+   "choices": [
+    "The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
+    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
+    "The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
+    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug."
+   ],
+   "answer": 1,
+   "explanation": "State office of EMS: The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "State office of EMS",
+   "topic_n": 32
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Emergency medical services",
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Basic life support"
+   ],
+   "explanation": "That coordinated care-and-transport network is the emergency medical services system.",
+   "question": "After a car crash, several types of health care professionals and agencies coordinate to treat the injured and move them to definitive care. Which system are they part of?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "question": "In New Zealand in 2023, an EMT gave adrenaline intravenously from a syringe intended for the nebuliser route, without confirming the medication, dose, and route with the paramedic. The patient suffered a cardiac arrest. What type of failure was this?",
+   "choices": [
+    "A failure of the state office of EMS",
+    "A knowledge-based failure: the provider did not know the pertinent information and did not confirm it",
+    "An equipment failure in the syringe",
+    "A documentation failure after the call"
+   ],
+   "answer": 1,
+   "explanation": "Before any drug is given, confirm medication, dose, and route out loud with your partner; if you do not know, stop and ask.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "Knowledge-based failure",
+   "topic_n": 31
+  },
+  {
+   "question": "Which term is defined as: a system of internal and external reviews and audits of all aspects of an EMS system aimed at improving outcomes?",
+   "choices": [
+    "HIPAA",
+    "Medical control",
+    "Medical director",
+    "Continuous quality improvement"
+   ],
+   "answer": 3,
+   "explanation": "Continuous quality improvement is the ongoing system of reviews and audits of all aspects of an EMS system aimed at improving outcomes.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "continuous quality improvement",
+   "topic_n": 3
+  },
+  {
+   "question": "A woman has already broken her ankle in a fall, and the crew splints it and applies cold to reduce further damage and swelling. What type of prevention is this an example of?",
+   "choices": [
+    "Primary prevention",
+    "Secondary prevention",
+    "Public safety access",
+    "Evidence-based medicine"
+   ],
+   "answer": 1,
+   "explanation": "Care aimed at keeping an existing injury from causing more harm is secondary prevention.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "secondary prevention",
+   "topic_n": 19
+  },
+  {
+   "question": "In 1967 in Pittsburgh, a new ambulance service trained its crews for 32 weeks and more than 300 hours, covering anatomy, physiology, and CPR. In its first year it made 5,868 runs, and its crews are recognized as the nation's first paramedics. What was this service?",
+   "choices": [
+    "King County Medic One",
+    "Boston EMS",
+    "Freedom House Ambulance",
+    "MIEMSS"
+   ],
+   "answer": 2,
+   "explanation": "Freedom House was the white paper era put into practice one year later: trained providers giving real emergency care before the hospital, instead of a ride only.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "question": "What does credentialing mean?",
+   "choices": [
+    "A competent authority, usually the state, allowing a person to perform a regulated act",
+    "An established process to determine the qualifications necessary to practice a particular profession or to function as an organization",
+    "Being evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care",
+    "The designated area in which an EMS agency is responsible for prehospital care"
+   ],
+   "answer": 1,
+   "explanation": "Credentialing is the established process to determine the qualifications necessary to practice a profession or function as an organization.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "credentialing",
+   "topic_n": 12
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Proof of immunization against certain communicable diseases",
+    "Sixty college credits",
+    "A commercial driver's license",
+    "Two years of volunteer service"
+   ],
+   "explanation": "Proof of immunization is one of the criteria required to become licensed and employed as an EMT.",
+   "question": "A candidate has passed the EMT course and exam but has no vaccination record to show. Which requirement can still block her from being licensed and employed?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "EMT licensure/employment requirements",
+   "topic_n": 33
+  },
+  {
+   "question": "REMSA in Reno, Nevada, sent community paramedics on home visits to patients with CHF, COPD, recent heart attack or heart surgery, and frequent ED use. By mid-2016 it had enrolled 1,524 patients. What was the reported effect on CHF readmissions?",
+   "choices": [
+    "CHF readmissions were unchanged",
+    "CHF readmissions rose 37%",
+    "CHF readmissions fell 58%",
+    "CHF readmissions fell 37%"
+   ],
+   "answer": 3,
+   "explanation": "The REMSA case reports that CHF readmissions fell 37% after community paramedics monitored chronic illness at home.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "community paramedicine",
+   "topic_n": 18
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Licensure",
+    "Credentialing",
+    "Medical direction",
+    "Certification"
+   ],
+   "explanation": "The specialty exam provided certification: the board recognized added competence, but it did not grant the state permission he already held.",
+   "question": "An EMT already licensed by the state takes a specialty exam and is recognized by a national board for meeting advanced competency standards in that area. What did the exam provide?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "certification",
+   "topic_n": 7
+  },
+  {
+   "question": "Which term is defined as: \"Advanced life-saving procedures, some of which are now being provided by the EMT\"?",
+   "choices": [
+    "Basic life support",
+    "Emergency medical dispatch",
+    "Mobile integrated health care",
+    "Advanced life support"
+   ],
+   "answer": 3,
+   "explanation": "The deck defines advanced life support as advanced life-saving procedures, some of which are now being provided by the EMT.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Bystander CPR fell because callers waited for instructions",
+    "Hospital records showed a clear excess of injuries from dispatcher-assisted CPR",
+    "Bystander CPR was unchanged by the phone instructions",
+    "Bystander CPR rose from 45% to 56%, with no excess injury found"
+   ],
+   "explanation": "Dispatcher-assisted CPR raised bystander CPR rates and saved lives, with no excess injury in hospital records.",
+   "question": "In a 1985 King County, Washington study, dispatchers began giving CPR instructions by phone to callers. What was the effect on bystander CPR?",
+   "source": "Case Studies — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "When Buffalo Bills safety Damar Hamlin collapsed in cardiac arrest during a 2023 game in Cincinnati, trainers reached him within seconds, started CPR, and applied an AED; he needed one shock on the field and recovered with intact neurologic function. Which lesson does this case best illustrate?",
+   "choices": [
+    "Defibrillation works only after hospital arrival",
+    "Immediate CPR and early defibrillation — the early links of the chain of survival — drive survival",
+    "An AED should be applied only after ALS providers arrive",
+    "A single shock guarantees a full recovery"
+   ],
+   "answer": 1,
+   "explanation": "Hamlin's case is a textbook chain of survival: quick recognition, immediate CPR, and early defibrillation, which UC Health credited for his recovery.",
+   "source": "Flashcard Case Studies — Set 1",
+   "topic": "automated external defibrillator",
+   "topic_n": 2
+  },
+  {
+   "question": "In Austin, Texas, the Office of the Medical Director alone grants or revokes the credentials medics need to practice in that system, separate from state certification. What does this mean for a state-certified medic?",
+   "choices": [
+    "State certification guarantees the right to work in any system",
+    "Only the state can remove a medic from duty",
+    "Decredentialing is a form of state discipline",
+    "A state-certified medic can still lose the local credential needed to work in a system"
+   ],
+   "answer": 3,
+   "explanation": "The deck's connection: a state-certified medic can still lose the local credential needed to work in a system.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "credentialing",
+   "topic_n": 12
+  },
+  {
+   "question": "Which term is defined as: Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
+   "choices": [
+    "Knowledge-based failure",
+    "Continuing education",
+    "State office of EMS",
+    "human resources department"
+   ],
+   "answer": 1,
+   "explanation": "Continuing education: Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "question": "Which term is defined as: 'An approach to medicine where decisions are based on well-conducted research, classifying recommendations based on the strength of the scientific evidence; also called science-based medicine'?",
+   "choices": [
+    "Evidence-based medicine",
+    "Continuous quality improvement",
+    "Community paramedicine",
+    "Credentialing"
+   ],
+   "answer": 0,
+   "explanation": "The deck defines evidence-based medicine as basing decisions on well-conducted research and classifying recommendations by the strength of the scientific evidence.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "evidence-based medicine",
+   "topic_n": 20
+  },
+  {
+   "question": "Which term is defined as: 'A call center, staffed by trained personnel who are responsible for managing requests for police, fire, and ambulance services'?",
+   "choices": [
+    "Emergency medical dispatch",
+    "Public safety access point",
+    "Primary service area",
+    "Medical control"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines a public safety access point as the call center, staffed by trained personnel, that manages requests for police, fire, and ambulance services.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "public safety access point",
+   "topic_n": 22
+  },
+  {
+   "question": "For a major trauma patient, the crew skips time-consuming field procedures and transports quickly for surgery, following findings from prehospital studies. What is this decision mostly based on?",
+   "choices": [
+    "Community paramedicine",
+    "Secondary prevention",
+    "Public safety access point",
+    "Evidence-based medicine"
+   ],
+   "answer": 3,
+   "explanation": "Following EMS research on what actually improves trauma survival is evidence-based medicine.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "evidence-based medicine",
+   "topic_n": 20
+  },
+  {
+   "question": "In 2023, Indiana found that a Muncie fire captain had texted NREMT exam answers to eight recruits, who were then censured, fined, and had their results voided. What does this case show about certification?",
+   "choices": [
+    "Certification protects the public only if the exam measures what each candidate actually knows",
+    "Certification is granted by the local medical director, not a national body",
+    "Recruits may share exam questions as long as they passed first",
+    "Exam security rules apply only to paramedic candidates"
+   ],
+   "answer": 0,
+   "explanation": "The deck's lesson: certification protects the public only if the exam measures what each candidate actually knows, and receiving exam content can cost a certification.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "certification",
+   "topic_n": 7
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Licensure",
+    "Certification",
+    "Credentialing",
+    "Accreditation"
+   ],
+   "explanation": "Passing the national exam earns certification, recognition by a national body of meeting a set standard; it does not by itself grant state permission to work.",
+   "question": "An EMT passes the National Registry exam and receives a document showing she has met the national standard for entry-level competence. What has she earned?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "certification",
+   "topic_n": 7
+  },
+  {
+   "question": "Navigate Case Study: During a cardiac arrest resuscitation, the patient's daughter arrives on scene confused and very upset. How can you help the patient’s daughter, and what should you do or say?",
+   "choices": [
+    "Ask her to wait outside and avoid discussing the patient's condition until a physician can speak with her",
+    "Reassure her with softened wording that her father is 'resting comfortably' so she does not become more upset",
+    "Give her a detailed technical summary of the resuscitation, including rhythms, tube placement, and medications given",
+    "Acknowledge her distress, introduce yourself, and explain plainly—avoiding euphemisms and technical jargon—that her father was not breathing and had no pulse, that his heart has been restarted, and that he is being taken to the hospital, offering support such as letting her ride along if it does not interfere with care"
+   ],
+   "answer": 3,
+   "explanation": "The daughter should be told honestly and in plain language what happened and what is being done, with compassion and support such as riding along when it does not interfere with care.",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Which term is defined as: \"An individual who has extensive training in advanced life support, including endotracheal intubation, emergency pharmacology, cardiac monitoring, and other advanced assessment and treatment skills\"?",
+   "choices": [
+    "Quality control",
+    "Paramedic",
+    "Primary prevention",
+    "Americans With Disabilities Act"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines a paramedic as the individual with extensive training in advanced life support skills such as intubation and cardiac monitoring.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "It had to hire every applicant who has diabetes",
+    "It had to assess applicants individually and end pre-offer medical questions",
+    "It had to pay Day $600,000 in damages",
+    "It could bar people with diabetes from paramedic jobs"
+   ],
+   "explanation": "The settlement required the city to assess applicants individually and ended its pre-offer medical questions.",
+   "question": "Michael Day, a firefighter/paramedic with well-controlled insulin-dependent diabetes, was North Kansas City's top-ranked applicant, but the city withdrew his preliminary job offer after learning of his diabetes. What did the 2001 ADA settlement require of the city?",
+   "source": "Case Studies — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "A law enforcement officer is first to reach a crash victim and controls bleeding until the EMT crew gets there. What is this officer's role in the EMS system?",
+   "choices": [
+    "Emergency medical responder",
+    "Emergency medical technician",
+    "Paramedic",
+    "Medical director"
+   ],
+   "answer": 0,
+   "explanation": "Arriving first and providing initial medical assistance before the ambulance is the emergency medical responder role.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "emergency medical responder",
+   "topic_n": 21
+  },
+  {
+   "question": "Because epinephrine auto-injectors are expensive for BLS agencies to stock, Pennsylvania's 2023 BLS protocols let trained EMTs give 1 mg/mL epinephrine by syringe and vial (\"Check and Inject\"), with added training and medical director authorization. What does this case illustrate?",
+   "choices": [
+    "A skill moving from the ALS level down to the EMT level",
+    "EMTs being removed from anaphylaxis care",
+    "Auto-injectors being banned in Pennsylvania",
+    "ALS agencies replacing EMTs on all allergy calls"
+   ],
+   "answer": 0,
+   "explanation": "The deck calls the Pennsylvania program a clear example of a skill moving from the ALS level to the EMT level, as the advanced life support definition describes.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "A bag-mask device",
+    "A pulse oximeter",
+    "An automated external defibrillator",
+    "An IV infusion pump"
+   ],
+   "explanation": "An AED analyzes the heart rhythm and advises a shock for shockable rhythms such as ventricular fibrillation.",
+   "question": "A bystander finds a man pulseless, pads are placed on his chest, and the device analyzes the rhythm and advises a shock for ventricular fibrillation. What device is being used?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "automated external defibrillator",
+   "topic_n": 2
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Licensure enforcement",
+    "Quality improvement",
+    "Credentialing review",
+    "Public health"
+   ],
+   "explanation": "The effort looks at a population-wide problem and tries to prevent it at that level, which is a public health approach.",
+   "question": "Officials study overdose deaths across a whole county and start a community naloxone program to lower the total number. What approach is this?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "public health",
+   "topic_n": 10
+  },
+  {
+   "question": "What does licensure mean?",
+   "choices": [
+    "Being evaluated and recognized as meeting certain predetermined standards",
+    "Delivering health care within the community rather than at a hospital",
+    "The branch of medicine focused on the health needs of entire populations",
+    "A competent authority, usually the state, allowing a person to perform a regulated act"
+   ],
+   "answer": 3,
+   "explanation": "Licensure is the state's permission to perform a regulated act.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "licensure",
+   "topic_n": 9
+  },
+  {
+   "question": "What does certification mean?",
+   "choices": [
+    "A competent authority, usually the state, allowing a person to perform a regulated act",
+    "An established process to determine the qualifications necessary to practice a profession",
+    "Being evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care",
+    "The designated area in which an EMS agency is responsible for prehospital care"
+   ],
+   "answer": 2,
+   "explanation": "Certification is the process of being evaluated and recognized as meeting predetermined standards.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "certification",
+   "topic_n": 7
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "The Freedom of Information Act",
+    "Your agency's continuous quality improvement policy",
+    "The Good Samaritan law",
+    "The Health Insurance Portability and Accountability Act (HIPAA)"
+   ],
+   "explanation": "HIPAA protects patient privacy by restricting release of health care information.",
+   "question": "A reporter calls the station asking for details about a patient you transported, and you refuse to share the patient's medical information. Which federal law supports your refusal?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "HIPAA",
+   "topic_n": 4
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "It did not change (5.0% before ALS vs. 5.1% after)",
+    "It doubled once ALS was added",
+    "It fell sharply because of intubation delays",
+    "It rose mainly because of IV drug administration"
+   ],
+   "explanation": "OPALS (NEJM, 2004) found survival unchanged; it was tied instead to witnessed arrest, bystander CPR, and rapid defibrillation.",
+   "question": "In the OPALS study in Ontario, paramedic ALS (intubation and IV drugs) was added in 17 cities that already had rapid defibrillation. What happened to survival to hospital discharge for cardiac arrest patients?",
+   "source": "Case Studies — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "question": "Assessment in Action: Which of the following is an example of secondary prevention?",
+   "choices": [
+    "Cardiac arrest management",
+    "Administering vaccines",
+    "Teaching pool safety when finding someone who slipped and fell near a pool by running",
+    "Teaching safety in schools"
+   ],
+   "answer": 2,
+   "explanation": "Book's printed key: Teaching pool safety when finding someone who slipped and fell near a pool by running.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Seattle/King County's Medic One system tracks every cardiac arrest and gives crews case-by-case feedback; after reviews exposed long CPR pauses, protocols changed in 2005 to limit pauses and about 2,500 EMTs were retrained, and witnessed-VF survival climbed from about 33% to over 50%. This is an example of what?",
+   "choices": [
+    "Online medical control",
+    "The CQI cycle: measure outcomes, feed them back, change practice, and re-measure",
+    "A HIPAA enforcement action",
+    "Public-access defibrillation"
+   ],
+   "answer": 1,
+   "explanation": "King County's program is the classic CQI cycle — measure, feed back, change practice, re-measure — and survival rose as a result.",
+   "source": "Flashcard Case Studies — Set 1",
+   "topic": "continuous quality improvement",
+   "topic_n": 3
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "A rule-based failure, because she knowingly violated protocol",
+    "A knowledge-based failure, because she lacked knowledge about the medication",
+    "An equipment failure, because the bags were defective",
+    "A communication failure, because the hospital gave the wrong order"
+   ],
+   "explanation": "The review named a knowledge deficit about the medication and called for education, not punishment.",
+   "question": "A crew treating a severely dehydrated patient hung a 250 mL bag of 10% dextrose instead of the intended normal saline; the two bags looked identical. The root-cause review found the provider did not appreciate the concentration she was administering. What type of failure did the review identify?",
+   "source": "Case Studies — Set 6",
+   "topic": "Knowledge-based failure",
+   "topic_n": 31
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Hospital destination policy",
+    "Medical director's jurisdiction",
+    "Primary service area",
+    "Scope of practice"
+   ],
+   "explanation": "Each agency responds inside the primary service area it is designated to serve, so that boundary decided which ambulance responded.",
+   "question": "A crash happens two miles past the county line, so the neighboring county's ambulance responds instead of yours. Which boundary decided who responded?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "primary service area",
+   "topic_n": 8
+  },
+  {
+   "question": "What are emergency medical services (EMS)?",
+   "choices": [
+    "A system that assists dispatchers in selecting units and instructing callers",
+    "Advanced life-saving procedures, some now provided by the EMT",
+    "An individual trained in basic life support and AED use",
+    "A multidisciplinary system representing the combined efforts of several professionals and agencies to provide prehospital emergency care to the sick and injured"
+   ],
+   "answer": 3,
+   "explanation": "Per the deck, EMS is a multidisciplinary system representing the combined efforts of several professionals and agencies to provide prehospital emergency care.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "An automated external defibrillator",
+    "Continuous quality improvement",
+    "Medical control",
+    "Intravenous therapy"
+   ],
+   "explanation": "Physician instructions that guide field care are medical control.",
+   "question": "An EMT is unsure whether a treatment is allowed and contacts the overseeing physician for instructions before giving it. Who is the EMT using?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "medical control",
+   "topic_n": 1
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "National Registry of EMTs",
+    "Centers for Disease Control and Prevention",
+    "National Association of State EMS Officials",
+    "National Highway Traffic Safety Administration (NHTSA)"
+   ],
+   "explanation": "NHTSA is the federal source for the national EMT training guidelines that states follow.",
+   "question": "A state EMS director confirms a new EMT course meets or exceeds the training guidelines recommended for nearly every state. Which federal agency issued those guidelines?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "question": "A 1966 National Academy of Sciences / National Research Council report found that 52 million accidental injuries in 1965 killed 107,000 people, and that there was no standard for the competence or training of ambulance attendants. What is this document?",
+   "choices": [
+    "The first national EMT curriculum",
+    "The Highway Safety Act of 1966",
+    "Accidental Death and Disability: The Neglected Disease of Modern Society, the white paper whose publication originated modern EMS",
+    "The Freedom House Ambulance training standard"
+   ],
+   "answer": 2,
+   "explanation": "The 1966 white paper exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
+   "topic_n": 30
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "They dropped by about 50%",
+    "They rose by about 50%",
+    "They dropped by about 5%",
+    "They doubled"
+   ],
+   "explanation": "Reported Bronx falls dropped 50% from 1973 to 1975 after the education and free window guard program began.",
+   "question": "In the early 1970s, New York City found that window falls were badly injuring and killing young children. Its 'Children Can't Fly' program paired family education with free, easy-to-install window guards, and landlords were later required to install guards where young children lived. What happened to reported Bronx window falls in the program's first years?",
+   "source": "Case Studies — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "question": "In Brooklyn in 2009, two uniformed FDNY EMTs on dispatch duty were asked to help Eutisha Rennix, a pregnant woman who had fallen ill in a cafe. One called 911, but both left without ever checking on her, and she and her baby died. What issue did this case raise?",
+   "choices": [
+    "Whether ambulances should carry obstetric equipment",
+    "Whether dispatchers should code cafe calls as high priority",
+    "An EMT's ethical duty to act, even when not assigned to a call",
+    "Whether EMTs may treat patients inside private businesses"
+   ],
+   "answer": 2,
+   "explanation": "The deck says the Brooklyn case raised questions about an EMT's ethical duty to act even when not assigned to a call, since training creates ethical expectations.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "question": "In Baltimore in 2023, callers sometimes waited minutes for a 911 answer because of low staffing and high call volume, and the city's bystander CPR rate was about 21% versus about 40% nearby. Why do slow 911 answer times matter to field crews?",
+   "choices": [
+    "Answer time only affects the dispatch center's statistics, not patient care",
+    "Slow answers give field crews more time to prepare",
+    "Slow answers delay dispatch-assisted CPR and the whole chain of survival, since answer time is the first interval in every response",
+    "Slow answers are caused by field crews tying up the phone lines"
+   ],
+   "answer": 2,
+   "explanation": "The Baltimore case connects because answer time is the first interval in every response, and slow answers delay dispatch-assisted CPR and the whole chain of survival.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "public safety access point",
+   "topic_n": 22
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Basic life support",
+    "Emergency medical services",
+    "Emergency medical dispatch",
+    "Advanced life support"
+   ],
+   "explanation": "Care that moves past basic life support into advanced procedures is ALS.",
+   "question": "A critically ill patient receives advanced procedures in the field that some EMTs are now trained to help provide, rather than basic care alone. What is this level of care?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Primary service area",
+    "Certification area",
+    "Public health region",
+    "Credentialing district"
+   ],
+   "explanation": "The township is the designated area where that agency owes service, which makes it the agency's primary service area.",
+   "question": "Before signing a contract, a town tells an EMS agency it must provide prehospital care and transport for every address in the township. What is the township for that agency?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "primary service area",
+   "topic_n": 8
+  },
+  {
+   "question": "An experienced paramedic visits a patient at home each week to check his long-term heart condition and make sure he is taking his medicines correctly. What is this program called?",
+   "choices": [
+    "Secondary prevention",
+    "Public safety access point",
+    "Community paramedicine",
+    "Evidence-based medicine"
+   ],
+   "answer": 2,
+   "explanation": "Providing ongoing care for a chronic condition in the community, outside of an emergency call, is community paramedicine.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "community paramedicine",
+   "topic_n": 18
+  },
+  {
+   "question": "YOU are the Provider (48-year-old woman, back pain): What is the purpose of reviewing an EMS call?",
+   "choices": [
+    "Its only purpose is to identify errors so the provider can be disciplined by the medical director",
+    "It determines whether the call met the National EMS Education Standards for billing purposes",
+    "It provides feedback on how the provider cared for the patient and met her physical and emotional needs; formal continuous quality improvement (CQI) ensures safe, effective care is consistently provided across the system",
+    "It is a licensure requirement that must be completed before the EMT's next shift begins"
+   ],
+   "answer": 2,
+   "explanation": "Call review gives feedback on patient care, and formal CQI is designed to ensure safe, effective patient care is consistently provided by all providers in the system.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "What is public health?",
+   "choices": [
+    "Delivering health care within the community rather than at a physician's office or hospital",
+    "The branch of medicine focused on the health needs of entire populations, with the goal of preventing health problems",
+    "An established process to determine the qualifications necessary to practice a profession",
+    "The designated area in which an EMS agency is responsible for prehospital care"
+   ],
+   "answer": 1,
+   "explanation": "Public health examines the health needs of entire populations with the goal of preventing health problems.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "public health",
+   "topic_n": 10
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "A rule-based failure",
+    "An equipment failure",
+    "A knowledge-based failure",
+    "A communication failure"
+   ],
+   "explanation": "The error came from missing knowledge about the drug, not from a broken rule or a slip of the hand.",
+   "question": "An EMT gives the wrong drug because she did not know what that drug does or when it is used. What kind of failure is this?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Knowledge-based failure",
+   "topic_n": 31
+  },
+  {
+   "question": "What is mobile integrated health care?",
+   "choices": [
+    "The branch of medicine focused on the health needs of entire populations",
+    "A competent authority, usually the state, allowing a person to perform a regulated act",
+    "Being evaluated and recognized as meeting certain predetermined standards",
+    "Delivering health care within the community rather than at a physician's office or hospital"
+   ],
+   "answer": 3,
+   "explanation": "Mobile integrated health care provides health care within the community instead of at a physician's office or hospital.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "mobile integrated health care",
+   "topic_n": 11
+  },
+  {
+   "question": "Which term is defined as: the physician who authorizes or delegates to the EMT the authority to provide medical care in the field?",
+   "choices": [
+    "Medical control",
+    "Medical director",
+    "Health Insurance Portability and Accountability Act (HIPAA)",
+    "Continuous quality improvement"
+   ],
+   "answer": 1,
+   "explanation": "The medical director is the physician who authorizes or delegates to EMTs the authority to provide medical care in the field.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "medical director",
+   "topic_n": 6
+  },
+  {
+   "question": "Congress answered the White Paper with the Highway Safety Act of 1966. What did the Act establish?",
+   "choices": [
+    "The first 911 call center in Haleyville, Alabama",
+    "Freedom House Ambulance Service in Pittsburgh",
+    "Federal EMS leadership in NHTSA (part of the Department of Transportation), which wrote the first standard EMT curriculum and model state EMS legislation",
+    "The EMS Systems Act's 300 regional EMS programs"
+   ],
+   "answer": 2,
+   "explanation": "The deck's Highway Safety Act case says the Act put federal EMS leadership in NHTSA within DOT, and NHTSA wrote the 70-hour basic EMT curriculum — the first standard EMT training in the US.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "By mouth (oral)",
+    "Under the tongue (sublingual)",
+    "Intravenously, directly into a vein",
+    "Into muscle (intramuscular)"
+   ],
+   "explanation": "Fluids placed directly into a vein are given intravenously.",
+   "question": "A dehydrated patient's crew chooses a route that puts fluids straight into a vein rather than by mouth. Which route did they choose?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "intravenous therapy",
+   "topic_n": 5
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Emergency Medical Technician",
+    "Paramedic",
+    "Advanced Emergency Medical Technician",
+    "Emergency Medical Responder"
+   ],
+   "explanation": "Cardiac monitoring is an advanced skill assigned to the paramedic level.",
+   "question": "On a chest-pain call, one provider places the patient on a cardiac monitor and starts interpreting the rhythm. Which provider level performs this advanced function?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "question": "Assessment in Action: What is continuous quality improvement (CQI) and how is it used to help ensure the safety of patients?",
+   "choices": [
+    "A disciplinary review process used to punish providers whose errors are found during chart audits",
+    "A one-time external inspection that certifies an agency's ambulances and equipment",
+    "A circular system of continuous internal and external reviews and audits of all aspects of an EMS system, identifying areas that need improvement and resolving them through remediation and training rather than punitive measures",
+    "A state-run examination that EMS systems must pass to renew their operating license"
+   ],
+   "answer": 2,
+   "explanation": "Book's printed key: Continuous quality improvement is a circular system of continuous internal and external reviews and audits of all aspects of an EMS system. By looking at all the components of an EMS system, the CQI process seeks to identify areas that need improvement and enables the problems to be resolved through remediation and training rather than through punitive measures.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Which term is defined as: \"A process in which a person, an institution, or a program is evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care\"?",
+   "choices": [
+    "Licensure",
+    "Certification",
+    "Credentialing",
+    "Public health"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines certification as evaluation and recognition against predetermined standards for safe and ethical care.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "certification",
+   "topic_n": 7
+  },
+  {
+   "question": "In Carroll County, Georgia, an unencrypted ambulance laptop holding the protected health information of about 500 patients fell off a unit's back bumper and was never recovered; the agency paid HHS $65,000 and agreed to encrypt all its computers. What should EMTs do to prevent this kind of HIPAA breach?",
+   "choices": [
+    "Keep laptops unencrypted so data can be recovered if lost",
+    "Secure ePCR tablets and laptops before the ambulance moves, and report a missing device right away",
+    "Store patient data only on personal devices",
+    "Wait until the end of the shift to report a lost device"
+   ],
+   "answer": 1,
+   "explanation": "The lost-laptop case turned on unsecured devices; crews should secure ePCR devices before moving and report a loss immediately so the breach process can start.",
+   "source": "Flashcard Case Studies — Set 1",
+   "topic": "HIPAA",
+   "topic_n": 4
+  },
+  {
+   "question": "What does the term \"EMT licensure/employment requirements\" mean?",
+   "choices": [
+    "The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
+    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
+    "The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
+    "Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification."
+   ],
+   "answer": 0,
+   "explanation": "EMT licensure/employment requirements: The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "EMT licensure/employment requirements",
+   "topic_n": 33
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "On-line medical direction, given by radio during the call",
+    "Off-line medical direction",
+    "Direct supervision by the medical director on scene",
+    "Continuous quality improvement"
+   ],
+   "explanation": "Standing orders and protocols are off-line medical direction given in advance, not during the call.",
+   "question": "An EMT treats a patient by following the agency's written standing orders and protocols, without calling anyone first. What type of medical direction is this?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "medical control",
+   "topic_n": 1
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Accidental Death and Disability: The Neglected Disease of Modern Society",
+    "The Highway Safety Act",
+    "The National EMS Agenda for the Future",
+    "The KKK-A-1822 federal ambulance standard"
+   ],
+   "explanation": "That National Academy of Sciences / National Research Council white paper is the origin point the textbook uses for modern EMS.",
+   "question": "An instructor asks which single 1966 publication started modern EMS reform. What do you name?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
+   "topic_n": 30
+  },
+  {
+   "question": "In 1966 the National Academy of Sciences/National Research Council published \"Accidental Death and Disability,\" known as the White Paper. What did it do?",
+   "choices": [
+    "It exposed that ambulances were ill-equipped and often staffed by poorly trained personnel, and made 29 recommendations (11 for EMS), becoming the founding document of the modern US EMS system",
+    "It created the 911 system and the first paramedic curriculum",
+    "It required all ambulance attendants to become paramedics by 1970",
+    "It moved federal EMS leadership into the Department of Health and Human Services"
+   ],
+   "answer": 0,
+   "explanation": "The deck calls the 1966 White Paper the founding document of the modern US EMS system; it called ambulances ill-equipped and poorly staffed and recommended ambulance standards, state regulation, and one national emergency number.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "To bill the student's insurance for the vaccines",
+    "Because proof of immunization is required to become licensed and employed as an EMT",
+    "To decide which students get hospital rotations first",
+    "To complete the student's financial aid file"
+   ],
+   "explanation": "Programs gather immunization proof up front because the credential and the job both depend on it.",
+   "question": "Before clinical rotations, a program collects each student's MMR, varicella, and hepatitis B records or positive titers. Why does it collect them?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "EMT licensure/employment requirements",
+   "topic_n": 33
+  },
+  {
+   "question": "In a 2020 Australian case, paramedics drew up 5 mg of 1:1,000 epinephrine intended for nebulization, but it was given intravenously by mistake, causing a racing heart, severe headache, and heart muscle injury. What error-prevention lesson does this case teach?",
+   "choices": [
+    "Nebulizer and IV doses of epinephrine are interchangeable",
+    "Concentration does not matter if the drug is correct",
+    "Epinephrine should never be carried on an ambulance",
+    "Know IM epinephrine (1 mg/mL) from IV epinephrine (0.1 mg/mL), and read the label aloud to confirm drug, concentration, dose, and route"
+   ],
+   "answer": 3,
+   "explanation": "A wrong concentration given by the wrong route through an IV is a classic dangerous error; confirming drug, concentration, dose, and route prevents it.",
+   "source": "Flashcard Case Studies — Set 1",
+   "topic": "intravenous therapy",
+   "topic_n": 5
+  },
+  {
+   "question": "Which term is defined as: \"An individual who has training in specific aspects of advanced life support, such as intravenous therapy, and the administration of certain emergency medications\"?",
+   "choices": [
+    "Emergency medical technician",
+    "Advanced EMT",
+    "Paramedic",
+    "Emergency medical responder"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines the advanced EMT as a provider trained in specific aspects of advanced life support, such as IV therapy and certain emergency medications.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "question": "Which term is defined as: \"Comprehensive legislation that is designed to protect people with disabilities against discrimination\"?",
+   "choices": [
+    "National EMS Scope of Practice Model",
+    "Quality control",
+    "Primary prevention",
+    "Americans With Disabilities Act"
+   ],
+   "answer": 3,
+   "explanation": "The deck defines the Americans With Disabilities Act as comprehensive legislation protecting people with disabilities against discrimination.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "Houston's ETHAN program connects low-acuity 911 patients by video to an emergency physician who decides whether they need the ED, a clinic, or a primary care referral; in its first year only 18% went by ambulance to the ED versus 74% of matched controls. What does ETHAN demonstrate about MIH?",
+   "choices": [
+    "Telehealth removes the need for a field assessment",
+    "Low-acuity patients must always be transported to an ED",
+    "Telehealth brings physician decisions to the patient and keeps ambulances free for emergencies",
+    "MIH programs are run by hospitals, not EMS agencies"
+   ],
+   "answer": 2,
+   "explanation": "The deck's connection: telehealth brings physician decisions to the patient and keeps ambulances free for emergencies.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "mobile integrated health care",
+   "topic_n": 11
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Emergency medical services",
+    "Emergency medical technician",
+    "Emergency medical dispatch",
+    "Advanced life support"
+   ],
+   "explanation": "That unit-selection plus prearrival-instruction role is emergency medical dispatch.",
+   "question": "Before any crew arrives, dispatch matches the call to the right response units and keeps giving the caller vital instructions by phone. What is this called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "Which term is defined as: the delivery of medication directly into a vein?",
+   "choices": [
+    "Medical control",
+    "Intravenous therapy",
+    "Automated external defibrillator",
+    "Medical director"
+   ],
+   "answer": 1,
+   "explanation": "Intravenous therapy is the delivery of medication directly into a vein.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "intravenous therapy",
+   "topic_n": 5
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "The human resources department",
+    "The medical director's office",
+    "The dispatch center",
+    "The state licensing board"
+   ],
+   "explanation": "Well-being support, career progression, and compensation all sit in the human resources department.",
+   "question": "An EMT is burned out and asks about the employee assistance counseling benefit, how promotions work, and how pay steps are set. Which department handles all of that?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "human resources department",
+   "topic_n": 28
+  },
+  {
+   "question": "Which term is defined as: The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
+   "choices": [
+    "EMT licensure/employment requirements",
+    "State office of EMS",
+    "human resources department",
+    "Continuing education"
+   ],
+   "answer": 1,
+   "explanation": "State office of EMS: The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "State office of EMS",
+   "topic_n": 32
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Medical direction",
+    "Quality improvement",
+    "The state office of EMS",
+    "Human resources, which handles EMT compensation"
+   ],
+   "explanation": "Compensation is one of the human resources department's three areas, and when pay lags, staffing and coverage fail next.",
+   "question": "Over 13 months, seven paramedics and three EMT officers resigned from a county EMS agency over lagging pay, and the director asked the county council to amend the salary ordinance so wages could be raised. Which area of responsibility does this problem fall under?",
+   "source": "Case Studies — Set 6",
+   "topic": "human resources department",
+   "topic_n": 28
+  },
+  {
+   "question": "Navigate Case Study: A newly certified EMT is dispatched with a paramedic partner to a possible heart attack that becomes a CPR-in-progress call. In the overall scheme of prehospital medicine, what are the primary roles and responsibilities of an EMT?",
+   "choices": [
+    "To direct the entire resuscitation, including assigning the paramedic's advanced tasks and approving medications",
+    "To ensure personal and scene safety, perform patient assessment, provide basic life support and emergency care within the EMT scope of practice, safely lift, move, and transport the patient, communicate and document care, and assist ALS providers as local protocol allows",
+    "To focus only on driving and equipment, leaving all patient assessment and care to the paramedic",
+    "To establish medical control at the scene and authorize treatments beyond the written protocols"
+   ],
+   "answer": 1,
+   "explanation": "The EMT's primary roles are personal and scene safety, patient assessment, BLS care within scope, safe lifting, moving, and transport, communication and documentation, and assisting ALS providers under local protocol.",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "A firefighter stationed two blocks away reaches a collapsed man first and starts basic care several minutes before the ambulance arrives. What level of provider is this firefighter acting as?",
+   "choices": [
+    "Emergency medical technician",
+    "Community paramedic",
+    "Emergency medical responder",
+    "Public safety access point"
+   ],
+   "answer": 2,
+   "explanation": "The trained first person on scene providing initial assistance is an emergency medical responder.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "emergency medical responder",
+   "topic_n": 21
+  },
+  {
+   "question": "Which term is defined as: \"A multidisciplinary system that represents the combined efforts of several professionals and agencies to provide prehospital emergency care to the sick and injured\"?",
+   "choices": [
+    "Emergency medical dispatch",
+    "Emergency medical services",
+    "Advanced life support",
+    "Community paramedicine"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines emergency medical services as the multidisciplinary system combining several professionals and agencies to provide prehospital emergency care.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "question": "What does the term \"Accidental Death and Disability: The Neglected Disease of Modern Society\" mean?",
+   "choices": [
+    "Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
+    "The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
+    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
+    "The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966."
+   ],
+   "answer": 3,
+   "explanation": "Accidental Death and Disability: The Neglected Disease of Modern Society: The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
+   "topic_n": 30
+  },
+  {
+   "question": "In Winthrop, Massachusetts in 2024, both of the primary ambulance provider's units were busy when a 2-year-old stopped breathing, and mutual-aid calls found no available unit. What does this case show about a primary service area?",
+   "choices": [
+    "Mutual aid is not permitted inside a primary service area",
+    "A primary service area is only as strong as its backup plan when the assigned provider runs out of units",
+    "Fire departments are forbidden to transport patients in such areas",
+    "Primary service areas guarantee a unit is always available"
+   ],
+   "answer": 1,
+   "explanation": "The deck's connection: a primary service area is only as strong as its backup plan when the assigned provider runs out of units.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "primary service area",
+   "topic_n": 8
+  },
+  {
+   "question": "What is the Health Insurance Portability and Accountability Act (HIPAA)?",
+   "choices": [
+    "The physician who authorizes EMTs to provide care in the field",
+    "A system of reviews and audits of an EMS system",
+    "The delivery of medication directly into a vein",
+    "1996 federal legislation that limits availability of patients' health care information and penalizes privacy violations"
+   ],
+   "answer": 3,
+   "explanation": "HIPAA is the 1996 federal law protecting patient health information, with penalties for privacy violations.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "HIPAA",
+   "topic_n": 4
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "National EMS Education Standards",
+    "National EMS Scope of Practice Model",
+    "Americans With Disabilities Act",
+    "National EMS Agenda for the Future"
+   ],
+   "explanation": "The National EMS Scope of Practice Model outlines what skills each EMS provider level may perform.",
+   "question": "An instructor looks up whether an AEMT, rather than an EMT, may start an IV, and finds the answer in an NHTSA document that lists skills by provider level. What document is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "question": "Florida law requires new residential pools to have a safety feature such as a four-foot isolation fence with self-closing, self-latching gates, and a Cochrane review found fenced pools had about 73% lower drowning risk. How does pool fencing illustrate primary prevention?",
+   "choices": [
+    "It guarantees a faster EMS response to drowning calls",
+    "It trains bystanders to rescue children already in the water",
+    "It documents drowning incidents for later chart review",
+    "A physical barrier stops the drowning from ever happening"
+   ],
+   "answer": 3,
+   "explanation": "The deck's connection is that a physical barrier prevents the drowning from occurring at all.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Primary prevention",
+    "Continuous quality improvement",
+    "Medical direction",
+    "Secondary prevention"
+   ],
+   "explanation": "Correctly installed seats act before a crash, preventing the injury from occurring.",
+   "question": "Firefighters set up a free child car-seat check and install seats correctly for parents before anyone leaves the parking lot. What type of prevention is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Certification",
+    "Credentialing",
+    "Licensure",
+    "Accreditation"
+   ],
+   "explanation": "Only the state can grant legal permission to perform a regulated act, so she must first obtain licensure.",
+   "question": "An EMT moves to Texas and cannot legally work on an ambulance until the state grants her permission to perform EMT skills there. What must she obtain first?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "licensure",
+   "topic_n": 9
+  },
+  {
+   "question": "YOU are the Provider (48-year-old woman, back pain): How do the National Scope of Practice Model and the National EMS Education Standards affect your ability to assess and treat a patient?",
+   "choices": [
+    "They form the national framework from which each state's scope of practice is developed: the Scope of Practice Model describes four levels of practice, and the Education Standards outline the knowledge and competencies taught at each level",
+    "They give the local medical director authority to set any scope of practice for EMTs, regardless of state rules",
+    "They are quality control tools an agency uses to audit run reports and discipline providers",
+    "They grant national licensure, so an EMT certified in one state may practice in any state without further approval"
+   ],
+   "answer": 0,
+   "explanation": "The National Scope of Practice Model and the National EMS Education Standards together form the framework from which each state's scope of practice is developed, determining provider roles where they serve.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Which term is defined as: 'A trained professional, such as police officer, firefighter, lifeguard, or other rescuer, who may arrive first at the scene of an emergency to provide initial medical assistance'?",
+   "choices": [
+    "Emergency medical technician",
+    "Emergency medical dispatcher",
+    "Emergency medical responder",
+    "Medical director"
+   ],
+   "answer": 2,
+   "explanation": "The deck defines an emergency medical responder as a trained professional, such as a police officer, firefighter, or lifeguard, who may arrive first and provide initial medical assistance.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "emergency medical responder",
+   "topic_n": 21
+  },
+  {
+   "question": "Which term is defined as: \"The branch of medicine that is focused on examining the health needs of entire populations with the goal of preventing health problems\"?",
+   "choices": [
+    "Mobile integrated health care",
+    "Certification",
+    "Credentialing",
+    "Public health"
+   ],
+   "answer": 3,
+   "explanation": "The deck defines public health as the branch of medicine focused on entire populations and preventing health problems.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "public health",
+   "topic_n": 10
+  },
+  {
+   "question": "What does the term \"quality control\" mean in EMS?",
+   "choices": [
+    "Efforts to prevent an injury or illness from ever occurring",
+    "A NHTSA document outlining the skills of various EMS providers",
+    "Oversight by the medical director to ensure the appropriate medical care standards are met by EMTs on each call",
+    "Legislation protecting people with disabilities against discrimination"
+   ],
+   "answer": 2,
+   "explanation": "Quality control is the medical director's oversight to ensure appropriate care standards are met on each call.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "The state office of EMS",
+    "The providers' labor union",
+    "The National Registry of EMTs",
+    "A hospital credentialing committee"
+   ],
+   "explanation": "State offices of EMS license, certify, and discipline individual providers and services, and the actions are public record.",
+   "question": "A state EMS office publishes its 2025 enforcement actions: one EMT's credential suspended, one EMR's revoked, and a correction order with a fine issued to an ambulance service. Which body carried out these actions?",
+   "source": "Case Studies — Set 6",
+   "topic": "State office of EMS",
+   "topic_n": 32
+  },
+  {
+   "question": "Maryland's MIEMSS became an independent agency in 1993. It oversees and coordinates the statewide EMS system, licenses and regulates commercial ambulance services, and reviews and approves education programs. What is MIEMSS an example of?",
+   "choices": [
+    "A state office of EMS, regulating the standards for prehospital care and the individuals who provide it",
+    "A national continuing education accreditor",
+    "A human resources department",
+    "A hospital-based medical control authority"
+   ],
+   "answer": 0,
+   "explanation": "MIEMSS is a state office of EMS doing exactly the textbook job: regulating care standards, training, and the individuals who provide care, statewide.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "State office of EMS",
+   "topic_n": 32
+  },
+  {
+   "question": "Which term is defined as: \"A document created by the National Highway Traffic Safety Administration (NHTSA) that outlines the skills performed by various EMS providers\"?",
+   "choices": [
+    "Quality control",
+    "National EMS Scope of Practice Model",
+    "Primary prevention",
+    "Americans With Disabilities Act"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines the National EMS Scope of Practice Model as the NHTSA document outlining the skills of various EMS providers.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "question": "What does the term 'secondary prevention' mean?",
+   "choices": [
+    "Efforts to limit the effects of an injury or illness that you cannot completely prevent",
+    "A health care model in which experienced paramedics receive advanced training to provide additional prehospital services",
+    "A trained professional who may arrive first at an emergency to provide initial medical assistance",
+    "An approach to medicine where decisions are based on well-conducted research and the strength of the evidence"
+   ],
+   "answer": 0,
+   "explanation": "Secondary prevention limits the effects of an injury or illness that has happened or cannot be completely prevented.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "secondary prevention",
+   "topic_n": 19
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "AEDs are effective only in the hands of paramedics",
+    "Survival rises when the first shock is given within minutes of collapse",
+    "Ventricular fibrillation cannot be corrected by defibrillation",
+    "Security officers should replace EMS at public venues"
+   ],
+   "explanation": "The casino study is landmark proof that time to first shock drives survival, and that trained non-medical responders with AEDs save lives.",
+   "question": "In a 2000 study, casino security officers were trained to use AEDs placed so a shock could be given within 3 minutes of collapse. Of patients in ventricular fibrillation, 74% survived when the first shock came within 3 minutes, versus 49% when it came later. What does this case show most directly?",
+   "source": "Case Studies — Set 1",
+   "topic": "automated external defibrillator",
+   "topic_n": 2
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Health Insurance Portability and Accountability Act",
+    "National EMS Education Standards",
+    "Emergency Medical Treatment and Labor Act",
+    "Americans With Disabilities Act"
+   ],
+   "explanation": "The ADA requires services to be accessible to people with disabilities, including communication access.",
+   "question": "A patient who is deaf asks for a sign-language interpreter at the hospital, and staff arrange one so she can understand her care. Which federal law supports this access?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "Which term is defined as: \"An individual who has training in basic life support, including automated external defibrillation, use of a definitive airway adjunct, and assisting patients with certain medications\"?",
+   "choices": [
+    "Emergency medical technician",
+    "Advanced EMT",
+    "Paramedic",
+    "Advanced life support"
+   ],
+   "answer": 0,
+   "explanation": "The deck defines the emergency medical technician as the provider trained in basic life support, including AED use, a definitive airway adjunct, and assisting with certain medications.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "question": "Navigate Case Study: A single cardiac arrest call sets the whole system in motion, from the daughter's 9-1-1 call through dispatch, police and fire first response, and the ambulance crew. What are the components of a people-centered EMS system?",
+   "choices": [
+    "The four levels of provider certification, ranked by the scope of practice each level is permitted to perform",
+    "The ambulance, its equipment, and the hospital emergency department that receives the patient",
+    "Public access through 9-1-1, trained dispatchers, first responders, EMTs and paramedics, emergency department and hospital care, and supporting elements such as medical oversight, protocols, quality improvement, and prevention programs, all working as one coordinated system",
+    "A system's CQI committee, medical director, and credentialing office, which oversee provider performance"
+   ],
+   "answer": 2,
+   "explanation": "A people-centered EMS system is built around the patient and links 9-1-1 access, dispatch, first responders, EMTs and paramedics, and hospital care with medical oversight, protocols, quality improvement, and prevention.",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "The local hospital board",
+    "The state office of EMS",
+    "The National Registry of EMTs",
+    "The county health department"
+   ],
+   "explanation": "Licensure, certification, and discipline of EMS providers sit with the state EMS authority, not hospitals or national organizations.",
+   "question": "An agency wants to know which office can discipline an EMT's state credential. Which one?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "State office of EMS",
+   "topic_n": 32
+  },
+  {
+   "question": "Instead of only responding to emergencies, a veteran paramedic monitors diabetic patients at home and watches for problems before they become emergencies. What is this model of care called?",
+   "choices": [
+    "Evidence-based medicine",
+    "Community paramedicine",
+    "Primary prevention",
+    "Emergency medical dispatch"
+   ],
+   "answer": 1,
+   "explanation": "Monitoring chronic conditions at home is a service provided under the community paramedicine model.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "community paramedicine",
+   "topic_n": 18
+  },
+  {
+   "question": "A maker says its defibrillator stops ventricular fibrillation on the first shock 95% of the time, but no study shows patients survive more often with it. What approach says this claim alone does not prove the device saves more lives?",
+   "choices": [
+    "Evidence-based medicine",
+    "Secondary prevention",
+    "Community paramedicine",
+    "Public safety access point"
+   ],
+   "answer": 0,
+   "explanation": "Evidence-based medicine bases decisions on proven patient outcomes, not on a manufacturer's claim alone.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "evidence-based medicine",
+   "topic_n": 20
+  },
+  {
+   "question": "In 2025, Virginia Beach EMS created a Health and Wellness Manager role reporting directly to the chief, after a Virginia survey found 82% of EMS providers had experienced burnout, traumatic stress, PTSD, depression, or similar impacts. Which department's area of responsibility does this role carry out?",
+   "choices": [
+    "Continuing education accreditation",
+    "The state office of EMS's enforcement duties",
+    "EMT well-being, one of the human resources department's three areas",
+    "On-line medical control by the medical director"
+   ],
+   "answer": 2,
+   "explanation": "EMT well-being is one of the human resources department's three areas (well-being, career progression, compensation); this agency built a dedicated wellness role to own it.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "human resources department",
+   "topic_n": 28
+  },
+  {
+   "question": "What does the term 'public safety access point' mean?",
+   "choices": [
+    "A trained professional who may arrive first at the scene of an emergency to provide initial medical assistance",
+    "A health care model in which experienced paramedics receive advanced training to provide additional prehospital services",
+    "Efforts to limit the effects of an injury or illness that you cannot completely prevent",
+    "A call center, staffed by trained personnel who are responsible for managing requests for police, fire, and ambulance services"
+   ],
+   "answer": 3,
+   "explanation": "A public safety access point is the call center whose trained personnel manage requests for police, fire, and ambulance services.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "public safety access point",
+   "topic_n": 22
+  },
+  {
+   "question": "In Austin, Texas, medical director Dr. Paul Hinchey had decredentialed six field providers by 2015, and a city attorney confirmed the credential decision rested solely with him. Why is decredentialing a quality-control tool?",
+   "choices": [
+    "It is the medical director's strongest tool for enforcing care standards",
+    "It replaces the need for chart review and remediation",
+    "It is decided by a vote of the provider's coworkers",
+    "It applies only to providers who volunteer to give up credentials"
+   ],
+   "answer": 0,
+   "explanation": "The deck calls removing a credential the medical director's strongest quality-control tool.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "question": "Assessment in Action: Professional attributes include which of the following?",
+   "choices": [
+    "Integrity, relying only on one’s self, taking charge",
+    "Blaming others, ignoring team members, lying",
+    "Honest behavior; a clean, well-groomed persona; respecting others",
+    "Placing your needs above the patient’s care, listening to your patient, performing multiple tasks safely"
+   ],
+   "answer": 2,
+   "explanation": "Book's printed key: Honest behavior; a clean, well-groomed persona; respecting others.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "In 2024, Kentucky had only 2,474 of its 4,292 certified paramedics working for an ambulance service, while state rules required Class I ALS agencies to keep a paramedic on duty at all times. What did the Kentucky Board of EMS emergency regulation allow?",
+   "choices": [
+    "ALS agencies could close until more paramedics were hired",
+    "EMTs could perform all paramedic skills without extra certification",
+    "Paramedic staffing rules were suspended statewide with no reporting",
+    "An ALS agency could keep operating with an AEMT or a paramedic on duty, under a temporary staffing waiver"
+   ],
+   "answer": 3,
+   "explanation": "The deck's Kentucky case says the emergency regulation let ALS agencies operate with an AEMT or a paramedic on duty under temporary waivers, keeping advanced care available during the shortage.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "question": "Navigate Case Study: After teamwork restores the patient's rhythm and he is intubated with an IV established, the crew prepares him for transport. What are some considerations for successful patient management during transport?",
+   "choices": [
+    "Continue reassessing the airway and confirming tube placement, monitor the cardiac rhythm and vital signs, give additional medications as directed, secure the patient and equipment, communicate with the receiving hospital early, and keep the family member safely belted in front",
+    "Stop reassessment during the move so the crew can concentrate entirely on loading the patient quickly",
+    "Delay notifying the hospital until arrival so the crew is not distracted during transport",
+    "Seat the family member in the patient compartment beside the stretcher so she can watch the care being given"
+   ],
+   "answer": 0,
+   "explanation": "Successful transport management means continued airway reassessment and tube confirmation, rhythm and vital-sign monitoring, medications as directed, early hospital notification, and a safely belted family member up front.",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "His training officer",
+    "The medical director",
+    "His agency's scheduler",
+    "The individual EMT"
+   ],
+   "explanation": "Obtaining continuing education is the individual EMT's own responsibility, not the training officer's or the medical director's.",
+   "question": "An EMT's certification expires in two months and his continuing education hours are short. Whose responsibility is it to get them done?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Credentialing districts",
+    "Licensure zones",
+    "Primary service areas",
+    "Certification regions"
+   ],
+   "explanation": "Exclusive operating areas assigned to one provider are primary service areas, and the ruling is part of the legal basis for them in California.",
+   "question": "In 1985 San Bernardino County split its territory into 15 exclusive operating areas. A court later upheld restricting transfers to each area's assigned provider, accepting the county's argument that transfer income helps pay for 911 coverage. These exclusive zones are an example of:",
+   "source": "Case Studies — Set 2",
+   "topic": "primary service area",
+   "topic_n": 8
+  },
+  {
+   "question": "YOU are the Provider (48-year-old woman, back pain): What safety concerns apply to this call and what are some ways to address those concerns?",
+   "choices": [
+    "Safe transport in every phase (restrained driver and passengers, avoiding distractions, caution in traffic) and proper lifting and moving, supported by current knowledge, clear communication, and repeating medical orders back to verify them",
+    "The main concern is patient privacy, addressed by completing the written report before leaving the hospital",
+    "Safety is addressed by obtaining online medical control direction before lifting or moving any patient",
+    "The chief concern is scene hazards from bystanders, addressed by having law enforcement clear every medical call"
+   ],
+   "answer": 0,
+   "explanation": "Safety concerns arise in every phase of the call: safe transport with proper restraints and caution in traffic, proper lifting and moving, continuing education, and verifying directions and medical orders by repeating them back.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "The first national EMT curriculum",
+    "The Freedom House training manual",
+    "Accidental Death and Disability: The Neglected Disease of Modern Society",
+    "The EMS Systems Act of 1973"
+   ],
+   "explanation": "The white paper used the 1965 injury and death figures to show prehospital care was a neglected public problem.",
+   "question": "Before 1966, a crash victim might get a ride with no trained care, and a report that year documented 107,000 accidental deaths in 1965. What document was it?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
+   "topic_n": 30
+  },
+  {
+   "question": "In a 1994 Houston trial of 598 penetrating-trauma patients with low blood pressure, patients who received IV access but no fluids until the operating room survived to discharge at 70%, versus 62% for patients given immediate IV fluids. What practice change did this support?",
+   "choices": [
+    "Always give large IV fluid volumes before transport",
+    "Do not delay transport of penetrating trauma to start IVs; control bleeding and follow protocol fluid targets",
+    "Never establish IV access in trauma patients",
+    "IV fluids should replace rapid transport to a trauma center"
+   ],
+   "answer": 1,
+   "explanation": "The Houston trial showed more IV fluid is not always better; it shifted trauma care toward not delaying transport and toward permissive hypotension.",
+   "source": "Flashcard Case Studies — Set 1",
+   "topic": "intravenous therapy",
+   "topic_n": 5
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "To qualify for a pay step increase",
+    "To replace her initial EMT training",
+    "To satisfy her employer's scheduling requirement",
+    "To maintain, update, and expand her knowledge and skills"
+   ],
+   "explanation": "Maintaining, updating, and expanding knowledge and skills is the stated purpose of continuing education in EMS.",
+   "question": "An EMT takes a new stroke-assessment class so her knowledge stays current and grows. What is the purpose of this education?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Emergency medical responder",
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Emergency medical services"
+   ],
+   "explanation": "Providing emergency care and transportation to the sick and injured is the EMS mission.",
+   "question": "A community relies on an organized team of health care professionals to answer medical emergencies, care for the sick and injured, and transport them. What is that team called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "question": "After a man falls from a ladder, the crew carefully protects his spine so the injury does not get worse. What type of prevention is this?",
+   "choices": [
+    "Primary prevention",
+    "Community paramedicine",
+    "Evidence-based practice",
+    "Secondary prevention"
+   ],
+   "answer": 3,
+   "explanation": "The injury already happened, so limiting its effects is secondary prevention.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "secondary prevention",
+   "topic_n": 19
+  },
+  {
+   "question": "In the BEST-MSU trial, mobile stroke units carrying a CT scanner, labs, and tPA reached a median onset-to-tPA time of 72 minutes, versus 108 minutes with standard EMS, and patients had less disability at 90 days. What is the EMT lesson from this secondary prevention case?",
+   "choices": [
+    "Only mobile stroke units can recognize a stroke in the field",
+    "Recognize stroke early, report the last-known-well time, and give the hospital pre-notification",
+    "tPA should be given by EMTs on every suspected stroke call",
+    "Stroke treatment timing does not affect patient disability"
+   ],
+   "answer": 1,
+   "explanation": "The case's lesson is to recognize stroke early, report the last-known-well time, and pre-notify the hospital, since faster treatment limits brain damage.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "secondary prevention",
+   "topic_n": 19
+  },
+  {
+   "question": "In the AVOID trial (Melbourne, 2015), non-hypoxic STEMI patients were randomized to 8 L/min oxygen or no oxygen. The oxygen group had more repeat heart attacks and arrhythmias and larger infarcts at six months. How did this evidence change practice?",
+   "choices": [
+    "Oxygen was increased to higher flow rates for all chest pain patients",
+    "Oxygen was removed from ambulances entirely",
+    "Routine 'oxygen for all chest pain' changed to oxygen only when indicated — check SpO2 and treat hypoxia per protocol",
+    "Oxygen was shown to have no effect in STEMI patients"
+   ],
+   "answer": 2,
+   "explanation": "AVOID changed routine oxygen for all chest pain to oxygen only when indicated, treating oxygen as a drug guided by SpO2 and protocol.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "evidence-based medicine",
+   "topic_n": 20
+  },
+  {
+   "question": "Which term is defined as: 'Efforts to limit the effects of an injury or illness that you cannot completely prevent'?",
+   "choices": [
+    "Primary prevention",
+    "Evidence-based medicine",
+    "Quality improvement",
+    "Secondary prevention"
+   ],
+   "answer": 3,
+   "explanation": "The deck defines secondary prevention as efforts to limit the effects of an injury or illness you cannot completely prevent.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "secondary prevention",
+   "topic_n": 19
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Public health outreach",
+    "Mobile integrated health care",
+    "Primary service area program",
+    "Credentialing"
+   ],
+   "explanation": "Care was delivered in the community and home instead of an office or hospital, which is mobile integrated health care.",
+   "question": "Instead of sending a heart-failure patient back to the hospital, a care team checks on him at home, reviews his medicines, and reports to his doctor. What model of care is this?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "mobile integrated health care",
+   "topic_n": 11
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "The patient's spouse",
+    "The receiving nurse",
+    "The medical director",
+    "The fire chief"
+   ],
+   "explanation": "An EMT gives aspirin for chest pain based on medical director approval.",
+   "question": "An EMT gives aspirin to a patient with chest pain, following authorization granted in advance for that treatment. Whose approval authorizes the EMT to give the aspirin?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "medical director",
+   "topic_n": 6
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Continuous quality improvement",
+    "System-wide data audit",
+    "Credentialing review",
+    "Quality control"
+   ],
+   "explanation": "Direct medical director oversight of the standard of care given on one call is quality control.",
+   "question": "After a chest-pain call, the medical director calls the crew in to discuss why a protocol step was missed on that specific run. What process is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "They were promoted to paramedic",
+    "They were recertified as EMTs",
+    "They kept the EMT-I/85 level indefinitely",
+    "They lost all EMS certification permanently"
+   ],
+   "explanation": "I/85s who missed their transition deadlines (2015-2017) were recertified as EMTs.",
+   "question": "In 2011 the NREMT adopted a transition policy after the National EMS Scope of Practice Model created the Advanced EMT level to replace the many EMT-Intermediate levels. What happened to EMT-I/85 providers who missed their transition deadline?",
+   "source": "Case Studies — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "question": "Which term is defined as: \"A method of delivering health care that involves providing health care within the community rather than at a physician's office or hospital\"?",
+   "choices": [
+    "Public health",
+    "Mobile integrated health care",
+    "Primary service area",
+    "Certification"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines mobile integrated health care as delivering health care within the community rather than at an office or hospital.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "mobile integrated health care",
+   "topic_n": 11
+  },
+  {
+   "question": "Assessment in Action: The roles and responsibilities of an EMT include all of the following EXCEPT:",
+   "choices": [
+    "performing a patient assessment.",
+    "upholding medical and legal standards.",
+    "providing legal advice to patients.",
+    "ensuring and protecting patient privacy. Emergency Care and Transportation of the Sick and Injured, Twelfth Edition AAOS Copyright © 2021 by Jones & Bartlett Learning, LLC an Ascend Learning Company. www.jblearning.com."
+   ],
+   "answer": 2,
+   "explanation": "Book's printed key: providing legal advice to patients.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "In 2025, Ohio's EMS board expanded several provider skills, using the national model as its floor; Ohio medical directors may limit the board's scope but never exceed it. What does Ohio's approach show about the National EMS Scope of Practice Model?",
+   "choices": [
+    "States adapt the national model, and your legal scope is your state's scope",
+    "The national model is federal law that states may not change",
+    "Medical directors may expand a provider's scope beyond the state board's",
+    "The model fixes EMT skills permanently with no updates"
+   ],
+   "answer": 0,
+   "explanation": "The deck's lesson is that your legal scope is your state's scope, which may differ from the national model.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Automated external defibrillation",
+    "Off-line medical control",
+    "Continuous quality improvement",
+    "Intravenous therapy"
+   ],
+   "explanation": "Giving medications through a vein is intravenous therapy, an advanced life support skill.",
+   "question": "An advanced provider's skill set includes starting a line in a vein to give certain emergency medications. What is that skill called?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "intravenous therapy",
+   "topic_n": 5
+  },
+  {
+   "question": "Which term is defined as: \"An established process to determine the qualifications necessary to be allowed to practice a particular profession, or to function as an organization\"?",
+   "choices": [
+    "Licensure",
+    "Certification",
+    "Credentialing",
+    "Primary service area"
+   ],
+   "answer": 2,
+   "explanation": "The deck defines credentialing as the established process to determine the qualifications necessary to practice or function as an organization.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "credentialing",
+   "topic_n": 12
+  },
+  {
+   "question": "YOU are the Provider (48-year-old woman, back pain): Does this patient need any treatment at the scene that can be provided by an EMT?",
+   "choices": [
+    "Yes; the EMT should obtain online medical control orders before any assessment or transport decision is made",
+    "No treatment is needed, so the call can be closed as nonemergent once her vital signs are recorded",
+    "No immediate EMT treatment exists for this patient; treat the situation as an emergency until a thorough assessment proves otherwise, reassess vital signs, provide comfort measures, and transport her in the safest, most comfortable way",
+    "Yes; the EMT should begin the system's CQI review process at the scene before moving the patient"
+   ],
+   "answer": 2,
+   "explanation": "There is no immediate treatment an EMT can provide for this patient, so the call is treated as an emergency until a qualified assessment distinguishes emergent from nonemergent, with reassessment, comfort measures, and safe, comfortable transport.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "What does the term 'community paramedicine' mean?",
+   "choices": [
+    "Efforts to limit the effects of an injury or illness that cannot be completely prevented",
+    "A call center staffed by trained personnel who manage requests for police, fire, and ambulance services",
+    "A health care model in which experienced paramedics receive advanced training to provide additional prehospital services, such as health evaluations, monitoring of chronic illnesses, and patient advocacy",
+    "An approach to medicine in which decisions are based on well-conducted research and the strength of the scientific evidence"
+   ],
+   "answer": 2,
+   "explanation": "Community paramedicine uses experienced, additionally trained paramedics to deliver services like health evaluations and chronic illness monitoring in the prehospital environment.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "community paramedicine",
+   "topic_n": 18
+  },
+  {
+   "question": "What is a primary service area?",
+   "choices": [
+    "The designated area in which an EMS agency is responsible for providing prehospital emergency care and transportation to the hospital",
+    "A competent authority, usually the state, allowing a person to perform a regulated act",
+    "An established process to determine the qualifications necessary to practice a profession",
+    "Delivering health care within the community rather than at a physician's office or hospital"
+   ],
+   "answer": 0,
+   "explanation": "A primary service area is the designated area where the agency owes prehospital care and transport.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "primary service area",
+   "topic_n": 8
+  },
+  {
+   "question": "King County's continuing education program was reaccredited through CAPCE, and its Training and Education Section distributed ten new online CE courses for EMTs, paramedics, and telecommunicators. The county credits this ongoing training for letting its paramedics use an extensive array of medications and procedures. What does this show about continuing education?",
+   "choices": [
+    "It replaces initial EMT training for new hires",
+    "It is only a paperwork requirement for keeping a certification",
+    "It is a disciplinary tool run by the state office of EMS",
+    "It maintains, updates, and expands provider knowledge, and is part of why providers are trusted with a wider scope of practice"
+   ],
+   "answer": 3,
+   "explanation": "Continuing education is not paperwork; in King County it is part of why providers are trusted with a wider scope of practice.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "question": "Two metro Phoenix dispatch centers adopted a telephone CPR (T-CPR) bundle of protocols, training, data, and feedback, studied across 2,334 cardiac arrests. What was the result?",
+   "choices": [
+    "T-CPR delivery fell and survival stayed the same",
+    "T-CPR delivery rose from 43.5% to 52.8%, time to first compression fell, and survival rose from 9.1% to 12.0%",
+    "Survival fell because callers were kept on the phone too long",
+    "The bundle only changed documentation, not patient outcomes"
+   ],
+   "answer": 1,
+   "explanation": "The deck's Phoenix case is strong evidence that dispatcher pre-arrival instructions save lives: T-CPR delivery and survival both rose after the bundle was adopted.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Emergency Medical Technician",
+    "Emergency Medical Responder",
+    "Advanced Emergency Medical Technician",
+    "Paramedic"
+   ],
+   "explanation": "Pharmacologic interventions and advanced treatment skills are functions of the paramedic.",
+   "question": "A crew requests the provider who can give pharmacologic interventions and perform other advanced assessment and treatment skills at the scene. Which provider level should respond?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Public health surveillance",
+    "Credentialing",
+    "Primary service area enforcement",
+    "Mobile integrated health care"
+   ],
+   "explanation": "Proactive home-based community care for frequent 911 users is a flagship mobile integrated health care model.",
+   "question": "In Fort Worth, Texas, MedStar's program for frequent 911 callers sent a mobile healthcare paramedic to each patient's home for a medication and needs review, and ambulance trips to the ED dropped 47.6% among enrolled patients. This program is an example of:",
+   "source": "Case Studies — Set 2",
+   "topic": "mobile integrated health care",
+   "topic_n": 11
+  },
+  {
+   "question": "A caller dials 911 and reaches a staffed center that takes the report and sends police, fire, and ambulance units as needed. What is this center called?",
+   "choices": [
+    "Emergency operations center",
+    "Public safety access point",
+    "Community paramedicine center",
+    "Secondary dispatch center"
+   ],
+   "answer": 1,
+   "explanation": "That center manages requests for police, fire, and ambulance services; it is the public safety access point.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "public safety access point",
+   "topic_n": 22
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Certification",
+    "Licensure",
+    "Primary service area designation",
+    "Credentialing"
+   ],
+   "explanation": "The program was evaluated against preset standards and formally recognized for meeting them, which the source identifies as certification.",
+   "question": "An EMT training program is reviewed by an outside board and is formally recognized for meeting all required education standards. What is this recognition called?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "certification",
+   "topic_n": 7
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Naloxone was restricted to paramedics only",
+    "EMTs were barred from giving naloxone",
+    "Naloxone was added to the EMR and EMT levels",
+    "Police departments were required to stop carrying naloxone"
+   ],
+   "explanation": "A 2017 national change notice added naloxone to the EMR and EMT levels of the Scope of Practice Model.",
+   "question": "In 2010, Quincy, Massachusetts police became the first police department to carry intranasal naloxone, because officers were often the first on scene at opioid overdoses. What national scope change followed in 2017?",
+   "source": "Case Studies — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "question": "In 2010, Quincy, Massachusetts police became the first department in the state's naloxone program: every officer was trained and carried nasal naloxone, and officers usually reach overdoses before the ambulance. From 2010 to 2013, Quincy police administered naloxone 201 times. Why does this case illustrate the emergency medical responder role?",
+   "choices": [
+    "Police officers replaced EMTs as the primary responders to overdoses",
+    "Naloxone can only be given by police officers in Massachusetts",
+    "The ambulance always arrives before police at overdose calls",
+    "Police, often first to arrive, delivered a life-saving intervention before EMS — the EMR role"
+   ],
+   "answer": 3,
+   "explanation": "The Quincy case connects because police, often first to arrive, delivered a life-saving EMR intervention with naloxone.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "emergency medical responder",
+   "topic_n": 21
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "On-line medical control",
+    "Continuous quality improvement",
+    "HIPAA",
+    "Off-line medical control"
+   ],
+   "explanation": "Written protocols are off-line medical control, and the DC crews did not follow them.",
+   "question": "In 2006, Washington DC crews found an assaulted man on a sidewalk, assumed he was drunk, recorded no vital signs, and took him to a more distant hospital instead of the closest facility their protocol required; he died of a head injury. The failure to follow the agency's written protocols on assessment, documentation, and destination is best described as a failure of:",
+   "source": "Case Studies — Set 1",
+   "topic": "medical control",
+   "topic_n": 1
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "National EMS Education Standards",
+    "National EMS Core Content",
+    "National EMS Scope of Practice Model",
+    "National EMS Research Agenda"
+   ],
+   "explanation": "The model is the national reference for dividing skills among EMR, EMT, AEMT, and paramedic.",
+   "question": "Two agencies disagree about which provider level should perform a certain airway skill, so they check the national model that sorts skills by level. What document should they check?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "question": "Which term is defined as: \"The designated area in which the EMS agency is responsible for the provision of prehospital emergency care and transportation to the hospital\"?",
+   "choices": [
+    "Credentialing",
+    "Licensure",
+    "Primary service area",
+    "Mobile integrated health care"
+   ],
+   "answer": 2,
+   "explanation": "The deck defines the primary service area as the designated area where the agency is responsible for prehospital care and transport.",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "primary service area",
+   "topic_n": 8
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Public health",
+    "Mobile integrated health care",
+    "Certification",
+    "Medical direction"
+   ],
+   "explanation": "The campaign's goal is preventing harm across the whole population, which best fits public health.",
+   "question": "A city passes a seat-belt campaign aimed at every driver in the community after reviewing crash data for the whole region. Which branch of medicine does this best fit?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "public health",
+   "topic_n": 10
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Advanced EMT",
+    "Emergency medical technician",
+    "Emergency medical responder",
+    "Paramedic"
+   ],
+   "explanation": "Basic life support, AED use, and medication assistance are core EMT functions.",
+   "question": "A provider gives basic life support, applies an AED to an unresponsive patient, and helps the patient take a prescribed medication. What level of provider is this?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Advanced life support",
+    "Basic life support",
+    "Emergency medical dispatch",
+    "Emergency medical services"
+   ],
+   "explanation": "Advanced life-saving procedures define advanced life support care.",
+   "question": "Instead of only oxygen and basic support, the crew performs advanced life-saving interventions normally associated with higher-level providers. Which type of care are they providing?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "question": "Seattle's Medic One program began after cardiologist Dr. Leonard Cobb set the training standard for firefighters in 1969, authorized advanced skills, and reviewed care from the first patient onward; the first paramedic class answered its first call in 1970. Why is this case tied to the medical director topic?",
+   "choices": [
+    "It shows a physician setting training standards, authorizing skills, and reviewing care — the origin of the medical director role",
+    "It shows the first use of an AED by bystanders",
+    "It shows a HIPAA enforcement action against a hospital",
+    "It shows why IV fluids should be delayed in trauma"
+   ],
+   "answer": 0,
+   "explanation": "Cobb's role — setting training standards, authorizing advanced skills, and reviewing care — is the origin of the medical director role in EMS.",
+   "source": "Flashcard Case Studies — Set 1",
+   "topic": "medical director",
+   "topic_n": 6
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Basic life support",
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Emergency medical services"
+   ],
+   "explanation": "Procedures beyond basic life support are advanced life support.",
+   "question": "A patient's care goes beyond basic measures when the crew begins advanced airway and cardiac treatment procedures in the field. What level of care is this called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Quality control",
+    "Primary prevention",
+    "Tertiary prevention",
+    "Online medical control"
+   ],
+   "explanation": "Giving out helmets and smoke alarms targets hazards early so injuries and fires are kept from occurring at all.",
+   "question": "A city gives away bicycle helmets and smoke alarms at a health fair and teaches families how to use them. What type of prevention is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "question": "Which term is defined as: \"A system that assists dispatchers in selecting appropriate units to respond to a particular call for assistance and provides callers with vital instructions until the arrival of EMS crews\"?",
+   "choices": [
+    "Emergency medical services",
+    "Public safety access point",
+    "Emergency medical dispatch",
+    "Continuous quality improvement"
+   ],
+   "answer": 2,
+   "explanation": "The deck defines emergency medical dispatch as the system that helps dispatchers select appropriate units and provides callers vital instructions until EMS crews arrive.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Her agency must cover her shifts until she finishes",
+    "She receives an automatic six-month grace period",
+    "She must stop providing EMT services as of the certification expiration date",
+    "Only her agency is penalized, not the EMT"
+   ],
+   "explanation": "Indiana puts the burden of demonstrating compliance on the individual EMT, who must stop providing EMT services if the requirements are unmet at expiration.",
+   "question": "An Indiana EMT's certification is nearing its two-year expiration and she has not completed the required 40 hours of continuing education. Under the state's instructions, what happens if she does not meet the requirement?",
+   "source": "Case Studies — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "The receiving hospital",
+    "The American Heart Association",
+    "Her agency's medical director",
+    "The state office of EMS"
+   ],
+   "explanation": "Prehospital care standards and the people who provide that care are typically regulated by the state office of EMS.",
+   "question": "A new EMT asks who sets and enforces the standards for prehospital care and the providers who deliver it in her state. Who is it?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "State office of EMS",
+   "topic_n": 32
+  },
+  {
+   "question": "Which term is defined as: a device that detects treatable life-threatening cardiac dysrhythmias (ventricular fibrillation and ventricular tachycardia) and delivers the appropriate electrical shock to the patient?",
+   "choices": [
+    "Intravenous therapy",
+    "Medical control",
+    "Automated external defibrillator",
+    "Continuous quality improvement"
+   ],
+   "answer": 2,
+   "explanation": "An automated external defibrillator detects shockable rhythms such as VF and ventricular tachycardia and delivers a shock.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "automated external defibrillator",
+   "topic_n": 2
+  },
+  {
+   "question": "Assessment in Action: Which of the phases of being an emergency health care provider is continuous?",
+   "choices": [
+    "Continuing medical education",
+    "Teaching EMS courses",
+    "Pursuing an advanced degree",
+    "Completing weekly drug screening"
+   ],
+   "answer": 0,
+   "explanation": "Book's printed key: Continuing medical education.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "The medical director's office",
+    "The human resources department",
+    "The quality improvement committee",
+    "The state office of EMS"
+   ],
+   "explanation": "Pay, career progression, and EMT well-being are the human resources department's job, not the medical director's.",
+   "question": "An EMT asks who handles her pay raise, her promotion path, and the agency wellness program. Which department is that?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "human resources department",
+   "topic_n": 28
+  },
+  {
+   "question": "After the Tyre Nichols response in Memphis in 2023, Tennessee's EMS Board suspended two responders' licenses at an emergency meeting within days of the incident. What does this show about licensure?",
+   "choices": [
+    "Licenses can only be suspended after a criminal conviction",
+    "A state board can suspend a license quickly, then hold a full hearing that can end in revocation",
+    "License discipline is handled by the provider's own agency, not the state",
+    "Suspension is the most severe action a board can take"
+   ],
+   "answer": 1,
+   "explanation": "The deck's connection: a state board can suspend a license within days, then hold a full hearing that can end in revocation.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "licensure",
+   "topic_n": 9
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Credentialing",
+    "Licensure",
+    "Public health review",
+    "Certification"
+   ],
+   "explanation": "The review determines whether that person is qualified to function in that organization, which is credentialing.",
+   "question": "A medical director's office reviews an EMT's training file and test results before approving him for a specific role in that system. What is this review called?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "credentialing",
+   "topic_n": 12
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Continuous quality improvement",
+    "Risk management",
+    "Quality control",
+    "Medical direction"
+   ],
+   "explanation": "The medical director is checking care on an individual call, which is quality control rather than a system-wide review.",
+   "question": "The medical director personally reviews one EMT's patient care report from last night's call to check that the required care standard was met. What is this single-call oversight called?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Highway Safety Program Standard 11",
+    "Accidental Death and Disability: The Neglected Disease of Modern Society",
+    "The National EMS Education Standards",
+    "The National Scope of Practice Model"
+   ],
+   "explanation": "EMS as we know it today is traced to that 1966 white paper's publication.",
+   "question": "A history question says modern EMS began with a 1966 report calling accidental death a neglected disease. What is that report?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
+   "topic_n": 30
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Medical director",
+    "Dispatch supervisor",
+    "Lead paramedic",
+    "Hospital billing director"
+   ],
+   "explanation": "The medical director is the physician who authorizes EMTs to provide medical care in the field.",
+   "question": "Before an EMT crew can follow new treatment protocols, a physician reviews and signs off on them for the service. Which role is that physician filling?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "medical director",
+   "topic_n": 6
+  },
+  {
+   "question": "What does the term \"primary prevention\" mean?",
+   "choices": [
+    "Efforts to prevent an injury or illness from ever occurring",
+    "Oversight by the medical director to ensure care standards are met on each call",
+    "A NHTSA document outlining the skills performed by various EMS providers",
+    "Legislation protecting people with disabilities against discrimination"
+   ],
+   "answer": 0,
+   "explanation": "Primary prevention means stopping an injury or illness before it ever occurs.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Certification",
+    "Licensure",
+    "Credentialing",
+    "Medical direction"
+   ],
+   "explanation": "State EMS offices regulate practice and grant the legal authority to provide care, and that official permission is licensure.",
+   "question": "The state office of EMS, which regulates prehospital care standards in the state, issues an EMT his official permission to practice. What is that permission called?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "licensure",
+   "topic_n": 9
+  },
+  {
+   "question": "After Michigan partly repealed its universal motorcycle helmet law in 2012, helmet use among injured riders dropped and head injuries among hospitalized riders rose from 43.4% to 49.6%. Why is helmet use classified as secondary prevention?",
+   "choices": [
+    "Helmets prevent most motorcycle crashes from happening",
+    "Helmets eliminate the need for EMS after a crash",
+    "Helmets do not prevent crashes; they limit the severity of the injury when a crash occurs",
+    "Helmets are a form of primary prevention because they stop injuries entirely"
+   ],
+   "answer": 2,
+   "explanation": "The Michigan case connects because helmets don't prevent crashes — they limit injury severity, which is secondary prevention.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "secondary prevention",
+   "topic_n": 19
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Paramedic",
+    "Advanced EMT",
+    "Emergency medical technician",
+    "Emergency medical responder"
+   ],
+   "explanation": "Assisting patients with certain prescribed medications is part of the EMT role.",
+   "question": "A patient with chest discomfort is assisted with his own prescribed medication by the basic-level field provider caring for him. What is that provider called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "question": "On April 9, 2014, a software counter at a 911 routing center in Englewood, Colorado, hit its limit and stopped routing new 911 calls. In all, 81 PSAPs in 7 states were affected and more than 6,600 calls never got through. What should EMTs expect after a 911 outage like this?",
+   "choices": [
+    "Delayed calls and sicker patients, so crews should know their agency's backup plan and alternate numbers",
+    "No effect, because PSAPs never depend on outside routing networks",
+    "Fewer calls, because blocked callers do not call back",
+    "Immediate transfer of all calls to a neighboring state's PSAPs"
+   ],
+   "answer": 0,
+   "explanation": "The 2014 outage case teaches EMTs to know the backup plan for a 911 outage and to expect delayed calls and sicker patients afterward.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "public safety access point",
+   "topic_n": 22
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Secondary prevention",
+    "Tertiary prevention",
+    "Primary prevention",
+    "Quality control"
+   ],
+   "explanation": "It acts before any crash occurs, so the injury never happens in the first place.",
+   "question": "A community awareness program visits local high schools to emphasize the dangers of drinking and driving, hoping no crash ever happens. What type of prevention is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "question": "When the EMS Compact was activated for COVID-19 in March 2020, EMS personnel licensed in a member state received a \"privilege to practice\" in other member states. How does the Compact treat licensure?",
+   "choices": [
+    "It replaces state licenses with one national license",
+    "It lets any EMT work in any state without restriction",
+    "Licenses stay state-based; the Compact is how member states recognize each other's licenses",
+    "It is run by the NREMT as a certification program"
+   ],
+   "answer": 2,
+   "explanation": "The deck states that licenses stay state-based and the Compact is how member states recognize each other's licenses.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "licensure",
+   "topic_n": 9
+  },
+  {
+   "question": "Which term is defined as: 'A health care model in which experienced paramedics receive advanced training to equip them to provide additional services in the prehospital environment, such as health evaluations, monitoring of chronic illnesses or conditions, and patient advocacy'?",
+   "choices": [
+    "Mobile integrated health care",
+    "Community paramedicine",
+    "Emergency medical dispatch",
+    "Public health"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines community paramedicine as the model in which experienced paramedics get advanced training to provide added prehospital services such as health evaluations and chronic illness monitoring.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "community paramedicine",
+   "topic_n": 18
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "An on-line medical control system",
+    "A HIPAA enforcement mechanism",
+    "A continuous quality improvement tool",
+    "A standing-order protocol"
+   ],
+   "explanation": "CARES is an external data registry, a core CQI tool that exposed a dispatch delay no one had measured.",
+   "question": "Atlanta's CARES registry linked 911, EMS, and hospital data and revealed that each 911 call passed through police and a county dispatcher before reaching EMS. After the process changed, the average time from 911 call to ambulance dispatch fell from 107 to 43 seconds. CARES served Atlanta EMS as what kind of tool?",
+   "source": "Case Studies — Set 1",
+   "topic": "continuous quality improvement",
+   "topic_n": 3
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Emergency medical services",
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Online medical direction"
+   ],
+   "explanation": "Selecting units and giving prearrival instructions are emergency medical dispatch functions.",
+   "question": "When a 911 call comes in, a trained dispatcher decides which units should respond and talks the caller through care until the crew arrives. What system is this?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "Which term is defined as: federal legislation passed in 1996 whose main effect in EMS is limiting the availability of patients' health care information and penalizing violations of patient privacy?",
+   "choices": [
+    "Health Insurance Portability and Accountability Act (HIPAA)",
+    "Medical control",
+    "Automated external defibrillator",
+    "Continuous quality improvement"
+   ],
+   "answer": 0,
+   "explanation": "HIPAA, passed in 1996, limits access to patients' health care information and penalizes privacy violations.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "HIPAA",
+   "topic_n": 4
+  },
+  {
+   "question": "Trained personnel at a central call center receive a report of a house fire and coordinate the fire and EMS response. What facility are they working in?",
+   "choices": [
+    "An emergency medical dispatch office",
+    "A secondary prevention center",
+    "A public safety access point",
+    "A community paramedic station"
+   ],
+   "answer": 2,
+   "explanation": "Managing incoming emergency requests is the job of the public safety access point.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "public safety access point",
+   "topic_n": 22
+  },
+  {
+   "question": "What is emergency medical dispatch (EMD)?",
+   "choices": [
+    "A system that assists dispatchers in selecting appropriate units to respond to a call and provides callers with vital instructions until EMS crews arrive",
+    "A multidisciplinary system of professionals and agencies providing prehospital emergency care",
+    "Advanced life-saving procedures provided in the field",
+    "A provider trained in specific aspects of advanced life support"
+   ],
+   "answer": 0,
+   "explanation": "Per the deck, EMD assists dispatchers in selecting appropriate units and provides callers with vital instructions until the arrival of EMS crews.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "What does the Americans With Disabilities Act do?",
+   "choices": [
+    "It outlines the skills performed by various EMS providers",
+    "It protects people with disabilities against discrimination",
+    "It prevents injuries and illnesses from ever occurring",
+    "It gives the medical director oversight of care on each call"
+   ],
+   "answer": 1,
+   "explanation": "The ADA is comprehensive legislation designed to protect people with disabilities against discrimination.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "The Health Insurance Portability and Accountability Act (HIPAA)",
+    "The medical director's standing orders",
+    "Continuous quality improvement policy",
+    "State Good Samaritan statutes"
+   ],
+   "explanation": "HIPAA is the federal law that penalizes improper disclosure of patient information.",
+   "question": "A new EMT is told that sharing a patient's condition with a neighbor who is just curious could result in legal penalties for a privacy violation. Which law sets those penalties?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "HIPAA",
+   "topic_n": 4
+  },
+  {
+   "question": "Los Medanos College in California could not prove that required skills testing had occurred for its 2019-2023 EMT classes, and about 247 graduates learned they had never been eligible for their certificates. What principle does this illustrate?",
+   "choices": [
+    "Skills testing only matters for paramedic programs",
+    "Graduates are responsible for scheduling their own state audits",
+    "A program's certificate protects graduates even without records",
+    "If a program cannot prove testing happened, the state treats it as not done"
+   ],
+   "answer": 3,
+   "explanation": "The deck states that if a program can't prove testing happened, the state treats it as not done, so EMTs should keep their own records.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "certification",
+   "topic_n": 7
+  },
+  {
+   "question": "Under OSHA's Bloodborne Pathogens standard, employers must offer the hepatitis B vaccination series at no cost to emergency responders within 10 days of initial assignment, and a worker who declines must sign a written declination form. This requirement follows the EMT into what?",
+   "choices": [
+    "Employment: hepatitis B protection is treated as part of starting work as an EMT",
+    "A voluntary wellness program benefit",
+    "Continuing education for recertification",
+    "A state EMS office enforcement action"
+   ],
+   "answer": 0,
+   "explanation": "Federal workplace law treats hepatitis B protection as part of starting work as an EMT, which is why proof of the series, a titer, or a signed declination follows the EMT into employment.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "EMT licensure/employment requirements",
+   "topic_n": 33
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Advanced EMT",
+    "Emergency medical technician",
+    "Paramedic",
+    "Emergency medical responder"
+   ],
+   "explanation": "That added IV and medication role identifies the advanced EMT.",
+   "question": "A crew member who has moved one step beyond basic EMT training is authorized to place an IV and administer a limited set of emergency drugs. What is this provider level called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Emergency medical technician",
+    "Advanced EMT",
+    "Paramedic",
+    "Emergency medical dispatcher"
+   ],
+   "explanation": "EMTs provide basic life support, including use of an airway adjunct.",
+   "question": "At a collapse, a responder inserts an airway adjunct and begins basic life support care while the ambulance is readied for transport. Which provider level does this describe?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "question": "In Southfield, Michigan in 2020, a physician declared Timesha Beauchamp dead by phone based on a crew's report; she was later found breathing at a funeral home, and regulators found the paramedic had stopped CPR early and reported inaccurate vitals. What does this case show about online medical control?",
+   "choices": [
+    "A termination-of-resuscitation order is only as reliable as the accurate, complete findings the crew reports to the physician",
+    "Physicians should never give orders by phone",
+    "Crews may stop CPR whenever they believe a patient is dead",
+    "Online medical control removes the crew's responsibility for patient assessment"
+   ],
+   "answer": 0,
+   "explanation": "Ending resuscitation required a physician's order, and that order depended on an accurate crew report — the core of online medical control.",
+   "source": "Flashcard Case Studies — Set 1",
+   "topic": "medical control",
+   "topic_n": 1
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Basic life support",
+    "Emergency medical services"
+   ],
+   "explanation": "Emergency medical dispatch provides caller instructions while crews are en route.",
+   "question": "A caller is told step by step what to do for a choking child while the dispatcher sends the closest appropriate ambulance. Which dispatch function is being used?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "Assessment in Action: What is the primary role of the EMT?",
+   "choices": [
+    "Provide appropriate medical care",
+    "Diagnose the patient’s condition",
+    "Ensure personal safety",
+    "Provide transport to the closest hospital"
+   ],
+   "answer": 2,
+   "explanation": "Book's printed key: Ensure personal safety.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "YOU are the Provider (48-year-old woman, back pain): How is patient care integrated across health systems when a patient is transported to the hospital?",
+   "choices": [
+    "By transferring medical control to the hospital at the moment the ambulance leaves the scene, ending the crew's documentation duties",
+    "Through communication with the receiving facility, starting with prenotification before arrival when appropriate, then a verbal report to receiving staff, followed by a more complete, detailed written report",
+    "Through the CQI process, which forwards the crew's run report to the hospital for review after the call",
+    "By credentialing, in which the receiving hospital verifies the crew's qualifications before accepting the patient"
+   ],
+   "answer": 1,
+   "explanation": "Integrated care means communicating scene and history information to receiving staff, beginning with prenotification before arrival, then a verbal report followed by a detailed written report.",
+   "source": "Textbook — YOU are the Provider",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "In Colorado, two medical services companies hired a man whose paramedic certificate had expired in 2012 after accepting his forged documents; he treated over 100 patients. Where did credentialing fail?",
+   "choices": [
+    "The state registry refused to share his records",
+    "The employers trusted applicant documents instead of checking the state registry",
+    "The man held a valid credential from another state",
+    "Credentialing was completed, but supervision was lacking"
+   ],
+   "answer": 1,
+   "explanation": "The deck's connection: employer credentialing failed by trusting applicant documents instead of checking the state registry.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "credentialing",
+   "topic_n": 12
+  },
+  {
+   "question": "In Aurora, Colorado, in 2019, paramedics injected Elijah McClain with 500 mg of ketamine, a dose for a roughly 200-lb man, though he weighed about 143 lb; he went into cardiac arrest and died. What lesson does this case teach about paramedic pharmacology?",
+   "choices": [
+    "Sedative doses do not depend on patient weight",
+    "Ketamine should be given before any weight estimate is made",
+    "Weight-based dosing needs a careful estimate, and patients need monitoring after sedation",
+    "Only physicians may decide sedative doses in the field"
+   ],
+   "answer": 2,
+   "explanation": "The deck's lessons are that weight-based dosing needs a careful estimate and patients need monitoring after sedation.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "question": "Assessment in Action: This act of legislation protects people with disabilities from being denied access to programs and services that are provided by state or local governments.",
+   "choices": [
+    "Ryan White Act",
+    "Marchman Act",
+    "Equal Rights Amendment",
+    "Americans with Disabilities Act"
+   ],
+   "answer": 3,
+   "explanation": "Book's printed key: Americans with Disabilities Act.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "What is a medical director in EMS?",
+   "choices": [
+    "A system of reviews and audits aimed at improving outcomes",
+    "A device that detects shockable cardiac rhythms",
+    "The physician who authorizes or delegates to the EMT the authority to provide medical care in the field",
+    "Physician instructions given by radio or protocol"
+   ],
+   "answer": 2,
+   "explanation": "The medical director is the physician whose authorization lets EMTs provide medical care in the field.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "medical director",
+   "topic_n": 6
+  },
+  {
+   "question": "What does the term \"Knowledge-based failure\" mean?",
+   "choices": [
+    "Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
+    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
+    "The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
+    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it."
+   ],
+   "answer": 1,
+   "explanation": "Knowledge-based failure: An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Knowledge-based failure",
+   "topic_n": 31
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Paramedic",
+    "Advanced EMT",
+    "Emergency medical responder",
+    "Emergency medical technician"
+   ],
+   "explanation": "IV therapy and certain emergency medications are within the advanced EMT scope, which sits above the EMT but below the paramedic.",
+   "question": "On scene, a provider starts an IV line and gives a patient one of the emergency medicines her training and protocols allow, but she does not perform paramedic-level skills. What level of provider is she?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "question": "Assessment in Action: An example of teamwork and diplomacy is:",
+   "choices": [
+    "using your persona to project a sense of personal superiority to patients.",
+    "being able to communicate while giving respect to the listener.",
+    "acknowledging that others are not in high regard or importance.",
+    "delegating multiple tasks only occasionally to ensure efficiency and safety."
+   ],
+   "answer": 1,
+   "explanation": "Book's printed key: being able to communicate while giving respect to the listener.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "The crew had followed protocol exactly",
+    "The trip record was completely accurate",
+    "The patient survived because of the crew's care",
+    "The agency had no effective quality assurance program"
+   ],
+   "explanation": "The state found widespread problems, including no effective QA program, which let poor care and false documentation go uncaught.",
+   "question": "In Worcester, Massachusetts in 2008, paramedics walked a severe chest-pain patient down three flights of stairs against state protocol, and their trip record falsely claimed a stair chair was used; the patient died at the hospital. What did the state find about the agency's oversight?",
+   "source": "Case Studies — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "question": "In February 2023, the medical director of the Town of Eagle Point, Wisconsin EMS service resigned after complaining that providers were not following protocol; because state law requires a licensed medical director, the town had to suspend its EMS service until a new one was found. What does this case demonstrate?",
+   "choices": [
+    "Medical directors are optional for small services",
+    "Without a medical director there is no legal authority to practice, so protocol compliance protects the service itself",
+    "A service can keep running indefinitely on standing orders alone",
+    "Protocol disputes have no effect on patient care"
+   ],
+   "answer": 1,
+   "explanation": "No medical director means no legal authority to practice; Eagle Point's protocol dispute became a service outage.",
+   "source": "Flashcard Case Studies — Set 1",
+   "topic": "medical director",
+   "topic_n": 6
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "A knowledge-based failure",
+    "A rule-based failure",
+    "A skill-based slip",
+    "A documentation error"
+   ],
+   "explanation": "He acted on knowledge he did not have, which is the definition of a knowledge-based failure.",
+   "question": "A provider picks a medication dose from memory, gets it wrong, and review shows he never learned the correct dose range. What kind of failure is this?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Knowledge-based failure",
+   "topic_n": 31
+  },
+  {
+   "question": "Freedom House Ambulance Service began in Pittsburgh in 1967 and trained unemployed Hill District residents, starting with 20 men, as some of the first US paramedics, working with Dr. Peter Safar; its standards became a national training model. What does this case show about the origin of the paramedic role?",
+   "choices": [
+    "The role began in rural fire departments without any training",
+    "The profession began with community members who received rigorous training",
+    "Paramedics were originally hospital nurses reassigned to ambulances",
+    "The role was created by a federal law in 1967"
+   ],
+   "answer": 1,
+   "explanation": "The deck's lesson is that the paramedic profession began with community members who received rigorous training.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "On-line medical direction",
+    "Off-line medical direction",
+    "A standing order",
+    "Continuous quality improvement"
+   ],
+   "explanation": "An order given directly by radio or phone during the call is on-line medical direction.",
+   "question": "During a call, an EMT radios the hospital and a physician orders a medication dose in real time. What type of medical direction is this?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "medical control",
+   "topic_n": 1
+  },
+  {
+   "question": "Which term is defined as: The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
+   "choices": [
+    "Continuing education",
+    "Accidental Death and Disability: The Neglected Disease of Modern Society",
+    "human resources department",
+    "Knowledge-based failure"
+   ],
+   "answer": 1,
+   "explanation": "Accidental Death and Disability: The Neglected Disease of Modern Society: The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
+   "topic_n": 30
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "A provider deliberately skips a required protocol step",
+    "A provider's gloved hand slips while starting an IV",
+    "A provider gives a drug without knowing its concentration",
+    "A provider's radio fails during a patient report"
+   ],
+   "explanation": "Giving a drug without knowing its concentration means the pertinent knowledge was missing; knowingly breaking a rule is a rule-based problem.",
+   "question": "Which of these errors is a knowledge-based failure?",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Knowledge-based failure",
+   "topic_n": 31
+  },
+  {
+   "question": "Pickens County, Alabama lost its ambulance subsidy in 2024 and fell to a single ambulance before service ended entirely. What lesson does this case teach about primary service areas?",
+   "choices": [
+    "Rural counties are exempt from designating a service area",
+    "Helicopters can permanently replace ground ambulances in a service area",
+    "A primary service area only works if someone can staff it and pay for it",
+    "A service area ends automatically when a subsidy expires"
+   ],
+   "answer": 2,
+   "explanation": "The deck's connection: a primary service area only works if someone can staff it and pay for it.",
+   "source": "Flashcard Case Studies — Set 2",
+   "topic": "primary service area",
+   "topic_n": 8
+  },
+  {
+   "question": "What does the term 'evidence-based medicine' mean?",
+   "choices": [
+    "Efforts to limit the effects of an injury or illness that you cannot completely prevent",
+    "A call center staffed by trained personnel who manage requests for police, fire, and ambulance services",
+    "A health care model in which experienced paramedics provide additional services in the prehospital environment",
+    "An approach to medicine where decisions are based on well-conducted research, classifying recommendations based on the strength of the scientific evidence"
+   ],
+   "answer": 3,
+   "explanation": "Evidence-based medicine bases decisions on well-conducted research, grading recommendations by the strength of the scientific evidence.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "evidence-based medicine",
+   "topic_n": 20
+  },
+  {
+   "question": "What does the term \"advanced life support\" (ALS) mean?",
+   "choices": [
+    "A multidisciplinary system of professionals and agencies providing prehospital care",
+    "Advanced life-saving procedures, some of which are now being provided by the EMT",
+    "Training in basic life support, including AED use and airway adjuncts",
+    "A dispatch system that provides callers with instructions until crews arrive"
+   ],
+   "answer": 1,
+   "explanation": "Per the deck, advanced life support means advanced life-saving procedures, some of which are now provided by the EMT.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Certification program",
+    "Licensure visit",
+    "Mobile integrated health care",
+    "Accreditation review"
+   ],
+   "explanation": "The team brought health care into the community rather than requiring a facility visit, which is the mobile integrated health care model.",
+   "question": "An EMS agency sends a team to a rural patient's home for a scheduled health check because the nearest clinic is an hour away. Which care model are they using?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "mobile integrated health care",
+   "topic_n": 11
+  },
+  {
+   "question": "What is an advanced EMT (AEMT)?",
+   "choices": [
+    "A provider trained in basic life support, including AED use and assisting patients with certain medications",
+    "A system that helps dispatchers select units and gives callers instructions until crews arrive",
+    "A provider trained in specific aspects of advanced life support, such as intravenous therapy and giving certain emergency medications",
+    "The combined efforts of several professionals and agencies providing prehospital emergency care"
+   ],
+   "answer": 2,
+   "explanation": "Per the deck, the AEMT is trained in specific aspects of advanced life support, including intravenous therapy and administration of certain emergency medications.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "question": "Assessment in Action: Why is EMS research a vital part in the evolution of patient management?",
+   "choices": [
+    "Research provides data that identify treatments that are beneficial and/or lifesaving for trauma patients and those that are not, and participation in research empowers the EMT to help shape the future of trauma care",
+    "Research is a continuing education requirement an EMT must complete to keep certification current",
+    "Research replaces CQI audits as the main way EMS systems check the quality of patient care",
+    "Research determines each state's scope of practice and the education standards for every provider level"
+   ],
+   "answer": 0,
+   "explanation": "Book's printed key: Research provides data that identify treatments that are beneficial and/or lifesaving for trauma patients and those that are not. Participation in EMS research empowers the EMT to help shape the future of trauma care.",
+   "source": "Textbook — Assessment in Action",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "Which term is defined as: \"Efforts to prevent an injury or illness from ever occurring\"?",
+   "choices": [
+    "Secondary prevention",
+    "Quality control",
+    "Primary prevention",
+    "National EMS Scope of Practice Model"
+   ],
+   "answer": 2,
+   "explanation": "The deck defines primary prevention as efforts to prevent an injury or illness from ever occurring.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Americans With Disabilities Act",
+    "Health Insurance Portability and Accountability Act",
+    "National EMS Scope of Practice Model",
+    "Occupational Safety and Health Act"
+   ],
+   "explanation": "The ADA protects qualified people with disabilities against discrimination in employment.",
+   "question": "A qualified EMT applicant who uses a wheelchair is refused a job interview solely because of the wheelchair. Which federal law addresses this kind of discrimination?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "What is the National EMS Scope of Practice Model?",
+   "choices": [
+    "A federal law that sets one binding scope for every state",
+    "Oversight by the medical director to ensure care standards are met on each call",
+    "Efforts to prevent an injury or illness from ever occurring",
+    "A document created by NHTSA that outlines the skills performed by various EMS providers"
+   ],
+   "answer": 3,
+   "explanation": "The model is NHTSA's document outlining provider skills; the deck notes it is a recommendation, not federal law.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Credentialing",
+    "Certification",
+    "Continuing education",
+    "Licensure"
+   ],
+   "explanation": "Certification shows she met a standard; licensure is the state's actual permission to work, and that is what she is still missing.",
+   "question": "An EMT holds national certification but is stopped from working because the state has not yet approved her application to practice. What is she still missing?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "licensure",
+   "topic_n": 9
+  },
+  {
+   "question": "In 2011, the Western Eagle County Ambulance District in rural Colorado launched one of the first community paramedic programs. Two paramedics made doctor-referred home visits — checking vitals, ECGs, blood draws, medications, and wounds — and wrote reports for the referring physicians. What does this program show about the community paramedic role?",
+   "choices": [
+    "Community paramedics report home findings to the patient's referring physician, and hazards or missed medications found on a house call can prevent the next 911 run",
+    "Community paramedics replace primary care physicians for rural patients",
+    "Community paramedic visits are unplanned 911 responses rather than scheduled referrals",
+    "Community paramedics work without any physician involvement"
+   ],
+   "answer": 0,
+   "explanation": "The Eagle County case states that community paramedics report home findings to the referring physician and that fall hazards or missed meds found on a house call can prevent the next 911 run.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "community paramedicine",
+   "topic_n": 18
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Medical control",
+    "HIPAA enforcement",
+    "Continuous quality improvement",
+    "Off-line medical direction"
+   ],
+   "explanation": "CQI is meant to find areas of improvement and provide remedial training, not punishment.",
+   "question": "A review of run reports shows several EMTs are missing the same assessment step, so the agency schedules extra training on it instead of disciplining them. What process produced this result?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "continuous quality improvement",
+   "topic_n": 3
+  },
+  {
+   "question": "What does the term 'emergency medical responder' mean?",
+   "choices": [
+    "A call center staffed by trained personnel who manage requests for police, fire, and ambulance services",
+    "A trained professional, such as a police officer, firefighter, lifeguard, or other rescuer, who may arrive first at an emergency to provide initial medical assistance",
+    "Efforts to limit the effects of an injury or illness that you cannot completely prevent",
+    "An approach to medicine where decisions are based on well-conducted research"
+   ],
+   "answer": 1,
+   "explanation": "An emergency medical responder is a trained professional who may arrive first at an emergency and provide initial medical assistance.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "emergency medical responder",
+   "topic_n": 21
+  },
+  {
+   "question": "Following a car crash, EMTs control a patient's bleeding promptly so blood loss and shock do not progress. What type of prevention does this represent?",
+   "choices": [
+    "Community paramedicine",
+    "Primary prevention",
+    "Secondary prevention",
+    "Emergency medical response"
+   ],
+   "answer": 2,
+   "explanation": "Acting after the event to limit how bad the outcome becomes is secondary prevention.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "secondary prevention",
+   "topic_n": 19
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Certification",
+    "Accreditation",
+    "Credentialing",
+    "Reciprocity"
+   ],
+   "explanation": "State licensure grants permission to practice, but the agency must still verify her qualifications to work there through credentialing.",
+   "question": "An EMT is licensed by the state, but a new employer still will not schedule her until it finishes checking her qualifications and competency paperwork. What employer process is still pending?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "credentialing",
+   "topic_n": 12
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Mobile integrated health care",
+    "Credentialing",
+    "Public health surveillance",
+    "Mutual aid"
+   ],
+   "explanation": "The follow-up care happened where the patient lives, in the community, which is mobile integrated health care.",
+   "question": "After discharge, a paramedic visits a patient at her apartment to check her wound and weight so she can avoid another ER trip. What is this type of program called?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "mobile integrated health care",
+   "topic_n": 11
+  },
+  {
+   "question": "What does the term \"medical control\" mean?",
+   "choices": [
+    "The physician who authorizes EMTs to provide medical care in the field",
+    "A system of internal and external reviews and audits of an EMS system",
+    "Physician instructions given directly by radio or cell phone, or indirectly by protocol and guidelines",
+    "The delivery of medication directly into a vein"
+   ],
+   "answer": 2,
+   "explanation": "Medical control means physician instructions to EMTs, delivered online during a call or offline through standing protocols.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "medical control",
+   "topic_n": 1
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Continuous quality improvement",
+    "On-line medical control",
+    "The Health Insurance Portability and Accountability Act",
+    "Off-line medical direction"
+   ],
+   "explanation": "Regular reviews and audits aimed at improving care are continuous quality improvement.",
+   "question": "Each month, an EMS agency audits charts and response times to spot patterns and fix weak spots in patient care. What is this ongoing review process called?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "continuous quality improvement",
+   "topic_n": 3
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Medical direction",
+    "Patient privacy enforcement",
+    "Scope-of-practice expansion",
+    "Continuous quality improvement"
+   ],
+   "explanation": "Reviewing calls to learn and improve future performance is part of CQI.",
+   "question": "After a difficult call, a supervisor reviews the documentation with the crew to find what went well and what should change next time. Which system is at work here?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "continuous quality improvement",
+   "topic_n": 3
+  },
+  {
+   "question": "In Ohio in 2025, the state EMFTS Board expanded AEMT use of ondansetron, allowing it for patients 4 and older and dropping the oral-only route limit. Who has the authority to set and change what drugs an Ohio AEMT may give?",
+   "choices": [
+    "The state EMS board",
+    "The individual AEMT, based on experience",
+    "The patient's receiving hospital",
+    "The ambulance service's billing department"
+   ],
+   "answer": 0,
+   "explanation": "The deck's Ohio case states that the state EMS board, not the medic, sets and changes AEMT drug authority; medical directors may limit scope but never expand it.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "question": "A 1989 Houston trial randomized 911 hypotensive trauma patients to MAST trousers or no MAST. MAST did not improve survival, added prehospital time, and the Houston Fire Department stopped using the device. What lesson does this classic evidence-based medicine case teach?",
+   "choices": [
+    "A device should stay in use as long as crews are familiar with it",
+    "'We've always done it' is not evidence — every intervention costs scene time and must earn its place with evidence",
+    "Randomized trials should not change EMS practice",
+    "MAST trousers failed only because crews applied them incorrectly"
+   ],
+   "answer": 1,
+   "explanation": "The MAST case's lesson is that tradition is not evidence and every intervention must earn its place with evidence.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "evidence-based medicine",
+   "topic_n": 20
+  },
+  {
+   "question": "Which term is defined as: physician instructions given directly by radio or cell phone (online/direct) or indirectly by protocol/guidelines (offline/indirect), as authorized by the medical director of the service program?",
+   "choices": [
+    "Medical director",
+    "Medical control",
+    "Continuous quality improvement",
+    "Intravenous therapy"
+   ],
+   "answer": 1,
+   "explanation": "Medical control is the physician direction of field care, given online by radio or phone or offline through protocols.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "medical control",
+   "topic_n": 1
+  },
+  {
+   "question": "In 2011, Minnesota became the first state to define community paramedics in law, and its Medicaid program began paying for their care of patients with frequent emergency department visits. What made it possible for this program to operate as a recognized, paid service?",
+   "choices": [
+    "A federal rule requiring every state to hire community paramedics",
+    "A study proving home visits eliminate emergency department use",
+    "Legal recognition of the role plus a payment mechanism",
+    "A requirement that paramedics replace primary care doctors"
+   ],
+   "answer": 2,
+   "explanation": "Minnesota shows that legal recognition and payment are what let community paramedicine operate.",
+   "source": "Case Studies — Set 4",
+   "topic": "community paramedicine",
+   "topic_n": 18
+  },
+  {
+   "question": "Which term is defined as: The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
+   "choices": [
+    "human resources department",
+    "Knowledge-based failure",
+    "EMT licensure/employment requirements",
+    "State office of EMS"
+   ],
+   "answer": 2,
+   "explanation": "EMT licensure/employment requirements: The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "EMT licensure/employment requirements",
+   "topic_n": 33
+  },
+  {
+   "question": "Which term is defined as: \"Oversight by the medical director to ensure the appropriate medical care standards are met by EMTs on each call\"?",
+   "choices": [
+    "Quality control",
+    "Primary prevention",
+    "Americans With Disabilities Act",
+    "Paramedic"
+   ],
+   "answer": 0,
+   "explanation": "The deck defines quality control as the medical director's oversight ensuring care standards are met on each call.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Emergency Medical Responder",
+    "Emergency Medical Technician",
+    "Paramedic",
+    "Advanced Emergency Medical Technician"
+   ],
+   "explanation": "Endotracheal intubation and emergency pharmacology are paramedic-level advanced skills.",
+   "question": "A patient needs endotracheal intubation and emergency drugs in the field, beyond basic airway and medication help. Which provider level is trained for this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "question": "What is an automated external defibrillator (AED)?",
+   "choices": [
+    "A device that detects shockable cardiac rhythms and delivers the appropriate electrical shock to the patient",
+    "A federal law that limits access to patients' health care information",
+    "A system of reviews and audits aimed at improving EMS outcomes",
+    "The physician who delegates authority for field care to EMTs"
+   ],
+   "answer": 0,
+   "explanation": "An AED analyzes the heart rhythm and delivers a shock for treatable rhythms like ventricular fibrillation.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "automated external defibrillator",
+   "topic_n": 2
+  },
+  {
+   "question": "Hardin County EMS in Kentucky allegedly refused a patient's service dog in the ambulance twice; its 2018 settlement required ADA training for staff, including how to accommodate service animals. What is the general rule for service animals?",
+   "choices": [
+    "They may always be refused when space is tight",
+    "They must be left at the scene for animal control",
+    "They generally must be allowed unless they interfere with treatment",
+    "They are allowed only if the patient is blind"
+   ],
+   "answer": 2,
+   "explanation": "The deck states service animals generally must be allowed unless they interfere with treatment.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "What does \"intravenous therapy\" mean?",
+   "choices": [
+    "Physician instructions given indirectly through protocols",
+    "A system of internal and external audits of an EMS system",
+    "The delivery of medication directly into a vein",
+    "A device that detects and shocks ventricular fibrillation"
+   ],
+   "answer": 2,
+   "explanation": "Intravenous therapy delivers medication directly into a vein.",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "intravenous therapy",
+   "topic_n": 5
+  },
+  {
+   "question": "Navigate Case Study: On arrival, a police officer's CPR and a firefighter's AED shock have restored the patient's carotid pulse, but he remains unconscious and is not breathing adequately. What are your immediate concerns regarding patient care, and what are your overall responsibilities as an EMT?",
+   "choices": [
+    "Begin the CQI review of the first responders' performance before starting any patient care",
+    "Confirm and maintain the airway, ventilate, monitor the cardiac rhythm and pulse, and be ready for the arrest to recur; as the EMT, provide BLS care within scope and assist the paramedic with ALS measures such as airway management, IV access, and medications while preparing for transport",
+    "Take over pharmacologic therapy and IV medication administration from the paramedic to speed up care",
+    "Focus on comforting the family and gathering the patient's medical history before reassessing the airway"
+   ],
+   "answer": 1,
+   "explanation": "With a pulse restored but the patient still unconscious and not breathing adequately, the priorities are airway, ventilation, rhythm and pulse monitoring, and readiness for re-arrest, with the EMT providing BLS and assisting the paramedic's ALS care.",
+   "source": "Textbook — Navigate Case Study",
+   "topic": null,
+   "topic_n": null
+  },
+  {
+   "question": "A specially trained paramedic does home health checks for frequent 911 callers and helps one patient get connected to a regular doctor. What is this role an example of?",
+   "choices": [
+    "Community paramedicine",
+    "Emergency medical responder",
+    "Secondary prevention",
+    "Public safety access point"
+   ],
+   "answer": 0,
+   "explanation": "Home evaluations and helping patients connect to regular care are the work of community paramedicine.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "community paramedicine",
+   "topic_n": 18
+  },
+  {
+   "question": "In April 2014, an outage at a 911 routing center caused thousands of calls across multiple states to never reach dispatch centers, including calls about a heart attack and a home intruder; the FCC later fined the carriers involved $17.4 million. The center that receives 911 calls and dispatches responders is known as a:",
+   "choices": [
+    "Community paramedicine hub",
+    "Emergency medical responder station",
+    "Secondary prevention center",
+    "Public safety access point"
+   ],
+   "answer": 3,
+   "explanation": "The FCC holds carriers responsible for delivering 911 calls to public safety access points (PSAPs).",
+   "source": "Case Studies — Set 4",
+   "topic": "public safety access point",
+   "topic_n": 22
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Oral medication administration",
+    "Intravenous therapy",
+    "Intramuscular injection",
+    "Nebulized medication therapy"
+   ],
+   "explanation": "Intravenous therapy delivers medication or fluids directly into a vein.",
+   "question": "A paramedic starts a line in a patient's arm vein and gives medication through it so it reaches the bloodstream directly. What therapy is being given?",
+   "source": "Quiz-Style Slides — Set 1",
+   "topic": "intravenous therapy",
+   "topic_n": 5
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Licensure",
+    "Certification",
+    "Accreditation",
+    "Credentialing"
+   ],
+   "explanation": "The agency verified this individual's qualifications for its own service, which is the credentialing process.",
+   "question": "Before letting a newly hired EMT work, an agency checks her license, certifications, and skills records to confirm she is qualified to practice there. What process is the agency completing?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "credentialing",
+   "topic_n": 12
+  }
+ ]
+}

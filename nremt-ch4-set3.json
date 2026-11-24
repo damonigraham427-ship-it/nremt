@@ -1,0 +1,172 @@
+{
+ "questions": [
+  {
+   "question": "Which term is defined as: A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
+   "choices": [
+    "therapeutic communication",
+    "chief concern",
+    "cellular telephone",
+    "Federal Communications Commission"
+   ],
+   "answer": 2,
+   "explanation": "cellular telephone: A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "cellular telephone",
+   "topic_n": 13
+  },
+  {
+   "question": "What does the term \"cellular telephone\" mean?",
+   "choices": [
+    "A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
+    "Questions that can be answered in short or single-word responses.",
+    "A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
+    "Any radio hardware containing a transmitter and receiver that is located in a fixed place."
+   ],
+   "answer": 2,
+   "explanation": "cellular telephone: A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "cellular telephone",
+   "topic_n": 13
+  },
+  {
+   "question": "Which term is defined as: A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
+   "choices": [
+    "interoperable communications system",
+    "VHF",
+    "trunking",
+    "channel"
+   ],
+   "answer": 0,
+   "explanation": "interoperable communications system: A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "interoperable communications system",
+   "topic_n": 14
+  },
+  {
+   "question": "What does the term \"interoperable communications system\" mean?",
+   "choices": [
+    "When one person imposes his or her beliefs, values, and practices on another because he or she believes his or her ideals are superior.",
+    "A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
+    "Questions that can be answered in short or single-word responses.",
+    "The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or a mobile data terminal."
+   ],
+   "answer": 1,
+   "explanation": "interoperable communications system: A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "interoperable communications system",
+   "topic_n": 14
+  },
+  {
+   "question": "Which term is defined as: The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
+   "choices": [
+    "rapport",
+    "emotional intelligence",
+    "cellular telephone",
+    "trunking"
+   ],
+   "answer": 1,
+   "explanation": "emotional intelligence: The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emotional intelligence",
+   "topic_n": 15
+  },
+  {
+   "question": "What does the term \"emotional intelligence\" mean?",
+   "choices": [
+    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
+    "A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency.",
+    "A trusting relationship that you build with your patient.",
+    "The ability to understand and manage one’s own emotions and properly respond to the emotions of others."
+   ],
+   "answer": 3,
+   "explanation": "emotional intelligence: The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emotional intelligence",
+   "topic_n": 15
+  },
+  {
+   "question": "Which term is defined as: A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
+   "choices": [
+    "handover",
+    "telemetry",
+    "chief concern",
+    "health information exchange"
+   ],
+   "answer": 3,
+   "explanation": "health information exchange: A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "health information exchange",
+   "topic_n": 16
+  },
+  {
+   "question": "What does the term \"health information exchange\" mean?",
+   "choices": [
+    "The picture an individual has in his or her head of “what’s going on” in a given situation.",
+    "Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship.",
+    "Radio frequencies between 300 and 3,000 MHz.",
+    "A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available."
+   ],
+   "answer": 3,
+   "explanation": "health information exchange: A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "health information exchange",
+   "topic_n": 16
+  },
+  {
+   "question": "Which term is defined as: The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
+   "choices": [
+    "base station",
+    "communication",
+    "duplex",
+    "patient care report"
+   ],
+   "answer": 3,
+   "explanation": "patient care report: The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "patient care report",
+   "topic_n": 17
+  },
+  {
+   "question": "What does the term \"patient care report\" mean?",
+   "choices": [
+    "The ability to transmit and receive simultaneously.",
+    "The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
+    "Radio frequencies between 300 and 3,000 MHz.",
+    "Any communications where disruption will result in the failure of the mission at hand."
+   ],
+   "answer": 1,
+   "explanation": "patient care report: The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "patient care report",
+   "topic_n": 17
+  },
+  {
+   "question": "Which term is defined as: Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
+   "choices": [
+    "base station",
+    "emotional intelligence",
+    "channel",
+    "trunking"
+   ],
+   "answer": 0,
+   "explanation": "base station: Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "base station",
+   "topic_n": 18
+  },
+  {
+   "question": "What does the term \"base station\" mean?",
+   "choices": [
+    "Anything that dampens or obscures the true meaning of a message.",
+    "The ability to transmit audio and data signals through the use of more than one communications channel.",
+    "Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
+    "An assigned frequency or frequencies that are used to carry voice and/or data communications."
+   ],
+   "answer": 2,
+   "explanation": "base station: Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "base station",
+   "topic_n": 18
+  }
+ ]
+}

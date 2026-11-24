@@ -1,0 +1,522 @@
+{
+ "questions": [
+  {
+   "answer": 1,
+   "choices": [
+    "Paramedic",
+    "Advanced EMT",
+    "Emergency medical responder",
+    "Emergency medical technician"
+   ],
+   "explanation": "IV therapy and certain emergency medications are within the advanced EMT scope, which sits above the EMT but below the paramedic.",
+   "question": "On scene, a provider starts an IV line and gives a patient one of the emergency medicines her training and protocols allow, but she does not perform paramedic-level skills. What level of provider is she?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Advanced EMT",
+    "Emergency medical technician",
+    "Paramedic",
+    "Emergency medical responder"
+   ],
+   "explanation": "That added IV and medication role identifies the advanced EMT.",
+   "question": "A crew member who has moved one step beyond basic EMT training is authorized to place an IV and administer a limited set of emergency drugs. What is this provider level called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Emergency medical responder",
+    "Paramedic",
+    "Emergency medical dispatcher",
+    "Advanced EMT"
+   ],
+   "explanation": "The advanced EMT sits between EMT and paramedic, with IV and select medication skills.",
+   "question": "During a call, the provider giving IV fluids and an approved emergency medication is working above the EMT level but below the paramedic level. Which provider level is this?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Advanced EMT",
+    "Emergency medical technician",
+    "Emergency medical responder",
+    "Paramedic"
+   ],
+   "explanation": "Basic life support, AED use, and medication assistance are core EMT functions.",
+   "question": "A provider gives basic life support, applies an AED to an unresponsive patient, and helps the patient take a prescribed medication. What level of provider is this?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Emergency medical technician",
+    "Advanced EMT",
+    "Paramedic",
+    "Emergency medical dispatcher"
+   ],
+   "explanation": "EMTs provide basic life support, including use of an airway adjunct.",
+   "question": "At a collapse, a responder inserts an airway adjunct and begins basic life support care while the ambulance is readied for transport. Which provider level does this describe?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Paramedic",
+    "Advanced EMT",
+    "Emergency medical technician",
+    "Emergency medical responder"
+   ],
+   "explanation": "Assisting patients with certain prescribed medications is part of the EMT role.",
+   "question": "A patient with chest discomfort is assisted with his own prescribed medication by the basic-level field provider caring for him. What is that provider called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Basic life support",
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Emergency medical services"
+   ],
+   "explanation": "Procedures beyond basic life support are advanced life support.",
+   "question": "A patient's care goes beyond basic measures when the crew begins advanced airway and cardiac treatment procedures in the field. What level of care is this called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Advanced life support",
+    "Basic life support",
+    "Emergency medical dispatch",
+    "Emergency medical services"
+   ],
+   "explanation": "Advanced life-saving procedures define advanced life support care.",
+   "question": "Instead of only oxygen and basic support, the crew performs advanced life-saving interventions normally associated with higher-level providers. Which type of care are they providing?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Basic life support",
+    "Emergency medical services",
+    "Emergency medical dispatch",
+    "Advanced life support"
+   ],
+   "explanation": "Care that moves past basic life support into advanced procedures is ALS.",
+   "question": "A critically ill patient receives advanced procedures in the field that some EMTs are now trained to help provide, rather than basic care alone. What is this level of care?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Emergency medical services",
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Online medical direction"
+   ],
+   "explanation": "Selecting units and giving prearrival instructions are emergency medical dispatch functions.",
+   "question": "When a 911 call comes in, a trained dispatcher decides which units should respond and talks the caller through care until the crew arrives. What system is this?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Basic life support",
+    "Emergency medical services"
+   ],
+   "explanation": "Emergency medical dispatch provides caller instructions while crews are en route.",
+   "question": "A caller is told step by step what to do for a choking child while the dispatcher sends the closest appropriate ambulance. Which dispatch function is being used?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Emergency medical services",
+    "Emergency medical technician",
+    "Emergency medical dispatch",
+    "Advanced life support"
+   ],
+   "explanation": "That unit-selection plus prearrival-instruction role is emergency medical dispatch.",
+   "question": "Before any crew arrives, dispatch matches the call to the right response units and keeps giving the caller vital instructions by phone. What is this called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Advanced life support",
+    "Emergency medical dispatch",
+    "Emergency medical services",
+    "Basic life support"
+   ],
+   "explanation": "EMS is the combined team of professionals and agencies providing prehospital care and transport.",
+   "question": "Dispatchers, first responders, EMTs, paramedics, and hospital staff all work together so a sick patient gets field care and transport to the hospital. What overall system is this?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Emergency medical services",
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Basic life support"
+   ],
+   "explanation": "That coordinated care-and-transport network is the emergency medical services system.",
+   "question": "After a car crash, several types of health care professionals and agencies coordinate to treat the injured and move them to definitive care. Which system are they part of?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Emergency medical responder",
+    "Emergency medical dispatch",
+    "Advanced life support",
+    "Emergency medical services"
+   ],
+   "explanation": "Providing emergency care and transportation to the sick and injured is the EMS mission.",
+   "question": "A community relies on an organized team of health care professionals to answer medical emergencies, care for the sick and injured, and transport them. What is that team called?",
+   "source": "Quiz-Style Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "They were promoted to paramedic",
+    "They were recertified as EMTs",
+    "They kept the EMT-I/85 level indefinitely",
+    "They lost all EMS certification permanently"
+   ],
+   "explanation": "I/85s who missed their transition deadlines (2015-2017) were recertified as EMTs.",
+   "question": "In 2011 the NREMT adopted a transition policy after the National EMS Scope of Practice Model created the Advanced EMT level to replace the many EMT-Intermediate levels. What happened to EMT-I/85 providers who missed their transition deadline?",
+   "source": "Case Studies — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Intubation doubled survival compared with BVM alone",
+    "BVM alone doubled survival compared with intubation",
+    "Survival was similar (30% BVM vs. 26% intubation), with no significant difference",
+    "Neither group had any survivors"
+   ],
+   "explanation": "The JAMA 2000 trial found no significant survival difference, showing core EMT ventilation skills are what count.",
+   "question": "In a Los Angeles and Orange County trial (1994-1997), 830 children who needed airway help received bag-valve-mask (BVM) ventilation only on odd days, or BVM followed by field intubation on even days. What did the study find about survival to hospital discharge?",
+   "source": "Case Studies — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "It did not change (5.0% before ALS vs. 5.1% after)",
+    "It doubled once ALS was added",
+    "It fell sharply because of intubation delays",
+    "It rose mainly because of IV drug administration"
+   ],
+   "explanation": "OPALS (NEJM, 2004) found survival unchanged; it was tied instead to witnessed arrest, bystander CPR, and rapid defibrillation.",
+   "question": "In the OPALS study in Ontario, paramedic ALS (intubation and IV drugs) was added in 17 cities that already had rapid defibrillation. What happened to survival to hospital discharge for cardiac arrest patients?",
+   "source": "Case Studies — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Bystander CPR fell because callers waited for instructions",
+    "Hospital records showed a clear excess of injuries from dispatcher-assisted CPR",
+    "Bystander CPR was unchanged by the phone instructions",
+    "Bystander CPR rose from 45% to 56%, with no excess injury found"
+   ],
+   "explanation": "Dispatcher-assisted CPR raised bystander CPR rates and saved lives, with no excess injury in hospital records.",
+   "question": "In a 1985 King County, Washington study, dispatchers began giving CPR instructions by phone to callers. What was the effect on bystander CPR?",
+   "source": "Case Studies — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "Which term is defined as: \"An individual who has training in specific aspects of advanced life support, such as intravenous therapy, and the administration of certain emergency medications\"?",
+   "choices": [
+    "Emergency medical technician",
+    "Advanced EMT",
+    "Paramedic",
+    "Emergency medical responder"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines the advanced EMT as a provider trained in specific aspects of advanced life support, such as IV therapy and certain emergency medications.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "question": "What is an advanced EMT (AEMT)?",
+   "choices": [
+    "A provider trained in basic life support, including AED use and assisting patients with certain medications",
+    "A system that helps dispatchers select units and gives callers instructions until crews arrive",
+    "A provider trained in specific aspects of advanced life support, such as intravenous therapy and giving certain emergency medications",
+    "The combined efforts of several professionals and agencies providing prehospital emergency care"
+   ],
+   "answer": 2,
+   "explanation": "Per the deck, the AEMT is trained in specific aspects of advanced life support, including intravenous therapy and administration of certain emergency medications.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "question": "In Ohio in 2025, the state EMFTS Board expanded AEMT use of ondansetron, allowing it for patients 4 and older and dropping the oral-only route limit. Who has the authority to set and change what drugs an Ohio AEMT may give?",
+   "choices": [
+    "The state EMS board",
+    "The individual AEMT, based on experience",
+    "The patient's receiving hospital",
+    "The ambulance service's billing department"
+   ],
+   "answer": 0,
+   "explanation": "The deck's Ohio case states that the state EMS board, not the medic, sets and changes AEMT drug authority; medical directors may limit scope but never expand it.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "advanced EMT",
+   "topic_n": 13
+  },
+  {
+   "question": "In 2024, Kentucky had only 2,474 of its 4,292 certified paramedics working for an ambulance service, while state rules required Class I ALS agencies to keep a paramedic on duty at all times. What did the Kentucky Board of EMS emergency regulation allow?",
+   "choices": [
+    "ALS agencies could close until more paramedics were hired",
+    "EMTs could perform all paramedic skills without extra certification",
+    "Paramedic staffing rules were suspended statewide with no reporting",
+    "An ALS agency could keep operating with an AEMT or a paramedic on duty, under a temporary staffing waiver"
+   ],
+   "answer": 3,
+   "explanation": "The deck's Kentucky case says the emergency regulation let ALS agencies operate with an AEMT or a paramedic on duty under temporary waivers, keeping advanced care available during the shortage.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "question": "Which term is defined as: \"An individual who has training in basic life support, including automated external defibrillation, use of a definitive airway adjunct, and assisting patients with certain medications\"?",
+   "choices": [
+    "Emergency medical technician",
+    "Advanced EMT",
+    "Paramedic",
+    "Advanced life support"
+   ],
+   "answer": 0,
+   "explanation": "The deck defines the emergency medical technician as the provider trained in basic life support, including AED use, a definitive airway adjunct, and assisting with certain medications.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "question": "What is an emergency medical technician (EMT)?",
+   "choices": [
+    "A provider trained in specific aspects of advanced life support, such as IV therapy",
+    "Advanced life-saving procedures, some now provided by the EMT",
+    "A dispatcher who selects responding units and coaches callers by phone",
+    "A provider trained in basic life support, including automated external defibrillation, use of a definitive airway adjunct, and assisting patients with certain medications"
+   ],
+   "answer": 3,
+   "explanation": "Per the deck, the EMT's training is in basic life support: AED use, a definitive airway adjunct, and assisting patients with certain medications.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "question": "In Brooklyn in 2009, two uniformed FDNY EMTs on dispatch duty were asked to help Eutisha Rennix, a pregnant woman who had fallen ill in a cafe. One called 911, but both left without ever checking on her, and she and her baby died. What issue did this case raise?",
+   "choices": [
+    "Whether ambulances should carry obstetric equipment",
+    "Whether dispatchers should code cafe calls as high priority",
+    "An EMT's ethical duty to act, even when not assigned to a call",
+    "Whether EMTs may treat patients inside private businesses"
+   ],
+   "answer": 2,
+   "explanation": "The deck says the Brooklyn case raised questions about an EMT's ethical duty to act even when not assigned to a call, since training creates ethical expectations.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical technician",
+   "topic_n": 14
+  },
+  {
+   "question": "Which term is defined as: \"Advanced life-saving procedures, some of which are now being provided by the EMT\"?",
+   "choices": [
+    "Basic life support",
+    "Emergency medical dispatch",
+    "Mobile integrated health care",
+    "Advanced life support"
+   ],
+   "answer": 3,
+   "explanation": "The deck defines advanced life support as advanced life-saving procedures, some of which are now being provided by the EMT.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "question": "What does the term \"advanced life support\" (ALS) mean?",
+   "choices": [
+    "A multidisciplinary system of professionals and agencies providing prehospital care",
+    "Advanced life-saving procedures, some of which are now being provided by the EMT",
+    "Training in basic life support, including AED use and airway adjuncts",
+    "A dispatch system that provides callers with instructions until crews arrive"
+   ],
+   "answer": 1,
+   "explanation": "Per the deck, advanced life support means advanced life-saving procedures, some of which are now provided by the EMT.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "question": "Because epinephrine auto-injectors are expensive for BLS agencies to stock, Pennsylvania's 2023 BLS protocols let trained EMTs give 1 mg/mL epinephrine by syringe and vial (\"Check and Inject\"), with added training and medical director authorization. What does this case illustrate?",
+   "choices": [
+    "A skill moving from the ALS level down to the EMT level",
+    "EMTs being removed from anaphylaxis care",
+    "Auto-injectors being banned in Pennsylvania",
+    "ALS agencies replacing EMTs on all allergy calls"
+   ],
+   "answer": 0,
+   "explanation": "The deck calls the Pennsylvania program a clear example of a skill moving from the ALS level to the EMT level, as the advanced life support definition describes.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "advanced life support",
+   "topic_n": 15
+  },
+  {
+   "question": "Which term is defined as: \"A system that assists dispatchers in selecting appropriate units to respond to a particular call for assistance and provides callers with vital instructions until the arrival of EMS crews\"?",
+   "choices": [
+    "Emergency medical services",
+    "Public safety access point",
+    "Emergency medical dispatch",
+    "Continuous quality improvement"
+   ],
+   "answer": 2,
+   "explanation": "The deck defines emergency medical dispatch as the system that helps dispatchers select appropriate units and provides callers vital instructions until EMS crews arrive.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "What is emergency medical dispatch (EMD)?",
+   "choices": [
+    "A system that assists dispatchers in selecting appropriate units to respond to a call and provides callers with vital instructions until EMS crews arrive",
+    "A multidisciplinary system of professionals and agencies providing prehospital emergency care",
+    "Advanced life-saving procedures provided in the field",
+    "A provider trained in specific aspects of advanced life support"
+   ],
+   "answer": 0,
+   "explanation": "Per the deck, EMD assists dispatchers in selecting appropriate units and provides callers with vital instructions until the arrival of EMS crews.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "Two metro Phoenix dispatch centers adopted a telephone CPR (T-CPR) bundle of protocols, training, data, and feedback, studied across 2,334 cardiac arrests. What was the result?",
+   "choices": [
+    "T-CPR delivery fell and survival stayed the same",
+    "T-CPR delivery rose from 43.5% to 52.8%, time to first compression fell, and survival rose from 9.1% to 12.0%",
+    "Survival fell because callers were kept on the phone too long",
+    "The bundle only changed documentation, not patient outcomes"
+   ],
+   "answer": 1,
+   "explanation": "The deck's Phoenix case is strong evidence that dispatcher pre-arrival instructions save lives: T-CPR delivery and survival both rose after the bundle was adopted.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "In Cumberland, Rhode Island in 2018, Rena Fleury collapsed at her son's football game. At least four people called 911, but the call takers did not recognize cardiac arrest or give phone CPR instructions, and she received no CPR for up to five minutes despite two nearby AEDs. What failed in this case?",
+   "choices": [
+    "The AEDs at the field were not maintained",
+    "The callers refused to follow instructions",
+    "Ambulances were sent to the wrong address",
+    "EMD protocols for recognizing arrest and coaching CPR were not applied"
+   ],
+   "answer": 3,
+   "explanation": "The deck says the Cumberland case shows what happens when EMD protocols for recognizing arrest and coaching CPR aren't applied.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical dispatch",
+   "topic_n": 16
+  },
+  {
+   "question": "Which term is defined as: \"A multidisciplinary system that represents the combined efforts of several professionals and agencies to provide prehospital emergency care to the sick and injured\"?",
+   "choices": [
+    "Emergency medical dispatch",
+    "Emergency medical services",
+    "Advanced life support",
+    "Community paramedicine"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines emergency medical services as the multidisciplinary system combining several professionals and agencies to provide prehospital emergency care.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "question": "What are emergency medical services (EMS)?",
+   "choices": [
+    "A system that assists dispatchers in selecting units and instructing callers",
+    "Advanced life-saving procedures, some now provided by the EMT",
+    "An individual trained in basic life support and AED use",
+    "A multidisciplinary system representing the combined efforts of several professionals and agencies to provide prehospital emergency care to the sick and injured"
+   ],
+   "answer": 3,
+   "explanation": "Per the deck, EMS is a multidisciplinary system representing the combined efforts of several professionals and agencies to provide prehospital emergency care.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "question": "In 1966 the National Academy of Sciences/National Research Council published \"Accidental Death and Disability,\" known as the White Paper. What did it do?",
+   "choices": [
+    "It exposed that ambulances were ill-equipped and often staffed by poorly trained personnel, and made 29 recommendations (11 for EMS), becoming the founding document of the modern US EMS system",
+    "It created the 911 system and the first paramedic curriculum",
+    "It required all ambulance attendants to become paramedics by 1970",
+    "It moved federal EMS leadership into the Department of Health and Human Services"
+   ],
+   "answer": 0,
+   "explanation": "The deck calls the 1966 White Paper the founding document of the modern US EMS system; it called ambulances ill-equipped and poorly staffed and recommended ambulance standards, state regulation, and one national emergency number.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  },
+  {
+   "question": "Congress answered the White Paper with the Highway Safety Act of 1966. What did the Act establish?",
+   "choices": [
+    "The first 911 call center in Haleyville, Alabama",
+    "Freedom House Ambulance Service in Pittsburgh",
+    "Federal EMS leadership in NHTSA (part of the Department of Transportation), which wrote the first standard EMT curriculum and model state EMS legislation",
+    "The EMS Systems Act's 300 regional EMS programs"
+   ],
+   "answer": 2,
+   "explanation": "The deck's Highway Safety Act case says the Act put federal EMS leadership in NHTSA within DOT, and NHTSA wrote the 70-hour basic EMT curriculum — the first standard EMT training in the US.",
+   "source": "Flashcard Case Studies — Set 3",
+   "topic": "emergency medical services",
+   "topic_n": 17
+  }
+ ]
+}

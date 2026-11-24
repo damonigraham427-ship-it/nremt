@@ -1,0 +1,172 @@
+{
+ "questions": [
+  {
+   "question": "Which term is defined as: Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
+   "choices": [
+    "dedicated line",
+    "channel",
+    "communication",
+    "standing orders"
+   ],
+   "answer": 3,
+   "explanation": "standing orders: Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "standing orders",
+   "topic_n": 19
+  },
+  {
+   "question": "What does the term \"standing orders\" mean?",
+   "choices": [
+    "The ability to transmit and receive simultaneously.",
+    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
+    "Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
+    "A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available."
+   ],
+   "answer": 2,
+   "explanation": "standing orders: Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "standing orders",
+   "topic_n": 19
+  },
+  {
+   "question": "Which term is defined as: The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another.",
+   "choices": [
+    "VHF",
+    "documentation",
+    "handover",
+    "chief complaint"
+   ],
+   "answer": 2,
+   "explanation": "handover: The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "handover",
+   "topic_n": 20
+  },
+  {
+   "question": "What does the term \"handover\" mean?",
+   "choices": [
+    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
+    "Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
+    "An assigned frequency or frequencies that are used to carry voice and/or data communications.",
+    "The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another."
+   ],
+   "answer": 3,
+   "explanation": "handover: The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "handover",
+   "topic_n": 20
+  },
+  {
+   "question": "Which term is defined as: Anything that dampens or obscures the true meaning of a message.",
+   "choices": [
+    "cellular telephone",
+    "multiplex",
+    "noise",
+    "mobile data terminal"
+   ],
+   "answer": 2,
+   "explanation": "noise: Anything that dampens or obscures the true meaning of a message.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "noise",
+   "topic_n": 21
+  },
+  {
+   "question": "What does the term \"noise\" mean?",
+   "choices": [
+    "Any communications where disruption will result in the failure of the mission at hand.",
+    "A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
+    "Anything that dampens or obscures the true meaning of a message.",
+    "The picture an individual has in his or her head of “what’s going on” in a given situation."
+   ],
+   "answer": 2,
+   "explanation": "noise: Anything that dampens or obscures the true meaning of a message.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "noise",
+   "topic_n": 21
+  },
+  {
+   "question": "Which term is defined as: The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
+   "choices": [
+    "paging",
+    "chief concern",
+    "scanner",
+    "trunking"
+   ],
+   "answer": 1,
+   "explanation": "chief concern: The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "chief concern",
+   "topic_n": 22
+  },
+  {
+   "question": "What does the term \"chief concern\" mean?",
+   "choices": [
+    "Questions for which the patient must provide detail to give an answer.",
+    "The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
+    "The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
+    "VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use."
+   ],
+   "answer": 1,
+   "explanation": "chief concern: The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "chief concern",
+   "topic_n": 22
+  },
+  {
+   "question": "Which term is defined as: Questions that can be answered in short or single-word responses.",
+   "choices": [
+    "simplex",
+    "MED channels",
+    "closed-ended questions",
+    "mental model"
+   ],
+   "answer": 2,
+   "explanation": "closed-ended questions: Questions that can be answered in short or single-word responses.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "closed-ended questions",
+   "topic_n": 23
+  },
+  {
+   "question": "What does the term \"closed-ended questions\" mean?",
+   "choices": [
+    "Radio frequencies between 30 and 300 MHz; this spectrum is further divided into high and low bands.",
+    "VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use.",
+    "Questions that can be answered in short or single-word responses.",
+    "Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship."
+   ],
+   "answer": 2,
+   "explanation": "closed-ended questions: Questions that can be answered in short or single-word responses.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "closed-ended questions",
+   "topic_n": 23
+  },
+  {
+   "question": "Which term is defined as: A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
+   "choices": [
+    "patient care report",
+    "multiplex",
+    "mobile data terminal",
+    "dedicated line"
+   ],
+   "answer": 2,
+   "explanation": "mobile data terminal: A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "mobile data terminal",
+   "topic_n": 24
+  },
+  {
+   "question": "What does the term \"mobile data terminal\" mean?",
+   "choices": [
+    "A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
+    "Anything that dampens or obscures the true meaning of a message.",
+    "A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
+    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use."
+   ],
+   "answer": 2,
+   "explanation": "mobile data terminal: A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "mobile data terminal",
+   "topic_n": 24
+  }
+ ]
+}

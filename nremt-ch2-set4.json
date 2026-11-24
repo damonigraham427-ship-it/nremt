@@ -1,0 +1,592 @@
+{
+ "questions": [
+  {
+   "question": "A choir member with COVID-19 sings indoors for 2.5 hours and most of the room later tests positive, even people who never touched him. Which term describes how this disease spread?",
+   "choices": [
+    "transmission (airborne)",
+    "contamination",
+    "direct contact only",
+    "an exposure incident"
+   ],
+   "answer": 0,
+   "explanation": "The pathogen moved from host to others through the air; that route of spread is transmission.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "transmission",
+   "topic_n": 19
+  },
+  {
+   "question": "Your patient picked up hepatitis A after eating raw scallops later traced to a contaminated import shipment. What term covers this foodborne route of spread?",
+   "choices": [
+    "an incubation period",
+    "a host reservoir",
+    "transmission",
+    "cross-contamination of the kitchen"
+   ],
+   "answer": 2,
+   "explanation": "Disease spread by a vehicle such as food is one route of transmission.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "transmission",
+   "topic_n": 19
+  },
+  {
+   "question": "A man in Miami develops Zika after local mosquitoes bite him; he never traveled. What term describes the mosquito route that infected him?",
+   "choices": [
+    "fomite transmission",
+    "transmission (vector-borne)",
+    "airborne transmission",
+    "direct contact transmission"
+   ],
+   "answer": 1,
+   "explanation": "A living carrier such as a mosquito is a vector, and spread by vectors is transmission.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "transmission",
+   "topic_n": 19
+  },
+  {
+   "question": "You find a used IV catheter left uncapped on the squad bench and lab later grows bacteria from a vial it touched. What term describes organisms present on that equipment?",
+   "choices": [
+    "an exposure",
+    "contamination",
+    "sterilization failure",
+    "an infectious disease"
+   ],
+   "answer": 1,
+   "explanation": "Infectious organisms sitting on an object is contamination of that object.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "contamination",
+   "topic_n": 20
+  },
+  {
+   "question": "A pharmacy's faucet and mixing container are found growing Serratia after patients get bloodstream infections from IV nutrition bags. What had happened to the product?",
+   "choices": [
+    "a sharps injury",
+    "an airborne exposure",
+    "transmission",
+    "contamination"
+   ],
+   "answer": 3,
+   "explanation": "The organisms were present in the product and its preparation equipment: contamination.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "contamination",
+   "topic_n": 20
+  },
+  {
+   "question": "A clinic reuses a syringe to draw from a single-dose vial used for many patients, and hepatitis C spreads. The vial itself now carries the virus. What is that called?",
+   "choices": [
+    "an incubation period",
+    "a host reservoir",
+    "contamination",
+    "sterilization"
+   ],
+   "answer": 2,
+   "explanation": "The vial holds infectious organisms on/in an object used on patients: contamination.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "contamination",
+   "topic_n": 20
+  },
+  {
+   "question": "A firefighter felt fine after a fatal fire, but eight months later he has nightmares, avoids the station bay, and startles at tones. What type of stress reaction is this timing?",
+   "choices": [
+    "cumulative stress reactions",
+    "acute stress reactions",
+    "delayed stress reactions",
+    "burnout"
+   ],
+   "answer": 2,
+   "explanation": "The symptoms surfaced long after the event ended, which defines a delayed reaction.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "delayed stress reactions",
+   "topic_n": 21
+  },
+  {
+   "question": "Two years after working a mass-casualty crash, an EMT notices her symptoms peaked only recently even though she functioned well at first. What is this pattern called?",
+   "choices": [
+    "compassion fatigue",
+    "a critical incident stress reaction",
+    "acute stress reactions",
+    "delayed stress reactions"
+   ],
+   "answer": 3,
+   "explanation": "A reaction that emerges or peaks well after the stressful situation is a delayed stress reaction.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "delayed stress reactions",
+   "topic_n": 21
+  },
+  {
+   "question": "A responder screened normal one month after a disaster but screens positive for PTSD at a one-year follow-up. Which category fits?",
+   "choices": [
+    "burnout",
+    "acute stress reactions",
+    "delayed stress reactions",
+    "cumulative stress reactions"
+   ],
+   "answer": 2,
+   "explanation": "Onset after the situation, not during it, makes it delayed rather than acute.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "delayed stress reactions",
+   "topic_n": 21
+  },
+  {
+   "question": "Shots are fired at a scene. Your partner ducks behind the engine block of the ambulance while you move a patient behind a concrete pillar that stops bullets. What are you using?",
+   "choices": [
+    "concealment",
+    "a staging area",
+    "a safe zone",
+    "cover"
+   ],
+   "answer": 3,
+   "explanation": "A barrier that actually stops rounds is cover, not mere concealment.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "cover",
+   "topic_n": 22
+  },
+  {
+   "question": "An officer tells you a patrol car's door panel will not stop rifle fire, but the concrete planter will. Moving behind the planter is choosing what?",
+   "choices": [
+    "a casualty collection point",
+    "cover",
+    "concealment",
+    "the cold zone"
+   ],
+   "answer": 1,
+   "explanation": "The planter is an impenetrable barrier used for protection: cover.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "cover",
+   "topic_n": 22
+  },
+  {
+   "question": "During an active-shooter call, your rescue task force works behind a block wall while police provide security. The wall's tactical role is what?",
+   "choices": [
+    "cover",
+    "the warm zone",
+    "concealment",
+    "a rally point"
+   ],
+   "answer": 0,
+   "explanation": "The wall is a bullet-stopping barrier protecting the team while they work: cover.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "cover",
+   "topic_n": 22
+  },
+  {
+   "question": "You are about to intubate a coughing patient with suspected COVID-19, and your officer orders respirators and eye protection for everyone in the room. Why is intubation treated this way?",
+   "choices": [
+    "a droplet precaution procedure",
+    "a standard precautions violation",
+    "aerosol-generating procedure",
+    "an exposure incident"
+   ],
+   "answer": 2,
+   "explanation": "Intubation manipulates the airway and produces infectious aerosols: an aerosol-generating procedure.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "aerosol-generating procedure",
+   "topic_n": 23
+  },
+  {
+   "question": "A nebulizer treatment is running on a pneumonia patient and fine mist fills the back of the unit. What kind of procedure is nebulization classified as?",
+   "choices": [
+    "a sterile procedure",
+    "a decontamination procedure",
+    "aerosol-generating procedure",
+    "a contact precaution procedure"
+   ],
+   "answer": 2,
+   "explanation": "Nebulizers generate aerosols that can carry pathogens through the air.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "aerosol-generating procedure",
+   "topic_n": 23
+  },
+  {
+   "question": "During CPR on a patient with tuberculosis, compressions and bag-mask ventilation push air out of the airway with each cycle. Why does the crew need airborne precautions?",
+   "choices": [
+    "a sharps exposure",
+    "a droplet-generating procedure",
+    "aerosol-generating procedure",
+    "a standard precautions breach"
+   ],
+   "answer": 2,
+   "explanation": "CPR is an airway manipulation that produces aerosols, as the definition itself names.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "aerosol-generating procedure",
+   "topic_n": 23
+  },
+  {
+   "question": "Your service treats every patient's blood and body fluids as potentially infectious, gloves up for every IV start, and disinfects the cot after every run, no matter the diagnosis. What is this system called?",
+   "choices": [
+    "transmission-based precautions",
+    "standard precautions",
+    "body substance disposal",
+    "universal isolation"
+   ],
+   "answer": 1,
+   "explanation": "Applying CDC protective measures to all patients and all body fluids is standard precautions.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "standard precautions",
+   "topic_n": 24
+  },
+  {
+   "question": "A new EMT asks why she washes hands and changes gloves between two patients who both 'look healthy.' What principle is she following?",
+   "choices": [
+    "standard precautions",
+    "transmission-based precautions",
+    "contact precautions",
+    "reverse isolation"
+   ],
+   "answer": 0,
+   "explanation": "Standard precautions assume any patient can carry a communicable disease, diagnosed or not.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "standard precautions",
+   "topic_n": 24
+  },
+  {
+   "question": "After a nurse in Dallas caught Ebola from a patient in 2014, CDC required no exposed skin and a trained observer for donning and doffing PPE. Which CDC framework was being tightened?",
+   "choices": [
+    "the OSHA bloodborne pathogens standard",
+    "transmission-based precautions",
+    "universal precautions law",
+    "standard precautions"
+   ],
+   "answer": 3,
+   "explanation": "The PPE, hand hygiene, and exposure rules for all patient care sit inside standard precautions.",
+   "source": "Quiz-Style Slides — Set 4",
+   "topic": "standard precautions",
+   "topic_n": 24
+  },
+  {
+   "question": "Which term is defined as: The way in which an infectious disease is spread: contact, airborne, by vehicles, or by vectors.",
+   "choices": [
+    "transmission",
+    "structural fire hazards",
+    "compassion fatigue",
+    "contamination"
+   ],
+   "answer": 0,
+   "explanation": "transmission: The way in which an infectious disease is spread: contact, airborne, by vehicles, or by vectors.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "transmission",
+   "topic_n": 19
+  },
+  {
+   "question": "What does the term \"transmission\" mean?",
+   "choices": [
+    "The way in which an infectious disease is spread: contact, airborne, by vehicles, or by vectors.",
+    "The primary federal agency that conducts and supports public health activities in the United States.",
+    "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions.",
+    "The contamination of food or water with an organism that can cause disease."
+   ],
+   "answer": 0,
+   "explanation": "transmission: The way in which an infectious disease is spread: contact, airborne, by vehicles, or by vectors.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "transmission",
+   "topic_n": 19
+  },
+  {
+   "question": "At a 2.5-hour choir practice in Mount Vernon, Washington in 2020, one symptomatic singer infected 53 of 61 attendees with COVID-19, and investigators concluded that aerosols from singing spread the virus through the shared indoor air. What should the EMT take from this case?",
+   "choices": [
+    "Avoid entering any building where a group has gathered until the air has settled for a full day.",
+    "Assume respiratory viruses only spread by touch, so gloves alone are enough protection indoors.",
+    "Treat shared indoor air as a transmission route: mask up and ventilate on respiratory calls.",
+    "Focus only on disinfecting surfaces, since airborne spread cannot infect people across a room."
+   ],
+   "answer": 2,
+   "explanation": "Airborne transmission can move one infection through a whole room, so respiratory calls call for masking and ventilation.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "transmission",
+   "topic_n": 19
+  },
+  {
+   "question": "A measles outbreak in Gaines County, Texas in 2025 grew to 762 confirmed cases, with 99 people hospitalized and 2 children dead, as the virus spread person to person through the air in undervaccinated communities. You are dispatched to a child with a suspected measles rash and fever. What precaution does this case call for?",
+   "choices": [
+    "No special precautions are needed as long as the patient's rash is covered with a blanket.",
+    "Wear a surgical mask only during the physical exam, then remove it for the ride to the hospital.",
+    "Use contact precautions only, since measles spreads mainly through contaminated surfaces.",
+    "Use airborne precautions and wear an N95 or respirator for any suspected measles patient."
+   ],
+   "answer": 3,
+   "explanation": "Measles is among the most contagious airborne diseases, so suspected cases require airborne precautions and a respirator.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "transmission",
+   "topic_n": 19
+  },
+  {
+   "question": "Which term is defined as: The presence of infectious organisms on or in objects such as dressings, water, food, needles, wounds, or a patient's body.",
+   "choices": [
+    "foodborne transmission",
+    "general adaptation syndrome",
+    "contamination",
+    "human immunodeficiency virus"
+   ],
+   "answer": 2,
+   "explanation": "contamination: The presence of infectious organisms on or in objects such as dressings, water, food, needles, wounds, or a patient's body.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "contamination",
+   "topic_n": 20
+  },
+  {
+   "question": "What does the term \"contamination\" mean?",
+   "choices": [
+    "The body's ability to protect itself from acquiring a disease.",
+    "A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease.",
+    "The presence of infectious organisms on or in objects such as dressings, water, food, needles, wounds, or a patient's body.",
+    "The contamination of food or water with an organism that can cause disease."
+   ],
+   "answer": 2,
+   "explanation": "contamination: The presence of infectious organisms on or in objects such as dressings, water, food, needles, wounds, or a patient's body.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "contamination",
+   "topic_n": 20
+  },
+  {
+   "question": "A compounding pharmacy in Massachusetts shipped steroid injections contaminated with fungus, causing 753 cases of fungal meningitis and 64 deaths across 20 states after the medication was injected into patients' spines and joints. What is the EMT's takeaway from this case?",
+   "choices": [
+    "Filter any cloudy medication through gauze to remove contaminants before administering it.",
+    "Never use a medication that looks off or is past date, and report suspect products immediately.",
+    "Only hospital staff need to worry about contaminated medications; EMS products are always sterile.",
+    "Inject the medication anyway if the patient is critical, since contamination is rarely harmful."
+   ],
+   "answer": 1,
+   "explanation": "A medication that should have been sterile carried living fungus, so suspect or expired products must never be used.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "contamination",
+   "topic_n": 20
+  },
+  {
+   "question": "At a Las Vegas endoscopy clinic in 2008, nurse anesthetists reused syringes and contaminated single-dose propofol vials, spreading hepatitis C to later patients and forcing tens of thousands of former patients to be notified for testing. What rule would have prevented this?",
+   "choices": [
+    "One needle, one syringe, one time: never re-enter a vial with used equipment.",
+    "A syringe can be reused on the same vial as long as the needle is wiped with alcohol first.",
+    "Reusing a syringe is acceptable when the first patient has no known infectious disease.",
+    "Single-dose vials may be shared between patients if everyone receives the same medication."
+   ],
+   "answer": 0,
+   "explanation": "One reused syringe turned a shared vial into a contaminated vehicle for every patient after it.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "contamination",
+   "topic_n": 20
+  },
+  {
+   "question": "Which term is defined as: Reactions to stress that occur after a stressful situation.",
+   "choices": [
+    "delayed stress reactions",
+    "critical incident stress debriefing",
+    "pathogen",
+    "standard precautions"
+   ],
+   "answer": 0,
+   "explanation": "delayed stress reactions: Reactions to stress that occur after a stressful situation.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "delayed stress reactions",
+   "topic_n": 21
+  },
+  {
+   "question": "What does the term \"delayed stress reactions\" mean?",
+   "choices": [
+    "The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease.",
+    "The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning employee safety.",
+    "Reactions to stress that occur after a stressful situation.",
+    "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions."
+   ],
+   "answer": 2,
+   "explanation": "delayed stress reactions: Reactions to stress that occur after a stressful situation.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "delayed stress reactions",
+   "topic_n": 21
+  },
+  {
+   "question": "Researchers followed 12,822 World Trade Center responders for two decades and found that for many, PTSD symptoms peaked about 10 years after 9/11 rather than right after, with about 10% still showing elevated symptoms 20 years later. What does this pattern mean for looking after your partner?",
+   "choices": [
+    "If a responder is fine at the one-month screening, no further follow-up is ever needed.",
+    "Only responders who showed symptoms immediately are at risk for long-term problems.",
+    "Check on partners months and years after bad calls, not just the week of the call.",
+    "Stress symptoms that appear years later are unrelated to the original incident and need no support."
+   ],
+   "answer": 2,
+   "explanation": "Stress reactions can peak a decade after the event, so follow-up has to continue for months and years.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "delayed stress reactions",
+   "topic_n": 21
+  },
+  {
+   "question": "First responders screened after Hurricane Katrina were checked again 13 to 18 months after the storm, and their PTSD and depression symptoms had not significantly decreased by the second screening. What should an agency build into its disaster response based on this?",
+   "choices": [
+    "Assume persistent symptoms a year later mean the responder was unfit for the work all along.",
+    "End all peer support at demobilization, since symptoms resolve on their own within weeks.",
+    "Screen responders only once, immediately after the deployment ends.",
+    "Build peer-support check-ins into the year after a disaster deployment, not just the demobilization week."
+   ],
+   "answer": 3,
+   "explanation": "Reactions can stay active well over a year after a response ends, so support must extend into the following year.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "delayed stress reactions",
+   "topic_n": 21
+  },
+  {
+   "question": "Which term is defined as: The tactical use of an impenetrable barrier for protection.",
+   "choices": [
+    "airborne transmission",
+    "cover",
+    "infection control",
+    "indirect contact"
+   ],
+   "answer": 1,
+   "explanation": "cover: The tactical use of an impenetrable barrier for protection.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "cover",
+   "topic_n": 22
+  },
+  {
+   "question": "What does the term \"cover\" mean?",
+   "choices": [
+    "Pathogenic microorganisms that are present in human blood and can cause disease in humans. These pathogens include, but are not limited to, hepatitis B virus and human immunodeficiency virus.",
+    "The way in which an infectious disease is spread: contact, airborne, by vehicles, or by vectors.",
+    "A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease.",
+    "The tactical use of an impenetrable barrier for protection."
+   ],
+   "answer": 3,
+   "explanation": "cover: The tactical use of an impenetrable barrier for protection.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "cover",
+   "topic_n": 22
+  },
+  {
+   "question": "During the 1997 North Hollywood shootout, rifle rounds from two armored bank robbers penetrated patrol-car sheet metal, wounding officers who were using cars for protection. On a shooting scene, what does this case teach about protecting yourself?",
+   "choices": [
+    "Stay in the open where you can see the shooter rather than hiding behind any barrier.",
+    "Use bushes and wooden fences, which stop bullets as effectively as concrete.",
+    "Crouch behind the ambulance door, since vehicle sheet metal reliably stops rifle rounds.",
+    "Put engine blocks, concrete, or earth between you and the threat, not sheet metal."
+   ],
+   "answer": 3,
+   "explanation": "Car doors are concealment, not cover; only bullet-stopping barriers like engine blocks and concrete protect against rifle fire.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "cover",
+   "topic_n": 22
+  },
+  {
+   "question": "During the 2017 Route 91 Harvest festival shooting in Las Vegas, officers first took cover behind patrol vehicles under fire, then moved in pairs to a block wall for better protection. Why did they move?",
+   "choices": [
+    "Patrol vehicles are better cover than walls, but the wall offered a clearer view of the crowd.",
+    "The wall put them closer to the shooter, which is the safest place to work from.",
+    "They moved because standing near vehicles is against policy during any shooting.",
+    "Only the masonry wall reliably stopped rounds, so they upgraded from vehicles to real cover as soon as they could."
+   ],
+   "answer": 3,
+   "explanation": "Responders move from concealment to real cover as soon as they can, and move patients with them.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "cover",
+   "topic_n": 22
+  },
+  {
+   "question": "Which term is defined as: Any airway manipulation that induces the production of aerosols that may present a risk for airborne transmission of pathogens, such as during CPR.",
+   "choices": [
+    "general adaptation syndrome",
+    "cover",
+    "cumulative stress reactions",
+    "aerosol-generating procedure"
+   ],
+   "answer": 3,
+   "explanation": "aerosol-generating procedure: Any airway manipulation that induces the production of aerosols that may present a risk for airborne transmission of pathogens, such as during CPR.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "aerosol-generating procedure",
+   "topic_n": 23
+  },
+  {
+   "question": "What does the term \"aerosol-generating procedure\" mean?",
+   "choices": [
+    "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions.",
+    "Cleaning and disinfecting the ambulance and its equipment after a call, including allowing disinfected surfaces to air dry unless otherwise indicated in the product directions, so the unit is safe for the next patient.",
+    "The way in which an infectious disease is spread: contact, airborne, by vehicles, or by vectors.",
+    "Any airway manipulation that induces the production of aerosols that may present a risk for airborne transmission of pathogens, such as during CPR."
+   ],
+   "answer": 3,
+   "explanation": "aerosol-generating procedure: Any airway manipulation that induces the production of aerosols that may present a risk for airborne transmission of pathogens, such as during CPR.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "aerosol-generating procedure",
+   "topic_n": 23
+  },
+  {
+   "question": "In Toronto in 2003, healthcare workers were infected with SARS after intubating a SARS patient, and 72% of the city's SARS cases were healthcare-related. What protection does this case require for airway procedures on respiratory patients?",
+   "choices": [
+    "A surgical mask alone is enough, since intubation does not expose the crew to aerosols.",
+    "Gloves are the key protection during intubation because the risk is mainly from touching the patient.",
+    "Only the person holding the laryngoscope needs protection; everyone else in the room is safe.",
+    "Wear a fit-tested respirator and eye protection for every intubation of a respiratory patient."
+   ],
+   "answer": 3,
+   "explanation": "Intubation aerosolizes the virus into the room, so the whole team needs a respirator and eye protection.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "aerosol-generating procedure",
+   "topic_n": 23
+  },
+  {
+   "question": "At Hong Kong's Prince of Wales Hospital in 2003, 138 people were infected with SARS within two weeks in a ward where the index patient received jet-nebulized salbutamol treatments on an open ward. When protocols allow for an infectious respiratory patient, what should the EMT prefer?",
+   "choices": [
+    "Prefer a metered-dose inhaler over a nebulizer for infectious respiratory patients when protocols allow.",
+    "Run the nebulizer continuously during transport to keep the medication flowing.",
+    "Nebulizers are safer than inhalers because the mist traps the virus before it spreads.",
+    "Remove the patient's mask during nebulizer treatments so the aerosols can escape freely."
+   ],
+   "answer": 0,
+   "explanation": "The nebulizer turned one patient's virus into room-wide aerosols, so inhalers are preferred when protocols allow.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "aerosol-generating procedure",
+   "topic_n": 23
+  },
+  {
+   "question": "Which term is defined as: Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions.",
+   "choices": [
+    "standard precautions",
+    "aerosol-generating procedure",
+    "hepatitis",
+    "contamination"
+   ],
+   "answer": 0,
+   "explanation": "standard precautions: Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "standard precautions",
+   "topic_n": 24
+  },
+  {
+   "question": "What does the term \"standard precautions\" mean?",
+   "choices": [
+    "Pathogenic microorganisms that are present in human blood and can cause disease in humans. These pathogens include, but are not limited to, hepatitis B virus and human immunodeficiency virus.",
+    "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions.",
+    "Reactions to stress that occur after a stressful situation.",
+    "The body's response to stress that begins with an alarm response, followed by a stage of reaction and resistance, and then recovery or, if the stress is prolonged, exhaustion."
+   ],
+   "answer": 1,
+   "explanation": "standard precautions: Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "standard precautions",
+   "topic_n": 24
+  },
+  {
+   "question": "In 1996, the CDC issued the Guideline for Isolation Precautions in Hospitals, merging universal precautions and body substance isolation into one protective baseline applied to every patient, every time. What does that baseline require of an EMT on every call?",
+   "choices": [
+    "Apply full precautions only to patients with a confirmed infectious diagnosis.",
+    "Gloves can replace hand hygiene when you are rushed between back-to-back calls.",
+    "Learn the baseline cold: gloves, hand hygiene, sharps safety, and cleaning apply on every single call.",
+    "Precautions are a hospital policy and do not apply to field care in the ambulance."
+   ],
+   "answer": 2,
+   "explanation": "Standard precautions are one protective baseline for every patient, every time, in the field as well as the hospital.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "standard precautions",
+   "topic_n": 24
+  },
+  {
+   "question": "In Dallas in 2014, two nurses were infected with Ebola while caring for a patient even though both had worn PPE, and the CDC responded by requiring no exposed skin and a trained monitor to watch donning and doffing. What is the practical lesson for EMS crews?",
+   "choices": [
+    "Buddy-check your PPE before entry and after exit, because the doffing sequence is where exposures happen.",
+    "PPE failures mean the equipment is useless, so speed matters more than technique.",
+    "Only new employees need a PPE check; experienced providers can skip the buddy check.",
+    "Once PPE is on correctly, removing it in any order is safe."
+   ],
+   "answer": 0,
+   "explanation": "Standard precautions fail when PPE use is sloppy, so a trained observer should watch donning and doffing.",
+   "source": "Flashcard Case Studies — Set 4",
+   "topic": "standard precautions",
+   "topic_n": 24
+  }
+ ]
+}

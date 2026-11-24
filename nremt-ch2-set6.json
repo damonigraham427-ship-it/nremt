@@ -1,0 +1,494 @@
+{
+ "questions": [
+  {
+   "question": "You transport a patient from a homeless encampment who has yellowed eyes, nausea, and no appetite. The hospital later confirms a viral infection that inflames the liver and is spreading through the encampment. What condition does this patient have?",
+   "choices": [
+    "hepatitis",
+    "cirrhosis",
+    "tuberculosis",
+    "gastroenteritis"
+   ],
+   "answer": 0,
+   "explanation": "Jaundice, nausea, and appetite loss are the classic signs of an inflamed, virus-infected liver.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "hepatitis",
+   "topic_n": 31
+  },
+  {
+   "question": "After a needlestick, your service's designated officer tells you the biggest long-term risk is a bloodborne virus that attacks the liver and can cause chronic liver disease. Which condition is he describing?",
+   "choices": [
+    "tuberculosis",
+    "hepatitis",
+    "human immunodeficiency virus (HIV)",
+    "meningitis"
+   ],
+   "answer": 1,
+   "explanation": "Hepatitis B and C are bloodborne viruses whose main target organ is the liver.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "hepatitis",
+   "topic_n": 31
+  },
+  {
+   "question": "A nursing home resident develops fever, dark urine, and yellowing of the skin two months after a fingerstick procedure. Lab work points to a viral liver infection. What is the diagnosis?",
+   "choices": [
+    "sepsis",
+    "a urinary tract infection",
+    "anemia",
+    "hepatitis"
+   ],
+   "answer": 3,
+   "explanation": "Fever plus jaundice after a blood exposure fits hepatitis, an inflammation of the liver.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "hepatitis",
+   "topic_n": 31
+  },
+  {
+   "question": "Two EMTs work the same fatal pediatric call. One uses peer support, sleeps, and is functioning normally within weeks; the other cannot shake the distress. The first EMT's ability to cope and bounce back is an example of what?",
+   "choices": [
+    "posttraumatic stress disorder",
+    "resilience",
+    "burnout",
+    "compassion fatigue"
+   ],
+   "answer": 1,
+   "explanation": "Resilience is defined by coping with and recovering from distress rather than being overwhelmed by it.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "resilience",
+   "topic_n": 32
+  },
+  {
+   "question": "After a brutal month of calls, your partner still shows up steady, talks through hard runs with the crew, and returns to baseline instead of burning out. What protective capacity is she demonstrating?",
+   "choices": [
+    "burnout",
+    "a delayed stress reaction",
+    "resilience",
+    "a cumulative stress reaction"
+   ],
+   "answer": 2,
+   "explanation": "Recovering to normal function after repeated stressors is resilience in action.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "resilience",
+   "topic_n": 32
+  },
+  {
+   "question": "A department builds sleep, exercise, and peer-support habits into the schedule specifically so medics can recover from distress and keep doing the job for years. What are they trying to build?",
+   "choices": [
+    "critical incident stress management",
+    "burnout",
+    "cumulative stress reactions",
+    "resilience"
+   ],
+   "answer": 3,
+   "explanation": "Those habits are aimed at the capacity to cope with and recover from distress — resilience.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "resilience",
+   "topic_n": 32
+  },
+  {
+   "question": "After a line-of-duty death, your department brings in a trained peer team for a defusing that night, a structured group debriefing two days later, and follow-up check-ins. This whole organized process is known as what?",
+   "choices": [
+    "an employee assistance program",
+    "posttraumatic stress treatment",
+    "critical incident stress debriefing",
+    "critical incident stress management"
+   ],
+   "answer": 3,
+   "explanation": "Defusings, debriefings, and follow-up are the components of CISM, the process that moves responders back toward equilibrium.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "critical incident stress management",
+   "topic_n": 33
+  },
+  {
+   "question": "Your chief asks you to activate the regional team after a school bus rollover with multiple child fatalities, before stress reactions harden into bigger problems. Which program is she activating?",
+   "choices": [
+    "a disaster medical assistance team",
+    "critical incident stress debriefing",
+    "critical incident stress management",
+    "the incident command system"
+   ],
+   "answer": 2,
+   "explanation": "CISM is the system designed to confront critical-incident responses early and defuse them.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "critical incident stress management",
+   "topic_n": 33
+  },
+  {
+   "question": "A neighboring agency's peer-support team offers pre-incident stress education, on-scene support during a long recovery operation, and one-on-one follow-ups afterward. Together, these services make up what?",
+   "choices": [
+    "a wellness check program",
+    "critical incident stress management",
+    "critical incident stress debriefing",
+    "the national incident management system"
+   ],
+   "answer": 1,
+   "explanation": "Pre-incident education, on-scene support, defusing, debriefing, and follow-up are all parts of the CISM process.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "critical incident stress management",
+   "topic_n": 33
+  },
+  {
+   "question": "Your service is cited after an inspection finds medics routinely recapping needles and no written exposure control plan. Which federal agency issued the citation?",
+   "choices": [
+    "Centers for Disease Control and Prevention",
+    "National Institute for Occupational Safety and Health",
+    "Occupational Safety and Health Administration",
+    "Environmental Protection Agency"
+   ],
+   "answer": 2,
+   "explanation": "OSHA is the federal agency that publishes and enforces employee-safety rules, including the bloodborne pathogens standard.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Occupational Safety and Health Administration",
+   "topic_n": 34
+  },
+  {
+   "question": "A new hire asks who requires your employer to offer the hepatitis B vaccine free and to provide PPE at no cost. Which agency's standard makes that mandatory?",
+   "choices": [
+    "Food and Drug Administration",
+    "Occupational Safety and Health Administration",
+    "the Joint Commission",
+    "Centers for Disease Control and Prevention"
+   ],
+   "answer": 1,
+   "explanation": "Those duties come from OSHA's bloodborne pathogens standard, 29 CFR 1910.1030.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Occupational Safety and Health Administration",
+   "topic_n": 34
+  },
+  {
+   "question": "After a firefighter is hurt at a chemical plant, investigators from a federal agency arrive to check whether the employer followed workplace safety rules and can fine the company. Which agency is it?",
+   "choices": [
+    "Centers for Disease Control and Prevention",
+    "Occupational Safety and Health Administration",
+    "National Institute for Occupational Safety and Health",
+    "Environmental Protection Agency"
+   ],
+   "answer": 1,
+   "explanation": "Investigating incidents and fining employers for safety violations is OSHA's enforcement role.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Occupational Safety and Health Administration",
+   "topic_n": 34
+  },
+  {
+   "question": "Your exposure-control plan, your post-exposure follow-up steps, and the infection-control guidance your service follows all trace back to recommendations published by one federal agency. Which agency is it?",
+   "choices": [
+    "Food and Drug Administration",
+    "National Institutes of Health",
+    "Occupational Safety and Health Administration",
+    "Centers for Disease Control and Prevention"
+   ],
+   "answer": 3,
+   "explanation": "CDC is the primary federal public health agency and the source of the infection-control guidance EMS operates under.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Centers for Disease Control and Prevention",
+   "topic_n": 35
+  },
+  {
+   "question": "A strange cluster of lung injuries in healthy young patients is reported by several states, and a federal agency coordinates the national investigation, lab testing, and public alerts. Which agency leads that work?",
+   "choices": [
+    "National Institutes of Health",
+    "Occupational Safety and Health Administration",
+    "Centers for Disease Control and Prevention",
+    "Federal Emergency Management Agency"
+   ],
+   "answer": 2,
+   "explanation": "Coordinating multistate outbreak investigations is CDC's core public health role.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Centers for Disease Control and Prevention",
+   "topic_n": 35
+  },
+  {
+   "question": "After a possible measles exposure on a call, your medical director checks the national case counts and the latest vaccine recommendations before updating your protocol. Which federal agency publishes both?",
+   "choices": [
+    "Occupational Safety and Health Administration",
+    "World Health Organization",
+    "Centers for Disease Control and Prevention",
+    "Food and Drug Administration"
+   ],
+   "answer": 2,
+   "explanation": "CDC conducts national disease surveillance and issues the vaccine recommendations used in U.S. public health.",
+   "source": "Quiz-Style Slides — Set 6",
+   "topic": "Centers for Disease Control and Prevention",
+   "topic_n": 35
+  },
+  {
+   "question": "Which term is defined as: Inflammation of the liver, usually caused by a viral infection, that causes fever, loss of appetite, nausea, intestinal upset, and often jaundice.",
+   "choices": [
+    "eye protection",
+    "hepatitis",
+    "cumulative stress reactions",
+    "distress"
+   ],
+   "answer": 1,
+   "explanation": "hepatitis: Inflammation of the liver, usually caused by a viral infection, that causes fever, loss of appetite, nausea, intestinal upset, and often jaundice.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "hepatitis",
+   "topic_n": 31
+  },
+  {
+   "question": "What does the term \"hepatitis\" mean?",
+   "choices": [
+    "Inflammation of the liver, usually caused by a viral infection, that causes fever, loss of appetite, nausea, intestinal upset, and often jaundice.",
+    "The individual in the department who is charged with the responsibility of managing exposures and infection control.",
+    "A stress disorder characterized by gradual lessening of compassion over time.",
+    "The presence of infectious organisms on or in objects such as dressings, water, food, needles, wounds, or a patient's body."
+   ],
+   "answer": 0,
+   "explanation": "hepatitis: Inflammation of the liver, usually caused by a viral infection, that causes fever, loss of appetite, nausea, intestinal upset, and often jaundice.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "hepatitis",
+   "topic_n": 31
+  },
+  {
+   "question": "Your crew regularly responds to a homeless encampment where hepatitis A is spreading person-to-person; the San Diego outbreak of this kind grew to more than 580 cases with 20 deaths, and the county response relied on mass vaccination, handwashing stations, and street sanitation. What should EMTs serving these patients treat as frontline hepatitis prevention?",
+   "choices": [
+    "Treat vaccination and hand hygiene as frontline hepatitis prevention when serving homeless patients.",
+    "Give antibiotics to every patient from the encampment as a precaution against the virus.",
+    "Avoid transporting any patient from the encampment until the outbreak is declared over.",
+    "Rely on gloves alone and skip handwashing once the gloves come off."
+   ],
+   "answer": 0,
+   "explanation": "Vaccination and hand hygiene are frontline hepatitis prevention when serving homeless patients.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "hepatitis",
+   "topic_n": 31
+  },
+  {
+   "question": "At an assisted-living facility, eight residents developed acute hepatitis B and six died; every case was among the residents staff helped with blood glucose monitoring, and investigators found fingerstick devices and glucose meters shared without cleaning between residents. When you assist with glucose checks on a call, what should you do?",
+   "choices": [
+    "Share the meter between residents but change only the test strip each time.",
+    "Never share fingerstick devices, and disinfect blood glucose meters between patients, because blood glucose equipment is blood equipment.",
+    "Use the shared fingerstick device as long as you wipe it with an alcohol prep first.",
+    "Skip disinfecting the meter when the resident has no known bloodborne infection."
+   ],
+   "answer": 1,
+   "explanation": "Shared blood glucose equipment spreads hepatitis B; never share fingerstick devices and disinfect meters between patients.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "hepatitis",
+   "topic_n": 31
+  },
+  {
+   "question": "Which term is defined as: The capacity of an individual to cope with and recover from distress.",
+   "choices": [
+    "vector-borne transmission",
+    "delayed stress reactions",
+    "resilience",
+    "wellness"
+   ],
+   "answer": 2,
+   "explanation": "resilience: The capacity of an individual to cope with and recover from distress.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "resilience",
+   "topic_n": 32
+  },
+  {
+   "question": "What does the term \"resilience\" mean?",
+   "choices": [
+    "The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning employee safety.",
+    "The capacity of an individual to cope with and recover from distress.",
+    "Protective equipment that blocks exposure to a pathogen or a hazardous material.",
+    "A delayed stress reaction to a prior incident. Often the result of one or more unresolved issues concerning the incident, and may relate to an incident that involved physical harm or the threat of physical harm."
+   ],
+   "answer": 1,
+   "explanation": "resilience: The capacity of an individual to cope with and recover from distress.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "resilience",
+   "topic_n": 32
+  },
+  {
+   "question": "Researchers studied 181 firefighters who worked rescue and recovery after the Oklahoma City bombing and found only 13% developed bombing-related PTSD, significantly less than the 23% rate in male direct survivors; the authors credited career selection, training, preparedness, experience, and post-disaster mental health interventions. What does this case illustrate?",
+   "choices": [
+    "Seeking counseling after a disaster is what causes responders' symptoms to increase.",
+    "Only responders who show no symptoms at all after a disaster are truly recovering.",
+    "Training, experience, and crew support measurably raise a responder's capacity to recover from a horrific call.",
+    "Responders recover best when they avoid any discussion of the event afterward."
+   ],
+   "answer": 2,
+   "explanation": "Training, experience, and crew support measurably raise a responder's capacity to recover from a horrific call.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "resilience",
+   "topic_n": 32
+  },
+  {
+   "question": "After September 11, FDNY screened 8,487 firefighters; although 76% reported at least one symptom, 2,389 firefighters (28%) self-referred to the department's Counseling Services Unit, a five-fold increase over pre-9/11 use, and most remained on the job and recovered. A firefighter who hesitates to use that counseling because he thinks it looks weak should understand what?",
+   "choices": [
+    "He should rely only on time off and avoid talking about the incident with anyone.",
+    "Using peer and counseling support early is part of resilience, not a sign of weakness.",
+    "Using counseling marks a responder as unfit and should be avoided after catastrophic calls.",
+    "He should wait at least a year before using counseling so natural recovery can happen first."
+   ],
+   "answer": 1,
+   "explanation": "Using peer and counseling support early is part of resilience, not a sign of weakness.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "resilience",
+   "topic_n": 32
+  },
+  {
+   "question": "Which term is defined as: A process that confronts the responses to critical incidents and defuses them, directing the emergency services personnel toward physical and emotional equilibrium.",
+   "choices": [
+    "host",
+    "critical incident stress management",
+    "quid pro quo",
+    "concealment"
+   ],
+   "answer": 1,
+   "explanation": "critical incident stress management: A process that confronts the responses to critical incidents and defuses them, directing the emergency services personnel toward physical and emotional equilibrium.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "critical incident stress management",
+   "topic_n": 33
+  },
+  {
+   "question": "What does the term \"critical incident stress management\" mean?",
+   "choices": [
+    "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions.",
+    "A process that confronts the responses to critical incidents and defuses them, directing the emergency services personnel toward physical and emotional equilibrium.",
+    "The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease.",
+    "A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease."
+   ],
+   "answer": 1,
+   "explanation": "critical incident stress management: A process that confronts the responses to critical incidents and defuses them, directing the emergency services personnel toward physical and emotional equilibrium.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "critical incident stress management",
+   "topic_n": 33
+  },
+  {
+   "question": "After the United Airlines Flight 232 crash in Sioux City killed 111 people, debriefings were offered to responders and victim-identification workers, but unprepared teenage morgue volunteers developed acute critical incident stress and needed months of therapy; the formal recommendation afterward was that critical incident stress teams be called in during and after disasters. What is the lesson for your service?",
+   "choices": [
+    "Screen and prepare everyone exposed to the dead, including volunteers, and bring the stress team in early.",
+    "Send volunteers home without follow-up, since stress services only cover employees.",
+    "Reserve stress support for uniformed responders and keep volunteers out of the debriefings.",
+    "Wait until volunteers start missing shifts before offering them any stress support."
+   ],
+   "answer": 0,
+   "explanation": "Everyone exposed to the dead, including volunteers, should be screened, prepared, and supported by the stress team early.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "critical incident stress management",
+   "topic_n": 33
+  },
+  {
+   "question": "During Hurricane Katrina deployments, a Disaster Medical Assistance Team treated almost 1,000 patients in three days at the Superdome, and the team's mental health member used Crisis Management Briefings and one-on-one interventions during 12-hour shifts instead of formal debriefings, matching the CISM tool to the moment. During a long deployment with no room in the schedule for a formal debriefing, what should the team do?",
+   "choices": [
+    "Postpone all stress support until the deployment ends and a formal debriefing can be scheduled.",
+    "Cancel rest breaks so that full formal debriefings can fit into every shift.",
+    "Require every responder to attend a complete group debriefing after every shift.",
+    "Use short briefings and one-on-one check-ins on shift rather than waiting for a formal debriefing that may never fit the schedule."
+   ],
+   "answer": 3,
+   "explanation": "During a long deployment, use short briefings and check-ins on shift rather than waiting for a formal debriefing.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "critical incident stress management",
+   "topic_n": 33
+  },
+  {
+   "question": "Which term is defined as: The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning employee safety.",
+   "choices": [
+    "direct contact",
+    "ambulance decontamination",
+    "distress",
+    "Occupational Safety and Health Administration"
+   ],
+   "answer": 3,
+   "explanation": "Occupational Safety and Health Administration: The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning employee safety.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Occupational Safety and Health Administration",
+   "topic_n": 34
+  },
+  {
+   "question": "What does the term \"Occupational Safety and Health Administration\" mean?",
+   "choices": [
+    "The tactical use of an impenetrable barrier for protection.",
+    "The formal, structured group debriefing held 24 to 72 hours after a critical incident, as part of critical incident stress management (CISM), in which the responders involved discuss the incident and their reactions to it.",
+    "The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning employee safety.",
+    "Inflammation of the liver, usually caused by a viral infection, that causes fever, loss of appetite, nausea, intestinal upset, and often jaundice."
+   ],
+   "answer": 2,
+   "explanation": "Occupational Safety and Health Administration: The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning employee safety.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Occupational Safety and Health Administration",
+   "topic_n": 34
+  },
+  {
+   "question": "Before 1991, occupational bloodborne exposures were estimated to cause more than 200 deaths and 9,000 infections a year; after a new federal standard took effect, reported occupational hepatitis B infections among healthcare workers fell from about 8,700 in 1987 to about 800 in 1995. A new EMT asks why your service has a written exposure control plan, sharps containers, and free hepatitis B vaccination. What is the correct answer?",
+   "choices": [
+    "They exist because OSHA's Bloodborne Pathogens Standard mandates exposure control plans, PPE, and free hepatitis B vaccination.",
+    "They are voluntary courtesy benefits the service offers, with no legal requirement behind them.",
+    "They come from a state law that applies only to hospitals, not ambulance services.",
+    "CDC requires them as a condition of the service receiving Medicare reimbursement."
+   ],
+   "answer": 0,
+   "explanation": "Your exposure control plan, sharps containers, and free hepatitis B shots exist because OSHA mandates them.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "Occupational Safety and Health Administration",
+   "topic_n": 34
+  },
+  {
+   "question": "After an orca killed a trainer at SeaWorld Orlando in 2010, OSHA cited the park under the General Duty Clause of the OSH Act for exposing trainers to the recognized hazards of close contact with killer whales, even though no orca-specific standard existed; the citation was upheld in court in 2014. An employer in your district argues it has no duty to fix a recognized hazard because no specific OSHA standard covers it. Why is that wrong?",
+   "choices": [
+    "It is not wrong; without a specific published standard, OSHA cannot cite any hazard.",
+    "The duty exists only if the hazard has already caused a fatality at that workplace.",
+    "Even without a specific standard, the employer still has a legal duty to protect employees from recognized dangers.",
+    "OSHA can act on an unlisted hazard only after employees petition Congress for a rule."
+   ],
+   "answer": 2,
+   "explanation": "Even without a specific standard for a hazard, your employer still has a legal duty to protect you from recognized dangers.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "Occupational Safety and Health Administration",
+   "topic_n": 34
+  },
+  {
+   "question": "Which term is defined as: The primary federal agency that conducts and supports public health activities in the United States.",
+   "choices": [
+    "Centers for Disease Control and Prevention",
+    "burnout",
+    "eye protection",
+    "critical incident stress management"
+   ],
+   "answer": 0,
+   "explanation": "Centers for Disease Control and Prevention: The primary federal agency that conducts and supports public health activities in the United States.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Centers for Disease Control and Prevention",
+   "topic_n": 35
+  },
+  {
+   "question": "What does the term \"Centers for Disease Control and Prevention\" mean?",
+   "choices": [
+    "The primary federal agency that conducts and supports public health activities in the United States.",
+    "What type of sexual harassment occurs when the harasser requests sexual favors in exchange for something else, such as a promotion, a job benefit, a better shift, or a favorable evaluation.",
+    "The misuse of drugs or alcohol by a provider, on or off duty, that endangers the provider, coworkers, and patients; among EMS personnel, its most serious consequence is substandard or inappropriate patient care.",
+    "What airborne bacterial disease is caused by Mycobacterium tuberculosis, spreads when an infected person coughs or sneezes, and is indicated by a positive skin test showing exposure to the bacterium."
+   ],
+   "answer": 0,
+   "explanation": "Centers for Disease Control and Prevention: The primary federal agency that conducts and supports public health activities in the United States.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Centers for Disease Control and Prevention",
+   "topic_n": 35
+  },
+  {
+   "question": "In 2012, a Tennessee clinician reported a rare fungal meningitis case in a patient who had received an epidural steroid injection; the report triggered a multistate investigation that traced the infections to contaminated medication lots from one compounding pharmacy, and roughly 14,000 patients were notified. What should providers take from this case?",
+   "choices": [
+    "Wait until at least ten similar cases appear locally before reporting anything to public health.",
+    "Report unusual post-treatment infections promptly; one report to public health can protect thousands of patients.",
+    "Keep the report inside your own agency to avoid alarming the public unnecessarily.",
+    "Report the infection only to the medication manufacturer rather than to public health officials."
+   ],
+   "answer": 1,
+   "explanation": "One prompt report to public health can trigger an investigation that protects thousands of patients.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "Centers for Disease Control and Prevention",
+   "topic_n": 35
+  },
+  {
+   "question": "In 2019, health officials alerted CDC to teenagers with severe lung injuries who had used vaping products; the national investigation that followed identified vitamin E acetate in illicit THC cartridges as the likely culprit after it was found in lung fluid from 48 of 51 patients tested. You are assessing a young patient in severe respiratory distress with no signs of infection. What should you do?",
+   "choices": [
+    "Ask only about cigarette smoking, since only tobacco smoke injures the lungs.",
+    "Ask specifically about vaping and THC cartridges; your history may be the clue that solves the case.",
+    "Document the cause as asthma and leave product use out of the patient care report.",
+    "Avoid asking about vaping, because e-cigarette use is not relevant to lung injury."
+   ],
+   "answer": 1,
+   "explanation": "Ask young respiratory-distress patients specifically about vaping and THC cartridges.",
+   "source": "Flashcard Case Studies — Set 6",
+   "topic": "Centers for Disease Control and Prevention",
+   "topic_n": 35
+  }
+ ]
+}

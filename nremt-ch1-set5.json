@@ -1,0 +1,508 @@
+{
+ "questions": [
+  {
+   "answer": 2,
+   "choices": [
+    "Secondary prevention",
+    "Tertiary prevention",
+    "Primary prevention",
+    "Quality control"
+   ],
+   "explanation": "It acts before any crash occurs, so the injury never happens in the first place.",
+   "question": "A community awareness program visits local high schools to emphasize the dangers of drinking and driving, hoping no crash ever happens. What type of prevention is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Primary prevention",
+    "Continuous quality improvement",
+    "Medical direction",
+    "Secondary prevention"
+   ],
+   "explanation": "Correctly installed seats act before a crash, preventing the injury from occurring.",
+   "question": "Firefighters set up a free child car-seat check and install seats correctly for parents before anyone leaves the parking lot. What type of prevention is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Quality control",
+    "Primary prevention",
+    "Tertiary prevention",
+    "Online medical control"
+   ],
+   "explanation": "Giving out helmets and smoke alarms targets hazards early so injuries and fires are kept from occurring at all.",
+   "question": "A city gives away bicycle helmets and smoke alarms at a health fair and teaches families how to use them. What type of prevention is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "National Registry of EMTs",
+    "Centers for Disease Control and Prevention",
+    "National Association of State EMS Officials",
+    "National Highway Traffic Safety Administration (NHTSA)"
+   ],
+   "explanation": "NHTSA is the federal source for the national EMT training guidelines that states follow.",
+   "question": "A state EMS director confirms a new EMT course meets or exceeds the training guidelines recommended for nearly every state. Which federal agency issued those guidelines?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "National EMS Education Standards",
+    "National EMS Scope of Practice Model",
+    "Americans With Disabilities Act",
+    "National EMS Agenda for the Future"
+   ],
+   "explanation": "The National EMS Scope of Practice Model outlines what skills each EMS provider level may perform.",
+   "question": "An instructor looks up whether an AEMT, rather than an EMT, may start an IV, and finds the answer in an NHTSA document that lists skills by provider level. What document is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "National EMS Education Standards",
+    "National EMS Core Content",
+    "National EMS Scope of Practice Model",
+    "National EMS Research Agenda"
+   ],
+   "explanation": "The model is the national reference for dividing skills among EMR, EMT, AEMT, and paramedic.",
+   "question": "Two agencies disagree about which provider level should perform a certain airway skill, so they check the national model that sorts skills by level. What document should they check?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Americans With Disabilities Act",
+    "Health Insurance Portability and Accountability Act",
+    "National EMS Scope of Practice Model",
+    "Occupational Safety and Health Act"
+   ],
+   "explanation": "The ADA protects qualified people with disabilities against discrimination in employment.",
+   "question": "A qualified EMT applicant who uses a wheelchair is refused a job interview solely because of the wheelchair. Which federal law addresses this kind of discrimination?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Health Insurance Portability and Accountability Act",
+    "National EMS Education Standards",
+    "Emergency Medical Treatment and Labor Act",
+    "Americans With Disabilities Act"
+   ],
+   "explanation": "The ADA requires services to be accessible to people with disabilities, including communication access.",
+   "question": "A patient who is deaf asks for a sign-language interpreter at the hospital, and staff arrange one so she can understand her care. Which federal law supports this access?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Health Insurance Portability and Accountability Act",
+    "Americans With Disabilities Act",
+    "Emergency Medical Treatment and Labor Act",
+    "National EMS Scope of Practice Model"
+   ],
+   "explanation": "The ADA protects access for people with disabilities, including use of service animals in public places.",
+   "question": "A man is told his service dog cannot enter a clinic waiting room, even though the dog is trained to assist him. Which federal law is being raised by this complaint?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Continuous quality improvement",
+    "Risk management",
+    "Quality control",
+    "Medical direction"
+   ],
+   "explanation": "The medical director is checking care on an individual call, which is quality control rather than a system-wide review.",
+   "question": "The medical director personally reviews one EMT's patient care report from last night's call to check that the required care standard was met. What is this single-call oversight called?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Continuous quality improvement",
+    "System-wide data audit",
+    "Credentialing review",
+    "Quality control"
+   ],
+   "explanation": "Direct medical director oversight of the standard of care given on one call is quality control.",
+   "question": "After a chest-pain call, the medical director calls the crew in to discuss why a protocol step was missed on that specific run. What process is this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Quality control",
+    "Continuous quality improvement",
+    "Benchmarking",
+    "Total quality management"
+   ],
+   "explanation": "Call-by-call oversight by the medical director is quality control, unlike CQI's system-wide review.",
+   "question": "Instead of auditing a year of system-wide data, a medical director spot-checks charts from this week's calls to confirm EMTs met care standards on each call. What is this called?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Emergency Medical Technician",
+    "Paramedic",
+    "Advanced Emergency Medical Technician",
+    "Emergency Medical Responder"
+   ],
+   "explanation": "Cardiac monitoring is an advanced skill assigned to the paramedic level.",
+   "question": "On a chest-pain call, one provider places the patient on a cardiac monitor and starts interpreting the rhythm. Which provider level performs this advanced function?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Emergency Medical Responder",
+    "Emergency Medical Technician",
+    "Paramedic",
+    "Advanced Emergency Medical Technician"
+   ],
+   "explanation": "Endotracheal intubation and emergency pharmacology are paramedic-level advanced skills.",
+   "question": "A patient needs endotracheal intubation and emergency drugs in the field, beyond basic airway and medication help. Which provider level is trained for this?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Emergency Medical Technician",
+    "Emergency Medical Responder",
+    "Advanced Emergency Medical Technician",
+    "Paramedic"
+   ],
+   "explanation": "Pharmacologic interventions and advanced treatment skills are functions of the paramedic.",
+   "question": "A crew requests the provider who can give pharmacologic interventions and perform other advanced assessment and treatment skills at the scene. Which provider level should respond?",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "They dropped by about 50%",
+    "They rose by about 50%",
+    "They dropped by about 5%",
+    "They doubled"
+   ],
+   "explanation": "Reported Bronx falls dropped 50% from 1973 to 1975 after the education and free window guard program began.",
+   "question": "In the early 1970s, New York City found that window falls were badly injuring and killing young children. Its 'Children Can't Fly' program paired family education with free, easy-to-install window guards, and landlords were later required to install guards where young children lived. What happened to reported Bronx window falls in the program's first years?",
+   "source": "Case Studies — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Naloxone was restricted to paramedics only",
+    "EMTs were barred from giving naloxone",
+    "Naloxone was added to the EMR and EMT levels",
+    "Police departments were required to stop carrying naloxone"
+   ],
+   "explanation": "A 2017 national change notice added naloxone to the EMR and EMT levels of the Scope of Practice Model.",
+   "question": "In 2010, Quincy, Massachusetts police became the first police department to carry intranasal naloxone, because officers were often the first on scene at opioid overdoses. What national scope change followed in 2017?",
+   "source": "Case Studies — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "It had to hire every applicant who has diabetes",
+    "It had to assess applicants individually and end pre-offer medical questions",
+    "It had to pay Day $600,000 in damages",
+    "It could bar people with diabetes from paramedic jobs"
+   ],
+   "explanation": "The settlement required the city to assess applicants individually and ended its pre-offer medical questions.",
+   "question": "Michael Day, a firefighter/paramedic with well-controlled insulin-dependent diabetes, was North Kansas City's top-ranked applicant, but the city withdrew his preliminary job offer after learning of his diabetes. What did the 2001 ADA settlement require of the city?",
+   "source": "Case Studies — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "The crew had followed protocol exactly",
+    "The trip record was completely accurate",
+    "The patient survived because of the crew's care",
+    "The agency had no effective quality assurance program"
+   ],
+   "explanation": "The state found widespread problems, including no effective QA program, which let poor care and false documentation go uncaught.",
+   "question": "In Worcester, Massachusetts in 2008, paramedics walked a severe chest-pain patient down three flights of stairs against state protocol, and their trip record falsely claimed a stair chair was used; the patient died at the hospital. What did the state find about the agency's oversight?",
+   "source": "Case Studies — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "question": "Which term is defined as: \"Efforts to prevent an injury or illness from ever occurring\"?",
+   "choices": [
+    "Secondary prevention",
+    "Quality control",
+    "Primary prevention",
+    "National EMS Scope of Practice Model"
+   ],
+   "answer": 2,
+   "explanation": "The deck defines primary prevention as efforts to prevent an injury or illness from ever occurring.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "question": "What does the term \"primary prevention\" mean?",
+   "choices": [
+    "Efforts to prevent an injury or illness from ever occurring",
+    "Oversight by the medical director to ensure care standards are met on each call",
+    "A NHTSA document outlining the skills performed by various EMS providers",
+    "Legislation protecting people with disabilities against discrimination"
+   ],
+   "answer": 0,
+   "explanation": "Primary prevention means stopping an injury or illness before it ever occurs.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "question": "Florida law requires new residential pools to have a safety feature such as a four-foot isolation fence with self-closing, self-latching gates, and a Cochrane review found fenced pools had about 73% lower drowning risk. How does pool fencing illustrate primary prevention?",
+   "choices": [
+    "It guarantees a faster EMS response to drowning calls",
+    "It trains bystanders to rescue children already in the water",
+    "It documents drowning incidents for later chart review",
+    "A physical barrier stops the drowning from ever happening"
+   ],
+   "answer": 3,
+   "explanation": "The deck's connection is that a physical barrier prevents the drowning from occurring at all.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "primary prevention",
+   "topic_n": 23
+  },
+  {
+   "question": "Which term is defined as: \"A document created by the National Highway Traffic Safety Administration (NHTSA) that outlines the skills performed by various EMS providers\"?",
+   "choices": [
+    "Quality control",
+    "National EMS Scope of Practice Model",
+    "Primary prevention",
+    "Americans With Disabilities Act"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines the National EMS Scope of Practice Model as the NHTSA document outlining the skills of various EMS providers.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "question": "What is the National EMS Scope of Practice Model?",
+   "choices": [
+    "A federal law that sets one binding scope for every state",
+    "Oversight by the medical director to ensure care standards are met on each call",
+    "Efforts to prevent an injury or illness from ever occurring",
+    "A document created by NHTSA that outlines the skills performed by various EMS providers"
+   ],
+   "answer": 3,
+   "explanation": "The model is NHTSA's document outlining provider skills; the deck notes it is a recommendation, not federal law.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "question": "In 2025, Ohio's EMS board expanded several provider skills, using the national model as its floor; Ohio medical directors may limit the board's scope but never exceed it. What does Ohio's approach show about the National EMS Scope of Practice Model?",
+   "choices": [
+    "States adapt the national model, and your legal scope is your state's scope",
+    "The national model is federal law that states may not change",
+    "Medical directors may expand a provider's scope beyond the state board's",
+    "The model fixes EMT skills permanently with no updates"
+   ],
+   "answer": 0,
+   "explanation": "The deck's lesson is that your legal scope is your state's scope, which may differ from the national model.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "National EMS Scope of Practice Model",
+   "topic_n": 24
+  },
+  {
+   "question": "Which term is defined as: \"Comprehensive legislation that is designed to protect people with disabilities against discrimination\"?",
+   "choices": [
+    "National EMS Scope of Practice Model",
+    "Quality control",
+    "Primary prevention",
+    "Americans With Disabilities Act"
+   ],
+   "answer": 3,
+   "explanation": "The deck defines the Americans With Disabilities Act as comprehensive legislation protecting people with disabilities against discrimination.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "What does the Americans With Disabilities Act do?",
+   "choices": [
+    "It outlines the skills performed by various EMS providers",
+    "It protects people with disabilities against discrimination",
+    "It prevents injuries and illnesses from ever occurring",
+    "It gives the medical director oversight of care on each call"
+   ],
+   "answer": 1,
+   "explanation": "The ADA is comprehensive legislation designed to protect people with disabilities against discrimination.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "In Kent, Washington, a Tri-Med Ambulance crew transported a deaf patient with no communication aids and never told the hospital the patient needed communication services; the 2022 settlement required aids and video remote interpreting in every emergency ambulance. Under the ADA, what must EMS do for such a patient?",
+   "choices": [
+    "Transport without communicating until a family member arrives",
+    "Communicate effectively, using aids or interpreters and alerting the hospital in advance",
+    "Refuse transport until the patient provides an interpreter",
+    "Document the call without notifying the receiving hospital"
+   ],
+   "answer": 1,
+   "explanation": "The deck states that under the ADA, EMS must communicate effectively with patients with disabilities and alert the hospital.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "Hardin County EMS in Kentucky allegedly refused a patient's service dog in the ambulance twice; its 2018 settlement required ADA training for staff, including how to accommodate service animals. What is the general rule for service animals?",
+   "choices": [
+    "They may always be refused when space is tight",
+    "They must be left at the scene for animal control",
+    "They generally must be allowed unless they interfere with treatment",
+    "They are allowed only if the patient is blind"
+   ],
+   "answer": 2,
+   "explanation": "The deck states service animals generally must be allowed unless they interfere with treatment.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "Americans With Disabilities Act",
+   "topic_n": 25
+  },
+  {
+   "question": "Which term is defined as: \"Oversight by the medical director to ensure the appropriate medical care standards are met by EMTs on each call\"?",
+   "choices": [
+    "Quality control",
+    "Primary prevention",
+    "Americans With Disabilities Act",
+    "Paramedic"
+   ],
+   "answer": 0,
+   "explanation": "The deck defines quality control as the medical director's oversight ensuring care standards are met on each call.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "question": "What does the term \"quality control\" mean in EMS?",
+   "choices": [
+    "Efforts to prevent an injury or illness from ever occurring",
+    "A NHTSA document outlining the skills of various EMS providers",
+    "Oversight by the medical director to ensure the appropriate medical care standards are met by EMTs on each call",
+    "Legislation protecting people with disabilities against discrimination"
+   ],
+   "answer": 2,
+   "explanation": "Quality control is the medical director's oversight to ensure appropriate care standards are met on each call.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "question": "In Austin, Texas, medical director Dr. Paul Hinchey had decredentialed six field providers by 2015, and a city attorney confirmed the credential decision rested solely with him. Why is decredentialing a quality-control tool?",
+   "choices": [
+    "It is the medical director's strongest tool for enforcing care standards",
+    "It replaces the need for chart review and remediation",
+    "It is decided by a vote of the provider's coworkers",
+    "It applies only to providers who volunteer to give up credentials"
+   ],
+   "answer": 0,
+   "explanation": "The deck calls removing a credential the medical director's strongest quality-control tool.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "quality control",
+   "topic_n": 26
+  },
+  {
+   "question": "Which term is defined as: \"An individual who has extensive training in advanced life support, including endotracheal intubation, emergency pharmacology, cardiac monitoring, and other advanced assessment and treatment skills\"?",
+   "choices": [
+    "Quality control",
+    "Paramedic",
+    "Primary prevention",
+    "Americans With Disabilities Act"
+   ],
+   "answer": 1,
+   "explanation": "The deck defines a paramedic as the individual with extensive training in advanced life support skills such as intubation and cardiac monitoring.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "question": "What is a paramedic?",
+   "choices": [
+    "A provider limited to basic first aid and transport only",
+    "The physician who oversees EMTs as medical director",
+    "A dispatcher who assigns ambulances to calls",
+    "An individual with extensive training in advanced life support, including intubation, emergency pharmacology, and cardiac monitoring"
+   ],
+   "answer": 3,
+   "explanation": "A paramedic has extensive training in advanced life support, including endotracheal intubation, emergency pharmacology, and cardiac monitoring.",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "question": "Freedom House Ambulance Service began in Pittsburgh in 1967 and trained unemployed Hill District residents, starting with 20 men, as some of the first US paramedics, working with Dr. Peter Safar; its standards became a national training model. What does this case show about the origin of the paramedic role?",
+   "choices": [
+    "The role began in rural fire departments without any training",
+    "The profession began with community members who received rigorous training",
+    "Paramedics were originally hospital nurses reassigned to ambulances",
+    "The role was created by a federal law in 1967"
+   ],
+   "answer": 1,
+   "explanation": "The deck's lesson is that the paramedic profession began with community members who received rigorous training.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  },
+  {
+   "question": "In Aurora, Colorado, in 2019, paramedics injected Elijah McClain with 500 mg of ketamine, a dose for a roughly 200-lb man, though he weighed about 143 lb; he went into cardiac arrest and died. What lesson does this case teach about paramedic pharmacology?",
+   "choices": [
+    "Sedative doses do not depend on patient weight",
+    "Ketamine should be given before any weight estimate is made",
+    "Weight-based dosing needs a careful estimate, and patients need monitoring after sedation",
+    "Only physicians may decide sedative doses in the field"
+   ],
+   "answer": 2,
+   "explanation": "The deck's lessons are that weight-based dosing needs a careful estimate and patients need monitoring after sedation.",
+   "source": "Flashcard Case Studies — Set 5",
+   "topic": "paramedic",
+   "topic_n": 27
+  }
+ ]
+}
