@@ -15,20 +15,6 @@
    "topic_n": 47
   },
   {
-   "question": "Assessment in Action: Because your partner did not use standard precautions, he has potentially been exposed to an infectious disease. What should he do?",
-   "choices": [
-    "Ignore it because the risk of contamination is small.",
-    "Report it to the hospital staff so they can isolate the patient.",
-    "Report it to the infection control officer.",
-    "Sanitize any equipment that was in contact with the patient."
-   ],
-   "answer": 2,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "What does the term \"sharps safety\" mean?",
    "choices": [
     "Cleaning and disinfecting the ambulance and its equipment after a call, including allowing disinfected surfaces to air dry unless otherwise indicated in the product directions, so the unit is safe for the next patient.",
@@ -827,20 +813,6 @@
    "topic_n": 11
   },
   {
-   "question": "Assessment in Action: What standard precautions should your partner have taken with this patient?",
-   "choices": [
-    "Gloves only",
-    "Gloves and surgical mask",
-    "Gloves and HEPA mask",
-    "Gloves, mask, and gown"
-   ],
-   "answer": 2,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "Two days after a school bus rollover with several seriously injured children, your agency brings the crews who responded together for a formal, led group session to talk through the call and their reactions. What is this session called?",
    "choices": [
     "peer support counseling",
@@ -937,20 +909,6 @@
    "source": "Quiz-Style Slides — Set 6",
    "topic": "hepatitis",
    "topic_n": 31
-  },
-  {
-   "question": "Assessment in Action: If your partner becomes infected with this patient’s illness, what type of transmission would this occur through?",
-   "choices": [
-    "Vector-borne",
-    "Foodborne",
-    "Indirect contact",
-    "Airborne"
-   ],
-   "answer": 3,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "After years of night shifts and rising call volume, a medic tells his partner, 'I just don't care anymore, and I'm not the clinician I was.' He is tired all the time and his performance reviews have slipped. What is the most likely explanation?",
@@ -1161,20 +1119,6 @@
    "source": "Flashcard Case Studies — Set 4",
    "topic": "transmission",
    "topic_n": 19
-  },
-  {
-   "question": "Navigate Case Study (EMT with delayed stress after a school bus MCI): What can you do to help yourself?",
-   "choices": [
-    "Pick up extra shifts to stay busy, rely on caffeine to get through the day, and avoid counseling because it is only for severe cases.",
-    "Keep the experience to yourself so coworkers do not think you cannot handle the job, and wait for the feelings to pass on their own.",
-    "Recognize the warning signs of stress in yourself and act on them early. Talk with trusted coworkers, family, or a peer support team, and use professional help such as your agency's employee assistance program. Maintain a healthy lifestyle with regular exercise, proper diet, and adequate sleep, and use stress-management techniques such as relaxation and deep breathing.",
-    "Reduce your hours immediately and avoid any call involving children until you feel completely back to normal."
-   ],
-   "answer": 2,
-   "explanation": "Answer written from the chapter (no printed key).",
-   "source": "Textbook — Navigate Case Study",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "Which term is defined as: What type of sexual harassment occurs when the harasser requests sexual favors in exchange for something else, such as a promotion, a job benefit, a better shift, or a favorable evaluation.",
@@ -1469,20 +1413,6 @@
    "source": "Quiz-Style Slides — Set 1",
    "topic": "distress",
    "topic_n": 3
-  },
-  {
-   "question": "Navigate Case Study (EMT with delayed stress after a school bus MCI): How can poorly managed stress affect your job performance and overall career longevity?",
-   "choices": [
-    "Poorly managed stress has little effect on job performance, because experienced EMTs can separate their feelings from patient care indefinitely.",
-    "Poorly managed stress affects only physical health; errors in patient care and early departure from EMS are caused by poor training instead.",
-    "Poorly managed stress improves job performance by keeping providers alert, and it has no relationship to how long an EMT stays in the profession.",
-    "Poorly managed stress impairs concentration and decision-making, which leads to errors in patient care and friction with patients and coworkers. Over time it produces cumulative stress reactions, burnout, and posttraumatic stress, drives absenteeism, and is a common reason EMTs leave the profession early."
-   ],
-   "answer": 3,
-   "explanation": "Answer written from the chapter (no printed key).",
-   "source": "Textbook — Navigate Case Study",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "A firefighter dies in a house fire. Forty-eight hours later, the firefighters who were on scene meet in a structured debriefing, led by trained CISM personnel, that is kept separate from any operational critique of the fire. What process is this?",
@@ -1805,20 +1735,6 @@
    "source": "Flashcard Case Studies — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
-  },
-  {
-   "question": "Assessment in Action: Which of the following signs and symptoms are NOT usually associated with stress?",
-   "choices": [
-    "Headaches",
-    "Risk taking",
-    "Night sweats",
-    "Isolation"
-   ],
-   "answer": 2,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "You finish a call with a patient who has a draining MRSA wound, then immediately begin assessing the next patient without stopping at the sink or using sanitizer. Which basic infection-control step did you skip?",
@@ -2157,20 +2073,6 @@
    "topic_n": 22
   },
   {
-   "question": "YOU are the Provider (4-year-old girl in cardiac arrest): How can you psychologically prepare yourself for this call?",
-   "choices": [
-    "Avoid thinking about the call on the way to the scene, and rely on your partner to handle anything you are not comfortable doing.",
-    "Take on as many difficult calls as possible early in your career so you become numb to stressful incidents quickly.",
-    "Mentally rehearse the worst possible outcome so that nothing you find on scene can surprise or affect you.",
-    "Know the job can be stressful and develop good coping mechanisms before and after an incident. Practice stress management regularly, know your own limitations, maintain a healthy lifestyle with proper sleep, healthy eating, and exercise, and do not take on more than you can handle."
-   ],
-   "answer": 3,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "Which term is defined as: A delayed stress reaction to a prior incident. Often the result of one or more unresolved issues concerning the incident, and may relate to an incident that involved physical harm or the threat of physical harm.",
    "choices": [
     "acute stress reactions",
@@ -2295,20 +2197,6 @@
    "source": "Quiz-Style Slides — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
-  },
-  {
-   "question": "Assessment in Action: On the basis of your partner’s actions, what is he most likely experiencing?",
-   "choices": [
-    "Acute stress reaction",
-    "Cumulative stress reaction",
-    "Posttraumatic stress disorder",
-    "Delayed stress reaction"
-   ],
-   "answer": 1,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "Navigate Case Study (EMT with delayed stress after a school bus MCI): What are some of the factors that influence the reaction of a patient or family members to the stresses of an illness or injury?",
@@ -2591,20 +2479,6 @@
    "topic_n": 7
   },
   {
-   "question": "Navigate Case Study (EMT with delayed stress after a school bus MCI): What are other proven methods for decreasing the adverse effects of stress overall?",
-   "choices": [
-    "Keeping feelings private, skipping meals during busy shifts, and relying on energy drinks to stay alert are proven ways to reduce the effects of stress.",
-    "Working longer shifts to build tolerance, using tobacco or alcohol in moderation to relax, and avoiding exercise on days off so the body can fully rest.",
-    "Regular physical exercise, a healthy diet, and adequate sleep are the foundation. Relaxation techniques such as meditation and deep breathing, strong social support from family and coworkers, critical incident stress management, and professional counseling through an employee assistance program are also proven, while limiting alcohol, caffeine, and tobacco helps.",
-    "Stress cannot be reduced once symptoms appear; the only proven approach is to leave EMS work entirely before symptoms develop."
-   ],
-   "answer": 2,
-   "explanation": "Answer written from the chapter (no printed key).",
-   "source": "Textbook — Navigate Case Study",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "In July 1998, nurse Karen Daley was stuck by a needle protruding from an overfilled sharps container at Brigham and Women's Hospital. That single needlestick infected her with both HIV and hepatitis C, and her advocacy led to the federal Needlestick Safety and Prevention Act. What sharps practice does her case demand of EMTs?",
    "choices": [
     "Recap used needles before disposal to conserve space in the sharps container.",
@@ -2657,20 +2531,6 @@
    "answer": 0,
    "explanation": "From the book's printed answer key.",
    "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
-   "question": "YOU are the Provider (4-year-old girl in cardiac arrest): How can you mitigate the stress associated with the job?",
-   "choices": [
-    "Avoid thinking or talking about stressful calls altogether, since discussing them only makes the stress worse over time.",
-    "Keep work stress separate by avoiding coworkers off duty, skip debriefings, and use alcohol in moderation to unwind after difficult calls.",
-    "Maintain a healthy lifestyle, including regular exercise, a healthy diet, and adequate sleep. Use stress-management techniques such as relaxation, meditation, and deep breathing, seek social support from family, friends, and coworkers, recognize the warning signs of stress, and seek professional help if needed.",
-    "Take on extra overtime shifts so that stressful calls become routine, and rely on caffeine to stay alert through long shifts."
-   ],
-   "answer": 2,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
    "topic": null,
    "topic_n": null
   },
@@ -3275,20 +3135,6 @@
    "source": "Quiz-Style Slides — Set 9",
    "topic": "hand washing",
    "topic_n": 46
-  },
-  {
-   "question": "Assessment in Action: What are the long-term psychological effects of stress?",
-   "choices": [
-    "Long-term psychological reactions to stress include fear, dull or nonresponsive behavior, depression, guilt, oversensitivity, anger, irritability, and frustration.",
-    "Long-term psychological reactions to stress include euphoria, increased confidence, sharpened focus, and a lasting sense of calm.",
-    "Long-term psychological reactions to stress include hallucinations, delusions, and a complete loss of contact with reality.",
-    "Long-term psychological reactions to stress are limited to brief sadness that resolves on its own within one shift."
-   ],
-   "answer": 0,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "Through February 2020, Kirkland, Washington firefighters answered about 30 medical calls at a nursing home where COVID-19 was spreading, up from 7 calls the month before, without knowing the virus was inside. On February 29 the city quarantined 25 firefighters and 2 police officers, and roughly a third of the department ended up in quarantine or isolation. What is the key staffing lesson?",
@@ -4019,20 +3865,6 @@
    "topic_n": 23
   },
   {
-   "question": "YOU are the Provider (4-year-old girl in cardiac arrest): What is stress? How does it manifest?",
-   "choices": [
-    "Stress is a sign of poor training. It manifests as an inability to perform skills, and experienced providers who are properly trained no longer experience it.",
-    "Stress is the body's response to a lack of sleep. It manifests mainly as fatigue and yawning, and it resolves as soon as the provider gets one full night of rest.",
-    "Stress is a purely emotional reaction that has no physical component. It manifests only as feelings of worry or sadness and does not change heart rate, breathing, or blood pressure.",
-    "Stress is a physical, mental, or emotional response to a stressor. The body activates the fight-or-flight response, with the sympathetic nervous system releasing adrenaline and norepinephrine, changing heart rate, breathing, pupil dilation, sweating, blood pressure, and blood flow. It can manifest physically (headaches, gastrointestinal upset, insomnia, fatigue), emotionally (anger, fear, anxiety), behaviorally (appetite changes, social withdrawal, substance abuse), or cognitively (difficulty concentrating, memory problems)."
-   ],
-   "answer": 3,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "Spanish nursing assistant Teresa Romero cared for a missionary who died of Ebola in September 2014. She became the first person known to contract Ebola outside West Africa; investigators believed she touched her face with a contaminated glove while removing her protective suit. What practice does her case demand?",
    "choices": [
     "Touching the face during removal is low risk, since the outside of the gloves stays clean during care.",
@@ -4157,20 +3989,6 @@
    "source": "Flashcard Slides — Set 8",
    "topic": "cold-weather clothing layers",
    "topic_n": 44
-  },
-  {
-   "question": "Navigate Case Study (EMT with delayed stress after a school bus MCI): What are other signs and symptoms of ineffectively handled stress?",
-   "choices": [
-    "The only reliable signs are physical ones such as headaches and fatigue; stress does not produce emotional or behavioral changes.",
-    "Signs include occasional sadness after a difficult call that resolves within a day and does not affect work, appetite, or sleep.",
-    "Physical signs include increased energy, improved appetite, and deeper sleep. Emotional signs include greater patience, optimism, and a stronger desire to socialize with coworkers.",
-    "Physical signs include headaches, gastrointestinal upset, insomnia, fatigue, and changes in appetite. Emotional and behavioral signs include irritability, anger, anxiety, depression, social withdrawal, difficulty concentrating, increased risk-taking, and alcohol or drug abuse."
-   ],
-   "answer": 3,
-   "explanation": "Answer written from the chapter (no printed key).",
-   "source": "Textbook — Navigate Case Study",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "At an apartment fire, a firefighter warns that air inside a burned room may not support life even where flames are out, and victims are coughing from carbon monoxide and other gases in the smoke. What are these dangers collectively called?",
@@ -4353,20 +4171,6 @@
    "source": "Quiz-Style Slides — Set 2",
    "topic": "exposure",
    "topic_n": 10
-  },
-  {
-   "question": "Assessment in Action: What are the long-term physical effects of stress?",
-   "choices": [
-    "Long-term physical effects of stress include night sweats, a productive cough, fever, and unexplained weight loss.",
-    "Long-term physical effects of stress include improved immune function, increased energy, better sleep, and a lower resting heart rate.",
-    "Long-term physical effects of stress are limited to temporary muscle tension and mild headaches that resolve within a few days.",
-    "Long-term physical effects of stress include changes in appetite, gastrointestinal problems, backache, headaches, and fatigue."
-   ],
-   "answer": 3,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "You arrive at a rollover with the car resting on its side and a patient trapped inside. Your partner wants to climb in through the rear window immediately. What must happen first?",
@@ -4691,20 +4495,6 @@
    "topic_n": 27
   },
   {
-   "question": "Assessment in Action: Discuss the implications of your partner’s actions in this scenario.",
-   "choices": [
-    "Your partner's actions carry no real risk, because a single brief exposure to a patient with tuberculosis almost never results in infection.",
-    "Your partner's actions affect only the patient, who may need to be isolated at the hospital until test results are available.",
-    "Your partner’s sloppiness in failing to take standard precautions may adversely impact his health and the health of his family. Specifically, he may become exposed to an airborne disease that he could spread to others, including his coworkers, his patients, and his own family.",
-    "Your partner's actions are mainly a documentation problem, since the exposure only matters if it is not recorded on the patient care report."
-   ],
-   "answer": 2,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "YOU are the Provider (4-year-old girl in cardiac arrest): Does death of a child affect an EMT differently than death of an adult? If so, how?",
    "choices": [
     "No. Providers are trained to treat every death the same, and the age of the patient does not change the emotional response.",
@@ -4787,20 +4577,6 @@
    "source": "Quiz-Style Slides — Set 5",
    "topic": "infection",
    "topic_n": 27
-  },
-  {
-   "question": "YOU are the Provider (4-year-old girl in cardiac arrest): What phase of the stress response are you experiencing right now?",
-   "choices": [
-    "The alarm phase, the first phase of the general adaptation syndrome: the body reacts to the stressor, the fight-or-flight response is activated, and the shaking hands, rapid breathing, and racing heart are symptoms.",
-    "The exhaustion phase, the final phase of the general adaptation syndrome: the body's resources are depleted after prolonged exposure to the stressor.",
-    "A delayed stress reaction, in which symptoms such as shaking hands and a racing heart appear days to weeks after the incident ends.",
-    "The resistance phase, the second phase of the general adaptation syndrome: the body has adapted to the stressor and vital signs have returned to normal."
-   ],
-   "answer": 0,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "What does the term \"cumulative stress reactions\" mean?",
@@ -4899,20 +4675,6 @@
    "source": "Quiz-Style Slides — Set 6",
    "topic": "resilience",
    "topic_n": 32
-  },
-  {
-   "question": "YOU are the Provider (4-year-old girl in cardiac arrest): How can poorly managed stress affect your physical well-being?",
-   "choices": [
-    "Poorly managed stress mainly causes minor, temporary complaints such as tension headaches that resolve with a single day off.",
-    "Poorly managed stress affects only mood and sleep; it does not change the immune system or the risk of any disease.",
-    "Poorly managed stress has no lasting physical effects, because the body fully recovers once the stressful shift ends.",
-    "Prolonged or poorly managed stress can cause a variety of physical symptoms and deplete the body, weakening the immune system and increasing the risk of heart disease, hypertension, cancer, alcoholism, and drug abuse."
-   ],
-   "answer": 3,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "In 1847, a maternity clinic where doctors came straight from autopsies lost about 18% of mothers to childbed fever. When the physician in charge required hand disinfection with chlorinated lime solution before examining patients, mortality fell to about 2% within two months, with no other major change. What does this case demonstrate?",

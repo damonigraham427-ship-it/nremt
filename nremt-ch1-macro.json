@@ -1,20 +1,6 @@
 {
  "questions": [
   {
-   "question": "Assessment in Action: Which of the following agencies is the federal source for the model EMT scope of practice and education standards?",
-   "choices": [
-    "Department of Health and Human Services",
-    "National Highway Traffic Safety Administration",
-    "Federal Emergency Management Agency",
-    "Department of Transportation"
-   ],
-   "answer": 1,
-   "explanation": "Book's printed key: National Highway Traffic Safety Administration.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "answer": 1,
    "choices": [
     "The Emergency Medical Treatment and Labor Act (EMTALA)",
@@ -939,20 +925,6 @@
    "topic_n": 15
   },
   {
-   "question": "Assessment in Action: Which of the following is an example of secondary prevention?",
-   "choices": [
-    "Cardiac arrest management",
-    "Administering vaccines",
-    "Teaching pool safety when finding someone who slipped and fell near a pool by running",
-    "Teaching safety in schools"
-   ],
-   "answer": 2,
-   "explanation": "Book's printed key: Teaching pool safety when finding someone who slipped and fell near a pool by running.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "Seattle/King County's Medic One system tracks every cardiac arrest and gives crews case-by-case feedback; after reviews exposed long CPR pauses, protocols changed in 2005 to limit pauses and about 2,500 EMTs were retrained, and witnessed-VF survival climbed from about 33% to over 50%. This is an example of what?",
    "choices": [
     "Online medical control",
@@ -1135,20 +1107,6 @@
    "topic_n": 18
   },
   {
-   "question": "YOU are the Provider (48-year-old woman, back pain): What is the purpose of reviewing an EMS call?",
-   "choices": [
-    "Its only purpose is to identify errors so the provider can be disciplined by the medical director",
-    "It determines whether the call met the National EMS Education Standards for billing purposes",
-    "It provides feedback on how the provider cared for the patient and met her physical and emotional needs; formal continuous quality improvement (CQI) ensures safe, effective care is consistently provided across the system",
-    "It is a licensure requirement that must be completed before the EMT's next shift begins"
-   ],
-   "answer": 2,
-   "explanation": "Call review gives feedback on patient care, and formal CQI is designed to ensure safe, effective patient care is consistently provided by all providers in the system.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "What is public health?",
    "choices": [
     "Delivering health care within the community rather than at a physician's office or hospital",
@@ -1245,20 +1203,6 @@
    "source": "Quiz-Style Slides — Set 5",
    "topic": "paramedic",
    "topic_n": 27
-  },
-  {
-   "question": "Assessment in Action: What is continuous quality improvement (CQI) and how is it used to help ensure the safety of patients?",
-   "choices": [
-    "A disciplinary review process used to punish providers whose errors are found during chart audits",
-    "A one-time external inspection that certifies an agency's ambulances and equipment",
-    "A circular system of continuous internal and external reviews and audits of all aspects of an EMS system, identifying areas that need improvement and resolving them through remediation and training rather than punitive measures",
-    "A state-run examination that EMS systems must pass to renew their operating license"
-   ],
-   "answer": 2,
-   "explanation": "Book's printed key: Continuous quality improvement is a circular system of continuous internal and external reviews and audits of all aspects of an EMS system. By looking at all the components of an EMS system, the CQI process seeks to identify areas that need improvement and enables the problems to be resolved through remediation and training rather than through punitive measures.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "Which term is defined as: \"A process in which a person, an institution, or a program is evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care\"?",
@@ -2535,20 +2479,6 @@
    "topic_n": 2
   },
   {
-   "question": "Assessment in Action: Which of the phases of being an emergency health care provider is continuous?",
-   "choices": [
-    "Continuing medical education",
-    "Teaching EMS courses",
-    "Pursuing an advanced degree",
-    "Completing weekly drug screening"
-   ],
-   "answer": 0,
-   "explanation": "Book's printed key: Continuing medical education.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "answer": 1,
    "choices": [
     "The medical director's office",
@@ -2983,20 +2913,6 @@
    "topic_n": 27
   },
   {
-   "question": "Assessment in Action: This act of legislation protects people with disabilities from being denied access to programs and services that are provided by state or local governments.",
-   "choices": [
-    "Ryan White Act",
-    "Marchman Act",
-    "Equal Rights Amendment",
-    "Americans with Disabilities Act"
-   ],
-   "answer": 3,
-   "explanation": "Book's printed key: Americans with Disabilities Act.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "What is a medical director in EMS?",
    "choices": [
     "A system of reviews and audits aimed at improving outcomes",
@@ -3219,20 +3135,6 @@
    "source": "Flashcard Slides — Set 3",
    "topic": "advanced EMT",
    "topic_n": 13
-  },
-  {
-   "question": "Assessment in Action: Why is EMS research a vital part in the evolution of patient management?",
-   "choices": [
-    "Research provides data that identify treatments that are beneficial and/or lifesaving for trauma patients and those that are not, and participation in research empowers the EMT to help shape the future of trauma care",
-    "Research is a continuing education requirement an EMT must complete to keep certification current",
-    "Research replaces CQI audits as the main way EMS systems check the quality of patient care",
-    "Research determines each state's scope of practice and the education standards for every provider level"
-   ],
-   "answer": 0,
-   "explanation": "Book's printed key: Research provides data that identify treatments that are beneficial and/or lifesaving for trauma patients and those that are not. Participation in EMS research empowers the EMT to help shape the future of trauma care.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "Which term is defined as: \"Efforts to prevent an injury or illness from ever occurring\"?",

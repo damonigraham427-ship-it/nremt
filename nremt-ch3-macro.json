@@ -939,20 +939,6 @@
    "topic_n": 31
   },
   {
-   "question": "YOU are the Provider (32-year-old man, severe headache): How does informed consent differ from implied consent?",
-   "choices": [
-    "Informed consent is permission granted by medical control over the radio, while implied consent is permission granted by the patient's family members at the scene.",
-    "Informed consent applies only to minors whose parents have been notified, while implied consent applies to adults who refuse to answer the crew's questions.",
-    "Informed consent is given in writing on a signed form, while implied consent is given verbally by a conscious patient who nods or extends an arm for a blood pressure check.",
-    "Informed consent means the patient is told the nature of the illness, the treatment, its risks and benefits, alternatives, and consequences, and then gives consent. Implied consent is assumed when a patient is unconscious, confused, seriously injured, or otherwise unable to communicate in a life-threatening situation, and would consent if able."
-   ],
-   "answer": 3,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "A 19-year-old agreed to back surgery for a suspected ruptured disc. His surgeon did not disclose the roughly 1% risk of paralysis, later testifying he did not want to deter the patient from having the operation. The patient was left paralyzed, and the appeals court set a 'prudent patient' standard for disclosure. What does this case require of providers?",
    "choices": [
     "Withholding a risk is acceptable whenever the provider sincerely believes the treatment is necessary.",
@@ -1161,20 +1147,6 @@
    "source": "Flashcard Slides — Set 7",
    "topic": "protected health information",
    "topic_n": 38
-  },
-  {
-   "question": "YOU are the Provider (32-year-old man, severe headache): Does HIPAA affect the medical care you provide to your patients? What information are you allowed to discuss with family members, bystanders, the media, and others?",
-   "choices": [
-    "HIPAA allows you to discuss the patient's condition with family members and bystanders who were present, but prohibits telling the receiving hospital anything beyond the chief complaint.",
-    "HIPAA requires you to give the media a general statement about the patient's condition, as long as you do not use the patient's full name.",
-    "HIPAA limits the care you can provide, because you may not perform any assessment or treatment until the patient signs a HIPAA privacy notice at the scene.",
-    "HIPAA does not affect the medical care you provide, but it affects what information you can disclose. You may discuss the patient's condition with those involved in his care, such as other health care providers, but must not disclose information to family members, bystanders, or the media without the patient's consent, except as allowed by law."
-   ],
-   "answer": 3,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "Your partner, frustrated with a screaming patient, says, 'Keep it up and I'll sedate you until you can't talk.' The patient goes silent in fear. How should this be classified?",
@@ -1751,20 +1723,6 @@
    "topic_n": 3
   },
   {
-   "question": "Assessment in Action: What is the best way to care for your patient once he tells you he does not want to go to the hospital?",
-   "choices": [
-    "Let him know how important it is that he accept transport to the hospital.",
-    "Ask him to sign a refusal form, releasing you from liability.",
-    "Order him to go to the hospital against his wishes.",
-    "Encourage him to call 9-1-1 again if his condition worsens."
-   ],
-   "answer": 0,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "What does the term \"contributory negligence\" mean?",
    "choices": [
     "Statutory provisions enacted by many states to protect citizens from liability for errors and omissions in giving good faith emergency medical care, unless there is wanton, gross, or willful negligence.",
@@ -2143,20 +2101,6 @@
    "topic_n": 52
   },
   {
-   "question": "Navigate Case Study (32-year-old man, low blood glucose): If you had left the scene as the patient requested, what would you and your partner be accused of?",
-   "choices": [
-    "Battery, because leaving the scene after arriving at the patient's home would be treated the same as unwanted physical contact with the patient.",
-    "Abandonment. Leaving a patient who still needs care without transferring him to someone of equal or higher medical training can be abandonment and negligence, and his request would not protect you because his confusion meant he was not competent to refuse.",
-    "False imprisonment, because remaining responsible for a patient after he has been found is the same as holding him against his will.",
-    "Nothing, because a patient who tells the crew to leave has formally refused care, and honoring that request protects the crew from any accusation."
-   ],
-   "answer": 1,
-   "explanation": "Answer written from the chapter (no printed key).",
-   "source": "Textbook — Navigate Case Study",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "Which of the following is the best example of an emergency as defined in your textbook?",
    "choices": [
     "emergency — a patient with a minor ankle sprain who is able to walk to the ambulance",
@@ -2479,20 +2423,6 @@
    "topic_n": 58
   },
   {
-   "question": "Assessment in Action: Upon arrival at the scene, your partner began assessing vital signs without talking to the patient. This demonstrates:",
-   "choices": [
-    "effective interpersonal communication.",
-    "patient advocacy.",
-    "failure to obtain consent.",
-    "breach of duty."
-   ],
-   "answer": 2,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "An off-duty EMT stops at a crash, holds pressure on a bleeding wound in good faith, and makes an honest error in care. A lawsuit follows. What most likely protects her?",
    "choices": [
     "sovereign immunity",
@@ -2589,20 +2519,6 @@
    "source": "Flashcard Slides — Set 10",
    "topic": "Good Samaritan laws",
    "topic_n": 55
-  },
-  {
-   "question": "YOU are the Provider (32-year-old man, severe headache): Are you legally authorized to treat this patient? Why or why not?",
-   "choices": [
-    "No. EMTs are never authorized to treat a patient with a possible stroke until a physician at the hospital has granted permission by radio.",
-    "Yes. Because the call came through 9-1-1, the patient has already consented to assessment and treatment, so the crew may begin care without asking him.",
-    "No. He has not given consent. Although he is conscious and alert, you have not asked his permission to treat him. You must obtain consent before providing care, unless the patient is unconscious or otherwise unable to give consent.",
-    "Yes. A patient who is sitting in a public place and acknowledges the crew's presence has given implied consent to be assessed and treated."
-   ],
-   "answer": 2,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "A patient with an emotional crisis refuses transport. You tell him, 'Agree to go, or I'll have the police hold you down and strap you to the stretcher.' He becomes visibly frightened. What have you committed?",
@@ -3431,20 +3347,6 @@
    "topic_n": 7
   },
   {
-   "question": "Navigate Case Study (32-year-old man, low blood glucose): What is the difference between informed and implied consent, and why is obtaining patient consent so important?",
-   "choices": [
-    "Informed consent is permission from a competent patient after you explain the treatment, its risks and benefits, and the alternatives. Implied consent is assumed in an emergency when the patient is unconscious or otherwise unable to consent and a reasonable person would want care. Obtaining consent respects the patient's legal right to decide about his own care, and treating without it can be considered battery.",
-    "Informed consent is granted by medical control over the radio, while implied consent is granted by family members at the scene. Consent is important mainly as documentation for the patient care report.",
-    "Informed consent is a signed written form used at the hospital, while implied consent is a verbal yes from a conscious patient. Consent matters mainly so the agency can bill the patient for treatment and transport.",
-    "Informed consent applies to minors with a parent present, while implied consent applies to any adult who called 9-1-1. Consent is important because it allows the crew to share the patient's information with bystanders."
-   ],
-   "answer": 0,
-   "explanation": "Answer written from the chapter (no printed key).",
-   "source": "Textbook — Navigate Case Study",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "What does the term \"proximate causation\" mean?",
    "choices": [
     "The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment against his or her will.",
@@ -3681,20 +3583,6 @@
    "source": "Flashcard Slides — Set 4",
    "topic": "battery",
    "topic_n": 22
-  },
-  {
-   "question": "Assessment in Action: Suppose your partner had introduced himself and asked permission to examine the patient. If the patient nodded and extended his arm, this would be considered:",
-   "choices": [
-    "mature consent.",
-    "implied consent.",
-    "informed consent.",
-    "expressed consent."
-   ],
-   "answer": 3,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "A young woman was left in a persistent vegetative state after a car crash, sustained by a feeding tube. She had no living will. Her parents asked the hospital to withdraw the tube, but the state required clear and convincing evidence of her own wishes, and the dispute reached the U.S. Supreme Court. What is the main lesson for field providers?",
@@ -3989,20 +3877,6 @@
    "source": "Flashcard Case Studies — Set 10",
    "topic": "dependent lividity",
    "topic_n": 53
-  },
-  {
-   "question": "Navigate Case Study (32-year-old man, low blood glucose): Can you continue to restrain this patient and/or transport him to the hospital?",
-   "choices": [
-    "Yes, because his blood glucose was dangerously low earlier, which removes his right to refuse care for the remainder of the call.",
-    "Yes. Once a patient has been restrained and an IV started, the crew must complete transport, because stopping treatment midway is always considered abandonment.",
-    "No. After the dextrose he is alert and oriented to person, place, time, and event, so he has decision-making capacity and the right to refuse transport. Continued restraint or forced transport could be battery and false imprisonment; remove the IV as requested and follow your refusal protocol.",
-    "Yes, if a police officer remains on scene, because law enforcement authorization overrides a competent patient's right to refuse transport."
-   ],
-   "answer": 2,
-   "explanation": "Answer written from the chapter (no printed key).",
-   "source": "Textbook — Navigate Case Study",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "Which term is defined as: The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it.",
@@ -4411,20 +4285,6 @@
    "topic_n": 39
   },
   {
-   "question": "Assessment in Action: Once your ambulance is dispatched to an emergency, you have an obligation to respond. This is known as:",
-   "choices": [
-    "scope of practice.",
-    "duty to act.",
-    "breach of duty.",
-    "mandatory reporting."
-   ],
-   "answer": 1,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "You are called to a welfare check and find a body that is bloated and green-black, with skin slippage and a powerful odor of decay. Your partner asks if you should start CPR. What finding settles the question?",
    "choices": [
     "dependent lividity",
@@ -4635,20 +4495,6 @@
    "topic_n": 23
   },
   {
-   "question": "YOU are the Provider (32-year-old man, severe headache): Why is it essential that you obtain consent to treat the patient once you arrive?",
-   "choices": [
-    "Consent matters only for invasive procedures such as IVs and medications; basic assessment and vital signs can be performed on any patient without asking permission.",
-    "Consent is mainly a documentation requirement; a patient who called 9-1-1 has already given permission for any treatment the crew decides is necessary once they arrive.",
-    "The patient has the right to make decisions about his own health care. Treating a patient without consent can be considered battery, and you can be held liable. Consent also ensures the patient understands the treatment and its risks and benefits.",
-    "Consent protects the EMS agency's billing rights, because a patient who has not consented cannot legally be charged for treatment or transport."
-   ],
-   "answer": 2,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "A 17-year-old with acute leukemia needs blood transfusions. As a Jehovah's Witness, she refuses them on religious grounds, and a court finds clear and convincing proof of her maturity. What is her legal position in a state recognizing the mature minor doctrine?",
    "choices": [
     "Her refusal is never valid, because minors cannot make any medical decisions.",
@@ -4787,20 +4633,6 @@
    "source": "Quiz-Style Slides — Set 10",
    "topic": "patient autonomy",
    "topic_n": 52
-  },
-  {
-   "question": "Navigate Case Study (32-year-old man, low blood glucose): Why is it essential to adhere to the principles of patient confidentiality?",
-   "choices": [
-    "Confidentiality rules apply only to written records, so anything the crew saw or heard at the scene may be discussed freely with anyone who asks.",
-    "Confidentiality is mainly a courtesy to the patient; sharing information with coworkers or friends carries no legal consequences as long as the patient's name is not used.",
-    "Patient information is legally and ethically protected under HIPAA and state law. Disclosing it without authorization can bring legal penalties and discipline and destroys patient trust; patients who believe their information stays private are more willing to give an accurate history.",
-    "Confidentiality matters only for patients with sensitive conditions such as HIV; routine calls may be discussed with family, bystanders, and the media."
-   ],
-   "answer": 2,
-   "explanation": "Answer written from the chapter (no printed key).",
-   "source": "Textbook — Navigate Case Study",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "What does the term \"scope of practice\" mean?",
@@ -5067,20 +4899,6 @@
    "source": "Quiz-Style Slides — Set 2",
    "topic": "discovery",
    "topic_n": 10
-  },
-  {
-   "question": "Assessment in Action: While caring for this patient, you hear a neighbor cry for help; a child is drowning just around the corner. You and your partner leave, telling the patient you must respond to this incident and will send another ambulance for him as soon as possible. This decision is an example of:",
-   "choices": [
-    "triage.",
-    "abandonment.",
-    "patient advocacy.",
-    "duty to act. Emergency Care and Transportation of the Sick and Injured, Twelfth Edition AAOS Copyright © 2021 by Jones & Bartlett Learning, LLC an Ascend Learning Company. www.jblearning.com."
-   ],
-   "answer": 1,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "YOU are the Provider (32-year-old man, severe headache): Should you report the patient's use of illegal substances to law enforcement? Why or why not?",
@@ -5461,34 +5279,6 @@
    "topic_n": 27
   },
   {
-   "question": "Assessment in Action: What ethical challenges were you presented with during this call?",
-   "choices": [
-    "The ethical challenge was deciding whether to transport the patient against his will, since a signed refusal form transfers all decision-making authority to the EMS crew.",
-    "Your partner did not treat the patient professionally or ethically. You were also faced with a patient who initially refused treatment despite having a potentially serious medical problem. You had an ethical obligation to try your best to convince the patient to agree to treatment and transport.",
-    "The only ethical issue was that the patient's friend called 9-1-1 instead of the patient calling himself; once a competent patient refuses care, the crew has no further ethical responsibilities on the call.",
-    "Your partner handled the refusal correctly, and because the patient signed the form, there was no ethical obligation to try to persuade him to accept transport to the hospital."
-   ],
-   "answer": 1,
-   "explanation": "From the book's printed answer key.",
-   "source": "Textbook — Assessment in Action",
-   "topic": null,
-   "topic_n": null
-  },
-  {
-   "question": "YOU are the Provider (32-year-old man, severe headache): How do you respond to the clerk's question in a professional manner without violating HIPAA regulations?",
-   "choices": [
-    "Give the clerk the patient's name and date of birth so she can call the hospital later and check on his condition herself.",
-    "Thank the clerk, explain that you cannot discuss the patient's condition because of privacy requirements, reassure her that she did the right thing by calling 9-1-1, refer questions about his condition to hospital staff, and remain professional and courteous without disclosing patient information.",
-    "Tell the clerk the patient's blood pressure and suspected condition, since she was the one who called 9-1-1 and is entitled to know the outcome of her call.",
-    "Ignore the clerk and walk away without answering, because speaking to a bystander at all would violate HIPAA regulations."
-   ],
-   "answer": 1,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
-  },
-  {
    "question": "A nursing home loses power and heat during an ice storm, and 40 oxygen-dependent residents must be moved within hours or they will deteriorate. Even before any single patient crashes, the situation qualifies as a(n):",
    "choices": [
     "disaster",
@@ -5571,20 +5361,6 @@
    "source": "Quiz-Style Slides — Set 5",
    "topic": "negligence per se",
    "topic_n": 27
-  },
-  {
-   "question": "YOU are the Provider (32-year-old man, severe headache): Should you assess the patient's competency or decision-making capacity once you arrive?",
-   "choices": [
-    "Assess competency and decision-making capacity: the patient must be an adult, conscious, alert, and oriented, and understand the nature of the illness, the treatment, its risks and benefits, and the consequences of refusal, and not be impaired by drugs, alcohol, or mental illness. A competent patient can accept or refuse care; if not competent, implied consent or a guardian may apply.",
-    "Competency only needs to be assessed if the patient is unconscious, because conscious patients are always able to understand their illness and make decisions about care.",
-    "No. Competency is determined by the receiving physician, so the crew should treat and transport every patient the same way regardless of the patient's mental status.",
-    "Only the patient's age matters: any adult is automatically competent to make decisions, even if he is confused, intoxicated, or does not understand the consequences of refusal."
-   ],
-   "answer": 0,
-   "explanation": "From the book's printed YOU are the Provider summary.",
-   "source": "Textbook — YOU are the Provider",
-   "topic": null,
-   "topic_n": null
   },
   {
    "question": "A deceased patient found supine has fixed lividity only on the left side of the body. What should the EMT conclude and do?",

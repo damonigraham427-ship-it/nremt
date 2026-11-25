@@ -44,15 +44,8 @@
   },
   {
    "category": "NREMT",
-   "file": "nremt-ch1-textbook-cases.json",
-   "note": "21 questions",
-   "title": "NREMT — Chapter 1, Textbook Cases",
-   "chapter": 1
-  },
-  {
-   "category": "NREMT",
    "file": "nremt-ch1-macro.json",
-   "note": "259 questions · shuffled",
+   "note": "252 questions · shuffled",
    "title": "NREMT — Chapter 1, Macro Exam (All Questions)",
    "chapter": 1
   },
@@ -120,16 +113,9 @@
    "chapter": 2
   },
   {
-   "file": "nremt-ch2-textbook-cases.json",
-   "title": "NREMT — Chapter 2, Textbook Cases",
-   "note": "25 questions",
-   "category": "NREMT",
-   "chapter": 2
-  },
-  {
    "file": "nremt-ch2-macro.json",
    "title": "NREMT — Chapter 2, Macro Exam (All Questions)",
-   "note": "375 questions · shuffled",
+   "note": "358 questions · shuffled",
    "category": "NREMT",
    "chapter": 2
   },
@@ -211,16 +197,9 @@
    "chapter": 3
   },
   {
-   "file": "nremt-ch3-textbook-cases.json",
-   "title": "NREMT — Chapter 3, Textbook Cases",
-   "note": "25 questions",
-   "category": "NREMT",
-   "chapter": 3
-  },
-  {
    "file": "nremt-ch3-macro.json",
    "title": "NREMT — Chapter 3, Macro Exam (All Questions)",
-   "note": "438 questions · shuffled",
+   "note": "422 questions · shuffled",
    "category": "NREMT",
    "chapter": 3
   },
@@ -263,13 +242,6 @@
    "file": "nremt-ch4-set6.json",
    "title": "NREMT — Chapter 4, Set 6 (Topics 31–36)",
    "note": "12 questions",
-   "category": "NREMT",
-   "chapter": 4
-  },
-  {
-   "file": "nremt-ch4-textbook-cases.json",
-   "title": "NREMT — Chapter 4, Textbook Cases",
-   "note": "26 questions",
    "category": "NREMT",
    "chapter": 4
   },
