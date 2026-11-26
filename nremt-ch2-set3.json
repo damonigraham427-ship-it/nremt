@@ -533,20 +533,6 @@
    "topic_n": 17
   },
   {
-   "answer": 1,
-   "choices": [
-    "fomite",
-    "host",
-    "pathogen",
-    "vector"
-   ],
-   "explanation": "The mouse is the organism the infecting agent lived in and attacked, which makes it the host. The tick is the vector that carried the bacteria onward, and the bacterium itself is the pathogen.",
-   "question": "A tick picks up Lyme disease bacteria while feeding on an infected mouse, then carries them to a hiker it bites the next week. In this chain, the mouse is best described as the:",
-   "source": "Flashcard Slides — Set 3",
-   "topic": "host",
-   "topic_n": 18
-  },
-  {
    "answer": 0,
    "choices": [
     "The mice and the hikers are hosts; the ticks are vectors",
@@ -575,15 +561,15 @@
    "topic_n": 18
   },
   {
-   "answer": 1,
+   "answer": 3,
    "choices": [
     "Only adult tick bites, because larval ticks cannot carry the bacterium from the mouse host.",
-    "Where the host animals live, such as woods, leaf litter, and brush, because that is where the tick exposure happens.",
-    "Whether the patient was bitten directly by a mouse, since mice transmit Lyme to people themselves.",
-    "Time spent in open water and beaches, since Lyme risk is highest in aquatic environments."
+    "Time spent in open water and at beaches, since Lyme risk is highest in aquatic environments.",
+    "Whether a mouse bit him directly, since mice pass Lyme disease to people themselves.",
+    "Time spent clearing brush and leaf litter at the wooded edge of his own yard, where the host mice nest and the ticks that fed on them wait."
    ],
-   "explanation": "For tick-borne illness, exposure history should cover where the host animals live: woods, leaf litter, and brush.",
-   "question": "The white-footed mouse is the principal reservoir host of Borrelia burgdorferi, the Lyme disease bacterium, in the northeastern United States. Larval blacklegged ticks acquire the bacterium by feeding on infected mice, then later feed on people. For a patient with suspected tick-borne illness, what should the exposure history include?",
+   "explanation": "The chain runs mouse to tick to person, and the stem places the mice in leaf litter and brush at the woods' edge — so exposure can happen during yard work there, no hiking required. Mice do not pass Lyme disease to people directly; the tick does.",
+   "question": "The white-footed mouse is the principal reservoir host of Borrelia burgdorferi, the Lyme disease bacterium, in the northeastern United States. These mice nest in leaf litter and brush along the edges of woods. Larval blacklegged ticks feed on the mice, pick up the bacterium, and later feed on people. A man with suspected Lyme disease says he never hikes and has not been in deep woods. Following the chain in this case, which part of his history should you ask more about?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "host",
    "topic_n": 18
