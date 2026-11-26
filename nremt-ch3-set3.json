@@ -1,589 +1,589 @@
 {
  "questions": [
   {
-   "question": "You find a 62-year-old man unconscious, apneic, and pulseless after collapsing at a park. No family is present and no DNR is found. Under what type of consent do you begin CPR?",
+   "answer": 2,
    "choices": [
     "informed consent",
     "substituted consent",
     "implied consent",
     "expressed consent"
    ],
-   "answer": 2,
    "explanation": "An unconscious patient who cannot give consent is treated under the legal assumption he would want life-saving treatment.",
+   "question": "You find a 62-year-old man unconscious, apneic, and pulseless after collapsing at a park. No family is present and no DNR is found. Under what type of consent do you begin CPR?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "implied consent",
    "topic_n": 13
   },
   {
-   "question": "An unconscious trauma patient with a crushed, bleeding leg needs a tourniquet and transport, but her parents cannot be reached. What allows you to treat and transport her?",
+   "answer": 2,
    "choices": [
     "court-ordered consent",
     "parental consent",
     "implied consent",
     "expressed consent"
    ],
-   "answer": 2,
    "explanation": "In an emergency where the patient cannot consent and no surrogate is available, the law assumes she would want treatment.",
+   "question": "An unconscious trauma patient with a crushed, bleeding leg needs a tourniquet and transport, but her parents cannot be reached. What allows you to treat and transport her?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "implied consent",
    "topic_n": 13
   },
   {
-   "question": "A conscious, alert patient with chest pain clearly tells you, 'Do not touch me, I refuse.' Your partner says implied consent lets you treat anyway. Is he correct?",
+   "answer": 1,
    "choices": [
     "Yes — a refusal only counts if it is written and signed",
     "No — implied consent does not override a clear refusal",
     "Yes — an emergency always overrides a patient's stated refusal",
     "Yes — implied consent applies whenever the crew believes treatment is needed"
    ],
-   "answer": 1,
    "explanation": "Implied consent applies only when the patient is unable to give consent; a competent patient's expressed refusal controls.",
+   "question": "A conscious, alert patient with chest pain clearly tells you, 'Do not touch me, I refuse.' Your partner says implied consent lets you treat anyway. Is he correct?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "implied consent",
    "topic_n": 13
   },
   {
-   "question": "A diabetic patient whose blood sugar you corrected is now alert, repeats back the risks of refusing transport including death, and still refuses. What does his repeat-back demonstrate?",
+   "answer": 1,
    "choices": [
     "informed refusal",
     "decision-making capacity",
     "legal competency",
     "medical clearance"
    ],
-   "answer": 1,
    "explanation": "Understanding and processing the information and consequences of a choice is decision-making capacity, so his refusal can be honored and documented.",
+   "question": "A diabetic patient whose blood sugar you corrected is now alert, repeats back the risks of refusing transport including death, and still refuses. What does his repeat-back demonstrate?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "decision-making capacity",
    "topic_n": 14
   },
   {
-   "question": "An intoxicated patient with a head injury slurs, cannot tell you where he is, and keeps saying 'let me go' without grasping that he could bleed internally. Can he validly refuse transport?",
+   "answer": 2,
    "choices": [
     "Yes — his repeated request to leave counts as a valid refusal",
     "Yes — the refusal becomes valid once he signs the refusal form",
     "No — he lacks decision-making capacity",
     "Yes — any adult patient may refuse care for any reason"
    ],
-   "answer": 2,
    "explanation": "He cannot understand and process information about his care, so he cannot make a valid refusal and should be treated under implied consent with medical control / law enforcement help as needed.",
+   "question": "An intoxicated patient with a head injury slurs, cannot tell you where he is, and keeps saying 'let me go' without grasping that he could bleed internally. Can he validly refuse transport?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "decision-making capacity",
    "topic_n": 14
   },
   {
-   "question": "Which finding best supports that a patient has decision-making capacity to refuse care?",
+   "answer": 0,
    "choices": [
     "The patient can explain the condition, the proposed treatment, and the risks of refusing in his own words",
     "The patient is alert and can state his name, address, and date of birth",
     "A family member at the scene supports the patient's decision to refuse",
     "The patient agrees with the crew's recommendation to be transported"
    ],
-   "answer": 0,
    "explanation": "Capacity is shown by understanding and processing information and making a choice, not by agreeing with the crew.",
+   "question": "Which finding best supports that a patient has decision-making capacity to refuse care?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "decision-making capacity",
    "topic_n": 14
   },
   {
-   "question": "Your partner suggests telling a frightened patient 'this won't hurt at all' about a procedure you know is painful, just to keep him calm. What professional issue is at stake?",
+   "answer": 0,
    "choices": [
     "ethics",
     "scope of practice",
     "medical direction",
     "standard of care"
    ],
-   "answer": 0,
    "explanation": "Honesty with patients is a moral duty and part of ideal professional behavior, which is ethics.",
+   "question": "Your partner suggests telling a frightened patient 'this won't hurt at all' about a procedure you know is painful, just to keep him calm. What professional issue is at stake?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "ethics",
    "topic_n": 15
   },
   {
-   "question": "A crew member photographs an unconscious celebrity patient to share with friends. Even before any law is cited, what standard condemns this?",
+   "answer": 2,
    "choices": [
     "duty to act",
     "negligence law",
     "ethics",
     "scope of practice"
    ],
-   "answer": 2,
    "explanation": "Respecting patient dignity and confidentiality is a matter of right and wrong and ideal professional behavior — ethics.",
+   "question": "A crew member photographs an unconscious celebrity patient to share with friends. Even before any law is cited, what standard condemns this?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "ethics",
    "topic_n": 15
   },
   {
-   "question": "An EMT is torn between a family's plea to 'do everything' and a valid DNR the patient signed. Working through what she morally ought to do is an exercise in what?",
+   "answer": 1,
    "choices": [
     "quality improvement",
     "ethics",
     "risk management",
     "standard of care"
    ],
-   "answer": 1,
    "explanation": "Weighing moral duties and right versus wrong in professional conduct is ethics.",
+   "question": "An EMT is torn between a family's plea to 'do everything' and a valid DNR the patient signed. Working through what she morally ought to do is an exercise in what?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "ethics",
    "topic_n": 15
   },
   {
-   "question": "Your patient is a 17-year-old who is married, lives with her spouse, and works full time. She is alert and refuses transport after a minor crash. How is she most likely classified for consent purposes?",
+   "answer": 2,
    "choices": [
     "a minor with implied consent",
     "a mature minor by age alone",
     "emancipated minor",
     "an unemancipated minor"
    ],
-   "answer": 2,
    "explanation": "Marriage and independent adult life legally make an underage person an adult for medical decisions in most states.",
+   "question": "Your patient is a 17-year-old who is married, lives with her spouse, and works full time. She is alert and refuses transport after a minor crash. How is she most likely classified for consent purposes?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "emancipated minor",
    "topic_n": 16
   },
   {
-   "question": "A 16-year-old who lives at home, attends high school, and is fully supported by his parents says, 'I'm emancipated, I can refuse.' What should the EMT do?",
+   "answer": 1,
    "choices": [
     "Accept his refusal — a teenager who claims emancipation must be taken at his word",
     "Treat him as a minor — seek parental consent / medical control, because those facts do not show emancipation",
     "Accept his refusal — any patient over 15 may refuse transport on scene",
     "Transport him against his will without contacting anyone, because minors have no say in their care"
    ],
-   "answer": 1,
    "explanation": "An emancipated minor needs qualifying circumstances such as marriage, military service, court order, or independent living; living at home supported by parents is the opposite.",
+   "question": "A 16-year-old who lives at home, attends high school, and is fully supported by his parents says, 'I'm emancipated, I can refuse.' What should the EMT do?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "emancipated minor",
    "topic_n": 16
   },
   {
-   "question": "Which patient is an emancipated minor?",
+   "answer": 1,
    "choices": [
     "A 17-year-old who works part time after school and lives at home",
     "A 17-year-old active-duty service member living independently",
     "A 16-year-old high school student who lives with both parents",
     "A 15-year-old who states she feels mature enough to decide on her own"
    ],
-   "answer": 1,
    "explanation": "Military service and independent living are classic circumstances that make an underage person legally an adult.",
+   "question": "Which patient is an emancipated minor?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "emancipated minor",
    "topic_n": 16
   },
   {
-   "question": "At an elementary school, a 9-year-old falls and may have a broken arm. His parents are unreachable, and the school nurse directs care and rides in the ambulance. Under what doctrine is the school acting?",
+   "answer": 3,
    "choices": [
     "implied consent",
     "emancipated minor status",
     "duty to act",
     "in loco parentis"
    ],
-   "answer": 3,
    "explanation": "The school has taken on some functions and responsibilities of a parent while the child is in its care.",
+   "question": "At an elementary school, a 9-year-old falls and may have a broken arm. His parents are unreachable, and the school nurse directs care and rides in the ambulance. Under what doctrine is the school acting?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "in loco parentis",
    "topic_n": 17
   },
   {
-   "question": "A summer camp counselor signs a permission form for a camper's stitches while the parents are on a flight and unreachable. The camp is exercising what legal responsibility?",
+   "answer": 1,
    "choices": [
     "substituted judgment",
     "in loco parentis",
     "expressed consent",
     "temporary guardianship"
    ],
-   "answer": 1,
    "explanation": "The organization temporarily standing in the place of a parent acts in loco parentis.",
+   "question": "A summer camp counselor signs a permission form for a camper's stitches while the parents are on a flight and unreachable. The camp is exercising what legal responsibility?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "in loco parentis",
    "topic_n": 17
   },
   {
-   "question": "An EMT asks who can make decisions for an injured student at school when no parent is present. The principal says the school stands in place of the parent during school hours. What is that called?",
+   "answer": 3,
    "choices": [
     "implied consent",
     "emancipation",
     "respondeat superior",
     "in loco parentis"
    ],
-   "answer": 3,
    "explanation": "In loco parentis is the legal responsibility of a person or organization to take on some parental functions.",
+   "question": "An EMT asks who can make decisions for an injured student at school when no parent is present. The principal says the school stands in place of the parent during school hours. What is that called?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "in loco parentis",
    "topic_n": 17
   },
   {
-   "question": "An on-duty EMT crew is dispatched to a chest pain call in their district. The crew considers clearing as 'probably nothing.' What legal concept requires them to respond and provide care?",
+   "answer": 2,
    "choices": [
     "standard of care",
     "scope of practice",
     "duty to act",
     "Good Samaritan protection"
    ],
-   "answer": 2,
    "explanation": "By statute and by their function as on-duty responders, they have a responsibility to provide care.",
+   "question": "An on-duty EMT crew is dispatched to a chest pain call in their district. The crew considers clearing as 'probably nothing.' What legal concept requires them to respond and provide care?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "duty to act",
    "topic_n": 18
   },
   {
-   "question": "An off-duty EMT drives past a crash in another state where she has no assignment or employment duty. Which statement is most accurate?",
+   "answer": 2,
    "choices": [
     "She is legally barred from helping because the crash is outside her jurisdiction",
     "She must stop and begin care, but she may leave the scene whenever she chooses",
     "She generally has no legal duty to act, but if she begins care she must continue until relieved by equal or higher care",
     "She has the same legal duty to stop and treat as an on-duty crew in her own district"
    ],
-   "answer": 2,
    "explanation": "Duty to act comes from statute or function; a voluntary start creates a duty not to abandon the patient.",
+   "question": "An off-duty EMT drives past a crash in another state where she has no assignment or employment duty. Which statement is most accurate?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "duty to act",
    "topic_n": 18
   },
   {
-   "question": "A volunteer firefighter is on duty at the station when tones drop for a fall patient. She decides not to respond because she is eating. What has she breached?",
+   "answer": 0,
    "choices": [
     "duty to act",
     "her scope of practice",
     "the standard of care",
     "patient abandonment"
    ],
-   "answer": 0,
    "explanation": "On-duty personnel have a responsibility by function to provide care when dispatched.",
+   "question": "A volunteer firefighter is on duty at the station when tones drop for a fall patient. She decides not to respond because she is eating. What has she breached?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "duty to act",
    "topic_n": 18
   },
   {
-   "question": "Which term is defined as: Type of consent in which a patient who is unable to give consent is given treatment under the legal assumption that he or she would want treatment.",
+   "answer": 1,
    "choices": [
     "competent",
     "implied consent",
     "health care proxy",
     "false imprisonment"
    ],
-   "answer": 1,
    "explanation": "implied consent: Type of consent in which a patient who is unable to give consent is given treatment under the legal assumption that he or she would want treatment.",
+   "question": "Which term is defined as: Type of consent in which a patient who is unable to give consent is given treatment under the legal assumption that he or she would want treatment.",
    "source": "Flashcard Slides — Set 3",
    "topic": "implied consent",
    "topic_n": 13
   },
   {
-   "question": "What does the term \"implied consent\" mean?",
-   "choices": [
-    "A serious situation, such as injury or illness that threatens the life or welfare of a person or group of people and requires immediate intervention.",
-    "Wrongful acts that give rise to a civil lawsuit.",
-    "Type of consent in which a patient who is unable to give consent is given treatment under the legal assumption that he or she would want treatment.",
-    "Legal doctrine that can protect an EMS provider from being sued or that may limit the amount of the monetary judgement (the amount of money that a court of law orders one person to pay to another) against the EMS provider."
-   ],
    "answer": 2,
-   "explanation": "implied consent: Type of consent in which a patient who is unable to give consent is given treatment under the legal assumption that he or she would want treatment.",
+   "choices": [
+    "Neither — care without spoken permission is never allowed",
+    "The alert woman — any nonverbal gesture is treated as a legal assumption",
+    "The unresponsive man — he can't consent, so the law assumes he would want emergency care",
+    "Both — all care without a signature rests on the same assumption"
+   ],
+   "explanation": "Implied consent covers the patient who can't speak for himself: the law assumes a reasonable person would want life-saving treatment. The alert woman holding out her arm gave expressed consent — she actually authorized the care herself.",
+   "question": "On two calls, no one signs anything and no permission is spoken. On the first, an alert woman holds out her arm when she sees the BP cuff. On the second, an unresponsive man is found alone with a head injury and the crew begins life-saving care. On which call is the crew relying on the legal assumption that the patient would want treatment if he could ask for it?",
    "source": "Flashcard Slides — Set 3",
    "topic": "implied consent",
    "topic_n": 13
   },
   {
-   "question": "A patient consented to an examination under anesthesia but clearly said there must be no operation. While she was unconscious, the surgeon found a tumor and removed it anyway, with a good result. Why was the operation still a legal wrong?",
+   "answer": 3,
    "choices": [
     "Implied consent allows providers to override a patient's stated refusal whenever they disagree with it.",
     "Consent to an examination under anesthesia automatically includes consent to any surgery done during it.",
     "Once a patient is unconscious, consent extends to any procedure the provider considers beneficial.",
     "Implied consent covers only a true emergency when the patient cannot consent; it does not permit a non-emergency procedure the patient specifically refused."
    ],
-   "answer": 3,
    "explanation": "Implied consent covers only the emergency; a known refusal or a non-emergency procedure is not covered.",
+   "question": "A patient consented to an examination under anesthesia but clearly said there must be no operation. While she was unconscious, the surgeon found a tumor and removed it anyway, with a good result. Why was the operation still a legal wrong?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "implied consent",
    "topic_n": 13
   },
   {
-   "question": "A 15-year-old is run over by a train car and arrives unconscious with a mangled, crushed foot. Five physicians agree immediate amputation is necessary to save his life, and no parent or relative can be reached. What should the surgeon do?",
+   "answer": 0,
    "choices": [
     "Proceed with the life-saving treatment without parental consent, because the patient cannot consent and no surrogate is available, and document why consent could not be obtained.",
     "Wait for the patient to regain consciousness so he can consent for himself.",
     "Stabilize the boy but refuse any surgery until a court order is obtained.",
     "Delay treatment until a parent or relative is located and can sign a consent form."
    ],
-   "answer": 0,
    "explanation": "When a patient cannot consent and no surrogate is reachable, treat the life threat and document why consent could not be obtained.",
+   "question": "A 15-year-old is run over by a train car and arrives unconscious with a mangled, crushed foot. Five physicians agree immediate amputation is necessary to save his life, and no parent or relative can be reached. What should the surgeon do?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "implied consent",
    "topic_n": 13
   },
   {
-   "question": "Which term is defined as: Ability to understand and process information and make a choice regarding appropriate medical care.",
+   "answer": 3,
    "choices": [
     "HIPAA",
     "battery",
     "negligence",
     "decision-making capacity"
    ],
+   "explanation": "decision-making capacity: Ability to understand and process information and make a choice regarding appropriate medical care.",
+   "question": "Which term is defined as: Ability to understand and process information and make a choice regarding appropriate medical care.",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "decision-making capacity",
+   "topic_n": 14
+  },
+  {
    "answer": 3,
-   "explanation": "decision-making capacity: Ability to understand and process information and make a choice regarding appropriate medical care.",
-   "source": "Flashcard Slides — Set 3",
-   "topic": "decision-making capacity",
-   "topic_n": 14
-  },
-  {
-   "question": "What does the term \"decision-making capacity\" mean?",
    "choices": [
-    "A theory that may be used when the conduct of the person being sued is alleged to have occurred in clear violation of a statute.",
-    "Ability to understand and process information and make a choice regarding appropriate medical care.",
-    "The phase of a civil lawsuit where the plaintiff and defense obtain information from each other that will help both build their cases.",
-    "Stiffening of the body muscles; a definitive sign of death."
+    "Capacity only matters for patients over 65",
+    "His refusal is valid because he is awake and talking",
+    "His refusal is valid because he is an adult",
+    "He likely lacks the ability to make this decision right now — understanding and processing the information is part of a valid refusal"
    ],
-   "answer": 1,
-   "explanation": "decision-making capacity: Ability to understand and process information and make a choice regarding appropriate medical care.",
+   "explanation": "Decision-making capacity means the patient can understand and process information and make a real choice about care. A patient who can't take in or repeat back the risks of refusing hasn't truly made the decision — being awake and chatty isn't enough.",
+   "question": "A 30-year-old man with a head injury is alert and chats easily, but when you explain that refusing transport could mean bleeding inside his skull that could kill him, he can't repeat any of it back and keeps asking what day it is. What should the crew conclude about his refusal?",
    "source": "Flashcard Slides — Set 3",
    "topic": "decision-making capacity",
    "topic_n": 14
   },
   {
-   "question": "A 77-year-old widow has gangrene in her foot and lower leg. Doctors recommend amputation without delay. She first agrees, then refuses and keeps refusing, understanding that refusal will likely lead to her death. Her daughter asks a court to override her. What is the correct view of the mother's refusal?",
+   "answer": 3,
    "choices": [
     "Her earlier agreement to surgery remains binding and can be enforced despite her later refusal.",
     "Her refusal proves she is incompetent, because no rational person would choose death over surgery.",
     "Her daughter, as next of kin, can consent to the amputation over her objection.",
     "Her refusal must be honored, because she understands the information and the consequences; a choice the crew disagrees with is not proof of incapacity."
    ],
-   "answer": 3,
    "explanation": "A refusal you disagree with is not proof of incapacity; assess whether the patient understands the information and the consequences.",
+   "question": "A 77-year-old widow has gangrene in her foot and lower leg. Doctors recommend amputation without delay. She first agrees, then refuses and keeps refusing, understanding that refusal will likely lead to her death. Her daughter asks a court to override her. What is the correct view of the mother's refusal?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "decision-making capacity",
    "topic_n": 14
   },
   {
-   "question": "A competent 28-year-old with quadriplegia and severe cerebral palsy is being fed through a nasogastric tube inserted against her will, and she clearly demands its removal. She fully understands her condition and the effect of removing the tube. What should govern her care?",
+   "answer": 2,
    "choices": [
     "Her disability means she lacks capacity, so the treatment team should decide for her.",
     "Her refusal is valid only if her family agrees with it.",
     "Her refusal should be respected, because severe physical disability does not remove decision-making capacity when the patient can understand and process the choice.",
     "A request to remove life-sustaining feeding is automatically invalid and can be ignored."
    ],
-   "answer": 2,
    "explanation": "Never equate disability, age, or diagnosis with incapacity; test understanding, not appearance.",
+   "question": "A competent 28-year-old with quadriplegia and severe cerebral palsy is being fed through a nasogastric tube inserted against her will, and she clearly demands its removal. She fully understands her condition and the effect of removing the tube. What should govern her care?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "decision-making capacity",
    "topic_n": 14
   },
   {
-   "question": "Which term is defined as: The philosophy of right and wrong, of moral duties, and of ideal professional behavior.",
+   "answer": 0,
    "choices": [
     "ethics",
     "chain of evidence",
     "interrogatories",
     "morality"
    ],
-   "answer": 0,
    "explanation": "ethics: The philosophy of right and wrong, of moral duties, and of ideal professional behavior.",
+   "question": "Which term is defined as: The philosophy of right and wrong, of moral duties, and of ideal professional behavior.",
    "source": "Flashcard Slides — Set 3",
    "topic": "ethics",
    "topic_n": 15
   },
   {
-   "question": "What does the term \"ethics\" mean?",
+   "answer": 2,
    "choices": [
-    "The philosophy of right and wrong, of moral duties, and of ideal professional behavior.",
-    "The principle of law that permits a health care provider to treat a patient in an emergency situation when the patient is incapable of granting consent because of an altered level of consciousness, disability, the effects of drugs or alcohol, or the patient's age.",
-    "Permission to render care.",
-    "Refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent."
+    "A documentation question — it only affects the run report",
+    "A legal one — anything about patient care is decided by law",
+    "An ethical one — it concerns moral duty and right versus wrong, not what the law permits",
+    "A scope-of-practice question — it asks what EMTs are trained to do"
    ],
-   "answer": 0,
-   "explanation": "ethics: The philosophy of right and wrong, of moral duties, and of ideal professional behavior.",
+   "explanation": "Ethics is the philosophy of right and wrong, of moral duties, and of ideal professional behavior. The law may permit an action while ethics still asks whether doing it is right — your partner's concern is ethical, not legal.",
+   "question": "A protocol allows your crew to leave a lonely, confused elderly patient home alone after a refusal, and doing so would be perfectly legal. Your partner says, \"It's allowed — but it isn't right to leave her like this.\" Which kind of question is your partner raising?",
    "source": "Flashcard Slides — Set 3",
    "topic": "ethics",
    "topic_n": 15
   },
   {
-   "question": "From 1932 to 1972, a U.S. Public Health Service study followed Black men with syphilis in Alabama. The men were deceived about the study's purpose, never gave informed consent, and were denied penicillin after it became an effective cure in the 1940s. What does this study teach EMS providers?",
+   "answer": 1,
    "choices": [
     "Research may continue without consent as long as the knowledge gained is valuable.",
     "Never deceive a patient about their condition or care, and never withhold indicated treatment for another purpose.",
     "Consent is unnecessary when a study is run by a government agency.",
     "Withholding treatment is acceptable when patients do not specifically ask for it."
    ],
-   "answer": 1,
    "explanation": "Deceiving patients and withholding known treatment violated basic moral duties, making this the defining American lesson in medical ethics.",
+   "question": "From 1932 to 1972, a U.S. Public Health Service study followed Black men with syphilis in Alabama. The men were deceived about the study's purpose, never gave informed consent, and were denied penicillin after it became an effective cure in the 1940s. What does this study teach EMS providers?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "ethics",
    "topic_n": 15
   },
   {
-   "question": "In 1951, cells from a patient's cervical tumor were taken and cultured without her knowledge or consent, becoming the HeLa cell line used worldwide in research and commercial products. Her family learned of it decades later. What ethical duty was breached?",
+   "answer": 1,
    "choices": [
     "Notifying the family decades later satisfies the duty to obtain consent.",
     "A patient's body and information are not yours to use beyond the care they agreed to; consent and honesty are ethical duties, not paperwork.",
     "No duty was breached, because tissue removed during treatment may be used freely for research.",
     "Consent is required only when research is sold commercially, not for laboratory use."
    ],
-   "answer": 1,
    "explanation": "Using a patient's tissue without consent breached the moral duty to respect the patient as a person.",
+   "question": "In 1951, cells from a patient's cervical tumor were taken and cultured without her knowledge or consent, becoming the HeLa cell line used worldwide in research and commercial products. Her family learned of it decades later. What ethical duty was breached?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "ethics",
    "topic_n": 15
   },
   {
-   "question": "Which term is defined as: A person who is under the legal age in a given state but, because of other circumstances, is legally considered an adult.",
+   "answer": 0,
    "choices": [
     "emancipated minor",
     "assault",
     "gross negligence",
     "interrogatories"
    ],
-   "answer": 0,
    "explanation": "emancipated minor: A person who is under the legal age in a given state but, because of other circumstances, is legally considered an adult.",
+   "question": "Which term is defined as: A person who is under the legal age in a given state but, because of other circumstances, is legally considered an adult.",
    "source": "Flashcard Slides — Set 3",
    "topic": "emancipated minor",
    "topic_n": 16
   },
   {
-   "question": "What does the term \"emancipated minor\" mean?",
+   "answer": 3,
    "choices": [
-    "Unlawfully touching a patient or providing emergency care without consent.",
-    "The manner in which principles of ethics are incorporated into professional conduct.",
-    "A person who is under the legal age in a given state but, because of other circumstances, is legally considered an adult.",
-    "A term relating to medical jurisprudence (law) or forensic medicine."
+    "The mother's — a parent always decides until age 18",
+    "The crew's — providers break ties on scene",
+    "Medical control's — a physician must decide every minor's case",
+    "The 17-year-old's — her circumstances make her legally an adult for medical decisions"
    ],
-   "answer": 2,
-   "explanation": "emancipated minor: A person who is under the legal age in a given state but, because of other circumstances, is legally considered an adult.",
+   "explanation": "An emancipated minor is under the legal age but, because of circumstances like marriage or living independently, is legally considered an adult. Her refusal carries the same weight as any competent adult's.",
+   "question": "A 17-year-old who is married, lives on her own, and supports herself refuses transport after a minor car crash. Her mother arrives and demands you take her to the hospital anyway. Whose decision controls?",
    "source": "Flashcard Slides — Set 3",
    "topic": "emancipated minor",
    "topic_n": 16
   },
   {
-   "question": "An 18-year-old in a state where the age of majority is 21 is married, supports his family, and holds a job. After learning he has a muscular disease, he consents to a vasectomy, then later sues, claiming he could not legally consent as a minor. How should his consent be treated?",
+   "answer": 0,
    "choices": [
     "His consent was valid, because marriage, employment, and supporting a family made him an emancipated minor legally treated as an adult for his medical decisions.",
     "His consent was invalid, because elective procedures always require parental consent for minors.",
     "His consent was valid only if a parent also signed the consent form.",
     "His consent was invalid, because no one under the age of majority can ever consent to surgery."
    ],
-   "answer": 0,
    "explanation": "An emancipated minor consents for themselves, not through a parent; marriage and independent adult life are the qualifying circumstances.",
+   "question": "An 18-year-old in a state where the age of majority is 21 is married, supports his family, and holds a job. After learning he has a muscular disease, he consents to a vasectomy, then later sues, claiming he could not legally consent as a minor. How should his consent be treated?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "emancipated minor",
    "topic_n": 16
   },
   {
-   "question": "A 17-year-old with acute leukemia needs blood transfusions. As a Jehovah's Witness, she refuses them on religious grounds, and a court finds clear and convincing proof of her maturity. What is her legal position in a state recognizing the mature minor doctrine?",
+   "answer": 3,
    "choices": [
     "Her refusal is never valid, because minors cannot make any medical decisions.",
     "The crew should simply transfuse her, because a life threat cancels any refusal.",
     "Her mother's religious beliefs alone decide the question, regardless of the patient's own maturity.",
     "She may, on clear and convincing proof of maturity, exercise the right to consent to or refuse treatment, so her refusal can be legally valid."
    ],
-   "answer": 3,
    "explanation": "A near-adult minor's refusal can be legally valid in some states; document maturity evidence carefully and involve medical control early.",
+   "question": "A 17-year-old with acute leukemia needs blood transfusions. As a Jehovah's Witness, she refuses them on religious grounds, and a court finds clear and convincing proof of her maturity. What is her legal position in a state recognizing the mature minor doctrine?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "emancipated minor",
    "topic_n": 16
   },
   {
-   "question": "Which term is defined as: Refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent.",
+   "answer": 1,
    "choices": [
-    "in loco parentis",
-    "patient care documentation",
-    "gross negligence",
-    "libel"
+    "A bystander at the park who knows the family",
+    "The school staff supervising the trip, who have taken on the parents' role while the child is in their care",
+    "No one — treatment must wait until a parent is reached, no matter the injury",
+    "The oldest student on the trip"
    ],
-   "answer": 0,
-   "explanation": "in loco parentis: Refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent.",
+   "explanation": "In loco parentis means a person or organization has taken on some of a parent's functions and responsibilities — like school staff supervising children on a trip. While the child is in their care, they can stand in the parents' place.",
+   "question": "On a school field trip two hours from home, a 10-year-old falls and needs stitches. Her parents can't be reached. Who stands in the parents' place to authorize her care during the trip?",
    "source": "Flashcard Slides — Set 3",
    "topic": "in loco parentis",
    "topic_n": 17
   },
   {
-   "question": "What does the term \"in loco parentis\" mean?",
-   "choices": [
-    "The act of physically preventing an individual from initiating any physical action.",
-    "Permission to render care.",
-    "A type of consent in which a patient gives verbal or nonverbal authorization for provision of care or transport.",
-    "Refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent."
-   ],
    "answer": 3,
-   "explanation": "in loco parentis: Refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent.",
+   "choices": [
+    "Wait for the director's approval before touching the child",
+    "Leave and let the program arrange its own transport",
+    "Have the director sign the PCR as the child's legal guardian",
+    "Treat the child's emergency needs — authority to consent to care is not a veto that can delay emergency treatment"
+   ],
+   "explanation": "In loco parentis gives the person or organization supervising a child some of a parent's responsibilities, including consenting to care. That authority exists to help the child get care — it can't be used to hold up emergency treatment for paperwork.",
+   "question": "A 7-year-old at a privately run after-school program has a badly broken arm and is screaming in pain. The program's director — who supervises the children in place of their parents — insists nothing be done until she finishes reviewing the program's paperwork. What is the crew's best course?",
    "source": "Flashcard Slides — Set 3",
    "topic": "in loco parentis",
    "topic_n": 17
   },
   {
-   "question": "Students wore black armbands to school to protest a war, and the school, acting in place of the parents to discipline them, suspended them under a ban on armbands. The Supreme Court sided with the students. What does this show about a school's parental-style authority?",
+   "answer": 0,
    "choices": [
     "A school official on scene can act for a child, but that in loco parentis authority has limits; for medical consent questions, verify who actually holds parental rights.",
     "School staff have no authority of any kind over students and cannot speak for a child at all.",
     "A school's authority over a child completely replaces the parents' rights until graduation.",
     "School staff hold unlimited parental authority over students during school hours."
    ],
-   "answer": 0,
    "explanation": "Consent and authority on school calls: the school acts in place of parents, but that power is limited, so verify who holds parental rights.",
+   "question": "Students wore black armbands to school to protest a war, and the school, acting in place of the parents to discipline them, suspended them under a ban on armbands. The Supreme Court sided with the students. What does this show about a school's parental-style authority?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "in loco parentis",
    "topic_n": 17
   },
   {
-   "question": "A school district required random drug testing of student athletes after a rise in drug use, and the Supreme Court upheld the program, emphasizing the schools' custodial and tutelary responsibility for children in their charge. What does this mean for an EMT on a school call?",
+   "answer": 3,
    "choices": [
     "A school's responsibility for its students ends at the classroom door.",
     "School staff carry no legal responsibility for students during the school day.",
     "Schools may never impose any health or safety requirements on their students.",
     "Schools standing in loco parentis may impose health and safety requirements on students in their care, so coordinate with the school nurse and staff who hold that responsibility."
    ],
-   "answer": 3,
    "explanation": "Schools may impose health and safety requirements on students in their care; coordinate with school nurses and staff who hold that responsibility.",
+   "question": "A school district required random drug testing of student athletes after a rise in drug use, and the Supreme Court upheld the program, emphasizing the schools' custodial and tutelary responsibility for children in their charge. What does this mean for an EMT on a school call?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "in loco parentis",
    "topic_n": 17
   },
   {
-   "question": "Which term is defined as: A medicolegal term relating to certain personnel who either by statute or by function have a responsibility to provide care.",
+   "answer": 0,
    "choices": [
     "duty to act",
     "bioethics",
     "patient autonomy",
     "proximate causation"
    ],
-   "answer": 0,
    "explanation": "duty to act: A medicolegal term relating to certain personnel who either by statute or by function have a responsibility to provide care.",
+   "question": "Which term is defined as: A medicolegal term relating to certain personnel who either by statute or by function have a responsibility to provide care.",
    "source": "Flashcard Slides — Set 3",
    "topic": "duty to act",
    "topic_n": 18
   },
   {
-   "question": "What does the term \"duty to act\" mean?",
-   "choices": [
-    "Written, accepted levels of emergency care expected by reason of training and profession; written by legal or professional organizations so that patients are not exposed to unreasonable risk or harm.",
-    "A medicolegal term relating to certain personnel who either by statute or by function have a responsibility to provide care.",
-    "Unilateral termination of care by the EMT without the patient's consent and without making provisions for continuing care by a medical professional who is training at the same level or higher.",
-    "Written documentation that specifies medical treatment for a competent patient should the patient become unable to make decisions; also called a living will or a health care directive."
-   ],
    "answer": 1,
-   "explanation": "duty to act: A medicolegal term relating to certain personnel who either by statute or by function have a responsibility to provide care.",
+   "choices": [
+    "The off-duty EMT — the responsibility follows an EMT everywhere",
+    "The on-duty EMT — the responsibility comes from being on shift and assigned the call",
+    "Both — the responsibility is identical on and off duty",
+    "Neither — EMTs can always choose whether to respond"
+   ],
+   "explanation": "A duty to act attaches to personnel who, by statute or by their function — being on duty and dispatched — have a responsibility to provide care. The off-duty EMT driving past generally has no such legal duty, however it may look.",
+   "question": "Two EMTs face hard questions after the same evening. One, off duty and in his own car, drove past a crash without stopping. The other, on duty, was dispatched to a chest-pain call and never responded. Which EMT had a legal responsibility to provide care?",
    "source": "Flashcard Slides — Set 3",
    "topic": "duty to act",
    "topic_n": 18
   },
   {
-   "question": "A woman called 911 with respiratory problems. The first paramedic crew knocked on her door, got no answer, and left; a second crew entered about 41 minutes after the first call and found her dead. The Illinois Supreme Court later abolished the public duty rule in the case. What is the lesson for a dispatched crew?",
+   "answer": 1,
    "choices": [
     "If no one answers the door, the crew has fully satisfied its duty and may clear.",
     "Once dispatched, treat the call as a duty to that patient: make real entry attempts, coordinate dispatch, and document every step.",
     "A second crew's later arrival cancels the first crew's responsibility for the call.",
     "A crew owes a duty only to the public at large, never to an individual caller."
    ],
-   "answer": 1,
    "explanation": "Once dispatched, the duty runs to that patient; document entry attempts and coordination with dispatch.",
+   "question": "A woman called 911 with respiratory problems. The first paramedic crew knocked on her door, got no answer, and left; a second crew entered about 41 minutes after the first call and found her dead. The Illinois Supreme Court later abolished the public duty rule in the case. What is the lesson for a dispatched crew?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "duty to act",
    "topic_n": 18
   },
   {
-   "question": "A man visiting a strip-mine operation jumped into a water-filled trench, allegedly after taunting by the operator, and drowned. His widow sued, arguing the operator had a duty to rescue him. The Pennsylvania Supreme Court ruled against her. What rule did the case state?",
+   "answer": 1,
    "choices": [
     "A duty to rescue arises whenever one person encourages another to take a risk.",
     "The law imposes no general duty to rescue another person in peril, so an EMT's duty to act must come from statute, job function, or a special relationship.",
     "Every person has a legal duty to rescue anyone they see in peril.",
     "An off-duty EMT is always legally required to stop and render care anywhere."
    ],
-   "answer": 1,
    "explanation": "Bystanders generally have no duty to act; an EMT's duty comes from statute, job function, or a special relationship.",
+   "question": "A man visiting a strip-mine operation jumped into a water-filled trench, allegedly after taunting by the operator, and drowned. His widow sued, arguing the operator had a duty to rescue him. The Pennsylvania Supreme Court ruled against her. What rule did the case state?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "duty to act",
    "topic_n": 18

@@ -1,589 +1,589 @@
 {
  "questions": [
   {
-   "question": "Your patient has influenza and has been coughing in a small apartment where three family members also became sick this week. The illness passed from the patient to the family members in the home. What type of disease is this?",
+   "answer": 0,
    "choices": [
     "communicable disease",
     "infectious disease",
     "vector-borne transmission",
     "contamination"
    ],
-   "answer": 0,
    "explanation": "It spread from one person to another, which is what makes a disease communicable.",
+   "question": "Your patient has influenza and has been coughing in a small apartment where three family members also became sick this week. The illness passed from the patient to the family members in the home. What type of disease is this?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
   },
   {
-   "question": "A nursing home calls because six residents on one wing developed the same stomach virus over two days after sharing a dining room. The facility is asking how it moved between residents who never left the building. What kind of disease are they dealing with?",
+   "answer": 0,
    "choices": [
     "communicable disease",
     "bloodborne pathogens",
     "airborne transmission",
     "noncommunicable disease"
    ],
-   "answer": 0,
    "explanation": "A communicable disease passes between people, so shared air, surfaces, and close contact in one wing can move it from resident to resident.",
+   "question": "A nursing home calls because six residents on one wing developed the same stomach virus over two days after sharing a dining room. The facility is asking how it moved between residents who never left the building. What kind of disease are they dealing with?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
   },
   {
-   "question": "Dispatch sends you to a school where a child with chickenpox has exposed an entire classroom. Your partner asks why the school nurse is sending exposure notices home to parents. What property of this illness makes the notices necessary?",
+   "answer": 0,
    "choices": [
     "communicable disease",
     "exposure",
     "indirect contact",
     "infectious disease"
    ],
-   "answer": 0,
    "explanation": "Chickenpox is communicable: it can be spread from one person to another, so every exposed classmate is at risk.",
+   "question": "Dispatch sends you to a school where a child with chickenpox has exposed an entire classroom. Your partner asks why the school nurse is sending exposure notices home to parents. What property of this illness makes the notices necessary?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
   },
   {
-   "question": "Before a difficult extrication, an EMT feels her heart rate climb and her focus sharpen. She performs better than usual and later says the pressure 'got her locked in.' What is this beneficial response to a stressor called?",
+   "answer": 1,
    "choices": [
     "acute stress reaction",
     "eustress",
     "general adaptation syndrome",
     "distress"
    ],
-   "answer": 1,
    "explanation": "The stressor improved her performance instead of harming it, which is the definition of eustress.",
+   "question": "Before a difficult extrication, an EMT feels her heart rate climb and her focus sharpen. She performs better than usual and later says the pressure 'got her locked in.' What is this beneficial response to a stressor called?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
   },
   {
-   "question": "A new EMT is nervous before his first solo shift. Instead of dreading it, he uses the nerves to double-check his gear, review protocols, and arrive early. What type of stress response is he showing?",
+   "answer": 2,
    "choices": [
     "distress",
     "resilience",
     "eustress",
     "cumulative stress reaction"
    ],
-   "answer": 2,
    "explanation": "His stress response produced preparation and better performance, a beneficial outcome, so it is eustress rather than distress.",
+   "question": "A new EMT is nervous before his first solo shift. Instead of dreading it, he uses the nerves to double-check his gear, review protocols, and arrive early. What type of stress response is he showing?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
   },
   {
-   "question": "During a multi-casualty drill, a paramedic notices she feels energized and clear-headed under the time pressure, and her triage times are her fastest ever. What term describes this positive stress response?",
+   "answer": 0,
    "choices": [
     "eustress",
     "delayed stress reaction",
     "distress",
     "burnout"
    ],
-   "answer": 0,
    "explanation": "The pressure acted as a benefit, sharpening her work; a beneficial response to a stressor is eustress.",
+   "question": "During a multi-casualty drill, a paramedic notices she feels energized and clear-headed under the time pressure, and her triage times are her fastest ever. What term describes this positive stress response?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
   },
   {
-   "question": "An EMT had measles as a child. She cares for a measles patient without becoming ill, because her body already knows how to fight that virus. What is her body's protective ability called?",
+   "answer": 0,
    "choices": [
     "immune",
     "infection",
     "contamination",
     "exposure"
    ],
-   "answer": 0,
    "explanation": "Her body can protect itself from acquiring measles again, which is exactly what being immune means.",
+   "question": "An EMT had measles as a child. She cares for a measles patient without becoming ill, because her body already knows how to fight that virus. What is her body's protective ability called?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "immune",
    "topic_n": 15
   },
   {
-   "question": "After completing his hepatitis B vaccine series and a titer showing antibodies, a paramedic is told his body can now defend itself against hepatitis B. What state has he achieved against that disease?",
+   "answer": 1,
    "choices": [
     "exposure",
     "immune",
     "infection",
     "host"
    ],
-   "answer": 1,
    "explanation": "Vaccination gave his body the ability to protect itself from acquiring hepatitis B, so he is immune to it.",
+   "question": "After completing his hepatitis B vaccine series and a titer showing antibodies, a paramedic is told his body can now defend itself against hepatitis B. What state has he achieved against that disease?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "immune",
    "topic_n": 15
   },
   {
-   "question": "Two firefighters are exposed to the same patient with chickenpox. The one who had the varicella vaccine stays healthy; the one with no prior exposure or vaccine gets sick. What did the vaccine give the first firefighter?",
+   "answer": 3,
    "choices": [
     "pathogen",
     "infectious disease",
     "contamination",
     "immune (immunity)"
    ],
-   "answer": 3,
    "explanation": "The vaccine made his body able to protect itself from acquiring the disease, while his partner had no such protection.",
+   "question": "Two firefighters are exposed to the same patient with chickenpox. The one who had the varicella vaccine stays healthy; the one with no prior exposure or vaccine gets sick. What did the vaccine give the first firefighter?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "immune",
    "topic_n": 15
   },
   {
-   "question": "Before suctioning a patient who is coughing up blood, you put on gloves, a mask, and eye protection. What is the collective name for the gear you just put on?",
+   "answer": 3,
    "choices": [
     "standard precautions",
     "infection control",
     "body substance isolation",
     "personal protective equipment (PPE)"
    ],
-   "answer": 3,
    "explanation": "Gloves, mask, and eye protection are equipment worn to block exposure to a pathogen, which is PPE.",
+   "question": "Before suctioning a patient who is coughing up blood, you put on gloves, a mask, and eye protection. What is the collective name for the gear you just put on?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "personal protective equipment",
    "topic_n": 16
   },
   {
-   "question": "Your service issues gowns, gloves, and fit-tested respirators for calls involving a patient with suspected tuberculosis. What category of safety equipment do these items belong to?",
+   "answer": 1,
    "choices": [
     "exposure control plan",
     "personal protective equipment (PPE)",
     "engineering controls",
     "standard precautions"
    ],
-   "answer": 1,
    "explanation": "Each item is protective equipment that blocks exposure to a pathogen or hazardous material, the definition of PPE.",
+   "question": "Your service issues gowns, gloves, and fit-tested respirators for calls involving a patient with suspected tuberculosis. What category of safety equipment do these items belong to?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "personal protective equipment",
    "topic_n": 16
   },
   {
-   "question": "At a scene with a spilled chemical, the hazmat officer stops you and says your turnout gear alone is not enough; you need the issued chemical suit and gloves before entry. What is he requiring you to wear?",
+   "answer": 1,
    "choices": [
     "body substance isolation",
     "personal protective equipment (PPE)",
     "work practice controls",
     "infection control"
    ],
-   "answer": 1,
    "explanation": "The suit and gloves are protective equipment that blocks exposure to a hazardous material, which is PPE.",
+   "question": "At a scene with a spilled chemical, the hazmat officer stops you and says your turnout gear alone is not enough; you need the issued chemical suit and gloves before entry. What is he requiring you to wear?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "personal protective equipment",
    "topic_n": 16
   },
   {
-   "question": "While cleaning the ambulance, an EMT sticks her finger on a used IV needle left in the linen. The exposure concern is hepatitis B and HIV carried in the patient's blood. What group of microorganisms creates this risk?",
+   "answer": 0,
    "choices": [
     "bloodborne pathogens",
     "airborne pathogens",
     "contamination",
     "communicable disease"
    ],
-   "answer": 0,
    "explanation": "Hepatitis B virus and HIV are pathogenic microorganisms present in human blood, which is the definition of bloodborne pathogens.",
+   "question": "While cleaning the ambulance, an EMT sticks her finger on a used IV needle left in the linen. The exposure concern is hepatitis B and HIV carried in the patient's blood. What group of microorganisms creates this risk?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "bloodborne pathogens",
    "topic_n": 17
   },
   {
-   "question": "Your service's exposure control plan requires a hepatitis B vaccination offer and sharps containers in every unit because of microorganisms that live in human blood. What hazard is the plan built around?",
+   "answer": 1,
    "choices": [
     "vector-borne transmission",
     "bloodborne pathogens",
     "infectious disease",
     "standard precautions"
    ],
-   "answer": 1,
    "explanation": "The plan targets disease-causing microorganisms present in human blood, namely bloodborne pathogens such as HBV and HIV.",
+   "question": "Your service's exposure control plan requires a hepatitis B vaccination offer and sharps containers in every unit because of microorganisms that live in human blood. What hazard is the plan built around?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "bloodborne pathogens",
    "topic_n": 17
   },
   {
-   "question": "A patient with hepatitis C is bleeding heavily from a leg wound. Your partner reminds you to glove up and watch for splashes because the virus travels in blood. What is hepatitis C classified as?",
+   "answer": 3,
    "choices": [
     "vector-borne pathogen",
     "airborne pathogen",
     "foodborne pathogen",
     "bloodborne pathogen"
    ],
-   "answer": 3,
    "explanation": "Hepatitis C is a pathogenic microorganism present in human blood that can cause disease in humans, a bloodborne pathogen.",
+   "question": "A patient with hepatitis C is bleeding heavily from a leg wound. Your partner reminds you to glove up and watch for splashes because the virus travels in blood. What is hepatitis C classified as?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "bloodborne pathogens",
    "topic_n": 17
   },
   {
-   "question": "A tick picks up the Lyme disease bacterium while feeding on an infected white-footed mouse, then later bites a hiker. In the first part of that chain, what role does the mouse play for the bacterium?",
+   "answer": 1,
    "choices": [
     "vector",
     "host",
     "pathogen",
     "carrier"
    ],
-   "answer": 1,
    "explanation": "The mouse is the organism the infecting agent lives in and attacks, which makes it the host.",
+   "question": "A tick picks up the Lyme disease bacterium while feeding on an infected white-footed mouse, then later bites a hiker. In the first part of that chain, what role does the mouse play for the bacterium?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "host",
    "topic_n": 18
   },
   {
-   "question": "Your patient is a teenager whose body the influenza virus has invaded and is now producing fever and aches. In infection terms, what is the patient in relation to the virus?",
+   "answer": 2,
    "choices": [
     "vector",
     "contamination",
     "host",
     "pathogen"
    ],
-   "answer": 2,
    "explanation": "The patient is the individual attacked by the infecting agent, which is the definition of a host.",
+   "question": "Your patient is a teenager whose body the influenza virus has invaded and is now producing fever and aches. In infection terms, what is the patient in relation to the virus?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "host",
    "topic_n": 18
   },
   {
-   "question": "A cook carries typhoid bacteria in her gallbladder for years without ever feeling sick, while the bacteria live off her body. What is she, biologically, to those bacteria?",
+   "answer": 2,
    "choices": [
     "pathogen",
     "reservoir",
     "host",
     "vector"
    ],
-   "answer": 2,
    "explanation": "She is the organism the infecting agent lives in, a host, even though she has no symptoms.",
+   "question": "A cook carries typhoid bacteria in her gallbladder for years without ever feeling sick, while the bacteria live off her body. What is she, biologically, to those bacteria?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "host",
    "topic_n": 18
   },
   {
-   "question": "Which term is defined as: A disease that can be spread from one person or species to another.",
+   "answer": 0,
    "choices": [
-    "vector-borne transmission",
-    "general adaptation syndrome",
-    "direct contact",
-    "communicable disease"
+    "communicable disease",
+    "noninfectious condition",
+    "vector-borne disease",
+    "foodborne illness"
    ],
-   "answer": 3,
-   "explanation": "communicable disease: A disease that can be spread from one person or species to another.",
+   "explanation": "A communicable disease can be spread from one person to another, which is why the exposed classmates are at risk. Nothing in this event involves an insect carrier or a food source.",
+   "question": "A child with chickenpox attends school for two days before the rash appears. The school sends notices home because several classmates are now likely to develop it too. Chickenpox can move through the classroom this way because it is a:",
    "source": "Flashcard Slides — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
   },
   {
-   "question": "What does the term \"communicable disease\" mean?",
-   "choices": [
-    "The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease.",
-    "A disease that can be spread from one person or species to another.",
-    "A combination of exhaustion, cynicism, and reduced performance resulting from long-term job stresses.",
-    "A sexually transmitted infectious disease caused by the bacterium Treponema pallidum; unlike many infections, it confers no protection from reinfection after exposure, so a treated person can catch it again."
-   ],
    "answer": 1,
-   "explanation": "communicable disease: A disease that can be spread from one person or species to another.",
+   "choices": [
+    "Both illnesses are communicable because both involve microorganisms",
+    "The wound infection is infectious but not communicable; measles is both",
+    "Neither illness is infectious, because one needs a cut and the other needs a cough",
+    "Measles is infectious but not communicable, because it spreads through the air"
+   ],
+   "explanation": "Infectious means organisms have invaded the body. Communicable adds that the disease can spread from one person or species to another: the wound infection stays with its host, while measles passes between people, including through the air.",
+   "question": "Two patients are discussed at a training night. The first has a bacterial wound infection that began when organisms entered a cut; it cannot pass to anyone else. The second has measles, which spreads readily from person to person. Which statement is correct?",
    "source": "Flashcard Slides — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
   },
   {
-   "question": "In 1907, New York cook Mary Mallon was identified as the first known healthy carrier of typhoid fever in the United States. Investigators linked her cooking to about 57 typhoid infections and 3 deaths, yet she never felt sick herself. What should an EMT take from this case when deciding on precautions?",
+   "answer": 1,
    "choices": [
     "Skip respiratory precautions for patients with no fever, because a person without symptoms cannot spread disease.",
     "Treat every patient as potentially infectious, because a carrier of a communicable disease may have no symptoms at all.",
     "Rely on dispatch screening to flag infectious patients before arrival, since carriers are identified in advance.",
     "Take full precautions only with patients who look or feel sick, since carriers usually show some symptoms."
    ],
-   "answer": 1,
    "explanation": "A carrier of a communicable disease may have no symptoms, so every patient is treated as potentially infectious.",
+   "question": "In 1907, New York cook Mary Mallon was identified as the first known healthy carrier of typhoid fever in the United States. Investigators linked her cooking to about 57 typhoid infections and 3 deaths, yet she never felt sick herself. What should an EMT take from this case when deciding on precautions?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
   },
   {
-   "question": "In fall 2014, Thomas Eric Duncan, who had traveled from Liberia, was treated for Ebola at a Dallas hospital. Two nurses who cared for him, Nina Pham and Amber Vinson, became infected, the first Ebola transmissions on US soil. What does this case teach about caring for a patient with a disease carried in body fluids?",
+   "answer": 0,
    "choices": [
     "Assume any contact with the infected patient's body fluids during care is an exposure until proven otherwise.",
     "Body fluids only become infectious after the patient's symptoms have peaked, so early care is low risk.",
     "Routine gloves alone eliminate the risk, because hospital transmission of fluid-borne disease is not possible.",
     "Exposure only counts if a sharps injury occurred, since intact skin contact with fluids is harmless."
    ],
-   "answer": 0,
    "explanation": "For a communicable disease carried in body fluids, any fluid contact during care is an exposure until proven otherwise.",
+   "question": "In fall 2014, Thomas Eric Duncan, who had traveled from Liberia, was treated for Ebola at a Dallas hospital. Two nurses who cared for him, Nina Pham and Amber Vinson, became infected, the first Ebola transmissions on US soil. What does this case teach about caring for a patient with a disease carried in body fluids?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
   },
   {
-   "question": "Which term is defined as: A beneficial response to a stressor.",
+   "answer": 3,
    "choices": [
-    "wellness",
-    "quid pro quo",
-    "host",
+    "acute stress reaction",
+    "cumulative stress reaction",
+    "distress",
     "eustress"
    ],
-   "answer": 3,
-   "explanation": "eustress: A beneficial response to a stressor.",
+   "explanation": "Her stress response helped rather than harmed her performance, which makes it eustress, a beneficial response to a stressor. Distress is the harmful version, and her reaction is tied neither to one traumatic moment nor to a long buildup.",
+   "question": "Before her first shift as the lead EMT, a new provider feels keyed up and nervous, but the pressure makes her double-check her gear, review her protocols, and perform better than she expected. Her response to the stressor is best described as:",
    "source": "Flashcard Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
   },
   {
-   "question": "What does the term \"eustress\" mean?",
-   "choices": [
-    "Exposure or transmission of disease from one person to another by contact with a contaminated object.",
-    "A beneficial response to a stressor.",
-    "The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning employee safety.",
-    "The capacity of an individual to cope with and recover from distress."
-   ],
    "answer": 1,
-   "explanation": "eustress: A beneficial response to a stressor.",
+   "choices": [
+    "wellness",
+    "eustress",
+    "distress",
+    "resilience"
+   ],
+   "explanation": "His stress response was beneficial: it sharpened his focus and performance, which is eustress. His partner's harmful response to the very same call is distress; one stressor can produce either.",
+   "question": "The tones drop for a working structure fire. One EMT feels a surge of energy, focuses fast, and later calls it the best call of his month. His partner, on the same call, feels overwhelmed, develops a pounding headache, and dreads going back. The first EMT's response is best described as:",
    "source": "Flashcard Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
   },
   {
-   "question": "In a 2010 experiment, students preparing for the GRE were told that bodily arousal during testing actually improves performance. That group scored higher on the lab GRE math section and, months later, on their real GRE. An EMT feels his heart racing before a skills test. What does this research support doing?",
+   "answer": 1,
    "choices": [
     "Postpone the test until he feels fully calm, since a calm state is required for good performance.",
     "Reframe the racing heart as fuel for performance, because viewing arousal as useful turns it toward eustress.",
     "Suppress the arousal completely before starting, because any arousal during testing lowers scores.",
     "Ignore the sensation and hope it passes, because mindset about arousal has no measurable effect."
    ],
-   "answer": 1,
    "explanation": "Telling yourself the racing heart is fuel measurably improves performance; the reframe produces eustress.",
+   "question": "In a 2010 experiment, students preparing for the GRE were told that bodily arousal during testing actually improves performance. That group scored higher on the lab GRE math section and, months later, on their real GRE. An EMT feels his heart racing before a skills test. What does this research support doing?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "eustress",
    "topic_n": 14
   },
   {
-   "question": "Harvard researcher Alison Wood Brooks studied karaoke singing, public speaking, and math performance in 2014. Participants who said 'I am excited' before performing did better than those who tried to calm down. What technique does this case illustrate for an EMT facing a high-pressure call?",
+   "answer": 2,
    "choices": [
     "Fight to calm down first, because lowering arousal is the only proven way to perform well under pressure.",
     "Avoid the high-pressure assignment until the anxiety fades on its own over time.",
     "Relabel the anxiety as excitement, since both are high-arousal states and the relabel converts stress into a beneficial response.",
     "Treat the anxiety as a warning sign of an acute stress reaction that requires removal from the call."
    ],
-   "answer": 2,
    "explanation": "Saying 'I am excited' instead of fighting to calm down is an evidence-based way to make stress work for you.",
+   "question": "Harvard researcher Alison Wood Brooks studied karaoke singing, public speaking, and math performance in 2014. Participants who said 'I am excited' before performing did better than those who tried to calm down. What technique does this case illustrate for an EMT facing a high-pressure call?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "eustress",
    "topic_n": 14
   },
   {
-   "question": "Which term is defined as: The body's ability to protect itself from acquiring a disease.",
+   "answer": 1,
    "choices": [
+    "colonized",
     "immune",
-    "acute stress reactions",
-    "personal protective equipment",
-    "hand washing"
+    "infectious",
+    "a vector"
    ],
-   "answer": 0,
-   "explanation": "immune: The body's ability to protect itself from acquiring a disease.",
+   "explanation": "His body can protect itself from acquiring the disease, which means he is immune. He was still exposed to the virus on that call; immunity is why the exposure never became an illness.",
+   "question": "A firefighter who was vaccinated against chickenpox as a child transports a patient with an active chickenpox rash and stays well, while an unvaccinated rookie on the same call develops the disease two weeks later. The vaccine left the firefighter:",
    "source": "Flashcard Slides — Set 3",
    "topic": "immune",
    "topic_n": 15
   },
   {
-   "question": "What does the term \"immune\" mean?",
+   "answer": 3,
    "choices": [
-    "The body's ability to protect itself from acquiring a disease.",
-    "A combination of exhaustion, cynicism, and reduced performance resulting from long-term job stresses.",
-    "The use of objects to limit a person's ability to see you.",
-    "A beneficial response to a stressor."
+    "She is now a carrier and should be kept off patient care",
+    "The vaccine gave her the disease in a mild form",
+    "She is protected anyway, because receiving the shots is what matters",
+    "She cannot count on being protected from the disease and needs follow-up, which may include another vaccine series"
    ],
-   "answer": 0,
-   "explanation": "immune: The body's ability to protect itself from acquiring a disease.",
+   "explanation": "Being protected means the body can keep itself from acquiring the disease. Without antibodies she has not developed that protection, so occupational health follows up instead of assuming she is covered.",
+   "question": "A medic completes the hepatitis B vaccine series, but her follow-up blood test shows no protective antibodies. What does this mean for her status?",
    "source": "Flashcard Slides — Set 3",
    "topic": "immune",
    "topic_n": 15
   },
   {
-   "question": "On May 14, 1796, Edward Jenner inoculated 8-year-old James Phipps with cowpox material from a dairymaid. When Jenner deliberately exposed the boy to smallpox weeks later, Phipps did not develop the disease. What principle did this first vaccination demonstrate?",
+   "answer": 2,
    "choices": [
     "Immunity only develops after a person survives the actual disease, never from a milder related infection.",
     "Vaccination works by treating an active infection after symptoms have already appeared.",
     "Immunity can be built before exposure, which is the entire basis of the vaccines EMTs are required to keep current.",
     "Prior exposure offers no real protection, so the boy's recovery was simply a matter of chance."
    ],
-   "answer": 2,
    "explanation": "Immunity can be built before exposure; that is the basis of vaccination.",
+   "question": "On May 14, 1796, Edward Jenner inoculated 8-year-old James Phipps with cowpox material from a dairymaid. When Jenner deliberately exposed the boy to smallpox weeks later, Phipps did not develop the disease. What principle did this first vaccination demonstrate?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "immune",
    "topic_n": 15
   },
   {
-   "question": "David Vetter, born in 1971 with severe combined immunodeficiency (SCID), lived in a sterile isolator at Texas Children's Hospital because his immune system could not fight infection; germ-free isolation was the only protection available to him. What does his case mean for EMTs caring for an immunocompromised patient?",
+   "answer": 2,
    "choices": [
     "Standard precautions can be relaxed, because a patient kept in isolation is already protected from germs.",
     "Providers need no protective equipment, since the patient's condition is genetic rather than contagious to the crew.",
     "Strict infection control around an immunocompromised patient is not optional, because the patient has no immune safety net.",
     "The patient's own antibodies will handle minor exposures, so brief lapses in technique carry little risk."
    ],
-   "answer": 2,
    "explanation": "Immunocompromised patients have no safety net; strict infection control around them is not optional.",
+   "question": "David Vetter, born in 1971 with severe combined immunodeficiency (SCID), lived in a sterile isolator at Texas Children's Hospital because his immune system could not fight infection; germ-free isolation was the only protection available to him. What does his case mean for EMTs caring for an immunocompromised patient?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "immune",
    "topic_n": 15
   },
   {
-   "question": "Which term is defined as: Protective equipment that blocks exposure to a pathogen or a hazardous material.",
-   "choices": [
-    "bloodborne pathogens",
-    "exposure",
-    "personal protective equipment",
-    "acute stress reactions"
-   ],
-   "answer": 2,
-   "explanation": "personal protective equipment: Protective equipment that blocks exposure to a pathogen or a hazardous material.",
-   "source": "Flashcard Slides — Set 3",
-   "topic": "personal protective equipment",
-   "topic_n": 16
-  },
-  {
-   "question": "What does the term \"personal protective equipment\" mean?",
-   "choices": [
-    "A negative response to a stressor.",
-    "The body's response to stress that begins with an alarm response, followed by a stage of reaction and resistance, and then recovery or, if the stress is prolonged, exhaustion.",
-    "Securing a crashed vehicle with cribbing, struts, or other supports so it cannot move, shift, or roll; it must be done to ensure the vehicle is stable before attempting to access a patient trapped inside.",
-    "Protective equipment that blocks exposure to a pathogen or a hazardous material."
-   ],
    "answer": 3,
-   "explanation": "personal protective equipment: Protective equipment that blocks exposure to a pathogen or a hazardous material.",
+   "choices": [
+    "engineering controls",
+    "standard precautions",
+    "infection control procedures",
+    "personal protective equipment"
+   ],
+   "explanation": "The gloves, mask, and eye protection are physical barriers worn to block exposure to a pathogen, which is personal protective equipment. Standard precautions are the rules that tell you when to wear them, not the gear itself.",
+   "question": "Before suctioning a patient with a bleeding mouth injury, you put on gloves, a mask, and eye protection. These items are all examples of:",
    "source": "Flashcard Slides — Set 3",
    "topic": "personal protective equipment",
    "topic_n": 16
   },
   {
-   "question": "During the 2014 Dallas Ebola response, the PPE worn by nurses caring for patient Thomas Eric Duncan left areas of the neck exposed, and two nurses became infected. The CDC then revised its guidance to require full coverage with no skin showing and a trained observer for doffing. What is the lesson for an EMT donning PPE?",
+   "answer": 3,
+   "choices": [
+    "The self-sheathing needle in the sharps kit",
+    "The standing rule that every patient's blood is treated as infectious",
+    "The ambulance's ventilation system",
+    "The gloves and goggles you are wearing"
+   ],
+   "explanation": "Personal protective equipment is the gear worn to block exposure, here the gloves and goggles. The treat-all-blood rule is standard precautions, and the self-sheathing needle is an engineering control built into the equipment.",
+   "question": "On one call, three different protections are in play: the gloves and goggles you are wearing, the standing rule that every patient's blood is treated as infectious, and the self-sheathing needle in the sharps kit. Which of these is the equipment worn to block exposure?",
+   "source": "Flashcard Slides — Set 3",
+   "topic": "personal protective equipment",
+   "topic_n": 16
+  },
+  {
+   "answer": 0,
    "choices": [
     "PPE is only as good as its weakest gap, and removal is the most dangerous step, so use a buddy check when doffing.",
     "A small area of exposed skin is acceptable as long as the respirator and gloves fit correctly.",
     "Doffing quickly is safest, because speed reduces the time spent near contaminated equipment.",
     "Once the patient is stabilized, PPE gaps no longer matter because the exposure window has passed."
    ],
-   "answer": 0,
    "explanation": "One exposed gap defeats the whole barrier; removal is the most dangerous step and needs a buddy check.",
+   "question": "During the 2014 Dallas Ebola response, the PPE worn by nurses caring for patient Thomas Eric Duncan left areas of the neck exposed, and two nurses became infected. The CDC then revised its guidance to require full coverage with no skin showing and a trained observer for doffing. What is the lesson for an EMT donning PPE?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "personal protective equipment",
    "topic_n": 16
   },
   {
-   "question": "Spanish nursing assistant Teresa Romero cared for a missionary who died of Ebola in September 2014. She became the first person known to contract Ebola outside West Africa; investigators believed she touched her face with a contaminated glove while removing her protective suit. What practice does her case demand?",
+   "answer": 1,
    "choices": [
     "Touching the face during removal is low risk, since the outside of the gloves stays clean during care.",
     "Treat used PPE as contaminated waste and doff slowly and deliberately, with hand hygiene as part of the protection.",
     "Remove PPE as fast as possible once care ends, because the danger ends when the suit comes off.",
     "Skip hand hygiene after doffing if the gloves show no visible tears or contamination."
    ],
-   "answer": 1,
    "explanation": "The failure came at removal; used PPE is contaminated waste, and slow, deliberate doffing with hand hygiene is part of the protection.",
+   "question": "Spanish nursing assistant Teresa Romero cared for a missionary who died of Ebola in September 2014. She became the first person known to contract Ebola outside West Africa; investigators believed she touched her face with a contaminated glove while removing her protective suit. What practice does her case demand?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "personal protective equipment",
    "topic_n": 16
   },
   {
-   "question": "Which term is defined as: Pathogenic microorganisms that are present in human blood and can cause disease in humans. These pathogens include, but are not limited to, hepatitis B virus and human immunodeficiency virus.",
+   "answer": 1,
    "choices": [
-    "contamination",
-    "transmission",
+    "airborne pathogens",
     "bloodborne pathogens",
-    "exposure"
+    "foodborne pathogens",
+    "vector-borne pathogens"
    ],
-   "answer": 2,
-   "explanation": "bloodborne pathogens: Pathogenic microorganisms that are present in human blood and can cause disease in humans. These pathogens include, but are not limited to, hepatitis B virus and human immunodeficiency virus.",
+   "explanation": "The hazard in a needlestick is the group of microorganisms carried in human blood, including hepatitis B and the human immunodeficiency virus. The exposure plan, the testing, and the follow-up are all built around those bloodborne pathogens.",
+   "question": "An EMT is stuck by a used needle hidden in soiled linen. The department's exposure plan treats this as a high-priority event mainly because of the risk from:",
    "source": "Flashcard Slides — Set 3",
    "topic": "bloodborne pathogens",
    "topic_n": 17
   },
   {
-   "question": "What does the term \"bloodborne pathogens\" mean?",
+   "answer": 1,
    "choices": [
-    "Pathogenic microorganisms that are present in human blood and can cause disease in humans. These pathogens include, but are not limited to, hepatitis B virus and human immunodeficiency virus.",
-    "The capacity of an individual to cope with and recover from distress.",
-    "A microorganism that is capable of causing disease in a susceptible host.",
-    "The individual in the department who is charged with the responsibility of managing exposures and infection control."
+    "He is right; only hepatitis B requires gloves",
+    "Hepatitis C travels in blood, so it belongs to the group of bloodborne hazards, and gloves are required for any blood contact",
+    "Gloves matter for hepatitis A, not hepatitis C",
+    "Gloves are needed only if the EMT has an open cut"
    ],
-   "answer": 0,
-   "explanation": "bloodborne pathogens: Pathogenic microorganisms that are present in human blood and can cause disease in humans. These pathogens include, but are not limited to, hepatitis B virus and human immunodeficiency virus.",
+   "explanation": "Hepatitis C is carried in blood, which puts it among the bloodborne pathogens the precautions are built for. The organ the virus damages does not change how it can reach you.",
+   "question": "Your partner says, 'This patient's hepatitis C is a liver disease, so gloves are probably overkill for a nosebleed.' What is the best correction?",
    "source": "Flashcard Slides — Set 3",
    "topic": "bloodborne pathogens",
    "topic_n": 17
   },
   {
-   "question": "Teenager Ryan White was diagnosed with HIV in 1984 at age 13 after being infected through contaminated factor VIII blood product used to treat his hemophilia; he had no other risk factor. What does his case illustrate about bloodborne pathogens?",
+   "answer": 3,
    "choices": [
     "Blood products carried risk only for hemophilia patients, not for anyone receiving a transfusion.",
     "Hemophilia itself causes HIV infection, independent of any blood product the patient receives.",
     "HIV spreads mainly through casual contact, which is why White's school barred him from attending.",
     "A bloodborne pathogen can ride a blood product or any blood exposure, so no blood exposure should ever be treated as trivial."
    ],
-   "answer": 3,
    "explanation": "Blood is a vehicle for bloodborne pathogens; White's infection came entirely through a blood product.",
+   "question": "Teenager Ryan White was diagnosed with HIV in 1984 at age 13 after being infected through contaminated factor VIII blood product used to treat his hemophilia; he had no other risk factor. What does his case illustrate about bloodborne pathogens?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "bloodborne pathogens",
    "topic_n": 17
   },
   {
-   "question": "In July 1998, nurse Karen Daley was stuck by a needle protruding from an overfilled sharps container at Brigham and Women's Hospital. That single needlestick infected her with both HIV and hepatitis C, and her advocacy led to the federal Needlestick Safety and Prevention Act. What sharps practice does her case demand of EMTs?",
+   "answer": 3,
    "choices": [
     "Recap used needles before disposal to conserve space in the sharps container.",
     "Fill sharps containers above the line during busy shifts and empty them at the end of the week.",
     "Carry a used needle to the container by hand if the container is more than a few steps away.",
     "Never overfill a sharps container and never carry a used needle loose; dispose of sharps properly every time."
    ],
-   "answer": 3,
    "explanation": "One used needle carried two bloodborne pathogens; never overfill a sharps container or carry a used needle loose.",
+   "question": "In July 1998, nurse Karen Daley was stuck by a needle protruding from an overfilled sharps container at Brigham and Women's Hospital. That single needlestick infected her with both HIV and hepatitis C, and her advocacy led to the federal Needlestick Safety and Prevention Act. What sharps practice does her case demand of EMTs?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "bloodborne pathogens",
    "topic_n": 17
   },
   {
-   "question": "Which term is defined as: The organism or individual that is attacked by the infecting agent.",
+   "answer": 1,
    "choices": [
-    "airborne transmission",
+    "fomite",
     "host",
-    "infectious disease",
-    "vehicle stabilization"
+    "pathogen",
+    "vector"
    ],
-   "answer": 1,
-   "explanation": "host: The organism or individual that is attacked by the infecting agent.",
+   "explanation": "The mouse is the organism the infecting agent lived in and attacked, which makes it the host. The tick is the vector that carried the bacteria onward, and the bacterium itself is the pathogen.",
+   "question": "A tick picks up Lyme disease bacteria while feeding on an infected mouse, then carries them to a hiker it bites the next week. In this chain, the mouse is best described as the:",
    "source": "Flashcard Slides — Set 3",
    "topic": "host",
    "topic_n": 18
   },
   {
-   "question": "What does the term \"host\" mean?",
+   "answer": 0,
    "choices": [
-    "The spread of an organism via droplets or dust.",
-    "The organism or individual that is attacked by the infecting agent.",
-    "The way in which an infectious disease is spread: contact, airborne, by vehicles, or by vectors.",
-    "The capacity of an individual to cope with and recover from distress."
+    "The mice and the hikers are hosts; the ticks are vectors",
+    "The ticks are hosts; the mice are vectors",
+    "The bacteria are the vector; the ticks are the pathogen",
+    "The hikers are the reservoir; the bacteria are the host"
    ],
-   "answer": 1,
-   "explanation": "host: The organism or individual that is attacked by the infecting agent.",
+   "explanation": "Hosts are the organisms the agent lives in or attacks: the mice the bacteria live in, and the hikers they ultimately infect. The ticks only transport the bacteria, which makes them vectors, and the bacteria are the pathogen.",
+   "question": "Health officials map a Lyme disease chain in a county park: the bacteria live in white-footed mice, ticks carry the bacteria between animals, and hikers end up sick. Which pairing is correct?",
    "source": "Flashcard Slides — Set 3",
    "topic": "host",
    "topic_n": 18
   },
   {
-   "question": "In the 1998-99 Nipah outbreak in Malaysia, Pteropus fruit bats were the natural reservoir hosts of the virus, and domestic pigs became amplifying hosts that caught it from bats and passed it to farm workers, causing 265 human cases. What does this host chain mean for patient assessment?",
+   "answer": 1,
    "choices": [
     "The outbreak spread only from person to person, so animal hosts played no real role in transmission.",
     "Ask about animal exposures during assessment, because the host chain behind a patient's illness often runs through animals first.",
     "Animal contact is irrelevant to a human infection history once the patient shows symptoms.",
     "The pigs were the original natural reservoir, so only pig exposure needs to be asked about."
    ],
-   "answer": 1,
    "explanation": "Nipah reached humans through two kinds of host, so animal exposure history matters on assessment.",
+   "question": "In the 1998-99 Nipah outbreak in Malaysia, Pteropus fruit bats were the natural reservoir hosts of the virus, and domestic pigs became amplifying hosts that caught it from bats and passed it to farm workers, causing 265 human cases. What does this host chain mean for patient assessment?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "host",
    "topic_n": 18
   },
   {
-   "question": "The white-footed mouse is the principal reservoir host of Borrelia burgdorferi, the Lyme disease bacterium, in the northeastern United States. Larval blacklegged ticks acquire the bacterium by feeding on infected mice, then later feed on people. For a patient with suspected tick-borne illness, what should the exposure history include?",
+   "answer": 1,
    "choices": [
     "Only adult tick bites, because larval ticks cannot carry the bacterium from the mouse host.",
     "Where the host animals live, such as woods, leaf litter, and brush, because that is where the tick exposure happens.",
     "Whether the patient was bitten directly by a mouse, since mice transmit Lyme to people themselves.",
     "Time spent in open water and beaches, since Lyme risk is highest in aquatic environments."
    ],
-   "answer": 1,
    "explanation": "For tick-borne illness, exposure history should cover where the host animals live: woods, leaf litter, and brush.",
+   "question": "The white-footed mouse is the principal reservoir host of Borrelia burgdorferi, the Lyme disease bacterium, in the northeastern United States. Larval blacklegged ticks acquire the bacterium by feeding on infected mice, then later feed on people. For a patient with suspected tick-borne illness, what should the exposure history include?",
    "source": "Flashcard Case Studies — Set 3",
    "topic": "host",
    "topic_n": 18

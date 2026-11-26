@@ -1,491 +1,491 @@
 {
  "questions": [
   {
-   "question": "Your crew gives a sedative to a handcuffed patient based only on a police officer's diagnosis, never takes vital signs or estimates the patient's weight, and does not monitor him afterward. He stops breathing. Which term best describes this conduct?",
+   "answer": 2,
    "choices": [
     "abandonment",
     "contributory negligence",
     "gross negligence",
     "ordinary negligence"
    ],
-   "answer": 2,
    "explanation": "Skipping assessment, dosing, and monitoring is a willful or reckless disregard for the duty and standard of care, not a simple mistake.",
+   "question": "Your crew gives a sedative to a handcuffed patient based only on a police officer's diagnosis, never takes vital signs or estimates the patient's weight, and does not monitor him afterward. He stops breathing. Which term best describes this conduct?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "gross negligence",
    "topic_n": 41
   },
   {
-   "question": "An EMT knowingly leaves a patient in clear respiratory distress unattended for nearly 20 minutes without checking airway, breathing, or vital signs, because officers are still talking to him. What level of negligence is this inaction most likely to be called?",
+   "answer": 1,
    "choices": [
     "res ipsa loquitur",
     "gross negligence",
     "ordinary negligence",
     "negligence per se"
    ],
-   "answer": 1,
    "explanation": "Doing nothing at all for a distressed patient you have a duty to assess is a reckless disregard of that duty.",
+   "question": "An EMT knowingly leaves a patient in clear respiratory distress unattended for nearly 20 minutes without checking airway, breathing, or vital signs, because officers are still talking to him. What level of negligence is this inaction most likely to be called?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "gross negligence",
    "topic_n": 41
   },
   {
-   "question": "A paramedic transports a struggling patient strapped face-down on the stretcher despite training that prone restraint can cause positional asphyxia, and the patient dies. How would a prosecutor most likely characterize that disregard of training?",
+   "answer": 3,
    "choices": [
     "comparative negligence",
     "simple malpractice",
     "an unavoidable complication",
     "gross negligence"
    ],
-   "answer": 3,
    "explanation": "Knowingly using a restraint position against training and standard of care shows willful or reckless disregard for the standard of care.",
+   "question": "A paramedic transports a struggling patient strapped face-down on the stretcher despite training that prone restraint can cause positional asphyxia, and the patient dies. How would a prosecutor most likely characterize that disregard of training?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "gross negligence",
    "topic_n": 41
   },
   {
-   "question": "Six months after a lawsuit is filed over a call you ran, your agency's attorney hands you a numbered list of written questions from the patient's lawyer that you must answer under oath and return. What are these questions called?",
+   "answer": 3,
    "choices": [
     "subpoenas",
     "depositions",
     "affidavits",
     "interrogatories"
    ],
-   "answer": 3,
    "explanation": "Written questions the plaintiff and defense send to one another, answered under oath in discovery, are interrogatories.",
+   "question": "Six months after a lawsuit is filed over a call you ran, your agency's attorney hands you a numbered list of written questions from the patient's lawyer that you must answer under oath and return. What are these questions called?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "interrogatories",
    "topic_n": 42
   },
   {
-   "question": "During discovery, the defense sends your patient-plaintiff 25 written questions asking about prior injuries, other treating doctors, and each item of damages claimed. She must answer in writing under oath. What discovery tool is this?",
+   "answer": 2,
    "choices": [
     "motions to compel",
     "requests for admission",
     "interrogatories",
     "depositions"
    ],
-   "answer": 2,
    "explanation": "Interrogatories are the written-question tool of discovery, unlike depositions, which are oral questions.",
+   "question": "During discovery, the defense sends your patient-plaintiff 25 written questions asking about prior injuries, other treating doctors, and each item of damages claimed. She must answer in writing under oath. What discovery tool is this?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "interrogatories",
    "topic_n": 42
   },
   {
-   "question": "An EMT confuses two terms: his partner explains that depositions are asked out loud with a court reporter present, while the other tool is answered in writing. Which tool is answered in writing?",
+   "answer": 0,
    "choices": [
     "interrogatories",
     "cross-examination",
     "voir dire",
     "depositions"
    ],
-   "answer": 0,
    "explanation": "By definition, interrogatories are written questions sent between the parties; depositions are oral.",
+   "question": "An EMT confuses two terms: his partner explains that depositions are asked out loud with a court reporter present, while the other tool is answered in writing. Which tool is answered in writing?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "interrogatories",
    "topic_n": 42
   },
   {
-   "question": "An EMT is ordered by a supervisor to falsify a run report's response time. She refuses because her personal and professional code of right and wrong will not let her lie on a patient record. What concept is guiding her refusal?",
+   "answer": 2,
    "choices": [
     "scope of practice",
     "ethics board policy",
     "morality",
     "statutory duty"
    ],
-   "answer": 2,
    "explanation": "Morality is the code of conduct, defined by society, religion, or the person, that affects character, conduct, and conscience.",
+   "question": "An EMT is ordered by a supervisor to falsify a run report's response time. She refuses because her personal and professional code of right and wrong will not let her lie on a patient record. What concept is guiding her refusal?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "morality",
    "topic_n": 43
   },
   {
-   "question": "A patient's family asks you to keep providing CPR they believe their religion requires, while the patient's written directive says the opposite. Your partner says, 'This is not just law, it is about people's deepest beliefs about right and wrong.' What is he describing?",
+   "answer": 3,
    "choices": [
     "liability",
     "jurisdiction",
     "implied consent",
     "morality"
    ],
-   "answer": 3,
    "explanation": "Religious and societal beliefs about right and wrong are the substance of morality, distinct from the legal question of what the directive requires.",
+   "question": "A patient's family asks you to keep providing CPR they believe their religion requires, while the patient's written directive says the opposite. Your partner says, 'This is not just law, it is about people's deepest beliefs about right and wrong.' What is he describing?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "morality",
    "topic_n": 43
   },
   {
-   "question": "Two EMTs disagree after a call: one says taking a patient's leftover pain medication home is stealing and wrong in itself, even if no rule were ever enforced. He is appealing to what?",
+   "answer": 3,
    "choices": [
     "protocol",
     "customary practice",
     "civil liability",
     "morality"
    ],
-   "answer": 3,
    "explanation": "Judging an act as right or wrong by an internal and societal code of conduct, not just by rules or law, is morality.",
+   "question": "Two EMTs disagree after a call: one says taking a patient's leftover pain medication home is stealing and wrong in itself, even if no rule were ever enforced. He is appealing to what?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "morality",
    "topic_n": 43
   },
   {
-   "question": "A jury finds an ambulance company knowingly sent out a unit with failed brakes after three written mechanic warnings, injuring a patient. On top of the patient's medical bills and lost wages, the jury adds $500,000 specifically to punish the company and deter others. What are those added damages called?",
+   "answer": 3,
    "choices": [
     "liquidated damages",
     "nominal damages",
     "compensatory damages",
     "punitive damages"
    ],
-   "answer": 3,
    "explanation": "Money added beyond compensation to punish intentional or willful and wanton disregard for safety is punitive damages.",
+   "question": "A jury finds an ambulance company knowingly sent out a unit with failed brakes after three written mechanic warnings, injuring a patient. On top of the patient's medical bills and lost wages, the jury adds $500,000 specifically to punish the company and deter others. What are those added damages called?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "punitive damages",
    "topic_n": 44
   },
   {
-   "question": "A patient's family sues after a medication error. Their lawyer says he will seek extra damages because the paramedic charted a drug as given that was never given, then hid the error. If awarded to punish that intentional conduct, the extra damages are what?",
+   "answer": 0,
    "choices": [
     "punitive damages",
     "compensatory damages",
     "restitution damages",
     "special damages"
    ],
-   "answer": 0,
    "explanation": "Intentional falsification and concealment show the willful disregard that punitive damages are meant to punish, unlike compensatory damages that repay losses.",
+   "question": "A patient's family sues after a medication error. Their lawyer says he will seek extra damages because the paramedic charted a drug as given that was never given, then hid the error. If awarded to punish that intentional conduct, the extra damages are what?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "punitive damages",
    "topic_n": 44
   },
   {
-   "question": "A jury awards a patient money for his actual medical bills, then adds a second, larger amount because the defendant's conduct was intentional and showed a willful and wanton disregard for public safety. What is the second amount called?",
+   "answer": 1,
    "choices": [
     "incidental damages",
     "punitive damages",
     "compensatory damages",
     "general damages"
    ],
-   "answer": 1,
    "explanation": "The definition fits exactly: damages awarded when conduct was intentional or a willful and wanton disregard for the safety of the public and the rights of others.",
+   "question": "A jury awards a patient money for his actual medical bills, then adds a second, larger amount because the defendant's conduct was intentional and showed a willful and wanton disregard for public safety. What is the second amount called?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "punitive damages",
    "topic_n": 44
   },
   {
-   "question": "You arrive to find a patient with obvious dependent lividity and rigor mortis, and a detective asks you not to move the body or remove the IV your partner started. He says the death is now a medical examiner's case. Which term describes this blend of medicine and law?",
+   "answer": 2,
    "choices": [
     "prophylactic",
     "therapeutic",
     "medicolegal",
     "clinical"
    ],
-   "answer": 2,
    "explanation": "Medicolegal refers to medical jurisprudence and forensic medicine, which includes medical examiner death investigations.",
+   "question": "You arrive to find a patient with obvious dependent lividity and rigor mortis, and a detective asks you not to move the body or remove the IV your partner started. He says the death is now a medical examiner's case. Which term describes this blend of medicine and law?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "medicolegal",
    "topic_n": 45
   },
   {
-   "question": "An EMT is subpoenaed to testify about a run report while a forensic pathologist testifies about autopsy findings in the same trial. The EMT's supervisor calls it a classic example of what kind of case?",
+   "answer": 3,
    "choices": [
     "contractual",
     "humanitarian",
     "administrative",
     "medicolegal"
    ],
-   "answer": 3,
    "explanation": "A case combining medical care and documentation with legal proceedings and forensic medicine is a medicolegal case.",
+   "question": "An EMT is subpoenaed to testify about a run report while a forensic pathologist testifies about autopsy findings in the same trial. The EMT's supervisor calls it a classic example of what kind of case?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "medicolegal",
    "topic_n": 45
   },
   {
-   "question": "Your patient dies en route after a stabbing, and the hospital asks you to document exactly where the knife was found, who handled it, and your times, for the police and the coroner. This documentation matters because the death is what?",
+   "answer": 3,
    "choices": [
     "a routine natural death",
     "outside the legal system",
     "reportable only to the hospital",
     "medicolegal"
    ],
-   "answer": 3,
    "explanation": "Deaths from violence are medicolegal: they fall under medical jurisprudence and forensic investigation, so chain of custody and exact documentation are legally significant.",
+   "question": "Your patient dies en route after a stabbing, and the hospital asks you to document exactly where the knife was found, who handled it, and your times, for the police and the coroner. This documentation matters because the death is what?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "medicolegal",
    "topic_n": 45
   },
   {
-   "question": "Which term is defined as: Conduct that constitutes a willful or reckless disregard for a duty or standard of care.",
+   "answer": 2,
    "choices": [
     "kidnapping",
     "breach of confidentiality",
     "gross negligence",
     "do not resuscitate order"
    ],
-   "answer": 2,
    "explanation": "gross negligence: Conduct that constitutes a willful or reckless disregard for a duty or standard of care.",
+   "question": "Which term is defined as: Conduct that constitutes a willful or reckless disregard for a duty or standard of care.",
    "source": "Flashcard Slides — Set 8",
    "topic": "gross negligence",
    "topic_n": 41
   },
   {
-   "question": "What does the term \"gross negligence\" mean?",
+   "answer": 1,
    "choices": [
-    "Conduct that constitutes a willful or reckless disregard for a duty or standard of care.",
-    "Any information about health status, provision of health care, or payment for health care that can be linked to an individual.",
-    "False and damaging information about a person that is communicated in writing.",
-    "The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment against his or her will."
+    "Neither — medication errors are never negligence",
+    "The second — he knowingly disregarded a known risk",
+    "The first — any wrong dose is automatically the worst kind of error",
+    "Both equally — all errors are the same in law"
    ],
-   "answer": 0,
-   "explanation": "gross negligence: Conduct that constitutes a willful or reckless disregard for a duty or standard of care.",
+   "explanation": "Gross negligence is conduct that constitutes a willful or reckless disregard for a duty or standard of care. A simple slip is ordinary negligence; knowingly skipping a safety check because it's inconvenient is disregard — a step beyond.",
+   "question": "Two medication errors are reviewed. In the first, an EMT misreads a label and gives a slightly wrong dose, catching it minutes later. In the second, an EMT skips a required safety check he knows about because \"it takes too long,\" and the patient is harmed. Which case shows a willful or reckless disregard for the standard of care?",
    "source": "Flashcard Slides — Set 8",
    "topic": "gross negligence",
    "topic_n": 41
   },
   {
-   "question": "In Aurora, Colorado in 2019, paramedics were called for 23-year-old Elijah McClain, who had been restrained by police after a suspicious-person call and had committed no crime. Without performing a physical assessment, the paramedics gave him 500 mg of ketamine for 'excited delirium' even though he weighed about 143 pounds, a weight for which a weight-based dose would have been about 325 mg. He stopped breathing, went into cardiac arrest, and died days later. What does this case teach the EMT?",
+   "answer": 3,
    "choices": [
     "A standard adult sedative dose is acceptable for any patient as long as the drug is given by the approved route.",
     "Sedation decisions on a police scene belong to the officers, so the EMT should administer the dose they request without delay.",
     "Once a patient is handcuffed, monitoring can wait until arrival at the hospital because the patient is secure.",
     "Assess the patient yourself, verify weight before giving weight-based drugs, and monitor the patient after sedation; deferring to police is not a defense."
    ],
-   "answer": 3,
    "explanation": "Skipping assessment, weight verification, and monitoring after sedation is a reckless disregard of the standard of care.",
+   "question": "In Aurora, Colorado in 2019, paramedics were called for 23-year-old Elijah McClain, who had been restrained by police after a suspicious-person call and had committed no crime. Without performing a physical assessment, the paramedics gave him 500 mg of ketamine for 'excited delirium' even though he weighed about 143 pounds, a weight for which a weight-based dose would have been about 325 mg. He stopped breathing, went into cardiac arrest, and died days later. What does this case teach the EMT?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "gross negligence",
    "topic_n": 41
   },
   {
-   "question": "In Memphis in 2023, EMTs arrived to find 29-year-old Tyre Nichols handcuffed, bloody, and groaning after a police beating, propped against a police car. For about 19 minutes the EMTs provided no treatment at all: no primary assessment, no vital signs, no oxygen, no IV, and no cardiac monitor. Nichols died in the hospital three days later, and both EMTs were fired and had their licenses suspended. What should the EMTs have done?",
+   "answer": 2,
    "choices": [
     "Wait until officers finish their investigation before touching the patient, to avoid interfering with a police scene.",
     "Ask the officers for a summary of the patient's condition instead of assessing, since the officers were present first.",
     "Begin their own assessment immediately — airway, breathing, vital signs, and monitor — because police custody does not suspend the EMT's duty to the patient.",
     "Limit contact to asking the patient if he wants transport, and document a refusal if he does not answer."
    ],
-   "answer": 2,
    "explanation": "Doing nothing for a patient in clear distress is a disregard of the most basic duty to act and assess.",
+   "question": "In Memphis in 2023, EMTs arrived to find 29-year-old Tyre Nichols handcuffed, bloody, and groaning after a police beating, propped against a police car. For about 19 minutes the EMTs provided no treatment at all: no primary assessment, no vital signs, no oxygen, no IV, and no cardiac monitor. Nichols died in the hospital three days later, and both EMTs were fired and had their licenses suspended. What should the EMTs have done?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "gross negligence",
    "topic_n": 41
   },
   {
-   "question": "Which term is defined as: Written questions that the defense and plaintiff send to one another.",
+   "answer": 0,
    "choices": [
     "interrogatories",
     "emergency medical care",
     "battery",
     "Good Samaritan laws"
    ],
-   "answer": 0,
    "explanation": "interrogatories: Written questions that the defense and plaintiff send to one another.",
+   "question": "Which term is defined as: Written questions that the defense and plaintiff send to one another.",
    "source": "Flashcard Slides — Set 8",
    "topic": "interrogatories",
    "topic_n": 42
   },
   {
-   "question": "What does the term \"interrogatories\" mean?",
+   "answer": 3,
    "choices": [
-    "When a person who has a duty abuses it, and causes harm to another individual, the EMT, the agency, and/or the medical director may be sued for negligence.",
-    "A written document that specifies medical treatment for a competent patient, should he or she become unable to make decisions in the future; also known as an advance directive or a living will.",
-    "Written questions that the defense and plaintiff send to one another.",
-    "Written documentation by a physician giving permission to medical personnel not to attempt resuscitation in the event of cardiac arrest."
+    "Affidavits",
+    "Subpoenas",
+    "Depositions",
+    "Interrogatories"
    ],
-   "answer": 2,
-   "explanation": "interrogatories: Written questions that the defense and plaintiff send to one another.",
+   "explanation": "Interrogatories are written questions that the defense and plaintiff send to one another, answered in writing under oath. Answering spoken questions in a recorded session would be a deposition.",
+   "question": "Months before trial, an EMT receives a set of written questions from the opposing attorney. He must type his answers, sign them under oath, and return them — no one questions him in person. These written questions exchanged between the sides are called:",
    "source": "Flashcard Slides — Set 8",
    "topic": "interrogatories",
    "topic_n": 42
   },
   {
-   "question": "In a West Virginia malpractice case, the estate of a deceased patient sued a hospital and its nurses. During discovery, the plaintiff sent the defendant nurses a set of written questions demanding each nurse's qualifications, training, and licenses, the identity of expert witnesses and their opinions, and whether the defense claimed anyone else contributed to the death. The nurses had to answer fully and under oath. What does this case show about how such written answers must be handled?",
+   "answer": 3,
    "choices": [
     "Written discovery answers are informal, so a provider can estimate answers and correct them later at trial.",
     "Only the hospital's administrator must review the answers, since individual nurses are not parties to discovery.",
     "Questions about qualifications and experts can be left blank if the provider feels they are irrelevant.",
     "Interrogatory answers are sworn statements, so they should be answered only through counsel and never guessed at."
    ],
-   "answer": 3,
    "explanation": "Sworn written answers in discovery carry legal weight and must be accurate and counseled.",
+   "question": "In a West Virginia malpractice case, the estate of a deceased patient sued a hospital and its nurses. During discovery, the plaintiff sent the defendant nurses a set of written questions demanding each nurse's qualifications, training, and licenses, the identity of expert witnesses and their opinions, and whether the defense claimed anyone else contributed to the death. The nurses had to answer fully and under oath. What does this case show about how such written answers must be handled?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "interrogatories",
    "topic_n": 42
   },
   {
-   "question": "A Minnesota patient sued a clinic claiming clinicians missed her appendicitis. In her written answers under oath, she referred to a letter from her attorney stating that the doctor had examined and pushed on her abdomen. At trial she testified the doctor had never examined her abdomen, and the appeals court ruled the letter could be used against her because she had adopted its statement in her answers without correcting it. What lesson does this case teach?",
+   "answer": 3,
    "choices": [
     "A party may change a sworn answer freely at trial as long as the change is explained to the jury.",
     "Trial testimony always overrides written answers, so inconsistencies between the two carry no risk.",
     "Referring to a document in a written answer is safe because the document itself can never be admitted.",
     "Anything you adopt in a sworn written answer can be used against you later, so your answers, run report, and testimony must stay consistent."
    ],
-   "answer": 3,
    "explanation": "Sworn written answers can contradict and impeach later testimony, which is why consistency is critical.",
+   "question": "A Minnesota patient sued a clinic claiming clinicians missed her appendicitis. In her written answers under oath, she referred to a letter from her attorney stating that the doctor had examined and pushed on her abdomen. At trial she testified the doctor had never examined her abdomen, and the appeals court ruled the letter could be used against her because she had adopted its statement in her answers without correcting it. What lesson does this case teach?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "interrogatories",
    "topic_n": 42
   },
   {
-   "question": "Which term is defined as: A code of conduct that can be defined by society, religion, or a person, affecting character, conduct, and conscience.",
+   "answer": 1,
    "choices": [
     "assault",
     "morality",
     "false imprisonment",
     "standard of care"
    ],
-   "answer": 1,
    "explanation": "morality: A code of conduct that can be defined by society, religion, or a person, affecting character, conduct, and conscience.",
+   "question": "Which term is defined as: A code of conduct that can be defined by society, religion, or a person, affecting character, conduct, and conscience.",
    "source": "Flashcard Slides — Set 8",
    "topic": "morality",
    "topic_n": 43
   },
   {
-   "question": "What does the term \"morality\" mean?",
+   "answer": 3,
    "choices": [
-    "A code of conduct that can be defined by society, religion, or a person, affecting character, conduct, and conscience.",
-    "The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it.",
-    "The written or electronic legal record of an EMS call, which courts treat as a reflection of the care itself, so that an incomplete or untidy report is read as evidence of inadequate care.",
-    "A person who is under the legal age in a given state but, because of other circumstances, is legally considered an adult."
+    "Tort law",
+    "Protocol",
+    "Statute",
+    "Morality"
    ],
-   "answer": 0,
-   "explanation": "morality: A code of conduct that can be defined by society, religion, or a person, affecting character, conduct, and conscience.",
+   "explanation": "Morality is a code of conduct that can be defined by society, religion, or a person, affecting character, conduct, and conscience. Something can be legal and still be judged wrong by that code — that judgement is morality, not law.",
+   "question": "A crew debates two choices. One is perfectly legal, but the crew feels it would be wrong to do to a patient. The other breaks a minor rule but harms no one. The first debate — about what the crew's own sense of right and wrong says — is governed by:",
    "source": "Flashcard Slides — Set 8",
    "topic": "morality",
    "topic_n": 43
   },
   {
-   "question": "From 1932 to 1972, the U.S. Public Health Service studied about 600 African American men near Tuskegee, Alabama, including 399 with syphilis. The men were told only that they had 'bad blood,' were never given their diagnosis, and received placebos disguised as care. Even after penicillin became the standard cure by 1947, researchers withheld it to keep watching the disease progress. Press exposure ended the study in 1972, and it led to the Belmont Report and institutional review boards. What principle does this case illustrate for an EMT?",
+   "answer": 1,
    "choices": [
     "Following an official program as written protects a provider from any moral responsibility for the outcome.",
     "A practice being official, common, or ordered does not make it moral; if an order violates your conscience and harms a patient, speak up through channels.",
     "Withholding a known cure is acceptable whenever researchers judge the scientific value to be high enough.",
     "Patients who accept free care and exams have effectively consented to whatever treatment decisions follow."
    ],
-   "answer": 1,
    "explanation": "Morality is a code of right and wrong that can condemn even official, ordered conduct.",
+   "question": "From 1932 to 1972, the U.S. Public Health Service studied about 600 African American men near Tuskegee, Alabama, including 399 with syphilis. The men were told only that they had 'bad blood,' were never given their diagnosis, and received placebos disguised as care. Even after penicillin became the standard cure by 1947, researchers withheld it to keep watching the disease progress. Press exposure ended the study in 1972, and it led to the Belmont Report and institutional review boards. What principle does this case illustrate for an EMT?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "morality",
    "topic_n": 43
   },
   {
-   "question": "In 1975, 21-year-old Karen Ann Quinlan remained in a persistent vegetative state on a respirator after cardiac arrest. Her Catholic parents asked that the respirator be removed so she could die naturally, but her doctors and hospital refused, fearing it could be homicide. In 1976 the New Jersey Supreme Court held that her right to refuse treatment could be exercised by her family on her behalf, writing that such decisions must respond to 'the common moral judgment of the community at large.' What should an EMT take from this case?",
+   "answer": 2,
    "choices": [
     "A respirator decision is purely a legal question, so the family's values never need to be considered.",
     "When a family disagrees with physicians, the EMT should side with whichever party asks first on scene.",
     "End-of-life conflicts are moral as well as legal, so learn the patient's and family's values and involve medical control and the receiving facility early.",
     "Religious beliefs of a family have no place in treatment decisions and should not be documented."
    ],
-   "answer": 2,
    "explanation": "The court tied its ruling to the community's moral judgment and the family's religious code, not just to law.",
+   "question": "In 1975, 21-year-old Karen Ann Quinlan remained in a persistent vegetative state on a respirator after cardiac arrest. Her Catholic parents asked that the respirator be removed so she could die naturally, but her doctors and hospital refused, fearing it could be homicide. In 1976 the New Jersey Supreme Court held that her right to refuse treatment could be exercised by her family on her behalf, writing that such decisions must respond to 'the common moral judgment of the community at large.' What should an EMT take from this case?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "morality",
    "topic_n": 43
   },
   {
-   "question": "Which term is defined as: Damages that are sometimes awarded in a civil lawsuit when the conduct of the defendant was intentional or constituted a willful and wanton disregard for the safety of the public and the rights of others.",
+   "answer": 0,
    "choices": [
     "punitive damages",
     "rigor mortis",
     "discovery",
     "medicolegal"
    ],
-   "answer": 0,
    "explanation": "punitive damages: Damages that are sometimes awarded in a civil lawsuit when the conduct of the defendant was intentional or constituted a willful and wanton disregard for the safety of the public and the rights of others.",
+   "question": "Which term is defined as: Damages that are sometimes awarded in a civil lawsuit when the conduct of the defendant was intentional or constituted a willful and wanton disregard for the safety of the public and the rights of others.",
    "source": "Flashcard Slides — Set 8",
    "topic": "punitive damages",
    "topic_n": 44
   },
   {
-   "question": "What does the term \"punitive damages\" mean?",
+   "answer": 1,
    "choices": [
-    "Damages that are sometimes awarded in a civil lawsuit when the conduct of the defendant was intentional or constituted a willful and wanton disregard for the safety of the public and the rights of others.",
-    "Disclosure of information without proper authorization.",
-    "Permission to render care.",
-    "A theory that may be used when the conduct of the person being sued is alleged to have occurred in clear violation of a statute."
+    "To cover the company's legal fees",
+    "To punish the company for its knowing misconduct and discourage it in others",
+    "To pay the jury for its time",
+    "To repay the patient's medical bills a second time"
    ],
-   "answer": 0,
-   "explanation": "punitive damages: Damages that are sometimes awarded in a civil lawsuit when the conduct of the defendant was intentional or constituted a willful and wanton disregard for the safety of the public and the rights of others.",
+   "explanation": "Punitive damages are the part of an award meant to punish — here, years of knowingly running faulty equipment. The part that repays the patient's actual losses is compensatory damages.",
+   "question": "A jury learns an ambulance company knowingly kept a faulty monitor in service for years because replacement was expensive, and a patient was harmed. The award includes the patient's medical costs plus an extra amount aimed at the company's conduct. What is the extra amount for?",
    "source": "Flashcard Slides — Set 8",
    "topic": "punitive damages",
    "topic_n": 44
   },
   {
-   "question": "In 1972 a Ford Pinto stalled on a California freeway and was struck from behind; its fuel tank ruptured, the driver died of burns, and a 13-year-old passenger was severely and permanently burned. Evidence showed Ford knew the fuel system could be made safer for roughly $4 to $8 per car but deferred the fix, saving about $20.9 million. A jury awarded about $2.5 million in compensatory damages and $125 million in punitive damages, later reduced to $3.5 million. Why did the jury add the punitive award?",
+   "answer": 1,
    "choices": [
     "To cover the cost of recalling and repairing every Pinto already sold in the United States.",
     "To punish Ford's willful and wanton disregard for public safety, beyond compensating the victim's losses, which the compensatory award already covered.",
     "To repay the passenger's medical bills and lost income a second time because his injuries were severe.",
     "To compensate the driver's family for funeral expenses that the first award had overlooked."
    ],
-   "answer": 1,
    "explanation": "Punitive damages punish and deter knowing disregard of a safety risk; they are not compensation.",
+   "question": "In 1972 a Ford Pinto stalled on a California freeway and was struck from behind; its fuel tank ruptured, the driver died of burns, and a 13-year-old passenger was severely and permanently burned. Evidence showed Ford knew the fuel system could be made safer for roughly $4 to $8 per car but deferred the fix, saving about $20.9 million. A jury awarded about $2.5 million in compensatory damages and $125 million in punitive damages, later reduced to $3.5 million. Why did the jury add the punitive award?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "punitive damages",
    "topic_n": 44
   },
   {
-   "question": "In 1992, 79-year-old Stella Liebeck spilled McDonald's coffee in her lap and suffered third-degree burns. Trial evidence showed McDonald's required its coffee to be held at 180 to 190 degrees and had received more than 700 prior complaints of customers being burned, yet kept the same policy. A jury awarded $160,000 in compensatory damages after fault reduction and $2.7 million in punitive damages, later reduced by the judge. What made the punitive award supportable here?",
+   "answer": 0,
    "choices": [
     "Knowing about hundreds of prior burns and keeping the same policy showed a willful and wanton disregard that punitive damages are meant to punish.",
     "The customer was found partly at fault, which allows a jury to add punishment damages to the award.",
     "McDonald's was a large corporation, so any negligence by it automatically qualifies for punishment damages.",
     "The burns were unusually severe, and severity of injury alone is enough to support punitive damages."
    ],
-   "answer": 0,
    "explanation": "A pattern of ignored complaints turns an accident into the knowing disregard that supports punitive damages.",
+   "question": "In 1992, 79-year-old Stella Liebeck spilled McDonald's coffee in her lap and suffered third-degree burns. Trial evidence showed McDonald's required its coffee to be held at 180 to 190 degrees and had received more than 700 prior complaints of customers being burned, yet kept the same policy. A jury awarded $160,000 in compensatory damages after fault reduction and $2.7 million in punitive damages, later reduced by the judge. What made the punitive award supportable here?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "punitive damages",
    "topic_n": 44
   },
   {
-   "question": "Which term is defined as: A term relating to medical jurisprudence (law) or forensic medicine.",
+   "answer": 0,
    "choices": [
     "medicolegal",
     "morality",
     "false imprisonment",
     "mandatory reporting"
    ],
-   "answer": 0,
    "explanation": "medicolegal: A term relating to medical jurisprudence (law) or forensic medicine.",
+   "question": "Which term is defined as: A term relating to medical jurisprudence (law) or forensic medicine.",
    "source": "Flashcard Slides — Set 8",
    "topic": "medicolegal",
    "topic_n": 45
   },
   {
-   "question": "What does the term \"medicolegal\" mean?",
+   "answer": 3,
    "choices": [
-    "The confinement of a person without legal authority or the person's consent.",
-    "Unlawfully placing a patient in fear of bodily harm.",
-    "A term relating to medical jurisprudence (law) or forensic medicine.",
-    "Type of consent in which a patient who is unable to give consent is given treatment under the legal assumption that he or she would want treatment."
+    "Purely legal — care should wait until police finish",
+    "Administrative — it only affects billing",
+    "Purely clinical — injuries erase all legal concerns",
+    "The medicolegal side — the call involves both medicine and legal duties"
    ],
-   "answer": 2,
-   "explanation": "medicolegal: A term relating to medical jurisprudence (law) or forensic medicine.",
+   "explanation": "Medicolegal means relating to medical jurisprudence (law) or forensic medicine. An assault call is medicolegal because treatment decisions, evidence, and documentation all carry legal weight alongside the medical care.",
+   "question": "Your patient was assaulted and is bleeding from a stab wound. As you treat him, you realize his torn clothing and the knife nearby are evidence, the police want a statement, and everything you document may end up in court. The side of this call that involves the law is best described as:",
    "source": "Flashcard Slides — Set 8",
    "topic": "medicolegal",
    "topic_n": 45
   },
   {
-   "question": "In 1923, James Frye appealed his murder conviction after the trial court excluded results of an early lie-detector test based on systolic blood pressure changes. The D.C. Court of Appeals upheld the exclusion, ruling that a scientific principle must have 'gained general acceptance in the particular field in which it belongs' before expert testimony based on it is admissible. That standard governed scientific evidence for about 70 years. What does this case mean for an EMT's work?",
+   "answer": 3,
    "choices": [
     "Reliability standards apply to physicians' testimony but never to records created by EMS crews.",
     "Courts evaluate medical evidence only by whether it helped the patient, never by scientific acceptance.",
     "Any test a provider believes is accurate can be presented in court, whether or not the field accepts it.",
     "Documentation and device data from a call may be judged by legal standards of reliability, not just clinical usefulness."
    ],
-   "answer": 3,
    "explanation": "Frye is foundational medicolegal law: medicine and science must meet the legal rules for admissible proof.",
+   "question": "In 1923, James Frye appealed his murder conviction after the trial court excluded results of an early lie-detector test based on systolic blood pressure changes. The D.C. Court of Appeals upheld the exclusion, ruling that a scientific principle must have 'gained general acceptance in the particular field in which it belongs' before expert testimony based on it is admissible. That standard governed scientific evidence for about 70 years. What does this case mean for an EMT's work?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "medicolegal",
    "topic_n": 45
   },
   {
-   "question": "In the 1995 O.J. Simpson murder trial, there were no eyewitnesses and no murder weapon, so the prosecution's case rested heavily on forensic evidence: DNA matches on blood near the victims, on a glove, and in a vehicle, plus autopsy testimony from the chief medical examiner. The defense attacked how samples were collected and whether they were contaminated, and the jury acquitted. What lesson does this hold for an EMT on a potential crime scene?",
+   "answer": 1,
    "choices": [
     "Avoid documenting scene details in the run report, because written records only create legal exposure.",
     "Preserve evidence, limit traffic through the scene, and document who touched what, because EMS actions become medicolegal evidence.",
     "Move or clean up items freely once patient care is done, since forensic teams only use what they collect themselves.",
     "Collect any suspected evidence into one bag so investigators can sort it out at the laboratory."
    ],
-   "answer": 1,
    "explanation": "Chain of custody and scene preservation by EMS can decide whether forensic evidence survives legal challenge.",
+   "question": "In the 1995 O.J. Simpson murder trial, there were no eyewitnesses and no murder weapon, so the prosecution's case rested heavily on forensic evidence: DNA matches on blood near the victims, on a glove, and in a vehicle, plus autopsy testimony from the chief medical examiner. The defense attacked how samples were collected and whether they were contaminated, and the jury acquitted. What lesson does this hold for an EMT on a potential crime scene?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "medicolegal",
    "topic_n": 45

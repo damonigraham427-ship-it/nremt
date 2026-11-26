@@ -1,169 +1,169 @@
 {
  "questions": [
   {
-   "question": "Which term is defined as: The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
+   "answer": 1,
    "choices": [
     "emotional intelligence",
     "Federal Communications Commission",
     "chief concern",
     "open-ended questions"
    ],
-   "answer": 1,
    "explanation": "Federal Communications Commission: The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
+   "question": "Which term is defined as: The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
    "source": "Flashcard Slides — Set 1",
    "topic": "Federal Communications Commission",
    "topic_n": 1
   },
   {
-   "question": "What does the term \"Federal Communications Commission\" mean?",
+   "answer": 0,
    "choices": [
-    "Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship.",
-    "A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
-    "A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
-    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use."
+    "The Federal Communications Commission",
+    "The National Registry of EMTs",
+    "Your system's medical director",
+    "Your state office of EMS"
    ],
-   "answer": 3,
-   "explanation": "Federal Communications Commission: The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
+   "explanation": "Radio frequencies, call signs, and radio equipment approval belong to the Federal Communications Commission, the federal agency that licenses and regulates radio use. The state EMS office oversees EMS agencies and the medical director oversees patient care; neither assigns frequencies.",
+   "question": "Your EMS service is expanding and needs to operate on new radio frequencies. Before the system can go live, the frequencies must be allocated, the equipment approved, and call signs assigned. Which agency has to approve all of this?",
    "source": "Flashcard Slides — Set 1",
    "topic": "Federal Communications Commission",
    "topic_n": 1
   },
   {
-   "question": "Which term is defined as: Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship.",
+   "answer": 1,
    "choices": [
     "multiplex",
     "therapeutic communication",
     "communication",
     "UHF"
    ],
-   "answer": 1,
    "explanation": "therapeutic communication: Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship.",
+   "question": "Which term is defined as: Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship.",
    "source": "Flashcard Slides — Set 1",
    "topic": "therapeutic communication",
    "topic_n": 2
   },
   {
-   "question": "What does the term \"therapeutic communication\" mean?",
+   "answer": 0,
    "choices": [
-    "The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
-    "Single-frequency radio; transmissions can occur in either direction but not simultaneously; when one party transmits, the other can only receive, and the party that is transmitting is unable to receive.",
-    "The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another.",
-    "Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship."
+    "Sit at her eye level, make eye contact, and say, \"You seem worried. Tell me what's on your mind.\"",
+    "Stand over her and explain that staying quiet will only slow down her care.",
+    "Ask yes-or-no questions as fast as you can so the interview stays on track.",
+    "Avoid eye contact and work silently so she does not feel pressured."
    ],
-   "answer": 3,
-   "explanation": "therapeutic communication: Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship.",
+   "explanation": "Therapeutic communication uses verbal and nonverbal techniques that encourage a patient to express her feelings. Eye contact, sitting at her level, and an open invitation to talk do that; standing over her, avoiding her, or firing closed questions at her all shut communication down.",
+   "question": "A 40-year-old patient with abdominal pain has gone quiet and is staring at the floor, answering you in one-word replies. Which response is most likely to get her talking again?",
    "source": "Flashcard Slides — Set 1",
    "topic": "therapeutic communication",
    "topic_n": 2
   },
   {
-   "question": "Which term is defined as: The ability to transmit audio and data signals through the use of more than one communications channel.",
+   "answer": 0,
    "choices": [
     "multiplex",
     "repeater",
     "mental model",
     "cultural imposition"
    ],
-   "answer": 0,
    "explanation": "multiplex: The ability to transmit audio and data signals through the use of more than one communications channel.",
+   "question": "Which term is defined as: The ability to transmit audio and data signals through the use of more than one communications channel.",
    "source": "Flashcard Slides — Set 1",
    "topic": "multiplex",
    "topic_n": 3
   },
   {
-   "question": "What does the term \"multiplex\" mean?",
-   "choices": [
-    "The reason a patient called for help; also, the patient’s response to questions such as “What’s wrong?” or “What happened?”",
-    "A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
-    "The ability to transmit audio and data signals through the use of more than one communications channel.",
-    "The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint."
-   ],
    "answer": 2,
-   "explanation": "multiplex: The ability to transmit audio and data signals through the use of more than one communications channel.",
+   "choices": [
+    "Trunking",
+    "Simplex",
+    "Multiplex",
+    "Duplex"
+   ],
+   "explanation": "Sending audio and data at the same time over more than one channel is multiplex. Duplex means you can transmit and receive at the same time; simplex allows only one direction at a time; trunking is a computer assigning frequencies from a shared pool.",
+   "question": "During a busy transport, your radio sends your voice report and the patient's ECG data at the same time, each riding on its own separate channel within the system. Which radio capability makes this possible?",
    "source": "Flashcard Slides — Set 1",
    "topic": "multiplex",
    "topic_n": 3
   },
   {
-   "question": "Which term is defined as: The ability to transmit and receive simultaneously.",
+   "answer": 1,
    "choices": [
     "multiplex",
     "duplex",
     "MED channels",
     "chief concern"
    ],
-   "answer": 1,
    "explanation": "duplex: The ability to transmit and receive simultaneously.",
+   "question": "Which term is defined as: The ability to transmit and receive simultaneously.",
    "source": "Flashcard Slides — Set 1",
    "topic": "duplex",
    "topic_n": 4
   },
   {
-   "question": "What does the term \"duplex\" mean?",
+   "answer": 3,
    "choices": [
-    "A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
-    "The ability to transmit and receive simultaneously.",
-    "The picture an individual has in his or her head of “what’s going on” in a given situation.",
-    "A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency."
+    "Paging",
+    "Multiplex",
+    "Simplex",
+    "Duplex"
    ],
-   "answer": 1,
-   "explanation": "duplex: The ability to transmit and receive simultaneously.",
+   "explanation": "Hearing the other party while you are still transmitting means the system transmits and receives simultaneously: duplex. On simplex you could not receive until you stopped transmitting; multiplex sends voice and data on separate channels at once; paging sends alerts to receivers.",
+   "question": "You are giving a report by radio when the hospital starts speaking, and you can hear every word even though your transmit key is still down. Which radio mode are you operating in?",
    "source": "Flashcard Slides — Set 1",
    "topic": "duplex",
    "topic_n": 4
   },
   {
-   "question": "Which term is defined as: Telecommunication systems that allow a computer to maximize utilization of a group of frequencies.",
+   "answer": 1,
    "choices": [
     "patient care report",
     "trunking",
     "cultural imposition",
     "Federal Communications Commission"
    ],
-   "answer": 1,
    "explanation": "trunking: Telecommunication systems that allow a computer to maximize utilization of a group of frequencies.",
+   "question": "Which term is defined as: Telecommunication systems that allow a computer to maximize utilization of a group of frequencies.",
    "source": "Flashcard Slides — Set 1",
    "topic": "trunking",
    "topic_n": 5
   },
   {
-   "question": "What does the term \"trunking\" mean?",
+   "answer": 0,
    "choices": [
-    "Anything that dampens or obscures the true meaning of a message.",
-    "The ability to transmit audio and data signals through the use of more than one communications channel.",
-    "When a person considers his or her own cultural values as more important when interacting with people from another culture.",
-    "Telecommunication systems that allow a computer to maximize utilization of a group of frequencies."
+    "Trunking",
+    "Simplex",
+    "Multiplex",
+    "A repeater"
    ],
-   "answer": 3,
-   "explanation": "trunking: Telecommunication systems that allow a computer to maximize utilization of a group of frequencies.",
+   "explanation": "A computer maximizing the use of a shared group of frequencies is trunking. A repeater rebroadcasts a signal on a second frequency to extend its range; multiplex sends voice and data on separate channels; simplex is one-direction-at-a-time radio.",
+   "question": "It is the busiest night of the year and every crew is talking at once, yet nobody had to pick a frequency or wait for a channel to clear. Each time someone keys up, a computer instantly assigns an open frequency from the system's shared pool. This system is using:",
    "source": "Flashcard Slides — Set 1",
    "topic": "trunking",
    "topic_n": 5
   },
   {
-   "question": "Which term is defined as: The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or a mobile data terminal.",
+   "answer": 3,
    "choices": [
     "rapport",
     "ethnocentrism",
     "closed-ended questions",
     "paging"
    ],
-   "answer": 3,
    "explanation": "paging: The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or a mobile data terminal.",
+   "question": "Which term is defined as: The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or a mobile data terminal.",
    "source": "Flashcard Slides — Set 1",
    "topic": "paging",
    "topic_n": 6
   },
   {
-   "question": "What does the term \"paging\" mean?",
+   "answer": 2,
    "choices": [
-    "The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or a mobile data terminal.",
-    "A radio receiver that searches or scans across several frequencies until the message is completed; the process is then repeated.",
-    "Telecommunication systems that allow a computer to maximize utilization of a group of frequencies.",
-    "Radio frequencies between 300 and 3,000 MHz."
+    "Trunking",
+    "Telemetry",
+    "Paging",
+    "A mobile data terminal message"
    ],
-   "answer": 0,
-   "explanation": "paging: The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or a mobile data terminal.",
+   "explanation": "Sending a radio signal carrying a voice or digital alert to a belt receiver is paging. A mobile data terminal message appears on the terminal mounted in the ambulance; telemetry transmits patient data such as an ECG; trunking is computer assignment of frequencies.",
+   "question": "At 2 a.m., tones sound at the station and a dispatcher's voice message is sent out to the small receiver clipped to your belt, alerting your crew to a call. This alerting method is called:",
    "source": "Flashcard Slides — Set 1",
    "topic": "paging",
    "topic_n": 6

@@ -1,505 +1,505 @@
 {
  "questions": [
   {
-   "question": "An experienced paramedic visits a patient at home each week to check his long-term heart condition and make sure he is taking his medicines correctly. What is this program called?",
+   "answer": 2,
    "choices": [
     "Secondary prevention",
     "Public safety access point",
     "Community paramedicine",
     "Evidence-based medicine"
    ],
-   "answer": 2,
    "explanation": "Providing ongoing care for a chronic condition in the community, outside of an emergency call, is community paramedicine.",
+   "question": "An experienced paramedic visits a patient at home each week to check his long-term heart condition and make sure he is taking his medicines correctly. What is this program called?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "community paramedicine",
    "topic_n": 18
   },
   {
-   "question": "A specially trained paramedic does home health checks for frequent 911 callers and helps one patient get connected to a regular doctor. What is this role an example of?",
+   "answer": 0,
    "choices": [
     "Community paramedicine",
     "Emergency medical responder",
     "Secondary prevention",
     "Public safety access point"
    ],
-   "answer": 0,
    "explanation": "Home evaluations and helping patients connect to regular care are the work of community paramedicine.",
+   "question": "A specially trained paramedic does home health checks for frequent 911 callers and helps one patient get connected to a regular doctor. What is this role an example of?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "community paramedicine",
    "topic_n": 18
   },
   {
-   "question": "Instead of only responding to emergencies, a veteran paramedic monitors diabetic patients at home and watches for problems before they become emergencies. What is this model of care called?",
+   "answer": 1,
    "choices": [
     "Evidence-based medicine",
     "Community paramedicine",
     "Primary prevention",
     "Emergency medical dispatch"
    ],
-   "answer": 1,
    "explanation": "Monitoring chronic conditions at home is a service provided under the community paramedicine model.",
+   "question": "Instead of only responding to emergencies, a veteran paramedic monitors diabetic patients at home and watches for problems before they become emergencies. What is this model of care called?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "community paramedicine",
    "topic_n": 18
   },
   {
-   "question": "After a man falls from a ladder, the crew carefully protects his spine so the injury does not get worse. What type of prevention is this?",
+   "answer": 3,
    "choices": [
     "Primary prevention",
     "Community paramedicine",
     "Evidence-based practice",
     "Secondary prevention"
    ],
-   "answer": 3,
    "explanation": "The injury already happened, so limiting its effects is secondary prevention.",
+   "question": "After a man falls from a ladder, the crew carefully protects his spine so the injury does not get worse. What type of prevention is this?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "secondary prevention",
    "topic_n": 19
   },
   {
-   "question": "A woman has already broken her ankle in a fall, and the crew splints it and applies cold to reduce further damage and swelling. What type of prevention is this an example of?",
+   "answer": 1,
    "choices": [
     "Primary prevention",
     "Secondary prevention",
     "Public safety access",
     "Evidence-based medicine"
    ],
-   "answer": 1,
    "explanation": "Care aimed at keeping an existing injury from causing more harm is secondary prevention.",
+   "question": "A woman has already broken her ankle in a fall, and the crew splints it and applies cold to reduce further damage and swelling. What type of prevention is this an example of?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "secondary prevention",
    "topic_n": 19
   },
   {
-   "question": "Following a car crash, EMTs control a patient's bleeding promptly so blood loss and shock do not progress. What type of prevention does this represent?",
+   "answer": 2,
    "choices": [
     "Community paramedicine",
     "Primary prevention",
     "Secondary prevention",
     "Emergency medical response"
    ],
-   "answer": 2,
    "explanation": "Acting after the event to limit how bad the outcome becomes is secondary prevention.",
+   "question": "Following a car crash, EMTs control a patient's bleeding promptly so blood loss and shock do not progress. What type of prevention does this represent?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "secondary prevention",
    "topic_n": 19
   },
   {
-   "question": "A maker says its defibrillator stops ventricular fibrillation on the first shock 95% of the time, but no study shows patients survive more often with it. What approach says this claim alone does not prove the device saves more lives?",
+   "answer": 0,
    "choices": [
     "Evidence-based medicine",
     "Secondary prevention",
     "Community paramedicine",
     "Public safety access point"
    ],
-   "answer": 0,
    "explanation": "Evidence-based medicine bases decisions on proven patient outcomes, not on a manufacturer's claim alone.",
+   "question": "A maker says its defibrillator stops ventricular fibrillation on the first shock 95% of the time, but no study shows patients survive more often with it. What approach says this claim alone does not prove the device saves more lives?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "evidence-based medicine",
    "topic_n": 20
   },
   {
-   "question": "For a major trauma patient, the crew skips time-consuming field procedures and transports quickly for surgery, following findings from prehospital studies. What is this decision mostly based on?",
+   "answer": 3,
    "choices": [
     "Community paramedicine",
     "Secondary prevention",
     "Public safety access point",
     "Evidence-based medicine"
    ],
-   "answer": 3,
    "explanation": "Following EMS research on what actually improves trauma survival is evidence-based medicine.",
+   "question": "For a major trauma patient, the crew skips time-consuming field procedures and transports quickly for surgery, following findings from prehospital studies. What is this decision mostly based on?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "evidence-based medicine",
    "topic_n": 20
   },
   {
-   "question": "An agency changes its treatment protocol only after well-conducted studies show the new method gives patients better outcomes. What approach to medicine is the agency using?",
+   "answer": 1,
    "choices": [
     "Primary prevention",
     "Evidence-based medicine",
     "Emergency medical response",
     "Mobile integrated health care"
    ],
-   "answer": 1,
    "explanation": "A protocol change driven by the strength of the scientific evidence is evidence-based medicine.",
+   "question": "An agency changes its treatment protocol only after well-conducted studies show the new method gives patients better outcomes. What approach to medicine is the agency using?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "evidence-based medicine",
    "topic_n": 20
   },
   {
-   "question": "A firefighter stationed two blocks away reaches a collapsed man first and starts basic care several minutes before the ambulance arrives. What level of provider is this firefighter acting as?",
+   "answer": 2,
    "choices": [
     "Emergency medical technician",
     "Community paramedic",
     "Emergency medical responder",
     "Public safety access point"
    ],
-   "answer": 2,
    "explanation": "The trained first person on scene providing initial assistance is an emergency medical responder.",
+   "question": "A firefighter stationed two blocks away reaches a collapsed man first and starts basic care several minutes before the ambulance arrives. What level of provider is this firefighter acting as?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "emergency medical responder",
    "topic_n": 21
   },
   {
-   "question": "A law enforcement officer is first to reach a crash victim and controls bleeding until the EMT crew gets there. What is this officer's role in the EMS system?",
+   "answer": 0,
    "choices": [
     "Emergency medical responder",
     "Emergency medical technician",
     "Paramedic",
     "Medical director"
    ],
-   "answer": 0,
    "explanation": "Arriving first and providing initial medical assistance before the ambulance is the emergency medical responder role.",
+   "question": "A law enforcement officer is first to reach a crash victim and controls bleeding until the EMT crew gets there. What is this officer's role in the EMS system?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "emergency medical responder",
    "topic_n": 21
   },
   {
-   "question": "Because they are often already out in the community, police and fire personnel frequently begin care before EMS crews arrive. What are these trained first-arriving personnel called?",
+   "answer": 3,
    "choices": [
     "Community paramedics",
     "Emergency medical dispatchers",
     "Emergency medical technicians",
     "Emergency medical responders"
    ],
-   "answer": 3,
    "explanation": "Arriving first and starting care is the defining part of the emergency medical responder role.",
+   "question": "Because they are often already out in the community, police and fire personnel frequently begin care before EMS crews arrive. What are these trained first-arriving personnel called?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "emergency medical responder",
    "topic_n": 21
   },
   {
-   "question": "A caller dials 911 and reaches a staffed center that takes the report and sends police, fire, and ambulance units as needed. What is this center called?",
+   "answer": 1,
    "choices": [
     "Emergency operations center",
     "Public safety access point",
     "Community paramedicine center",
     "Secondary dispatch center"
    ],
-   "answer": 1,
    "explanation": "That center manages requests for police, fire, and ambulance services; it is the public safety access point.",
+   "question": "A caller dials 911 and reaches a staffed center that takes the report and sends police, fire, and ambulance units as needed. What is this center called?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "public safety access point",
    "topic_n": 22
   },
   {
-   "question": "Trained personnel at a central call center receive a report of a house fire and coordinate the fire and EMS response. What facility are they working in?",
+   "answer": 2,
    "choices": [
     "An emergency medical dispatch office",
     "A secondary prevention center",
     "A public safety access point",
     "A community paramedic station"
    ],
-   "answer": 2,
    "explanation": "Managing incoming emergency requests is the job of the public safety access point.",
+   "question": "Trained personnel at a central call center receive a report of a house fire and coordinate the fire and EMS response. What facility are they working in?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "public safety access point",
    "topic_n": 22
   },
   {
-   "question": "Every 911 call in the county goes first to one center, where staff sort the call and route it to the right agency. What is that center known as?",
+   "answer": 0,
    "choices": [
     "Public safety access point",
     "Evidence-based dispatch center",
     "Emergency medical responder station",
     "Mobile integrated health hub"
    ],
-   "answer": 0,
    "explanation": "It is the single point that receives and manages public safety requests: the public safety access point.",
+   "question": "Every 911 call in the county goes first to one center, where staff sort the call and route it to the right agency. What is that center known as?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "public safety access point",
    "topic_n": 22
   },
   {
-   "question": "In 2011, Minnesota became the first state to define community paramedics in law, and its Medicaid program began paying for their care of patients with frequent emergency department visits. What made it possible for this program to operate as a recognized, paid service?",
+   "answer": 2,
    "choices": [
     "A federal rule requiring every state to hire community paramedics",
     "A study proving home visits eliminate emergency department use",
     "Legal recognition of the role plus a payment mechanism",
     "A requirement that paramedics replace primary care doctors"
    ],
-   "answer": 2,
    "explanation": "Minnesota shows that legal recognition and payment are what let community paramedicine operate.",
+   "question": "In 2011, Minnesota became the first state to define community paramedics in law, and its Medicaid program began paying for their care of patients with frequent emergency department visits. What made it possible for this program to operate as a recognized, paid service?",
    "source": "Case Studies — Set 4",
    "topic": "community paramedicine",
    "topic_n": 18
   },
   {
-   "question": "In April 2014, an outage at a 911 routing center caused thousands of calls across multiple states to never reach dispatch centers, including calls about a heart attack and a home intruder; the FCC later fined the carriers involved $17.4 million. The center that receives 911 calls and dispatches responders is known as a:",
+   "answer": 3,
    "choices": [
     "Community paramedicine hub",
     "Emergency medical responder station",
     "Secondary prevention center",
     "Public safety access point"
    ],
-   "answer": 3,
    "explanation": "The FCC holds carriers responsible for delivering 911 calls to public safety access points (PSAPs).",
+   "question": "In April 2014, an outage at a 911 routing center caused thousands of calls across multiple states to never reach dispatch centers, including calls about a heart attack and a home intruder; the FCC later fined the carriers involved $17.4 million. The center that receives 911 calls and dispatches responders is known as a:",
    "source": "Case Studies — Set 4",
    "topic": "public safety access point",
    "topic_n": 22
   },
   {
-   "question": "Which term is defined as: 'A health care model in which experienced paramedics receive advanced training to equip them to provide additional services in the prehospital environment, such as health evaluations, monitoring of chronic illnesses or conditions, and patient advocacy'?",
+   "answer": 1,
    "choices": [
     "Mobile integrated health care",
     "Community paramedicine",
     "Emergency medical dispatch",
     "Public health"
    ],
-   "answer": 1,
    "explanation": "The deck defines community paramedicine as the model in which experienced paramedics get advanced training to provide added prehospital services such as health evaluations and chronic illness monitoring.",
+   "question": "Which term is defined as: 'A health care model in which experienced paramedics receive advanced training to equip them to provide additional services in the prehospital environment, such as health evaluations, monitoring of chronic illnesses or conditions, and patient advocacy'?",
    "source": "Flashcard Slides — Set 4",
    "topic": "community paramedicine",
    "topic_n": 18
   },
   {
-   "question": "What does the term 'community paramedicine' mean?",
+   "answer": 0,
    "choices": [
-    "Efforts to limit the effects of an injury or illness that cannot be completely prevented",
-    "A call center staffed by trained personnel who manage requests for police, fire, and ambulance services",
-    "A health care model in which experienced paramedics receive advanced training to provide additional prehospital services, such as health evaluations, monitoring of chronic illnesses, and patient advocacy",
-    "An approach to medicine in which decisions are based on well-conducted research and the strength of the scientific evidence"
+    "Community paramedicine",
+    "Secondary prevention",
+    "Public health",
+    "Mobile integrated health care"
    ],
-   "answer": 2,
-   "explanation": "Community paramedicine uses experienced, additionally trained paramedics to deliver services like health evaluations and chronic illness monitoring in the prehospital environment.",
+   "explanation": "Community paramedicine is the expanded role itself: experienced paramedics with advanced training providing extra services like health evaluations and chronic illness monitoring. Mobile integrated health care is the broader umbrella term for delivering care in the community.",
+   "question": "A veteran paramedic who completed extra training makes scheduled home visits to enrolled patients. She checks chronic illnesses, reviews medications, evaluates their health, and advocates for their needs with their doctors. The visits are planned ahead, not 911 responses. This expanded paramedic role is called:",
    "source": "Flashcard Slides — Set 4",
    "topic": "community paramedicine",
    "topic_n": 18
   },
   {
-   "question": "In 2011, the Western Eagle County Ambulance District in rural Colorado launched one of the first community paramedic programs. Two paramedics made doctor-referred home visits — checking vitals, ECGs, blood draws, medications, and wounds — and wrote reports for the referring physicians. What does this program show about the community paramedic role?",
+   "answer": 0,
    "choices": [
     "Community paramedics report home findings to the patient's referring physician, and hazards or missed medications found on a house call can prevent the next 911 run",
     "Community paramedics replace primary care physicians for rural patients",
     "Community paramedic visits are unplanned 911 responses rather than scheduled referrals",
     "Community paramedics work without any physician involvement"
    ],
-   "answer": 0,
    "explanation": "The Eagle County case states that community paramedics report home findings to the referring physician and that fall hazards or missed meds found on a house call can prevent the next 911 run.",
+   "question": "In 2011, the Western Eagle County Ambulance District in rural Colorado launched one of the first community paramedic programs. Two paramedics made doctor-referred home visits — checking vitals, ECGs, blood draws, medications, and wounds — and wrote reports for the referring physicians. What does this program show about the community paramedic role?",
    "source": "Flashcard Case Studies — Set 4",
    "topic": "community paramedicine",
    "topic_n": 18
   },
   {
-   "question": "REMSA in Reno, Nevada, sent community paramedics on home visits to patients with CHF, COPD, recent heart attack or heart surgery, and frequent ED use. By mid-2016 it had enrolled 1,524 patients. What was the reported effect on CHF readmissions?",
+   "answer": 3,
    "choices": [
     "CHF readmissions were unchanged",
     "CHF readmissions rose 37%",
     "CHF readmissions fell 58%",
     "CHF readmissions fell 37%"
    ],
-   "answer": 3,
    "explanation": "The REMSA case reports that CHF readmissions fell 37% after community paramedics monitored chronic illness at home.",
+   "question": "REMSA in Reno, Nevada, sent community paramedics on home visits to patients with CHF, COPD, recent heart attack or heart surgery, and frequent ED use. By mid-2016 it had enrolled 1,524 patients. What was the reported effect on CHF readmissions?",
    "source": "Flashcard Case Studies — Set 4",
    "topic": "community paramedicine",
    "topic_n": 18
   },
   {
-   "question": "Which term is defined as: 'Efforts to limit the effects of an injury or illness that you cannot completely prevent'?",
+   "answer": 3,
    "choices": [
     "Primary prevention",
     "Evidence-based medicine",
     "Quality improvement",
     "Secondary prevention"
    ],
-   "answer": 3,
    "explanation": "The deck defines secondary prevention as efforts to limit the effects of an injury or illness you cannot completely prevent.",
+   "question": "Which term is defined as: 'Efforts to limit the effects of an injury or illness that you cannot completely prevent'?",
    "source": "Flashcard Slides — Set 4",
    "topic": "secondary prevention",
    "topic_n": 19
   },
   {
-   "question": "What does the term 'secondary prevention' mean?",
-   "choices": [
-    "Efforts to limit the effects of an injury or illness that you cannot completely prevent",
-    "A health care model in which experienced paramedics receive advanced training to provide additional prehospital services",
-    "A trained professional who may arrive first at an emergency to provide initial medical assistance",
-    "An approach to medicine where decisions are based on well-conducted research and the strength of the evidence"
-   ],
    "answer": 0,
-   "explanation": "Secondary prevention limits the effects of an injury or illness that has happened or cannot be completely prevented.",
+   "choices": [
+    "Secondary prevention",
+    "Primary prevention",
+    "Evidence-based medicine",
+    "Community paramedicine"
+   ],
+   "explanation": "Secondary prevention means limiting the effects of an injury or illness that cannot be completely prevented. The fall already happened, so care that keeps it from getting worse is secondary; primary prevention would have stopped the fall from occurring at all.",
+   "question": "On a follow-up visit after an elderly man's fall, the crew checks his splint, watches the injured arm for swelling and circulation problems, and teaches him how to move without putting weight on it. This care, aimed at limiting the effects of an injury that has already happened, is an example of:",
    "source": "Flashcard Slides — Set 4",
    "topic": "secondary prevention",
    "topic_n": 19
   },
   {
-   "question": "After Michigan partly repealed its universal motorcycle helmet law in 2012, helmet use among injured riders dropped and head injuries among hospitalized riders rose from 43.4% to 49.6%. Why is helmet use classified as secondary prevention?",
+   "answer": 2,
    "choices": [
     "Helmets prevent most motorcycle crashes from happening",
     "Helmets eliminate the need for EMS after a crash",
     "Helmets do not prevent crashes; they limit the severity of the injury when a crash occurs",
     "Helmets are a form of primary prevention because they stop injuries entirely"
    ],
-   "answer": 2,
    "explanation": "The Michigan case connects because helmets don't prevent crashes — they limit injury severity, which is secondary prevention.",
+   "question": "After Michigan partly repealed its universal motorcycle helmet law in 2012, helmet use among injured riders dropped and head injuries among hospitalized riders rose from 43.4% to 49.6%. Why is helmet use classified as secondary prevention?",
    "source": "Flashcard Case Studies — Set 4",
    "topic": "secondary prevention",
    "topic_n": 19
   },
   {
-   "question": "In the BEST-MSU trial, mobile stroke units carrying a CT scanner, labs, and tPA reached a median onset-to-tPA time of 72 minutes, versus 108 minutes with standard EMS, and patients had less disability at 90 days. What is the EMT lesson from this secondary prevention case?",
+   "answer": 1,
    "choices": [
     "Only mobile stroke units can recognize a stroke in the field",
     "Recognize stroke early, report the last-known-well time, and give the hospital pre-notification",
     "tPA should be given by EMTs on every suspected stroke call",
     "Stroke treatment timing does not affect patient disability"
    ],
-   "answer": 1,
    "explanation": "The case's lesson is to recognize stroke early, report the last-known-well time, and pre-notify the hospital, since faster treatment limits brain damage.",
+   "question": "In the BEST-MSU trial, mobile stroke units carrying a CT scanner, labs, and tPA reached a median onset-to-tPA time of 72 minutes, versus 108 minutes with standard EMS, and patients had less disability at 90 days. What is the EMT lesson from this secondary prevention case?",
    "source": "Flashcard Case Studies — Set 4",
    "topic": "secondary prevention",
    "topic_n": 19
   },
   {
-   "question": "Which term is defined as: 'An approach to medicine where decisions are based on well-conducted research, classifying recommendations based on the strength of the scientific evidence; also called science-based medicine'?",
+   "answer": 0,
    "choices": [
     "Evidence-based medicine",
     "Continuous quality improvement",
     "Community paramedicine",
     "Credentialing"
    ],
-   "answer": 0,
    "explanation": "The deck defines evidence-based medicine as basing decisions on well-conducted research and classifying recommendations by the strength of the scientific evidence.",
+   "question": "Which term is defined as: 'An approach to medicine where decisions are based on well-conducted research, classifying recommendations based on the strength of the scientific evidence; also called science-based medicine'?",
    "source": "Flashcard Slides — Set 4",
    "topic": "evidence-based medicine",
    "topic_n": 20
   },
   {
-   "question": "What does the term 'evidence-based medicine' mean?",
+   "answer": 2,
    "choices": [
-    "Efforts to limit the effects of an injury or illness that you cannot completely prevent",
-    "A call center staffed by trained personnel who manage requests for police, fire, and ambulance services",
-    "A health care model in which experienced paramedics provide additional services in the prehospital environment",
-    "An approach to medicine where decisions are based on well-conducted research, classifying recommendations based on the strength of the scientific evidence"
+    "Secondary prevention",
+    "Credentialing",
+    "Evidence-based medicine",
+    "Community paramedicine"
    ],
-   "answer": 3,
-   "explanation": "Evidence-based medicine bases decisions on well-conducted research, grading recommendations by the strength of the scientific evidence.",
+   "explanation": "Evidence-based medicine bases decisions on well-conducted research and the strength of the evidence. A maker's lab claim, with no patient outcome studies behind it, is exactly what that approach refuses to accept on its own.",
+   "question": "A sales representative tells your agency his new device “works in the lab every time” and urges you to change your protocol, but he has no studies of actual patients. Your medical director says the agency will decide only after reviewing well-conducted research on whether patients actually do better with it. The medical director is applying:",
    "source": "Flashcard Slides — Set 4",
    "topic": "evidence-based medicine",
    "topic_n": 20
   },
   {
-   "question": "A 1989 Houston trial randomized 911 hypotensive trauma patients to MAST trousers or no MAST. MAST did not improve survival, added prehospital time, and the Houston Fire Department stopped using the device. What lesson does this classic evidence-based medicine case teach?",
+   "answer": 1,
    "choices": [
     "A device should stay in use as long as crews are familiar with it",
     "'We've always done it' is not evidence — every intervention costs scene time and must earn its place with evidence",
     "Randomized trials should not change EMS practice",
     "MAST trousers failed only because crews applied them incorrectly"
    ],
-   "answer": 1,
    "explanation": "The MAST case's lesson is that tradition is not evidence and every intervention must earn its place with evidence.",
+   "question": "A 1989 Houston trial randomized 911 hypotensive trauma patients to MAST trousers or no MAST. MAST did not improve survival, added prehospital time, and the Houston Fire Department stopped using the device. What lesson does this classic evidence-based medicine case teach?",
    "source": "Flashcard Case Studies — Set 4",
    "topic": "evidence-based medicine",
    "topic_n": 20
   },
   {
-   "question": "In the AVOID trial (Melbourne, 2015), non-hypoxic STEMI patients were randomized to 8 L/min oxygen or no oxygen. The oxygen group had more repeat heart attacks and arrhythmias and larger infarcts at six months. How did this evidence change practice?",
+   "answer": 2,
    "choices": [
     "Oxygen was increased to higher flow rates for all chest pain patients",
     "Oxygen was removed from ambulances entirely",
     "Routine 'oxygen for all chest pain' changed to oxygen only when indicated — check SpO2 and treat hypoxia per protocol",
     "Oxygen was shown to have no effect in STEMI patients"
    ],
-   "answer": 2,
    "explanation": "AVOID changed routine oxygen for all chest pain to oxygen only when indicated, treating oxygen as a drug guided by SpO2 and protocol.",
+   "question": "In the AVOID trial (Melbourne, 2015), non-hypoxic STEMI patients were randomized to 8 L/min oxygen or no oxygen. The oxygen group had more repeat heart attacks and arrhythmias and larger infarcts at six months. How did this evidence change practice?",
    "source": "Flashcard Case Studies — Set 4",
    "topic": "evidence-based medicine",
    "topic_n": 20
   },
   {
-   "question": "Which term is defined as: 'A trained professional, such as police officer, firefighter, lifeguard, or other rescuer, who may arrive first at the scene of an emergency to provide initial medical assistance'?",
+   "answer": 2,
    "choices": [
     "Emergency medical technician",
     "Emergency medical dispatcher",
     "Emergency medical responder",
     "Medical director"
    ],
-   "answer": 2,
    "explanation": "The deck defines an emergency medical responder as a trained professional, such as a police officer, firefighter, or lifeguard, who may arrive first and provide initial medical assistance.",
+   "question": "Which term is defined as: 'A trained professional, such as police officer, firefighter, lifeguard, or other rescuer, who may arrive first at the scene of an emergency to provide initial medical assistance'?",
    "source": "Flashcard Slides — Set 4",
    "topic": "emergency medical responder",
    "topic_n": 21
   },
   {
-   "question": "What does the term 'emergency medical responder' mean?",
+   "answer": 0,
    "choices": [
-    "A call center staffed by trained personnel who manage requests for police, fire, and ambulance services",
-    "A trained professional, such as a police officer, firefighter, lifeguard, or other rescuer, who may arrive first at an emergency to provide initial medical assistance",
-    "Efforts to limit the effects of an injury or illness that you cannot completely prevent",
-    "An approach to medicine where decisions are based on well-conducted research"
+    "Emergency medical responder",
+    "Emergency medical dispatcher",
+    "Emergency medical technician",
+    "Paramedic"
    ],
-   "answer": 1,
-   "explanation": "An emergency medical responder is a trained professional who may arrive first at an emergency and provide initial medical assistance.",
+   "explanation": "An EMR is a trained professional, such as a lifeguard, police officer, or firefighter, who may arrive first and provide initial care before the ambulance. The lifeguard is not the dispatched crew, the dispatcher, or a paramedic.",
+   "question": "A lifeguard pulls a drowning child from a pool and begins care. The ambulance is still six minutes away, and the lifeguard keeps working until the crew takes over. In the EMS system, the lifeguard is acting as a(n):",
    "source": "Flashcard Slides — Set 4",
    "topic": "emergency medical responder",
    "topic_n": 21
   },
   {
-   "question": "In 2010, Quincy, Massachusetts police became the first department in the state's naloxone program: every officer was trained and carried nasal naloxone, and officers usually reach overdoses before the ambulance. From 2010 to 2013, Quincy police administered naloxone 201 times. Why does this case illustrate the emergency medical responder role?",
+   "answer": 3,
    "choices": [
     "Police officers replaced EMTs as the primary responders to overdoses",
     "Naloxone can only be given by police officers in Massachusetts",
     "The ambulance always arrives before police at overdose calls",
     "Police, often first to arrive, delivered a life-saving intervention before EMS — the EMR role"
    ],
-   "answer": 3,
    "explanation": "The Quincy case connects because police, often first to arrive, delivered a life-saving EMR intervention with naloxone.",
+   "question": "In 2010, Quincy, Massachusetts police became the first department in the state's naloxone program: every officer was trained and carried nasal naloxone, and officers usually reach overdoses before the ambulance. From 2010 to 2013, Quincy police administered naloxone 201 times. Why does this case illustrate the emergency medical responder role?",
    "source": "Flashcard Case Studies — Set 4",
    "topic": "emergency medical responder",
    "topic_n": 21
   },
   {
-   "question": "Which term is defined as: 'A call center, staffed by trained personnel who are responsible for managing requests for police, fire, and ambulance services'?",
+   "answer": 1,
    "choices": [
     "Emergency medical dispatch",
     "Public safety access point",
     "Primary service area",
     "Medical control"
    ],
-   "answer": 1,
    "explanation": "The deck defines a public safety access point as the call center, staffed by trained personnel, that manages requests for police, fire, and ambulance services.",
+   "question": "Which term is defined as: 'A call center, staffed by trained personnel who are responsible for managing requests for police, fire, and ambulance services'?",
    "source": "Flashcard Slides — Set 4",
    "topic": "public safety access point",
    "topic_n": 22
   },
   {
-   "question": "What does the term 'public safety access point' mean?",
+   "answer": 0,
    "choices": [
-    "A trained professional who may arrive first at the scene of an emergency to provide initial medical assistance",
-    "A health care model in which experienced paramedics receive advanced training to provide additional prehospital services",
-    "Efforts to limit the effects of an injury or illness that you cannot completely prevent",
-    "A call center, staffed by trained personnel who are responsible for managing requests for police, fire, and ambulance services"
+    "At the public safety access point that first answered her 911 call",
+    "In the fire crew's turnout time at the station",
+    "At the hospital's emergency department",
+    "In the ambulance's drive to the scene"
    ],
-   "answer": 3,
-   "explanation": "A public safety access point is the call center whose trained personnel manage requests for police, fire, and ambulance services.",
+   "explanation": "The PSAP is the staffed call center that takes 911 calls and manages requests for police, fire, and ambulance. Her call landed at the wrong one, so the delay began there, before any crew was even sent.",
+   "question": "A woman dials 911 to report a house fire. Her call is answered in the wrong county, and two minutes are lost while it is transferred to the center that can actually send units. Where did the delay begin?",
    "source": "Flashcard Slides — Set 4",
    "topic": "public safety access point",
    "topic_n": 22
   },
   {
-   "question": "On April 9, 2014, a software counter at a 911 routing center in Englewood, Colorado, hit its limit and stopped routing new 911 calls. In all, 81 PSAPs in 7 states were affected and more than 6,600 calls never got through. What should EMTs expect after a 911 outage like this?",
+   "answer": 0,
    "choices": [
     "Delayed calls and sicker patients, so crews should know their agency's backup plan and alternate numbers",
     "No effect, because PSAPs never depend on outside routing networks",
     "Fewer calls, because blocked callers do not call back",
     "Immediate transfer of all calls to a neighboring state's PSAPs"
    ],
-   "answer": 0,
    "explanation": "The 2014 outage case teaches EMTs to know the backup plan for a 911 outage and to expect delayed calls and sicker patients afterward.",
+   "question": "On April 9, 2014, a software counter at a 911 routing center in Englewood, Colorado, hit its limit and stopped routing new 911 calls. In all, 81 PSAPs in 7 states were affected and more than 6,600 calls never got through. What should EMTs expect after a 911 outage like this?",
    "source": "Flashcard Case Studies — Set 4",
    "topic": "public safety access point",
    "topic_n": 22
   },
   {
-   "question": "In Baltimore in 2023, callers sometimes waited minutes for a 911 answer because of low staffing and high call volume, and the city's bystander CPR rate was about 21% versus about 40% nearby. Why do slow 911 answer times matter to field crews?",
+   "answer": 2,
    "choices": [
     "Answer time only affects the dispatch center's statistics, not patient care",
     "Slow answers give field crews more time to prepare",
     "Slow answers delay dispatch-assisted CPR and the whole chain of survival, since answer time is the first interval in every response",
     "Slow answers are caused by field crews tying up the phone lines"
    ],
-   "answer": 2,
    "explanation": "The Baltimore case connects because answer time is the first interval in every response, and slow answers delay dispatch-assisted CPR and the whole chain of survival.",
+   "question": "In Baltimore in 2023, callers sometimes waited minutes for a 911 answer because of low staffing and high call volume, and the city's bystander CPR rate was about 21% versus about 40% nearby. Why do slow 911 answer times matter to field crews?",
    "source": "Flashcard Case Studies — Set 4",
    "topic": "public safety access point",
    "topic_n": 22

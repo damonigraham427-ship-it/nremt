@@ -1,169 +1,169 @@
 {
  "questions": [
   {
-   "question": "Which term is defined as: Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
+   "answer": 3,
    "choices": [
     "dedicated line",
     "channel",
     "communication",
     "standing orders"
    ],
+   "explanation": "standing orders: Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
+   "question": "Which term is defined as: Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
+   "source": "Flashcard Slides — Set 4",
+   "topic": "standing orders",
+   "topic_n": 19
+  },
+  {
    "answer": 3,
-   "explanation": "standing orders: Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
-   "source": "Flashcard Slides — Set 4",
-   "topic": "standing orders",
-   "topic_n": 19
-  },
-  {
-   "question": "What does the term \"standing orders\" mean?",
    "choices": [
-    "The ability to transmit and receive simultaneously.",
-    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
-    "Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
-    "A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available."
+    "Online medical control - the radio consultation you held with the hospital before treating",
+    "A verbal order - the physician's spoken instruction given during this call",
+    "Implied consent - the permission assumed because the patient is ill",
+    "Standing orders - the medical director's written, signed directions that permit the care in advance"
    ],
-   "answer": 2,
-   "explanation": "standing orders: Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
+   "explanation": "Standing orders are written documents, signed by the medical director, that give directions and permissions in advance, so no call is needed. A verbal order and online medical control both require contacting the physician during this call, which you did not do.",
+   "question": "Your patient qualifies for a medication under your system's written care guidelines, so you give it right away without calling the hospital for permission first. You are able to do this because of:",
    "source": "Flashcard Slides — Set 4",
    "topic": "standing orders",
    "topic_n": 19
   },
   {
-   "question": "Which term is defined as: The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another.",
+   "answer": 2,
    "choices": [
     "VHF",
     "documentation",
     "handover",
     "chief complaint"
    ],
-   "answer": 2,
    "explanation": "handover: The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another.",
+   "question": "Which term is defined as: The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another.",
    "source": "Flashcard Slides — Set 4",
    "topic": "handover",
    "topic_n": 20
   },
   {
-   "question": "What does the term \"handover\" mean?",
-   "choices": [
-    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
-    "Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
-    "An assigned frequency or frequencies that are used to carry voice and/or data communications.",
-    "The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another."
-   ],
    "answer": 3,
-   "explanation": "handover: The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another.",
+   "choices": [
+    "Radio report",
+    "Patient care report",
+    "Debriefing",
+    "Handover"
+   ],
+   "explanation": "A handover is the transfer of pertinent patient information and responsibility for care, usually face-to-face as the patient moves to the next provider. The radio report happens earlier, by radio, while you are still en route; the patient care report is the written legal document.",
+   "question": "At the hospital, you stand at the bedside with the receiving nurse, walk her through your findings and treatments, and formally pass responsibility for the patient to her. This face-to-face transfer is the:",
    "source": "Flashcard Slides — Set 4",
    "topic": "handover",
    "topic_n": 20
   },
   {
-   "question": "Which term is defined as: Anything that dampens or obscures the true meaning of a message.",
+   "answer": 2,
    "choices": [
     "cellular telephone",
     "multiplex",
     "noise",
     "mobile data terminal"
    ],
-   "answer": 2,
    "explanation": "noise: Anything that dampens or obscures the true meaning of a message.",
+   "question": "Which term is defined as: Anything that dampens or obscures the true meaning of a message.",
    "source": "Flashcard Slides — Set 4",
    "topic": "noise",
    "topic_n": 21
   },
   {
-   "question": "What does the term \"noise\" mean?",
+   "answer": 2,
    "choices": [
-    "Any communications where disruption will result in the failure of the mission at hand.",
-    "A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
-    "Anything that dampens or obscures the true meaning of a message.",
-    "The picture an individual has in his or her head of “what’s going on” in a given situation."
+    "A mental model",
+    "Closed-ended questions",
+    "Noise",
+    "Cultural imposition"
    ],
-   "answer": 2,
-   "explanation": "noise: Anything that dampens or obscures the true meaning of a message.",
+   "explanation": "Anything that dampens or obscures the true meaning of a message is noise - here, the arguing, crying, and television. Closed-ended questions limit how much a patient can say, but they do not garble the message itself; a mental model is the picture in your head of the situation.",
+   "question": "You are trying to interview a patient in a crowded living room. Two relatives are arguing, a baby is crying, and the TV is blaring, and the patient keeps misunderstanding your questions. In communication terms, what is getting in the way of your message?",
    "source": "Flashcard Slides — Set 4",
    "topic": "noise",
    "topic_n": 21
   },
   {
-   "question": "Which term is defined as: The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
+   "answer": 1,
    "choices": [
     "paging",
     "chief concern",
     "scanner",
     "trunking"
    ],
-   "answer": 1,
    "explanation": "chief concern: The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
+   "question": "Which term is defined as: The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
    "source": "Flashcard Slides — Set 4",
    "topic": "chief concern",
    "topic_n": 22
   },
   {
-   "question": "What does the term \"chief concern\" mean?",
+   "answer": 0,
    "choices": [
-    "Questions for which the patient must provide detail to give an answer.",
-    "The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
-    "The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
-    "VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use."
+    "Chief concern",
+    "Mental model",
+    "Chief complaint",
+    "Noise"
    ],
-   "answer": 1,
-   "explanation": "chief concern: The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
+   "explanation": "The chief concern is the condition requiring the most urgent intervention as determined by your assessment - here, the stroke signs. The chief complaint is what the patient says is wrong, the hurting toe; the two are not always the same.",
+   "question": "A man calls 911 saying, \"My toe hurts.\" While you talk with him, you notice his face droops on one side and his speech is slurred. The problem your assessment says needs the most urgent intervention - which is not what he called about - is his:",
    "source": "Flashcard Slides — Set 4",
    "topic": "chief concern",
    "topic_n": 22
   },
   {
-   "question": "Which term is defined as: Questions that can be answered in short or single-word responses.",
+   "answer": 2,
    "choices": [
     "simplex",
     "MED channels",
     "closed-ended questions",
     "mental model"
    ],
-   "answer": 2,
    "explanation": "closed-ended questions: Questions that can be answered in short or single-word responses.",
+   "question": "Which term is defined as: Questions that can be answered in short or single-word responses.",
    "source": "Flashcard Slides — Set 4",
    "topic": "closed-ended questions",
    "topic_n": 23
   },
   {
-   "question": "What does the term \"closed-ended questions\" mean?",
+   "answer": 3,
    "choices": [
-    "Radio frequencies between 30 and 300 MHz; this spectrum is further divided into high and low bands.",
-    "VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use.",
-    "Questions that can be answered in short or single-word responses.",
-    "Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship."
+    "Open-ended questions",
+    "Reflection",
+    "Interpretation",
+    "Closed-ended questions"
    ],
-   "answer": 2,
-   "explanation": "closed-ended questions: Questions that can be answered in short or single-word responses.",
+   "explanation": "Questions that can be answered in short or single-word responses are closed-ended questions. Open-ended questions force the patient to provide detail; reflection and interpretation are ways of responding to what a patient has said, not forms of questions.",
+   "question": "Your partner is interviewing a patient and asks, \"Does the pain get worse when you breathe in - yes or no?\" and \"Did you take your insulin today?\" Each question can be fully answered in a word or two. These are:",
    "source": "Flashcard Slides — Set 4",
    "topic": "closed-ended questions",
    "topic_n": 23
   },
   {
-   "question": "Which term is defined as: A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
+   "answer": 2,
    "choices": [
     "patient care report",
     "multiplex",
     "mobile data terminal",
     "dedicated line"
    ],
-   "answer": 2,
    "explanation": "mobile data terminal: A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
+   "question": "Which term is defined as: A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
    "source": "Flashcard Slides — Set 4",
    "topic": "mobile data terminal",
    "topic_n": 24
   },
   {
-   "question": "What does the term \"mobile data terminal\" mean?",
+   "answer": 3,
    "choices": [
-    "A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
-    "Anything that dampens or obscures the true meaning of a message.",
-    "A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
-    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use."
+    "Base station",
+    "Cellular telephone",
+    "Repeater",
+    "Mobile data terminal"
    ],
-   "answer": 2,
-   "explanation": "mobile data terminal: A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
+   "explanation": "The mobile data terminal is the small computer terminal inside the ambulance that directly receives data from the dispatch center. The base station is the fixed radio at headquarters; a repeater rebroadcasts signals on a second frequency; a cellular telephone communicates through cell sites.",
+   "question": "As you roll out of the station, the call address, cross streets, and callback number appear on the small computer screen mounted in the cab of your ambulance, sent straight from the dispatch center. That device is the:",
    "source": "Flashcard Slides — Set 4",
    "topic": "mobile data terminal",
    "topic_n": 24

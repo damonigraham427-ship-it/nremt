@@ -85,15 +85,15 @@
    "topic_n": 29
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "Highway Safety Program Standard 11",
     "Accidental Death and Disability: The Neglected Disease of Modern Society",
-    "The National EMS Education Standards",
-    "The National Scope of Practice Model"
+    "Highway Safety Program Standard 11",
+    "The National Scope of Practice Model",
+    "The National EMS Education Standards"
    ],
-   "explanation": "EMS as we know it today is traced to that 1966 white paper's publication.",
-   "question": "A history question says modern EMS began with a 1966 report calling accidental death a neglected disease. What is that report?",
+   "explanation": "The 1966 white paper exposed untrained attendants and ill-equipped ambulances and became the founding document of modern EMS. The other choices are later standards and education documents, not the 1966 report.",
+   "question": "Modern EMS in the United States is usually traced back to a single 1966 report by the National Academy of Sciences / National Research Council that exposed how inadequate ambulance care was at the time. What was that report?",
    "source": "Quiz-Style Slides — Set 6",
    "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
    "topic_n": 30
@@ -309,281 +309,281 @@
    "topic_n": 28
   },
   {
-   "question": "Which term is defined as: The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
-   "choices": [
-    "EMT licensure/employment requirements",
-    "Accidental Death and Disability: The Neglected Disease of Modern Society",
-    "human resources department",
-    "Continuing education"
-   ],
    "answer": 2,
-   "explanation": "human resources department: The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
-   "source": "Flashcard Slides — Set 6",
-   "topic": "human resources department",
-   "topic_n": 28
-  },
-  {
-   "question": "What does the term \"human resources department\" mean?",
    "choices": [
-    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
-    "The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
-    "The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
-    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it."
-   ],
-   "answer": 1,
-   "explanation": "human resources department: The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
-   "source": "Flashcard Slides — Set 6",
-   "topic": "human resources department",
-   "topic_n": 28
-  },
-  {
-   "question": "Which term is defined as: Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
-   "choices": [
-    "Knowledge-based failure",
-    "Continuing education",
-    "State office of EMS",
-    "human resources department"
-   ],
-   "answer": 1,
-   "explanation": "Continuing education: Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
-   "source": "Flashcard Slides — Set 6",
-   "topic": "Continuing education",
-   "topic_n": 29
-  },
-  {
-   "question": "What does the term \"Continuing education\" mean?",
-   "choices": [
-    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
-    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
-    "The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
-    "Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification."
-   ],
-   "answer": 3,
-   "explanation": "Continuing education: Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
-   "source": "Flashcard Slides — Set 6",
-   "topic": "Continuing education",
-   "topic_n": 29
-  },
-  {
-   "question": "Which term is defined as: The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
-   "choices": [
-    "Continuing education",
+    "EMT licensure/employment requirements",
     "Accidental Death and Disability: The Neglected Disease of Modern Society",
     "human resources department",
+    "Continuing education"
+   ],
+   "explanation": "human resources department: The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
+   "question": "Which term is defined as: The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "human resources department",
+   "topic_n": 28
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "The dispatch center",
+    "The state office of EMS",
+    "The quality improvement committee",
+    "The human resources department"
+   ],
+   "explanation": "The human resources department deals with the well-being of the EMT, career progression, and EMT compensation. The medical director handles medical care and protocols, not pay or wellness benefits.",
+   "question": "An EMT emails the medical director asking for a raise and for changes to the agency's employee wellness program. The medical director replies that pay and employee well-being are not his office's job. Which department handles them?",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "human resources department",
+   "topic_n": 28
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "The state office; it must extend his card while he catches up",
+    "His partner; partners share responsibility for each other's hours",
+    "His agency; it must pay him for the hours he missed",
+    "The EMT himself; he must complete the continuing education required to renew"
+   ],
+   "explanation": "Continuing education is ongoing education each individual EMT is responsible for obtaining to keep certification. The agency, the state, and his partner cannot carry that responsibility for him.",
+   "question": "An EMT's certification lapses because his refresher hours were never finished. He insists his agency should have scheduled them for him. Who was responsible for getting that education done, and what fixes the lapse?",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Continuing education",
+    "Quality control",
+    "Credentialing",
+    "Initial EMT training"
+   ],
+   "explanation": "Continuing education maintains, updates, and expands the knowledge of someone already certified, which is what an update course for a working EMT is. Initial training is what she completed before she was first certified.",
+   "question": "A certified EMT with three years on the job takes a short update course when her state adds a new skill to the EMT scope, so she can learn it and keep her knowledge current. This kind of training is:",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Continuing education",
+   "topic_n": 29
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Most ambulances were ill-equipped, many were hearses, and attendants had little or no standard training",
+    "Ambulance crews were well trained but badly paid",
+    "Cities had far more ambulances than they could staff",
+    "Hospitals were refusing to receive ambulance patients"
+   ],
+   "explanation": "The 1966 white paper documented that prehospital care was inadequate: vehicles doubled as hearses, equipment was minimal, and there was no standard for attendant training. That exposure is what launched modern EMS reform.",
+   "question": "In 1966, the National Academy of Sciences / National Research Council published a landmark report about trauma deaths in the United States. What did it expose about ambulance services at the time?",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
+   "topic_n": 30
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Funeral homes took over most ambulance services across the country",
+    "Private ambulance companies were banned by the federal government",
+    "Attendant training requirements were dropped nationwide",
+    "Standards were set for ambulance design, equipment, and attendant training, backed by new federal programs"
+   ],
+   "explanation": "The report's recommendations pushed the federal government to set standards for vehicles, equipment, and training and to fund EMS development. Ambulance care became more regulated afterward, not less.",
+   "question": "The 1966 white paper is credited with starting modern EMS. What changed in American ambulance care as a direct result of its recommendations?",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
+   "topic_n": 30
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "human resources department",
+    "Accidental Death and Disability: The Neglected Disease of Modern Society",
+    "State office of EMS",
     "Knowledge-based failure"
    ],
-   "answer": 1,
-   "explanation": "Accidental Death and Disability: The Neglected Disease of Modern Society: The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
-   "source": "Flashcard Slides — Set 6",
-   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
-   "topic_n": 30
-  },
-  {
-   "question": "What does the term \"Accidental Death and Disability: The Neglected Disease of Modern Society\" mean?",
-   "choices": [
-    "Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
-    "The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
-    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
-    "The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966."
-   ],
-   "answer": 3,
-   "explanation": "Accidental Death and Disability: The Neglected Disease of Modern Society: The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
-   "source": "Flashcard Slides — Set 6",
-   "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
-   "topic_n": 30
-  },
-  {
+   "explanation": "Knowledge-based failure: An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
    "question": "Which term is defined as: An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
-   "choices": [
-    "human resources department",
-    "Accidental Death and Disability: The Neglected Disease of Modern Society",
-    "State office of EMS",
-    "Knowledge-based failure"
-   ],
-   "answer": 3,
-   "explanation": "Knowledge-based failure: An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
    "source": "Flashcard Slides — Set 6",
    "topic": "Knowledge-based failure",
    "topic_n": 31
   },
   {
-   "question": "What does the term \"Knowledge-based failure\" mean?",
+   "answer": 2,
    "choices": [
-    "Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification.",
-    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
-    "The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
-    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it."
+    "An equipment failure",
+    "A rule-based failure, because she knowingly broke a rule",
+    "A knowledge-based failure",
+    "A skill-based slip, because her hands fumbled a familiar task"
    ],
+   "explanation": "A knowledge-based failure happens when the provider does not know the pertinent information, here the dose range. She did not knowingly break a rule, and nothing about her hands or the equipment caused the error.",
+   "question": "A new EMT draws up the wrong dose of a medication because she genuinely did not know the correct dose range. She was not rushing, and she believed she was following the protocol correctly. Reviewers classify this error as:",
+   "source": "Flashcard Slides — Set 6",
+   "topic": "Knowledge-based failure",
+   "topic_n": 31
+  },
+  {
    "answer": 1,
-   "explanation": "Knowledge-based failure: An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug.",
-   "source": "Flashcard Slides — Set 6",
-   "topic": "Knowledge-based failure",
-   "topic_n": 31
-  },
-  {
-   "question": "Which term is defined as: The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
    "choices": [
     "EMT licensure/employment requirements",
     "State office of EMS",
     "human resources department",
     "Continuing education"
    ],
-   "answer": 1,
    "explanation": "State office of EMS: The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
+   "question": "Which term is defined as: The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
    "source": "Flashcard Slides — Set 6",
    "topic": "State office of EMS",
    "topic_n": 32
   },
   {
-   "question": "What does the term \"State office of EMS\" mean?",
+   "answer": 1,
    "choices": [
-    "The department that deals with the well-being of the EMT, career progression, and EMT compensation.",
-    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
-    "The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
-    "An error that happens because the provider did not know the pertinent information — for example, giving the wrong drug because she did not know the information about that drug."
+    "The receiving hospital",
+    "The state office of EMS",
+    "His agency's human resources department",
+    "The National Registry of EMTs"
    ],
-   "answer": 1,
-   "explanation": "State office of EMS: The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
+   "explanation": "The state office of EMS is the state-level office that regulates the standards for prehospital care and the individuals who provide it, including discipline of a state credential. The National Registry certifies, but it does not suspend a state credential.",
+   "question": "An EMT is accused of practicing outside his scope, and the state-issued credential he practices under is now under review for possible suspension. Which body has the authority to suspend it?",
    "source": "Flashcard Slides — Set 6",
    "topic": "State office of EMS",
    "topic_n": 32
   },
   {
-   "question": "Which term is defined as: The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
+   "answer": 2,
    "choices": [
     "human resources department",
     "Knowledge-based failure",
     "EMT licensure/employment requirements",
     "State office of EMS"
    ],
-   "answer": 2,
    "explanation": "EMT licensure/employment requirements: The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
+   "question": "Which term is defined as: The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
    "source": "Flashcard Slides — Set 6",
    "topic": "EMT licensure/employment requirements",
    "topic_n": 33
   },
   {
-   "question": "What does the term \"EMT licensure/employment requirements\" mean?",
-   "choices": [
-    "The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
-    "The state-level office that typically regulates the standards for prehospital emergency care and the individuals who provide it.",
-    "The 1966 National Academy of Sciences / National Research Council white paper that exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication in 1966.",
-    "Ongoing education that maintains, updates, and expands the EMT's knowledge and skills, and that each individual EMT is responsible for obtaining to keep certification."
-   ],
    "answer": 0,
-   "explanation": "EMT licensure/employment requirements: The criteria a person must meet to become licensed and employed as an EMT, which include proof of immunization against certain communicable diseases.",
+   "choices": [
+    "Proof of immunization against certain communicable diseases",
+    "A commercial driver's license",
+    "Sixty college credits",
+    "Two years of volunteer service"
+   ],
+   "explanation": "Proof of immunization is one of the criteria a person must meet to become licensed and employed as an EMT. College credits, a commercial license, and volunteer years are not part of those requirements.",
+   "question": "A candidate has passed her EMT course, her national exam, and her background check, and an agency is ready to hire her. One required item is still missing from her file, and it legally blocks the hire until she provides it. Which item is it?",
    "source": "Flashcard Slides — Set 6",
    "topic": "EMT licensure/employment requirements",
    "topic_n": 33
   },
   {
-   "question": "In 2025, Virginia Beach EMS created a Health and Wellness Manager role reporting directly to the chief, after a Virginia survey found 82% of EMS providers had experienced burnout, traumatic stress, PTSD, depression, or similar impacts. Which department's area of responsibility does this role carry out?",
+   "answer": 2,
    "choices": [
     "Continuing education accreditation",
     "The state office of EMS's enforcement duties",
     "EMT well-being, one of the human resources department's three areas",
     "On-line medical control by the medical director"
    ],
-   "answer": 2,
    "explanation": "EMT well-being is one of the human resources department's three areas (well-being, career progression, compensation); this agency built a dedicated wellness role to own it.",
+   "question": "In 2025, Virginia Beach EMS created a Health and Wellness Manager role reporting directly to the chief, after a Virginia survey found 82% of EMS providers had experienced burnout, traumatic stress, PTSD, depression, or similar impacts. Which department's area of responsibility does this role carry out?",
    "source": "Flashcard Case Studies — Set 6",
    "topic": "human resources department",
    "topic_n": 28
   },
   {
-   "question": "King County's continuing education program was reaccredited through CAPCE, and its Training and Education Section distributed ten new online CE courses for EMTs, paramedics, and telecommunicators. The county credits this ongoing training for letting its paramedics use an extensive array of medications and procedures. What does this show about continuing education?",
+   "answer": 3,
    "choices": [
     "It replaces initial EMT training for new hires",
     "It is only a paperwork requirement for keeping a certification",
     "It is a disciplinary tool run by the state office of EMS",
     "It maintains, updates, and expands provider knowledge, and is part of why providers are trusted with a wider scope of practice"
    ],
-   "answer": 3,
    "explanation": "Continuing education is not paperwork; in King County it is part of why providers are trusted with a wider scope of practice.",
+   "question": "King County's continuing education program was reaccredited through CAPCE, and its Training and Education Section distributed ten new online CE courses for EMTs, paramedics, and telecommunicators. The county credits this ongoing training for letting its paramedics use an extensive array of medications and procedures. What does this show about continuing education?",
    "source": "Flashcard Case Studies — Set 6",
    "topic": "Continuing education",
    "topic_n": 29
   },
   {
-   "question": "A 1966 National Academy of Sciences / National Research Council report found that 52 million accidental injuries in 1965 killed 107,000 people, and that there was no standard for the competence or training of ambulance attendants. What is this document?",
+   "answer": 2,
    "choices": [
     "The first national EMT curriculum",
     "The Highway Safety Act of 1966",
     "Accidental Death and Disability: The Neglected Disease of Modern Society, the white paper whose publication originated modern EMS",
     "The Freedom House Ambulance training standard"
    ],
-   "answer": 2,
    "explanation": "The 1966 white paper exposed how inadequate prehospital emergency care was; EMS as we know it today originated with its publication.",
+   "question": "A 1966 National Academy of Sciences / National Research Council report found that 52 million accidental injuries in 1965 killed 107,000 people, and that there was no standard for the competence or training of ambulance attendants. What is this document?",
    "source": "Flashcard Case Studies — Set 6",
    "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
    "topic_n": 30
   },
   {
-   "question": "In 1967 in Pittsburgh, a new ambulance service trained its crews for 32 weeks and more than 300 hours, covering anatomy, physiology, and CPR. In its first year it made 5,868 runs, and its crews are recognized as the nation's first paramedics. What was this service?",
+   "answer": 2,
    "choices": [
     "King County Medic One",
     "Boston EMS",
     "Freedom House Ambulance",
     "MIEMSS"
    ],
-   "answer": 2,
    "explanation": "Freedom House was the white paper era put into practice one year later: trained providers giving real emergency care before the hospital, instead of a ride only.",
+   "question": "In 1967 in Pittsburgh, a new ambulance service trained its crews for 32 weeks and more than 300 hours, covering anatomy, physiology, and CPR. In its first year it made 5,868 runs, and its crews are recognized as the nation's first paramedics. What was this service?",
    "source": "Flashcard Case Studies — Set 6",
    "topic": "Continuing education",
    "topic_n": 29
   },
   {
-   "question": "In New Zealand in 2023, an EMT gave adrenaline intravenously from a syringe intended for the nebuliser route, without confirming the medication, dose, and route with the paramedic. The patient suffered a cardiac arrest. What type of failure was this?",
+   "answer": 1,
    "choices": [
     "A failure of the state office of EMS",
     "A knowledge-based failure: the provider did not know the pertinent information and did not confirm it",
     "An equipment failure in the syringe",
     "A documentation failure after the call"
    ],
-   "answer": 1,
    "explanation": "Before any drug is given, confirm medication, dose, and route out loud with your partner; if you do not know, stop and ask.",
+   "question": "In New Zealand in 2023, an EMT gave adrenaline intravenously from a syringe intended for the nebuliser route, without confirming the medication, dose, and route with the paramedic. The patient suffered a cardiac arrest. What type of failure was this?",
    "source": "Flashcard Case Studies — Set 6",
    "topic": "Knowledge-based failure",
    "topic_n": 31
   },
   {
-   "question": "Maryland's MIEMSS became an independent agency in 1993. It oversees and coordinates the statewide EMS system, licenses and regulates commercial ambulance services, and reviews and approves education programs. What is MIEMSS an example of?",
+   "answer": 0,
    "choices": [
     "A state office of EMS, regulating the standards for prehospital care and the individuals who provide it",
     "A national continuing education accreditor",
     "A human resources department",
     "A hospital-based medical control authority"
    ],
-   "answer": 0,
    "explanation": "MIEMSS is a state office of EMS doing exactly the textbook job: regulating care standards, training, and the individuals who provide care, statewide.",
+   "question": "Maryland's MIEMSS became an independent agency in 1993. It oversees and coordinates the statewide EMS system, licenses and regulates commercial ambulance services, and reviews and approves education programs. What is MIEMSS an example of?",
    "source": "Flashcard Case Studies — Set 6",
    "topic": "State office of EMS",
    "topic_n": 32
   },
   {
-   "question": "A Texas EMT program run by TEEX requires applicants to submit proof of MMR and varicella vaccination (two doses or a positive titer), hepatitis B vaccination (three doses or a positive titer), and Tdap within the last ten years before the application moves forward. These requirements are part of what?",
+   "answer": 2,
    "choices": [
     "Continuing education hours for recertification",
     "OSHA's vaccination offer to current employees",
     "EMT licensure/employment requirements, which include proof of immunization against certain communicable diseases",
     "State office of EMS disciplinary rules"
    ],
-   "answer": 2,
    "explanation": "A real Texas EMT pipeline will not move an applicant forward without documented immunization or a titer proving immunity.",
+   "question": "A Texas EMT program run by TEEX requires applicants to submit proof of MMR and varicella vaccination (two doses or a positive titer), hepatitis B vaccination (three doses or a positive titer), and Tdap within the last ten years before the application moves forward. These requirements are part of what?",
    "source": "Flashcard Case Studies — Set 6",
    "topic": "EMT licensure/employment requirements",
    "topic_n": 33
   },
   {
-   "question": "Under OSHA's Bloodborne Pathogens standard, employers must offer the hepatitis B vaccination series at no cost to emergency responders within 10 days of initial assignment, and a worker who declines must sign a written declination form. This requirement follows the EMT into what?",
+   "answer": 0,
    "choices": [
     "Employment: hepatitis B protection is treated as part of starting work as an EMT",
     "A voluntary wellness program benefit",
     "Continuing education for recertification",
     "A state EMS office enforcement action"
    ],
-   "answer": 0,
    "explanation": "Federal workplace law treats hepatitis B protection as part of starting work as an EMT, which is why proof of the series, a titer, or a signed declination follows the EMT into employment.",
+   "question": "Under OSHA's Bloodborne Pathogens standard, employers must offer the hepatitis B vaccination series at no cost to emergency responders within 10 days of initial assignment, and a worker who declines must sign a written declination form. This requirement follows the EMT into what?",
    "source": "Flashcard Case Studies — Set 6",
    "topic": "EMT licensure/employment requirements",
    "topic_n": 33

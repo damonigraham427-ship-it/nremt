@@ -1,295 +1,295 @@
 {
  "questions": [
   {
-   "question": "A hiker in Connecticut finds a deer tick attached to his leg. A week later he develops a bull's-eye rash and swollen knees, and testing shows a bacterial infection carried by the tick. By what method was this organism spread?",
+   "answer": 3,
    "choices": [
     "foodborne transmission",
     "airborne transmission",
     "direct contact",
     "vector-borne transmission"
    ],
-   "answer": 3,
    "explanation": "The tick is an animal that carried the organism to the patient, which is exactly how vector-borne spread works.",
+   "question": "A hiker in Connecticut finds a deer tick attached to his leg. A week later he develops a bull's-eye rash and swollen knees, and testing shows a bacterial infection carried by the tick. By what method was this organism spread?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "vector-borne transmission",
    "topic_n": 36
   },
   {
-   "question": "After a summer of heavy rain, mosquitoes multiply around a Florida neighborhood. Several residents with no travel history develop dengue fever, and trapped mosquitoes test positive for the virus. What type of transmission is responsible?",
+   "answer": 0,
    "choices": [
     "vector-borne transmission",
     "indirect contact",
     "direct contact",
     "bloodborne transmission"
    ],
-   "answer": 0,
    "explanation": "The mosquitoes are the living carriers moving the virus from person to person, so the spread is vector-borne.",
+   "question": "After a summer of heavy rain, mosquitoes multiply around a Florida neighborhood. Several residents with no travel history develop dengue fever, and trapped mosquitoes test positive for the virus. What type of transmission is responsible?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "vector-borne transmission",
    "topic_n": 36
   },
   {
-   "question": "Your crew responds to a home where the family's free-roaming dogs sleep indoors covered in ticks. A child in the home has a high fever and a spotted rash and is diagnosed with Rocky Mountain spotted fever. The organism reached the child through which route?",
+   "answer": 1,
    "choices": [
     "airborne transmission",
     "vector-borne transmission",
     "indirect contact",
     "foodborne transmission"
    ],
-   "answer": 1,
    "explanation": "The ticks on the dogs are the animal vectors that delivered the bacteria to the child.",
+   "question": "Your crew responds to a home where the family's free-roaming dogs sleep indoors covered in ticks. A child in the home has a high fever and a spotted rash and is diagnosed with Rocky Mountain spotted fever. The organism reached the child through which route?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "vector-borne transmission",
    "topic_n": 36
   },
   {
-   "question": "An EMT student is asked to classify a patient's illness: a virus has invaded the patient's body, is multiplying, and is producing fever and a cough. What general term describes a medical condition caused this way?",
+   "answer": 0,
    "choices": [
-    "chronic disease",
-    "autoimmune disorder",
-    "infectious disease",
-    "communicable disease"
+    "Patient A only — his condition is produced by organisms growing and spreading in his tissues.",
+    "Both patients — any condition serious enough to need hospital care qualifies.",
+    "Patient B only — any long-term condition that damages the body counts.",
+    "Neither patient — a condition only counts if it can pass from one person to another."
    ],
-   "answer": 2,
-   "explanation": "The condition is produced by harmful organisms growing and spreading inside the body, which is the definition of an infectious disease.",
+   "explanation": "Patient A's illness is caused by organisms invading and multiplying in his body — that is what makes a disease infectious. Diabetes involves no organism at all, and a disease does not have to spread between people to be infectious; that extra feature is what 'communicable' adds.",
+   "question": "An EMT student is sorting out two patients. Patient A has bacteria that entered a foot wound and are multiplying and spreading through the tissue, causing fever. Patient B has diabetes: his body no longer regulates blood sugar, and no organism is involved. Which patient has a condition caused by the growth and spread of harmful organisms within the body?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "infectious disease",
    "topic_n": 37
   },
   {
-   "question": "Your crew transports three residents from the same nursing home in one shift, all with vomiting and diarrhea traced to a norovirus multiplying in their digestive tracts. Each resident's condition is an example of what?",
+   "answer": 2,
    "choices": [
     "foodborne poisoning",
     "allergic reaction",
     "infectious disease",
     "genetic disorder"
    ],
-   "answer": 2,
    "explanation": "A harmful organism spreading within each patient's body caused the illness, making each case an infectious disease.",
+   "question": "Your crew transports three residents from the same nursing home in one shift, all with vomiting and diarrhea traced to a norovirus multiplying in their digestive tracts. Each resident's condition is an example of what?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "infectious disease",
    "topic_n": 37
   },
   {
-   "question": "A diabetic patient has a foot wound, but the redness, swelling, and fever come from bacteria invading and multiplying in the tissue rather than from the injury itself. What type of medical condition has developed in the wound?",
+   "answer": 3,
    "choices": [
     "chronic disease",
     "traumatic injury",
     "metabolic disorder",
     "infectious disease"
    ],
-   "answer": 3,
    "explanation": "Bacteria growing and spreading within the body's tissues created a new condition, which is an infectious disease.",
+   "question": "A diabetic patient has a foot wound, but the redness, swelling, and fever come from bacteria invading and multiplying in the tissue rather than from the injury itself. What type of medical condition has developed in the wound?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "infectious disease",
    "topic_n": 37
   },
   {
-   "question": "A paramedic with 12 years on the job has felt drained for months. She has become cynical about patients, dreads every shift, and her assessments are not as sharp as they used to be after years of mandatory overtime. What has she developed?",
+   "answer": 2,
    "choices": [
     "compassion fatigue",
     "acute stress reaction",
     "burnout",
     "posttraumatic stress disorder"
    ],
-   "answer": 2,
    "explanation": "Exhaustion plus cynicism plus reduced performance building up from long-term job stress is the classic picture of burnout.",
+   "question": "A paramedic with 12 years on the job has felt drained for months. She has become cynical about patients, dreads every shift, and her assessments are not as sharp as they used to be after years of mandatory overtime. What has she developed?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "burnout",
    "topic_n": 38
   },
   {
-   "question": "An EMT who once volunteered for every community event now feels emotionally numb, snaps at frequent-flyer patients, and is making documentation errors after two years of short staffing and back-to-back shifts. His supervisor should recognize which condition?",
+   "answer": 3,
    "choices": [
     "critical incident stress",
     "compassion fatigue",
     "delayed stress reaction",
     "burnout"
    ],
-   "answer": 3,
    "explanation": "His detachment and cynicism, exhaustion, and declining work quality all grew out of chronic job stress, matching burnout rather than a single bad call.",
+   "question": "An EMT who once volunteered for every community event now feels emotionally numb, snaps at frequent-flyer patients, and is making documentation errors after two years of short staffing and back-to-back shifts. His supervisor should recognize which condition?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "burnout",
    "topic_n": 38
   },
   {
-   "question": "After years of night shifts and rising call volume, a medic tells his partner, 'I just don't care anymore, and I'm not the clinician I was.' He is tired all the time and his performance reviews have slipped. What is the most likely explanation?",
+   "answer": 2,
    "choices": [
     "acute stress reaction",
     "posttraumatic stress disorder",
     "burnout",
     "cumulative stress reaction"
    ],
-   "answer": 2,
    "explanation": "Long-term job stress has produced the three defining features: exhaustion, cynicism, and reduced performance.",
+   "question": "After years of night shifts and rising call volume, a medic tells his partner, 'I just don't care anymore, and I'm not the clinician I was.' He is tired all the time and his performance reviews have slipped. What is the most likely explanation?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "burnout",
    "topic_n": 38
   },
   {
-   "question": "Which term is defined as: The use of an animal to spread an organism from one person or place to another.",
+   "answer": 3,
    "choices": [
-    "cover",
-    "critical incident stress debriefing",
-    "personal protective equipment",
+    "direct contact",
+    "airborne transmission",
+    "foodborne transmission",
     "vector-borne transmission"
    ],
-   "answer": 3,
-   "explanation": "vector-borne transmission: The use of an animal to spread an organism from one person or place to another.",
+   "explanation": "The tick carried the organism from another host and delivered it when it fed — that is vector-borne transmission. Nothing passed through the air, by touch, or through food or water in this story.",
+   "question": "A hiker finds a deer tick attached to his leg after a weekend in the woods. A week later he develops a bull's-eye rash, fever, and aching joints. By what route did the organism most likely reach him?",
    "source": "Flashcard Slides — Set 7",
    "topic": "vector-borne transmission",
    "topic_n": 36
   },
   {
-   "question": "What does the term \"vector-borne transmission\" mean?",
+   "answer": 1,
    "choices": [
-    "Prolonged or excessive stress.",
-    "Acquired immunodeficiency syndrome (AIDS) is caused by HIV, which damages the cells in the body's immune system so that the body is unable to fight infection or certain cancers.",
-    "The individual in the department who is charged with the responsibility of managing exposures and infection control.",
-    "The use of an animal to spread an organism from one person or place to another."
+    "Wear a surgical mask on every outdoor call, since the disease spreads through the air.",
+    "Use insect repellent, cover exposed skin where practical, and check themselves for ticks and bites after outdoor calls.",
+    "Boil all drinking water at the station, since the disease spreads through the water supply.",
+    "Avoid all skin contact with patients outdoors, since the disease passes by touch."
    ],
-   "answer": 3,
-   "explanation": "vector-borne transmission: The use of an animal to spread an organism from one person or place to another.",
+   "explanation": "Encephalitis in mosquito season arrives by biting insects, so protection targets the bite: repellent, covered skin, and a check afterward. Masks, boiled water, and avoiding touch aim at airborne, waterborne, and contact routes — none of which delivered this disease.",
+   "question": "Your county reports a cluster of encephalitis cases during peak mosquito season, and your crews run frequent calls at parks, camps, and outdoor events. What should crews change about how they work outdoors?",
    "source": "Flashcard Slides — Set 7",
    "topic": "vector-borne transmission",
    "topic_n": 36
   },
   {
-   "question": "In August 1999, an outbreak of encephalitis struck Queens, New York City, at the same time as a large die-off of crows and exotic birds at the Bronx Zoo. Investigators identified West Nile virus, never before recorded in the Western Hemisphere; 62 human cases were confirmed and 7 people died. The virus was carried from infected birds to humans by Culex pipiens mosquitoes. What should EMS crews take from this case?",
+   "answer": 3,
    "choices": [
     "Crews should assume encephalitis clusters are spread person to person and wear respirators on every outdoor call.",
     "Crews should focus on the sick birds as the direct source and handle dead birds without gloves to speed up the scene.",
     "Crews should avoid outdoor scenes entirely during mosquito season until public health clears the area.",
     "Crews should treat clusters of encephalitis in mosquito season as a possible arbovirus event and use repellent and skin coverage on outdoor scenes."
    ],
-   "answer": 3,
    "explanation": "Mosquitoes acting as vectors carried West Nile virus from birds to people, so repellent and skin coverage protect crews during mosquito season.",
+   "question": "In August 1999, an outbreak of encephalitis struck Queens, New York City, at the same time as a large die-off of crows and exotic birds at the Bronx Zoo. Investigators identified West Nile virus, never before recorded in the Western Hemisphere; 62 human cases were confirmed and 7 people died. The virus was carried from infected birds to humans by Culex pipiens mosquitoes. What should EMS crews take from this case?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "vector-borne transmission",
    "topic_n": 36
   },
   {
-   "question": "In late 1975, mothers in Lyme, Connecticut reported an unusual cluster of children with swollen joints diagnosed as juvenile arthritis. Yale researchers linked the illness to bites from deer ticks, and in 1982 the bacterium Borrelia burgdorferi was identified inside the ticks. What should this case prompt an EMT to do when assessing outdoor and rural patients?",
+   "answer": 3,
    "choices": [
     "Ask outdoor and rural patients about recent air travel and check their temperature before anything else.",
     "Assume joint swelling in children is always a sports injury and skip questions about insect exposure.",
     "Check only the patient's scalp for ticks, since ticks never attach anywhere else on the body.",
     "Ask outdoor and rural patients about tick exposure and check for attached ticks and the bull's-eye rash during assessment."
    ],
-   "answer": 3,
    "explanation": "Lyme disease is spread by tick bites, so asking about tick exposure and checking for ticks and the bull's-eye rash catches it early.",
+   "question": "In late 1975, mothers in Lyme, Connecticut reported an unusual cluster of children with swollen joints diagnosed as juvenile arthritis. Yale researchers linked the illness to bites from deer ticks, and in 1982 the bacterium Borrelia burgdorferi was identified inside the ticks. What should this case prompt an EMT to do when assessing outdoor and rural patients?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "vector-borne transmission",
    "topic_n": 36
   },
   {
-   "question": "Which term is defined as: A medical condition caused by the growth and spread of small, harmful organisms within the body.",
-   "choices": [
-    "critical incident stress debriefing",
-    "infectious disease",
-    "acute stress reactions",
-    "distress"
-   ],
    "answer": 1,
-   "explanation": "infectious disease: A medical condition caused by the growth and spread of small, harmful organisms within the body.",
-   "source": "Flashcard Slides — Set 7",
-   "topic": "infectious disease",
-   "topic_n": 37
-  },
-  {
-   "question": "What does the term \"infectious disease\" mean?",
    "choices": [
-    "Inflammation of the liver, usually caused by a viral infection, that causes fever, loss of appetite, nausea, intestinal upset, and often jaundice.",
-    "The body's ability to protect itself from acquiring a disease.",
-    "A medical condition caused by the growth and spread of small, harmful organisms within the body.",
-    "Exposure or transmission of a communicable disease from one person to another by physical contact."
+    "chronic disease",
+    "infectious disease",
+    "autoimmune disorder",
+    "genetic disorder"
    ],
-   "answer": 2,
-   "explanation": "infectious disease: A medical condition caused by the growth and spread of small, harmful organisms within the body.",
+   "explanation": "Each resident's illness is caused by a harmful organism — the virus — growing and spreading within the body. An autoimmune disorder is the body attacking itself, and chronic or genetic conditions are not caused by an invading organism.",
+   "question": "By the end of one shift, three residents of the same nursing home have developed the same picture: sudden vomiting, watery diarrhea, and cramps, all traced to the same stomach virus spreading through the unit. What does each resident have?",
    "source": "Flashcard Slides — Set 7",
    "topic": "infectious disease",
    "topic_n": 37
   },
   {
-   "question": "In July 1976, attendees of the American Legion convention at a Philadelphia hotel developed a severe, mysterious pneumonia; 182 people became ill and 29 died. Investigators eventually found a previously unknown bacterium, Legionella pneumophila, breeding in the hotel's air-conditioning cooling tower and spreading through the building in water droplets. What is the key lesson for an EMT who notices several patients with severe pneumonia tied to the same building?",
+   "answer": 3,
+   "choices": [
+    "The wound illness is communicable but not infectious, because it came from the environment.",
+    "The two words mean exactly the same thing, so both illnesses are both.",
+    "Neither illness is infectious, because an infectious disease must spread between people.",
+    "Both illnesses are infectious, but only the cold is communicable, because communicable means the disease can spread from one person to another."
+   ],
+   "explanation": "Infectious means the disease is caused by organisms growing and spreading in the body — true of both patients here. Communicable is narrower: the disease can also pass from person to person, which the wound infection cannot do.",
+   "question": "Consider two illnesses. In the first, soil bacteria enter a deep puncture wound and multiply there; this illness does not pass from one person to another. In the second, a cold virus spreads easily from person to person through coughs. Which statement about the two is correct?",
+   "source": "Flashcard Slides — Set 7",
+   "topic": "infectious disease",
+   "topic_n": 37
+  },
+  {
+   "answer": 1,
    "choices": [
     "The crew should enter the building's mechanical areas to inspect the cooling tower themselves before reporting anything.",
     "Clusters of severe pneumonia linked to one building or water system should be reported early, because the pattern is the clue to the organism.",
     "Each pneumonia patient should be treated as an isolated case, since patients from the same building rarely share a cause.",
     "Patients should be told the illness is most likely a common cold virus and does not need follow-up."
    ],
-   "answer": 1,
    "explanation": "The Legionnaires' outbreak was solved by recognizing the pattern of cases linked to one building, so early reporting of clusters is the clue to the organism.",
+   "question": "In July 1976, attendees of the American Legion convention at a Philadelphia hotel developed a severe, mysterious pneumonia; 182 people became ill and 29 died. Investigators eventually found a previously unknown bacterium, Legionella pneumophila, breeding in the hotel's air-conditioning cooling tower and spreading through the building in water droplets. What is the key lesson for an EMT who notices several patients with severe pneumonia tied to the same building?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "infectious disease",
    "topic_n": 37
   },
   {
-   "question": "On September 28, 2014, a Dallas Fire-Rescue crew transported Thomas Eric Duncan, who became the first Ebola case diagnosed in the United States. The three crew members were placed in home isolation for 21 days, and the ambulance stayed in service for about 48 hours before it was quarantined, exposing gaps in notification. What does this case teach about infection control before the patient is ever loaded?",
+   "answer": 2,
    "choices": [
     "Infection control begins only after arrival at the hospital, when the receiving facility takes over screening.",
     "Crews should refuse transport for any patient with a fever until a physician clears them by phone.",
     "Travel history and dispatch screening are infection control: identify the risk before the patient is in your ambulance.",
     "The ambulance should be returned to service immediately after any transport to keep the fleet available."
    ],
-   "answer": 2,
    "explanation": "The Dallas Ebola transport showed that travel history and dispatch screening identify the risk before the patient is in the ambulance.",
+   "question": "On September 28, 2014, a Dallas Fire-Rescue crew transported Thomas Eric Duncan, who became the first Ebola case diagnosed in the United States. The three crew members were placed in home isolation for 21 days, and the ambulance stayed in service for about 48 hours before it was quarantined, exposing gaps in notification. What does this case teach about infection control before the patient is ever loaded?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "infectious disease",
    "topic_n": 37
   },
   {
-   "question": "Which term is defined as: A combination of exhaustion, cynicism, and reduced performance resulting from long-term job stresses.",
+   "answer": 1,
    "choices": [
-    "distress",
-    "Occupational Safety and Health Administration",
-    "critical incident stress debriefing",
-    "burnout"
+    "cumulative stress reaction",
+    "burnout",
+    "acute stress reaction",
+    "compassion fatigue"
    ],
+   "explanation": "Exhaustion plus cynicism plus slipping performance, built up over years of job stress, is burnout. Compassion fatigue is the gradual loss of empathy itself; this medic's drained energy and declining work point to burnout.",
+   "question": "A medic with 12 years on the job has changed over the last couple of years. He is drained all the time, talks about patients with open cynicism, and his assessments have started slipping — things he used to catch, he now misses. What is this pattern called?",
+   "source": "Flashcard Slides — Set 7",
+   "topic": "burnout",
+   "topic_n": 38
+  },
+  {
    "answer": 3,
-   "explanation": "burnout: A combination of exhaustion, cynicism, and reduced performance resulting from long-term job stresses.",
-   "source": "Flashcard Slides — Set 7",
-   "topic": "burnout",
-   "topic_n": 38
-  },
-  {
-   "question": "What does the term \"burnout\" mean?",
    "choices": [
-    "Reactions to stress that occur during a stressful situation.",
-    "Securing a crashed vehicle with cribbing, struts, or other supports so it cannot move, shift, or roll; it must be done to ensure the vehicle is stable before attempting to access a patient trapped inside.",
-    "A combination of exhaustion, cynicism, and reduced performance resulting from long-term job stresses.",
-    "What PPE must be worn when blood or body fluids may splash into the eyes, noting that prescription glasses do not provide adequate protection because they offer little or no side protection."
+    "Write him up for his attitude and warn him that his next evaluation will reflect it.",
+    "Move him to the busiest station in the system so he can rebuild his stamina.",
+    "Tell him every medic feels this way eventually and he just needs to push through it.",
+    "Talk with him privately, connect him with peer support or counseling resources, and look at workload changes such as schedule relief."
    ],
-   "answer": 2,
-   "explanation": "burnout: A combination of exhaustion, cynicism, and reduced performance resulting from long-term job stresses.",
+   "explanation": "This pattern is an occupational hazard to manage, not a discipline problem: support, resources, and workload relief address it. Punishing it or piling on more work drives it deeper and pushes a good medic out.",
+   "question": "A supervisor notices a veteran medic has become exhausted, cynical about patients, and sloppy on assessments over the past year. What is the best response?",
    "source": "Flashcard Slides — Set 7",
    "topic": "burnout",
    "topic_n": 38
   },
   {
-   "question": "The SNIPS study surveyed 1,112 US EMS providers in 2021 and found that almost 90% screened positive for burnout, with about 41.5% reporting mental health concerns at some point in their EMS careers; EMTs and women screened positive at higher rates than paramedics and men. How should an EMT view these findings?",
+   "answer": 2,
    "choices": [
     "Assume burnout only affects new providers, so experienced EMTs do not need to monitor themselves.",
     "Treat a positive burnout screening as a personal weakness that should be hidden from supervisors and partners.",
     "Screen yourself honestly for burnout signs; at these rates it is an occupational hazard to manage, not a personal failure.",
     "Wait until symptoms disappear on their own, since burnout screening has no value for working crews."
    ],
-   "answer": 2,
    "explanation": "With nearly 90% of surveyed EMS providers screening positive, burnout is an occupational hazard to manage, not a personal failure.",
+   "question": "The SNIPS study surveyed 1,112 US EMS providers in 2021 and found that almost 90% screened positive for burnout, with about 41.5% reporting mental health concerns at some point in their EMS careers; EMTs and women screened positive at higher rates than paramedics and men. How should an EMT view these findings?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "burnout",
    "topic_n": 38
   },
   {
-   "question": "During the spring 2020 COVID-19 peak, FDNY EMS handled a record of more than 6,500 calls in a single day. Three FDNY EMS workers died by suicide within a three-month period, calls to the department's counseling hotline rose 36%, and the department more than doubled its EMS peer counselors from 20 to 45 as crews described exhaustion and dread. What does this case show EMTs about getting help?",
+   "answer": 2,
    "choices": [
     "A busy service should cut peer counselor positions first, since high call volume leaves no time to use them.",
     "Counseling resources are meant for patients' families, not for EMS providers themselves.",
     "Use peer support and counseling resources early; this case shows what happens to a whole service when burnout goes unaddressed.",
     "Peer support should be used only after a provider has already decided to leave the profession."
    ],
-   "answer": 2,
    "explanation": "FDNY's experience shows burnout can overwhelm an entire service, so peer support and counseling should be used early, before it goes unaddressed.",
+   "question": "During the spring 2020 COVID-19 peak, FDNY EMS handled a record of more than 6,500 calls in a single day. Three FDNY EMS workers died by suicide within a three-month period, calls to the department's counseling hotline rose 36%, and the department more than doubled its EMS peer counselors from 20 to 45 as crews described exhaustion and dread. What does this case show EMTs about getting help?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "burnout",
    "topic_n": 38

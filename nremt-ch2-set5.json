@@ -1,589 +1,589 @@
 {
  "questions": [
   {
-   "question": "Your crew stages behind a large dumpster across the street from a reported shooting so the suspect cannot see the ambulance. What is this tactic called?",
+   "answer": 3,
    "choices": [
     "scene size-up",
     "cover",
     "staging",
     "concealment"
    ],
-   "answer": 3,
    "explanation": "The dumpster blocks the shooter's view but would not stop a bullet, so it hides you rather than protecting you.",
+   "question": "Your crew stages behind a large dumpster across the street from a reported shooting so the suspect cannot see the ambulance. What is this tactic called?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "concealment",
    "topic_n": 25
   },
   {
-   "question": "You crouch behind a row of tall hedges while approaching a patient so an aggressive bystander cannot spot you. What are you using?",
+   "answer": 0,
    "choices": [
     "concealment",
     "cover",
     "distraction",
     "a safe corridor"
    ],
-   "answer": 0,
    "explanation": "The hedges limit the bystander's ability to see you, which is the definition of concealment.",
+   "question": "You crouch behind a row of tall hedges while approaching a patient so an aggressive bystander cannot spot you. What are you using?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "concealment",
    "topic_n": 25
   },
   {
-   "question": "Police tell you to wait behind a wooden fence, out of the suspect's line of sight, until the scene is secure. The fence hides you but could not stop a bullet. This is an example of what?",
+   "answer": 2,
    "choices": [
     "body armor",
     "retreat",
     "concealment",
     "cover"
    ],
-   "answer": 2,
    "explanation": "An object used only to block someone's view of you is concealment, not cover.",
+   "question": "Police tell you to wait behind a wooden fence, out of the suspect's line of sight, until the scene is secure. The fence hides you but could not stop a bullet. This is an example of what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "concealment",
    "topic_n": 25
   },
   {
-   "question": "A patient with measles coughs in a small waiting room and leaves. An hour later another person enters, breathes the room air, and develops measles days later. This route of spread is called what?",
+   "answer": 2,
    "choices": [
     "droplet transmission",
     "vector-borne transmission",
     "airborne transmission",
     "direct contact"
    ],
-   "answer": 2,
    "explanation": "The measles virus stayed suspended in the air as fine droplets and dust after the patient left.",
+   "question": "A patient with measles coughs in a small waiting room and leaves. An hour later another person enters, breathes the room air, and develops measles days later. This route of spread is called what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "airborne transmission",
    "topic_n": 26
   },
   {
-   "question": "Your patient has active tuberculosis and coughs throughout transport, filling the closed ambulance with dried respiratory particles that drift in the air. The spread of an organism this way is called what?",
+   "answer": 1,
    "choices": [
     "indirect contact",
     "airborne transmission",
     "foodborne transmission",
     "droplet transmission"
    ],
-   "answer": 1,
    "explanation": "TB spreads when organisms travel through the air on droplets or dust and are inhaled.",
+   "question": "Your patient has active tuberculosis and coughs throughout transport, filling the closed ambulance with dried respiratory particles that drift in the air. The spread of an organism this way is called what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "airborne transmission",
    "topic_n": 26
   },
   {
-   "question": "A crew member develops chickenpox days after transporting a shingles patient in a closed ambulance with poor ventilation. The virus most likely reached her by which route?",
+   "answer": 2,
    "choices": [
     "droplet transmission",
     "direct contact",
     "airborne transmission",
     "bloodborne transmission"
    ],
-   "answer": 2,
    "explanation": "Varicella virus can spread through the air via droplets and dust in an enclosed space.",
+   "question": "A crew member develops chickenpox days after transporting a shingles patient in a closed ambulance with poor ventilation. The virus most likely reached her by which route?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "airborne transmission",
    "topic_n": 26
   },
   {
-   "question": "Three days after a dog bite, your patient's wound is red, swollen, warm, and draining pus as bacteria multiply in the tissue. This abnormal invasion of tissue by organisms is called what?",
+   "answer": 0,
    "choices": [
     "infection",
     "inflammation",
     "contamination",
     "colonization"
    ],
-   "answer": 0,
    "explanation": "Bacteria invading and multiplying in the wound tissue is an infection.",
+   "question": "Three days after a dog bite, your patient's wound is red, swollen, warm, and draining pus as bacteria multiply in the tissue. This abnormal invasion of tissue by organisms is called what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "infection",
    "topic_n": 27
   },
   {
-   "question": "A patient feels completely healthy, but lab tests show the hepatitis C virus is active in his liver. Even with no signs or symptoms, this invasion of a host by an organism is called what?",
+   "answer": 0,
    "choices": [
     "infection",
     "colonization",
     "exposure",
     "immunity"
    ],
-   "answer": 0,
    "explanation": "The definition covers invasion with or without signs or symptoms of disease.",
+   "question": "A patient feels completely healthy, but lab tests show the hepatitis C virus is active in his liver. Even with no signs or symptoms, this invasion of a host by an organism is called what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "infection",
    "topic_n": 27
   },
   {
-   "question": "After wading through floodwater with an open leg cut, a patient develops a rapidly spreading bacterial invasion of the tissue with fever and severe pain. This condition is best described as what?",
+   "answer": 2,
    "choices": [
     "inflammation",
     "colonization",
     "infection",
     "infestation"
    ],
-   "answer": 2,
    "explanation": "Bacteria entered through the cut and invaded the host tissue, which is an infection.",
+   "question": "After wading through floodwater with an open leg cut, a patient develops a rapidly spreading bacterial invasion of the tissue with fever and severe pain. This condition is best described as what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "infection",
    "topic_n": 27
   },
   {
-   "question": "During a pediatric cardiac arrest call, your partner's hands shake, her heart pounds, and she feels frozen for a moment before she pushes through the call. These reactions happening during the event itself are called what?",
+   "answer": 2,
    "choices": [
     "cumulative stress reactions",
     "delayed stress reactions",
     "acute stress reactions",
     "burnout"
    ],
-   "answer": 2,
    "explanation": "The shaking, pounding heart, and freeze response occurred during the stressful situation, which is what makes them acute.",
+   "question": "During a pediatric cardiac arrest call, your partner's hands shake, her heart pounds, and she feels frozen for a moment before she pushes through the call. These reactions happening during the event itself are called what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "acute stress reactions",
    "topic_n": 28
   },
   {
-   "question": "While working a multi-casualty crash, you notice your own rapid breathing, tunnel vision, and racing heart as the scene unfolds around you. What are these in-the-moment responses called?",
+   "answer": 0,
    "choices": [
     "acute stress reactions",
     "burnout",
     "delayed stress reactions",
     "compassion fatigue"
    ],
-   "answer": 0,
    "explanation": "They are stress reactions occurring while the stressful situation is still happening.",
+   "question": "While working a multi-casualty crash, you notice your own rapid breathing, tunnel vision, and racing heart as the scene unfolds around you. What are these in-the-moment responses called?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "acute stress reactions",
    "topic_n": 28
   },
   {
-   "question": "Still on scene after a difficult call involving a child, an EMT feels numb, detached, and on edge. Reactions to stress that occur during a stressful situation are known as what?",
+   "answer": 3,
    "choices": [
     "posttraumatic stress disorder",
-    "acute stress reactions",
+    "delayed stress reactions",
     "cumulative stress reactions",
-    "delayed stress reactions"
+    "acute stress reactions"
    ],
-   "answer": 1,
-   "explanation": "Feeling numb, detached, and on edge during the event are classic acute stress reactions.",
+   "explanation": "His reactions are occurring during the stressful situation itself, which makes them acute stress reactions. The second EMT's months-later onset follows the delayed pattern instead.",
+   "question": "Still on scene after a difficult call involving a child, an EMT feels numb, detached, and on edge while the call is still unfolding. A second EMT from the same call feels fine that day but develops similar symptoms eight months later. The first EMT's experience is best described as:",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "acute stress reactions",
    "topic_n": 28
   },
   {
-   "question": "An EMT uses a blood pressure cuff on a patient with MRSA, then uses the same cuff on the next patient without disinfecting it, and that patient later develops MRSA. Transmission through the contaminated cuff is called what?",
+   "answer": 3,
    "choices": [
     "airborne transmission",
     "direct contact",
     "vector-borne transmission",
     "indirect contact"
    ],
-   "answer": 3,
    "explanation": "The organism reached the second patient through a contaminated object, not by touching the first patient.",
+   "question": "An EMT uses a blood pressure cuff on a patient with MRSA, then uses the same cuff on the next patient without disinfecting it, and that patient later develops MRSA. Transmission through the contaminated cuff is called what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "indirect contact",
    "topic_n": 29
   },
   {
-   "question": "A toddler at daycare mouths a toy that a child sick with norovirus drooled on an hour earlier, and she becomes ill. She never touched the sick child. This is an example of what?",
+   "answer": 3,
    "choices": [
     "droplet transmission",
     "direct contact",
     "vector-borne transmission",
     "indirect contact"
    ],
-   "answer": 3,
    "explanation": "The toy acted as the contaminated object carrying the virus from one child to the other.",
+   "question": "A toddler at daycare mouths a toy that a child sick with norovirus drooled on an hour earlier, and she becomes ill. She never touched the sick child. This is an example of what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "indirect contact",
    "topic_n": 29
   },
   {
-   "question": "Right after unloading a patient with C. difficile, you grab the ambulance door handle, then touch your face before washing your hands. Exposure through the contaminated handle is called what?",
+   "answer": 3,
    "choices": [
     "bloodborne transmission",
     "airborne transmission",
     "direct contact",
     "indirect contact"
    ],
-   "answer": 3,
    "explanation": "The handle is a contaminated object (a fomite) between the patient and you.",
+   "question": "Right after unloading a patient with C. difficile, you grab the ambulance door handle, then touch your face before washing your hands. Exposure through the contaminated handle is called what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "indirect contact",
    "topic_n": 29
   },
   {
-   "question": "A new EMT's first major trauma call triggers a surge of adrenaline. Over the next months he learns to stay steady under pressure, but after two years of nonstop overtime with no recovery he is burned out, exhausted, and sick often. This alarm, resistance, then exhaustion pattern is called what?",
+   "answer": 3,
    "choices": [
     "fight-or-flight response",
     "acute stress reaction",
     "cumulative stress reaction",
     "general adaptation syndrome"
    ],
-   "answer": 3,
    "explanation": "His body moved through the alarm response and resistance stage, then hit exhaustion when the stress never let up.",
+   "question": "A new EMT's first major trauma call triggers a surge of adrenaline. Over the next months he learns to stay steady under pressure, but after two years of nonstop overtime with no recovery he is burned out, exhausted, and sick often. This alarm, resistance, then exhaustion pattern is called what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30
   },
   {
-   "question": "A paramedic describes her career: emergency calls once spiked her heart rate every time, then she adapted and handled them calmly, but years of chronic short staffing have left her drained and constantly fatigued. She is describing what?",
+   "answer": 3,
    "choices": [
     "burnout syndrome",
     "fight-or-flight response",
     "cumulative stress reaction",
     "general adaptation syndrome"
    ],
-   "answer": 3,
    "explanation": "Alarm, then reaction and resistance, then exhaustion from prolonged stress is the general adaptation syndrome.",
+   "question": "A paramedic describes her career: emergency calls once spiked her heart rate every time, then she adapted and handled them calmly, but years of chronic short staffing have left her drained and constantly fatigued. She is describing what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30
   },
   {
-   "question": "A firefighter-paramedic on months of mandatory overtime first feels keyed up on every call, then seems to cope, then develops constant fatigue, insomnia, and frequent colds as his body wears down. This progression is an example of what?",
+   "answer": 1,
    "choices": [
     "delayed stress reaction",
     "general adaptation syndrome",
     "fight-or-flight response",
     "compassion fatigue"
    ],
-   "answer": 1,
    "explanation": "The staged progression from alarm through resistance to exhaustion is the body's general adaptation syndrome.",
+   "question": "A firefighter-paramedic on months of mandatory overtime first feels keyed up on every call, then seems to cope, then develops constant fatigue, insomnia, and frequent colds as his body wears down. This progression is an example of what?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30
   },
   {
-   "question": "Which term is defined as: The use of objects to limit a person's ability to see you.",
+   "answer": 3,
    "choices": [
-    "distress",
-    "concealment",
-    "exposure",
-    "infection"
+    "cover",
+    "vehicle stabilization",
+    "staging distance",
+    "concealment"
    ],
-   "answer": 1,
-   "explanation": "concealment: The use of objects to limit a person's ability to see you.",
+   "explanation": "Concealment is the use of objects to limit a person's ability to see you. It hides you but offers no ballistic protection; that is the difference from cover, which must be an impenetrable barrier.",
+   "question": "Police are still clearing a shooting scene. Your crew stages behind a large dumpster where the suspect cannot see the ambulance. The dumpster would not stop a bullet, but it keeps you out of the suspect's view. This is an example of:",
    "source": "Flashcard Slides — Set 5",
    "topic": "concealment",
    "topic_n": 25
   },
   {
-   "question": "What does the term \"concealment\" mean?",
+   "answer": 3,
    "choices": [
-    "A medical condition caused by the growth and spread of small, harmful organisms within the body.",
-    "The use of objects to limit a person's ability to see you.",
-    "The organism or individual that is attacked by the infecting agent.",
-    "A negative response to a stressor."
+    "The fence is cover because the crew cannot be seen behind it",
+    "Both positions are cover, since the shooter cannot see either crew",
+    "Neither position helps, because only distance protects a crew",
+    "The fence gives concealment only: it hides the crew but will not stop a round, while the block wall can serve as cover"
    ],
-   "answer": 1,
-   "explanation": "concealment: The use of objects to limit a person's ability to see you.",
+   "explanation": "Being hidden from view is concealment. Cover requires a barrier that can actually stop the threat, which the block wall provides and the wooden fence does not.",
+   "question": "Two crews stage near a scene where shots were fired. One waits behind a wooden privacy fence; the other waits behind a solid block wall. Both are out of the shooter's sight. Which statement is correct?",
    "source": "Flashcard Slides — Set 5",
    "topic": "concealment",
    "topic_n": 25
   },
   {
-   "question": "On Christmas Eve 2012 in Webster, New York, a man set his house and car on fire to lure responders, then fired on arriving firefighters from a hidden earthen berm across the street, killing two. What should crews do at a suspicious fire like this?",
+   "answer": 0,
    "choices": [
     "Stage out of sight, scan for a hidden shooter, and use objects that block the shooter's view before committing to the scene.",
     "Move straight to the fire and begin suppression, since a working structure fire leaves no time to stage.",
     "Approach on foot in the open so the suspect can clearly see that responders are unarmed.",
     "Park the ambulance directly in front of the burning house to light the scene for police."
    ],
-   "answer": 0,
    "explanation": "Stage out of sight at any suspicious fire and scan for a hidden shooter before committing to the scene.",
+   "question": "On Christmas Eve 2012 in Webster, New York, a man set his house and car on fire to lure responders, then fired on arriving firefighters from a hidden earthen berm across the street, killing two. What should crews do at a suspicious fire like this?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "concealment",
    "topic_n": 25
   },
   {
-   "question": "At the 2017 Route 91 Harvest festival shooting in Las Vegas, a gunman fired from the 32nd floor of a hotel into the crowd, killing about 60 people. Crews had to treat and move patients while the shooter overlooked the venue. What is the best action?",
+   "answer": 0,
    "choices": [
     "Move patients behind vehicles and structures that block the shooter's line of sight, and use any available vehicle to get them out.",
     "Set up a treatment area in the open center of the venue so all patients are in one visible place.",
     "Wait inside the venue without moving patients until every floor of the hotel is fully cleared.",
     "Stand rescuers in a group around each patient to shield the patient with their bodies."
    ],
-   "answer": 0,
    "explanation": "In a mass shooting, move patients behind concealment fast and use any available vehicle to get them out.",
+   "question": "At the 2017 Route 91 Harvest festival shooting in Las Vegas, a gunman fired from the 32nd floor of a hotel into the crowd, killing about 60 people. Crews had to treat and move patients while the shooter overlooked the venue. What is the best action?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "concealment",
    "topic_n": 25
   },
   {
-   "question": "Which term is defined as: The spread of an organism via droplets or dust.",
+   "answer": 3,
    "choices": [
-    "airborne transmission",
-    "substance abuse",
-    "ambulance decontamination",
-    "standard precautions"
+    "indirect contact",
+    "foodborne transmission",
+    "direct contact",
+    "airborne transmission"
    ],
-   "answer": 0,
-   "explanation": "airborne transmission: The spread of an organism via droplets or dust.",
+   "explanation": "The organism traveled in droplets and dust suspended in the room air and was inhaled later, which is airborne transmission. No contact with the patient or with a shared object was needed.",
+   "question": "A patient with measles spends an hour in a clinic waiting room, then leaves. An hour later, a person who never met him sits in the same room, breathes the air, and develops measles days afterward. This illness spread by:",
    "source": "Flashcard Slides — Set 5",
    "topic": "airborne transmission",
    "topic_n": 26
   },
   {
-   "question": "What does the term \"airborne transmission\" mean?",
+   "answer": 3,
    "choices": [
-    "The contamination of food or water with an organism that can cause disease.",
-    "What airborne bacterial disease is caused by Mycobacterium tuberculosis, spreads when an infected person coughs or sneezes, and is indicated by a positive skin test showing exposure to the bacterium.",
-    "The spread of an organism via droplets or dust.",
-    "The primary federal agency that conducts and supports public health activities in the United States."
+    "A surgical mask on yourself only, with nothing on the patient",
+    "No special protection, because the ride is short",
+    "Gloves alone, because the disease spreads by skin contact",
+    "A fit-tested respirator, because the organism travels in the air you share with the patient"
    ],
-   "answer": 2,
-   "explanation": "airborne transmission: The spread of an organism via droplets or dust.",
+   "explanation": "Tuberculosis spreads through the air as the patient coughs, so protection has to match the airborne route: a fit-tested respirator for you, and a mask on the patient when tolerated. Gloves answer a contact route this disease does not use.",
+   "question": "You are transporting a patient with active tuberculosis who coughs throughout the ride in the closed patient compartment. Because of how this disease spreads, your most important protection is:",
    "source": "Flashcard Slides — Set 5",
    "topic": "airborne transmission",
    "topic_n": 26
   },
   {
-   "question": "In 1976, about 182 American Legion convention attendees at a Philadelphia hotel developed pneumonia and 29 died. Investigators traced the new bacterium, Legionella pneumophila, to the hotel cooling tower, spread through the air-conditioning system with no person-to-person spread. What does this case illustrate?",
+   "answer": 1,
    "choices": [
     "An outbreak with no person-to-person spread must have been caused by contaminated food or water.",
     "Airborne spread can come from building systems, not just patients, so the air in enclosed spaces must be treated as a possible route.",
     "Bacteria in a building's air system are harmless because ventilation always dilutes them to safe levels.",
     "Airborne organisms can only be spread when a sick person coughs directly onto another person."
    ],
-   "answer": 1,
    "explanation": "Airborne spread can come from building systems, not just patients, so treat the air in enclosed spaces as a possible route.",
+   "question": "In 1976, about 182 American Legion convention attendees at a Philadelphia hotel developed pneumonia and 29 died. Investigators traced the new bacterium, Legionella pneumophila, to the hotel cooling tower, spread through the air-conditioning system with no person-to-person spread. What does this case illustrate?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "airborne transmission",
    "topic_n": 26
   },
   {
-   "question": "In March 2020, a choir in Skagit County, Washington held a 2.5-hour practice with 61 people, including one symptomatic singer. Afterward 53 people became ill with COVID-19, most without close contact with the singer. What is the main lesson for EMS crews?",
+   "answer": 0,
    "choices": [
     "Long time spent in a closed room with an airborne illness is high risk even without close contact with the patient.",
     "Brief calls are the highest airborne risk, while long enclosed exposures add little danger.",
     "A patient who is not coughing during transport cannot contaminate the air of an enclosed space.",
     "Airborne illness only spreads within 6 feet, so distance alone in a closed room is complete protection."
    ],
-   "answer": 0,
    "explanation": "Long time in a closed room with an airborne illness is high risk even without close contact with the patient.",
+   "question": "In March 2020, a choir in Skagit County, Washington held a 2.5-hour practice with 61 people, including one symptomatic singer. Afterward 53 people became ill with COVID-19, most without close contact with the singer. What is the main lesson for EMS crews?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "airborne transmission",
    "topic_n": 26
   },
   {
-   "question": "Which term is defined as: The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease.",
-   "choices": [
-    "bloodborne pathogens",
-    "cold-weather clothing layers",
-    "infection",
-    "infection control"
-   ],
-   "answer": 2,
-   "explanation": "infection: The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease.",
-   "source": "Flashcard Slides — Set 5",
-   "topic": "infection",
-   "topic_n": 27
-  },
-  {
-   "question": "What does the term \"infection\" mean?",
-   "choices": [
-    "Reactions to stress that occur after a stressful situation.",
-    "The primary federal agency that conducts and supports public health activities in the United States.",
-    "The organism or individual that is attacked by the infecting agent.",
-    "The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease."
-   ],
    "answer": 3,
-   "explanation": "infection: The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease.",
+   "choices": [
+    "a colonization",
+    "an allergic reaction",
+    "contamination only",
+    "an infection"
+   ],
+   "explanation": "Organisms have invaded the tissue and are multiplying, producing heat, swelling, drainage, and fever, which is an infection. Organisms merely present on the wound without invading would be contamination or colonization.",
+   "question": "A patient you treated for a dog bite calls three days later: the wound is now red, hot, swollen, and draining pus, and she has a fever. What has developed in the wound?",
    "source": "Flashcard Slides — Set 5",
    "topic": "infection",
    "topic_n": 27
   },
   {
-   "question": "Mary Mallon, a New York cook identified in 1907, carried typhoid bacteria in nearly every stool sample and was linked to about 51 infections, yet she felt completely healthy the entire time. What does her case show?",
+   "answer": 1,
+   "choices": [
+    "All three patients equally",
+    "The third: organisms have invaded his tissues and are causing illness",
+    "The second: he had contact with blood",
+    "The first: organisms are living on her skin"
+   ],
+   "explanation": "An infection is the abnormal invasion of a host or host tissues by organisms. Organisms simply living on the body without disease is colonization, and the blood splash was an exposure, not yet an infection.",
+   "question": "Three patients are described at a training review. The first has bacteria living on her skin that cause her no illness at all. The second was splashed with a patient's blood but remains well. The third has bacteria invading the tissue around his wound, with pain, redness, and fever. Which patient is the one whose tissues have been invaded by organisms, making him ill?",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "infection",
+   "topic_n": 27
+  },
+  {
+   "answer": 2,
    "choices": [
     "Carriers only spread disease during the days when they feel sick themselves.",
     "Lab tests that find organisms in a healthy-feeling person are almost always false positives.",
     "A person who looks and feels healthy can still carry an infection and spread it to others.",
     "A person with no signs or symptoms cannot be carrying any transmissible organism."
    ],
-   "answer": 2,
    "explanation": "A patient or food handler who looks and feels healthy can still carry and spread an infection.",
+   "question": "Mary Mallon, a New York cook identified in 1907, carried typhoid bacteria in nearly every stool sample and was linked to about 51 infections, yet she felt completely healthy the entire time. What does her case show?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "infection",
    "topic_n": 27
   },
   {
-   "question": "After Hurricane Ian flooded Lee and Collier Counties, Florida in 2022, 29 people developed Vibrio vulnificus infections through wounds exposed to floodwater, and 11 died. What should responders do when working around floodwater?",
+   "answer": 2,
    "choices": [
     "Wounds exposed to floodwater should be sealed under an occlusive dressing and not checked for several days.",
     "Only deep puncture wounds can become infected in floodwater, so minor cuts need no attention.",
     "Cover wounds before floodwater work and watch any wound exposed to floodwater closely for infection.",
     "Floodwater dilutes bacteria enough that exposed wounds can safely be left uncovered."
    ],
-   "answer": 2,
    "explanation": "Cover wounds before floodwater work and watch any wound exposed to floodwater closely for infection.",
+   "question": "After Hurricane Ian flooded Lee and Collier Counties, Florida in 2022, 29 people developed Vibrio vulnificus infections through wounds exposed to floodwater, and 11 died. What should responders do when working around floodwater?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "infection",
    "topic_n": 27
   },
   {
-   "question": "Which term is defined as: Reactions to stress that occur during a stressful situation.",
+   "answer": 0,
    "choices": [
-    "immune",
     "acute stress reactions",
-    "sharps safety",
-    "standard precautions"
+    "compassion fatigue",
+    "burnout",
+    "delayed stress reactions"
    ],
-   "answer": 1,
-   "explanation": "acute stress reactions: Reactions to stress that occur during a stressful situation.",
+   "explanation": "Stress responses that occur during the stressful situation are acute stress reactions. Burnout and compassion fatigue build over months or years of work, and delayed reactions appear only after the event has passed.",
+   "question": "Halfway through a pediatric arrest, you notice your partner's hands are shaking, her heart is pounding, and she has to consciously slow her breathing to keep working. These responses, happening in the middle of the event, are:",
    "source": "Flashcard Slides — Set 5",
    "topic": "acute stress reactions",
    "topic_n": 28
   },
   {
-   "question": "What does the term \"acute stress reactions\" mean?",
+   "answer": 3,
    "choices": [
-    "Reactions to stress that occur after a stressful situation.",
-    "Securing a crashed vehicle with cribbing, struts, or other supports so it cannot move, shift, or roll; it must be done to ensure the vehicle is stable before attempting to access a patient trapped inside.",
-    "Reactions to stress that occur during a stressful situation.",
-    "The tactical use of an impenetrable barrier for protection."
+    "Let him keep watching, because replaying the event is how providers process it during a shift",
+    "Ignore it, because stress reactions cannot start until days after an incident",
+    "Diagnose him with posttraumatic stress disorder and start a formal referral",
+    "Get him away from the footage and off the next call if possible, because his in-the-moment stress reaction is being fed by repeated exposure to the images"
    ],
-   "answer": 2,
-   "explanation": "acute stress reactions: Reactions to stress that occur during a stressful situation.",
+   "explanation": "His symptoms are happening during and immediately after the event, an acute stress reaction, and the graphic replays keep re-triggering it. Posttraumatic stress disorder cannot be diagnosed an hour after an incident, and stress reactions can absolutely begin during the event itself.",
+   "question": "An EMT who worked a graphic highway pileup an hour ago keeps replaying bystander video of the scene on his phone between calls. He is still numb, jumpy, and unable to focus. What is the best immediate response from his partner?",
    "source": "Flashcard Slides — Set 5",
    "topic": "acute stress reactions",
    "topic_n": 28
   },
   {
-   "question": "Two to three weeks after September 11, 2001, researchers surveyed 90 World Trade Center disaster workers and found nearly 15% had probable acute stress disorder and more than half of tobacco users had increased their smoking. What does this show about acute stress reactions?",
+   "answer": 0,
    "choices": [
     "Acute stress reactions are common and measurable in the first weeks after a mass-casualty event, and they are not a sign of weakness.",
     "Stress reactions that appear within weeks of an event are harmless and never change daily behavior.",
     "Acute stress reactions are rare in trained responders and usually indicate poor fitness for the job.",
     "Only responders who were physically injured at a disaster are at risk for acute stress reactions."
    ],
-   "answer": 0,
    "explanation": "Acute stress reactions are common and measurable in the first weeks after a mass-casualty event, not a sign of weakness.",
+   "question": "Two to three weeks after September 11, 2001, researchers surveyed 90 World Trade Center disaster workers and found nearly 15% had probable acute stress disorder and more than half of tobacco users had increased their smoking. What does this show about acute stress reactions?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "acute stress reactions",
    "topic_n": 28
   },
   {
-   "question": "After the 2013 Boston Marathon bombing, adults who watched 6 or more hours of bombing coverage per day were nine times more likely to report high acute stress than people with minimal exposure — higher even than many who were at the scene. What should a responder who worked the incident do?",
+   "answer": 3,
    "choices": [
     "Media exposure cannot cause real stress reactions, so viewing habits after a call do not matter.",
     "Watch coverage repeatedly until the images stop bothering you, since desensitization is the fastest cure.",
     "Only direct exposure at the scene counts, so off-duty viewing is a safe way to process the event.",
     "Limit exposure to graphic coverage of the incident, because repeated viewing can intensify your own acute stress reaction."
    ],
-   "answer": 3,
    "explanation": "Limit your exposure to graphic coverage of an incident you worked; repeated viewing can intensify your own acute stress reaction.",
+   "question": "After the 2013 Boston Marathon bombing, adults who watched 6 or more hours of bombing coverage per day were nine times more likely to report high acute stress than people with minimal exposure — higher even than many who were at the scene. What should a responder who worked the incident do?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "acute stress reactions",
    "topic_n": 28
   },
   {
-   "question": "Which term is defined as: Exposure or transmission of disease from one person to another by contact with a contaminated object.",
-   "choices": [
-    "ambulance decontamination",
-    "wellness",
-    "indirect contact",
-    "delayed stress reactions"
-   ],
    "answer": 2,
-   "explanation": "indirect contact: Exposure or transmission of disease from one person to another by contact with a contaminated object.",
-   "source": "Flashcard Slides — Set 5",
-   "topic": "indirect contact",
-   "topic_n": 29
-  },
-  {
-   "question": "What does the term \"indirect contact\" mean?",
    "choices": [
-    "Exposure or transmission of disease from one person to another by contact with a contaminated object.",
-    "The individual in the department who is charged with the responsibility of managing exposures and infection control.",
-    "The body's ability to protect itself from acquiring a disease.",
-    "The presence of infectious organisms on or in objects such as dressings, water, food, needles, wounds, or a patient's body."
+    "vector-borne transmission",
+    "direct contact",
+    "indirect contact",
+    "airborne transmission"
    ],
-   "answer": 0,
-   "explanation": "indirect contact: Exposure or transmission of disease from one person to another by contact with a contaminated object.",
+   "explanation": "The organism reached the second patient through a contaminated object, the cuff, which is indirect contact. Direct contact would have required the two patients to touch each other.",
+   "question": "A blood pressure cuff is used on a patient with a MRSA skin infection, then placed, without being disinfected, on the next patient's arm, who later develops the same infection at that spot. The second patient most likely acquired it by:",
    "source": "Flashcard Slides — Set 5",
    "topic": "indirect contact",
    "topic_n": 29
   },
   {
-   "question": "In 2010, a girls' soccer team's index case vomited in a hotel bathroom where an open reusable grocery bag of snacks was stored. Teammates who touched the bag or ate the snacks became ill with norovirus without ever touching the sick player, and the bag later tested positive. What practice does this support?",
+   "answer": 1,
+   "choices": [
+    "airborne transmission",
+    "indirect contact",
+    "foodborne transmission",
+    "direct contact"
+   ],
+   "explanation": "The virus reached him through a contaminated object, the toy, rather than by touching the sick child, which is indirect contact. The first toddler's hand-holding was direct contact.",
+   "question": "Two toddlers at the same daycare catch the same stomach virus. One held hands with a sick child during a game. The other put a shared toy in his mouth minutes after the sick child chewed on it. The second toddler's illness spread by:",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "indirect contact",
+   "topic_n": 29
+  },
+  {
+   "answer": 2,
    "choices": [
     "Objects only transmit disease while they are still visibly wet with body fluids.",
     "Norovirus can only spread by direct skin-to-skin contact with the sick person.",
     "Keep food and personal items out of patient care areas, and treat shared objects as possible carriers of disease.",
     "Food stored near a sick person is safe to share once the person has left the room."
    ],
-   "answer": 2,
    "explanation": "Keep food and personal items out of patient care areas, and treat shared objects as possible carriers of disease.",
+   "question": "In 2010, a girls' soccer team's index case vomited in a hotel bathroom where an open reusable grocery bag of snacks was stored. Teammates who touched the bag or ate the snacks became ill with norovirus without ever touching the sick player, and the bag later tested positive. What practice does this support?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "indirect contact",
    "topic_n": 29
   },
   {
-   "question": "In 2006, researchers cultured 21 ambulances in a western U.S. fleet and found 47.6% tested positive for MRSA, with contamination more often in crew work areas than in patient contact areas. What should crews do between calls?",
+   "answer": 1,
    "choices": [
     "Ambulance surfaces only need cleaning when a patient was known to carry MRSA.",
     "Disinfect the whole patient compartment, including crew work areas, between calls, not just the stretcher.",
     "Crew work areas stay clean because patients never touch them during transport.",
     "Only the stretcher needs disinfection, since organisms do not survive on other ambulance surfaces."
    ],
-   "answer": 1,
    "explanation": "Disinfect the whole patient compartment, including crew work areas, between calls, not just the stretcher.",
+   "question": "In 2006, researchers cultured 21 ambulances in a western U.S. fleet and found 47.6% tested positive for MRSA, with contamination more often in crew work areas than in patient contact areas. What should crews do between calls?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "indirect contact",
    "topic_n": 29
   },
   {
-   "question": "Which term is defined as: The body's response to stress that begins with an alarm response, followed by a stage of reaction and resistance, and then recovery or, if the stress is prolonged, exhaustion.",
-   "choices": [
-    "general adaptation syndrome",
-    "substance abuse",
-    "tuberculosis",
-    "vehicle stabilization"
-   ],
-   "answer": 0,
-   "explanation": "general adaptation syndrome: The body's response to stress that begins with an alarm response, followed by a stage of reaction and resistance, and then recovery or, if the stress is prolonged, exhaustion.",
-   "source": "Flashcard Slides — Set 5",
-   "topic": "general adaptation syndrome",
-   "topic_n": 30
-  },
-  {
-   "question": "What does the term \"general adaptation syndrome\" mean?",
-   "choices": [
-    "The most effective way to preserve body heat when functioning in cold, wet weather — wearing at least three layers of clothing.",
-    "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions.",
-    "The body's response to stress that begins with an alarm response, followed by a stage of reaction and resistance, and then recovery or, if the stress is prolonged, exhaustion.",
-    "A beneficial response to a stressor."
-   ],
    "answer": 2,
-   "explanation": "general adaptation syndrome: The body's response to stress that begins with an alarm response, followed by a stage of reaction and resistance, and then recovery or, if the stress is prolonged, exhaustion.",
+   "choices": [
+    "burnout",
+    "eustress",
+    "general adaptation syndrome",
+    "cumulative stress reactions"
+   ],
+   "explanation": "The general adaptation syndrome is the body's staged response to stress: an alarm response, then a stage of reaction and resistance, then recovery or, if the stress is prolonged, exhaustion. Cumulative stress reactions describe stressors piling up, not the body's stage-by-stage response to them.",
+   "question": "A medic looks back over his career: as a rookie, every tone drop spiked his heart rate; for years he adapted and handled the pace well; lately, after years of unrelenting overtime, he is exhausted, run down, and catches every cold that goes around. This whole staged response of the body to stress over time is known as:",
    "source": "Flashcard Slides — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30
   },
   {
-   "question": "In 1936, Hans Selye exposed rats to completely different stressors — cold, surgical injury, excessive exercise, and sub-lethal drug doses — and all showed the same staged response: an alarm reaction, then resistance, then exhaustion if the stress continued. What is the lesson for responders?",
+   "answer": 2,
+   "choices": [
+    "resistance",
+    "recovery",
+    "exhaustion",
+    "alarm"
+   ],
+   "explanation": "In the general adaptation syndrome, prolonged stress without recovery pushes past the resistance stage into exhaustion, whose marks are exactly this: drained performance and frequent illness. Alarm is the first spike of a new stressor, and resistance is the stage where the body is still coping.",
+   "question": "After two years of chronic overtime with no real recovery time, a medic is constantly drained, his performance is slipping, and he is sick more often than he is well. In the body's staged response to stress, he has most likely reached the stage of:",
+   "source": "Flashcard Slides — Set 5",
+   "topic": "general adaptation syndrome",
+   "topic_n": 30
+  },
+  {
+   "answer": 0,
    "choices": [
     "The body answers every major stressor with the same staged pattern, so manage your total stress load, not just one call at a time.",
     "Only physical stressors like injury trigger the body's staged stress response.",
     "Each type of stressor produces a completely separate response, so stresses never add together.",
     "Once the resistance stage is reached, the body can handle unlimited stress without exhaustion."
    ],
-   "answer": 0,
    "explanation": "Your body answers every major stressor with the same staged pattern, so manage total stress load, not just one call at a time.",
+   "question": "In 1936, Hans Selye exposed rats to completely different stressors — cold, surgical injury, excessive exercise, and sub-lethal drug doses — and all showed the same staged response: an alarm reaction, then resistance, then exhaustion if the stress continued. What is the lesson for responders?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30
   },
   {
-   "question": "Ohio State researchers gave identical small punch-biopsy wounds to 13 women caring for relatives with dementia and 13 matched controls. The caregivers' wounds took about 24% longer to heal (48.7 versus 39.3 days). What does this demonstrate?",
+   "answer": 2,
    "choices": [
     "Stress affects only mood and has no measurable effect on immune function or healing.",
     "Caregivers' slower healing was caused by the wound care products they used at home.",
     "Chronic stress measurably weakens the immune system and healing, making long-term overload a physical injury risk, not just a mood problem.",
     "Wound healing speed is fixed by age and genetics and cannot be changed by stress."
    ],
-   "answer": 2,
    "explanation": "Chronic stress measurably weakens your immune system and healing; long-term overload is a physical injury risk, not just a mood problem.",
+   "question": "Ohio State researchers gave identical small punch-biopsy wounds to 13 women caring for relatives with dementia and 13 matched controls. The caregivers' wounds took about 24% longer to heal (48.7 versus 39.3 days). What does this demonstrate?",
    "source": "Flashcard Case Studies — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30

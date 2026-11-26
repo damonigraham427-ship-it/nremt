@@ -1,589 +1,589 @@
 {
  "questions": [
   {
-   "question": "Your crew transports a patient who tells you he has been HIV-positive for years. A trainee asks why HIV is so serious if it is 'just a virus.' The danger is that this virus destroys the cells of which body system?",
+   "answer": 2,
    "choices": [
-    "hepatitis C virus — it destroys the liver's filtering cells",
-    "human immunodeficiency virus — it destroys the nerve cells that control breathing",
-    "human immunodeficiency virus — it destroys the red blood cells that carry oxygen",
-    "human immunodeficiency virus — it destroys the immune system's cells"
+    "Epstein-Barr virus",
+    "influenza A virus",
+    "human immunodeficiency virus",
+    "hepatitis C virus"
    ],
-   "answer": 3,
-   "explanation": "HIV attacks the immune cells themselves, leaving the body unable to fight infections and some cancers.",
+   "explanation": "The virus described destroys immune cells themselves, leaving the body unable to fight infection or certain cancers; that is the human immunodeficiency virus. Hepatitis C targets the liver, and influenza attacks the respiratory tract.",
+   "question": "A patient tells you he has lived for years with a virus that slowly destroys the cells of his immune system, and he takes daily medication to keep it controlled. A trainee asks which virus this is. The virus that attacks the immune system's own cells is:",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "human immunodeficiency virus",
    "topic_n": 7
   },
   {
-   "question": "After a needlestick from a used IV catheter, an EMT is sent for baseline testing for the virus that causes AIDS. Which virus is occupational health testing for?",
+   "answer": 3,
    "choices": [
     "Epstein-Barr virus (EBV)",
     "influenza A virus",
     "hepatitis B virus (HBV)",
     "human immunodeficiency virus (HIV)"
    ],
-   "answer": 3,
    "explanation": "HIV is the virus that causes AIDS, and it is the bloodborne virus checked after a sharps exposure.",
+   "question": "After a needlestick from a used IV catheter, an EMT is sent for baseline testing for the virus that causes AIDS. Which virus is occupational health testing for?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "human immunodeficiency virus",
    "topic_n": 7
   },
   {
-   "question": "A patient with advanced HIV is transported with pneumonia that a healthy person would normally fight off. The pneumonia is dangerous mainly because which virus has damaged his immune defenses?",
+   "answer": 3,
    "choices": [
-    "respiratory syncytial virus",
     "hepatitis A virus",
-    "cytomegalovirus",
+    "respiratory syncytial virus",
+    "influenza A virus",
     "human immunodeficiency virus"
    ],
-   "answer": 3,
-   "explanation": "HIV weakens the immune system over time, so ordinary infections can become life-threatening.",
+   "explanation": "A virus that progressively destroys immune defenses until ordinary infections become life-threatening is the human immunodeficiency virus. The other viruses cause acute illness but do not dismantle the immune system.",
+   "question": "You transport a thin, chronically ill man whose chart notes a long-standing viral infection that has destroyed his immune defenses. He now has a pneumonia that a healthy person's immune system would normally fight off easily. The virus that damaged his immune system is most likely:",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "human immunodeficiency virus",
    "topic_n": 7
   },
   {
-   "question": "After a call, your partner asks what made the patient sick. You explain that a microscopic organism capable of causing disease in a susceptible host was responsible. That organism is called what?",
-   "choices": [
-    "pathogen",
-    "antigen",
-    "antibody",
-    "vector"
-   ],
    "answer": 0,
-   "explanation": "A pathogen is by definition a microorganism that can cause disease in a susceptible host.",
+   "choices": [
+    "the bacterium the tick carried",
+    "the mouse",
+    "the tick",
+    "the hiker"
+   ],
+   "explanation": "The bacterium is the microorganism that causes the illness, which makes it the pathogen. The tick only carried it from one host to another, and the mouse and the hiker are the hosts it lived in and attacked.",
+   "question": "A tick feeds on a mouse carrying the Lyme disease bacterium, then bites a hiker, who becomes ill a week later. In this chain of infection, the disease-causing microorganism itself is:",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "pathogen",
    "topic_n": 8
   },
   {
-   "question": "A nursing home reports several residents ill after a virus spread through the dining hall. In the incident report, that virus is documented as which type of agent?",
+   "answer": 2,
    "choices": [
-    "allergen",
-    "pathogen",
-    "carcinogen",
-    "toxin"
+    "The shared dining hall where residents ate together",
+    "The staff members who worked while feeling ill",
+    "The virus identified in the residents' lab results",
+    "The two-day gap between the meal and the first symptoms"
    ],
+   "explanation": "The causative agent is the virus itself, the pathogen. The dining hall describes where and how spread happened, and the two-day gap is the incubation period; neither names the organism causing the disease.",
+   "question": "You are writing the report on a nursing-home outbreak: several residents fell ill after a virus spread through the shared dining hall. Which entry in your report names the agent that caused the illness, rather than how it spread?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "pathogen",
+   "topic_n": 8
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "The policy exists so the crew uses up disinfectant before it expires",
+    "Only patients with a fever leave anything harmful behind on surfaces",
+    "Disease-causing microorganisms can be present on surfaces even when a patient shows no signs of illness",
+    "Disinfection is mainly for appearance, so the unit looks clean for the next crew"
+   ],
+   "explanation": "Pathogens, the microorganisms capable of causing disease, can be shed by people who look and feel well. Disinfecting after every patient, not just visibly sick ones, is what breaks that chain.",
+   "question": "A new EMT asks why the crew disinfects the ambulance after every patient instead of only after patients who look sick. What is the best explanation?",
+   "source": "Quiz-Style Slides — Set 2",
+   "topic": "pathogen",
+   "topic_n": 8
+  },
+  {
    "answer": 1,
-   "explanation": "The virus is the disease-causing microorganism in this outbreak, which is exactly what pathogen means.",
-   "source": "Quiz-Style Slides — Set 2",
-   "topic": "pathogen",
-   "topic_n": 8
-  },
-  {
-   "question": "During decon, an EMT asks why the ambulance must be disinfected after every patient, not just visibly sick ones. The answer is to kill any disease-causing microorganism that may be present. That microorganism is a what?",
-   "choices": [
-    "parasite",
-    "spore",
-    "enzyme",
-    "pathogen"
-   ],
-   "answer": 3,
-   "explanation": "Disinfection targets pathogens — microorganisms capable of causing disease — whether or not illness is obvious.",
-   "source": "Quiz-Style Slides — Set 2",
-   "topic": "pathogen",
-   "topic_n": 8
-  },
-  {
-   "question": "An EMT develops a MRSA skin infection after her bare forearm, with broken skin from a scrape, pressed against a patient's infected wound during a lift. Which mode of transmission is this?",
    "choices": [
     "vector-borne transmission",
     "direct contact",
     "airborne transmission",
     "indirect contact"
    ],
-   "answer": 1,
    "explanation": "The infection passed by physical skin-to-skin contact with infectious material — direct contact transmission.",
+   "question": "An EMT develops a MRSA skin infection after her bare forearm, with broken skin from a scrape, pressed against a patient's infected wound during a lift. Which mode of transmission is this?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "direct contact",
    "topic_n": 9
   },
   {
-   "question": "A paramedic's ungloved hand touches a patient's bloody laceration while controlling bleeding. If the patient carries hepatitis B, the paramedic's risk came through which route?",
+   "answer": 0,
    "choices": [
     "direct contact",
     "droplet transmission",
     "vehicle-borne transmission",
     "airborne transmission"
    ],
-   "answer": 0,
    "explanation": "Physical contact with the patient's blood is transmission by direct contact.",
+   "question": "A paramedic's ungloved hand touches a patient's bloody laceration while controlling bleeding. If the patient carries hepatitis B, the paramedic's risk came through which route?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "direct contact",
    "topic_n": 9
   },
   {
-   "question": "Two wrestlers share a mat, and one gives the other a herpes skin infection through skin-to-skin contact during a match. EMS documents the transmission route as what?",
+   "answer": 0,
    "choices": [
     "direct contact",
     "common vehicle transmission",
     "airborne transmission",
     "indirect contact"
    ],
-   "answer": 0,
    "explanation": "The virus moved from person to person by physical contact, the definition of direct contact.",
+   "question": "Two wrestlers share a mat, and one gives the other a herpes skin infection through skin-to-skin contact during a match. EMS documents the transmission route as what?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "direct contact",
    "topic_n": 9
   },
   {
-   "question": "Blood from a trauma patient splashes into an EMT's eyes. She feels fine and has no symptoms, but the hospital still sends her to occupational health. What has she had, by definition?",
+   "answer": 0,
    "choices": [
     "exposure",
     "contamination",
     "immunity",
     "infection"
    ],
-   "answer": 0,
    "explanation": "Contact with blood or body fluids with the potential to develop disease is an exposure, even before any illness appears.",
+   "question": "Blood from a trauma patient splashes into an EMT's eyes. She feels fine and has no symptoms, but the hospital still sends her to occupational health. What has she had, by definition?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "exposure",
    "topic_n": 10
   },
   {
-   "question": "A firefighter breathes dust at a collapse where a patient later tests positive for tuberculosis. He is not sick, but he must be tested and followed. What term describes his situation?",
+   "answer": 0,
    "choices": [
     "exposure",
     "infection",
     "colonization",
     "incubation"
    ],
-   "answer": 0,
    "explanation": "He had contact with airborne particles that could cause disease — an exposure requiring follow-up.",
+   "question": "A firefighter breathes dust at a collapse where a patient later tests positive for tuberculosis. He is not sick, but he must be tested and followed. What term describes his situation?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "exposure",
    "topic_n": 10
   },
   {
-   "question": "After a needlestick, a paramedic completes an incident report, gets baseline blood tests, and is offered follow-up care. This whole process is triggered by which event?",
+   "answer": 0,
    "choices": [
     "exposure",
     "transmission",
     "quarantine",
     "diagnosis"
    ],
-   "answer": 0,
    "explanation": "The needlestick created contact with blood and a potential for disease, which is an exposure.",
+   "question": "After a needlestick, a paramedic completes an incident report, gets baseline blood tests, and is offered follow-up care. This whole process is triggered by which event?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "exposure",
    "topic_n": 10
   },
   {
-   "question": "Between patients, a crew wipes down the stretcher, changes gloves, washes hands, and bags contaminated trash before the next call. Together, these steps are known as what?",
+   "answer": 1,
    "choices": [
     "decontamination",
     "infection control",
     "standard precautions",
     "sterilization"
    ],
-   "answer": 1,
    "explanation": "These are procedures done specifically to reduce transmission of infection among patients and health care personnel.",
+   "question": "Between patients, a crew wipes down the stretcher, changes gloves, washes hands, and bags contaminated trash before the next call. Together, these steps are known as what?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "infection control",
    "topic_n": 11
   },
   {
-   "question": "A new EMT asks why the service has written rules for glove use, sharps containers, and cleaning the rig. The officer explains the rules exist to cut the spread of disease between patients and crews. What are these rules called?",
+   "answer": 2,
    "choices": [
     "universal precautions",
     "exposure control (procedures)",
     "infection control (procedures)",
     "medical asepsis"
    ],
-   "answer": 2,
    "explanation": "Standardized steps that reduce infection transmission are infection control procedures.",
+   "question": "A new EMT asks why the service has written rules for glove use, sharps containers, and cleaning the rig. The officer explains the rules exist to cut the spread of disease between patients and crews. What are these rules called?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "infection control",
    "topic_n": 11
   },
   {
-   "question": "After transporting a patient with influenza, the crew disinfects all contact surfaces and launders the linens before returning to service. This routine is part of which practice?",
+   "answer": 1,
    "choices": [
     "source control",
     "infection control",
     "immunization",
     "patient isolation"
    ],
-   "answer": 1,
    "explanation": "Cleaning and disinfecting after a contagious patient is a core infection control procedure.",
+   "question": "After transporting a patient with influenza, the crew disinfects all contact surfaces and launders the linens before returning to service. This routine is part of which practice?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "infection control",
    "topic_n": 11
   },
   {
-   "question": "After three years of back-to-back traumatic calls with no break, a paramedic feels constantly exhausted, dreads every shift, and cannot sleep — yet there was no single bad call. What is this pattern called?",
+   "answer": 2,
    "choices": [
     "acute stress reactions",
     "delayed stress reactions",
     "cumulative stress reactions",
     "posttraumatic stress disorder"
    ],
-   "answer": 2,
    "explanation": "The symptoms built up from prolonged, repeated stress over time rather than one incident.",
+   "question": "After three years of back-to-back traumatic calls with no break, a paramedic feels constantly exhausted, dreads every shift, and cannot sleep — yet there was no single bad call. What is this pattern called?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "cumulative stress reactions",
    "topic_n": 12
   },
   {
-   "question": "A veteran EMT notices growing irritability, loss of appetite, and trouble concentrating after months of overtime and difficult calls piling up. His chief recognizes the slow buildup as what?",
+   "answer": 3,
    "choices": [
     "compassion satisfaction",
     "acute stress reactions",
     "critical incident stress",
     "cumulative stress reactions"
    ],
-   "answer": 3,
    "explanation": "Prolonged or excessive stress accumulating over time produces cumulative stress reactions.",
+   "question": "A veteran EMT notices growing irritability, loss of appetite, and trouble concentrating after months of overtime and difficult calls piling up. His chief recognizes the slow buildup as what?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "cumulative stress reactions",
    "topic_n": 12
   },
   {
-   "question": "Unlike a reaction to one horrific scene, an EMT's burnout develops gradually over a year of relentless call volume and staffing shortages. Which type of stress reaction is this?",
+   "answer": 2,
    "choices": [
     "acute stress reactions",
     "fight-or-flight response",
     "cumulative stress reactions",
     "delayed stress reactions"
    ],
-   "answer": 2,
    "explanation": "It results from stress that is prolonged and excessive, accumulating call after call.",
+   "question": "Unlike a reaction to one horrific scene, an EMT's burnout develops gradually over a year of relentless call volume and staffing shortages. Which type of stress reaction is this?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "cumulative stress reactions",
    "topic_n": 12
   },
   {
-   "question": "Which term is defined as: Acquired immunodeficiency syndrome (AIDS) is caused by HIV, which damages the cells in the body's immune system so that the body is unable to fight infection or certain cancers.",
-   "choices": [
-    "human immunodeficiency virus",
-    "cold-weather clothing layers",
-    "host",
-    "eye protection"
-   ],
-   "answer": 0,
-   "explanation": "human immunodeficiency virus: Acquired immunodeficiency syndrome (AIDS) is caused by HIV, which damages the cells in the body's immune system so that the body is unable to fight infection or certain cancers.",
-   "source": "Flashcard Slides — Set 2",
-   "topic": "human immunodeficiency virus",
-   "topic_n": 7
-  },
-  {
-   "question": "What does the term \"human immunodeficiency virus\" mean?",
-   "choices": [
-    "A beneficial response to a stressor.",
-    "Acquired immunodeficiency syndrome (AIDS) is caused by HIV, which damages the cells in the body's immune system so that the body is unable to fight infection or certain cancers.",
-    "Reactions to stress that occur during a stressful situation.",
-    "Handling needles and other sharps carefully and disposing of them properly; careless handling of sharps is the usual route by which HIV and hepatitis are spread in health care settings."
-   ],
    "answer": 1,
-   "explanation": "human immunodeficiency virus: Acquired immunodeficiency syndrome (AIDS) is caused by HIV, which damages the cells in the body's immune system so that the body is unable to fight infection or certain cancers.",
+   "choices": [
+    "influenza A virus",
+    "human immunodeficiency virus",
+    "hepatitis C virus",
+    "hepatitis B virus"
+   ],
+   "explanation": "Hepatitis B has an effective vaccine, and hepatitis C, while it also has no vaccine, attacks the liver. The virus that both lacks a vaccine and destroys the immune system's cells is the human immunodeficiency virus.",
+   "question": "After a sharps injury, an EMT asks why the follow-up for one virus on her baseline panel worries her more than the hepatitis B result. That virus is the one that has no vaccine and that destroys the immune system's own cells. It is:",
    "source": "Flashcard Slides — Set 2",
    "topic": "human immunodeficiency virus",
    "topic_n": 7
   },
   {
-   "question": "In 1984, Indiana teenager Ryan White, who had hemophilia, was diagnosed with AIDS after receiving a contaminated factor VIII blood product. Doctors said he posed no casual-contact risk, yet he was barred from his middle school in 1985 and had to fight in court to attend. What does this case teach an EMT about caring for a patient with HIV?",
+   "answer": 3,
+   "choices": [
+    "Gloves are only needed when the patient is bleeding heavily",
+    "Skip the gloves this once, but wash hands for twice as long afterward",
+    "He is right; a virus that targets immune cells makes blood contact low risk",
+    "That virus is carried in blood, so standard precautions apply in full: glove up for any blood contact"
+   ],
+   "explanation": "The human immunodeficiency virus travels in blood and other body fluids even though its target is the immune system. The partner is confusing where the virus does its damage with how it reaches you, and standard precautions do not relax because a patient names a diagnosis.",
+   "question": "Your partner skips gloves for a bleeding patient, saying, 'He told us his viral infection only attacks his immune system, so it is not like it is in his blood.' What is the best correction?",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "human immunodeficiency virus",
+   "topic_n": 7
+  },
+  {
+   "answer": 1,
    "choices": [
     "Patients with HIV should be transported only by crews who volunteer for infectious-disease calls.",
     "HIV status never changes the care you give — use standard precautions and treat the patient with respect on every call.",
     "HIV can spread through casual contact, so the crew should limit all physical contact with the patient.",
     "A patient with HIV should be told to arrange private transport instead of using an ambulance."
    ],
-   "answer": 1,
    "explanation": "HIV spreads through blood, not casual contact, so standard precautions and respect are the correct response on every call.",
+   "question": "In 1984, Indiana teenager Ryan White, who had hemophilia, was diagnosed with AIDS after receiving a contaminated factor VIII blood product. Doctors said he posed no casual-contact risk, yet he was barred from his middle school in 1985 and had to fight in court to attend. What does this case teach an EMT about caring for a patient with HIV?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "human immunodeficiency virus",
    "topic_n": 7
   },
   {
-   "question": "In rural Scott County, Indiana, a county that had seen about five HIV cases in the previous decade saw an explosive outbreak in 2015 among people injecting the painkiller Opana ER with shared syringes; 188 cases were confirmed by April 2016, and over 90% of patients also had hepatitis C. What should an EMT take from this outbreak?",
+   "answer": 3,
    "choices": [
     "A patient who injects drugs should be refused transport until they agree to HIV testing.",
     "HIV outbreaks only occur in large cities, so rural crews do not need sharps precautions.",
     "Used needles found at a scene are safe to handle once the patient has been loaded.",
     "Assume any shared needle or blood exposure can carry HIV, and report sharps injuries immediately."
    ],
-   "answer": 3,
    "explanation": "HIV can spread silently through shared syringes and blood, so every sharps exposure must be treated as a risk and reported at once.",
+   "question": "In rural Scott County, Indiana, a county that had seen about five HIV cases in the previous decade saw an explosive outbreak in 2015 among people injecting the painkiller Opana ER with shared syringes; 188 cases were confirmed by April 2016, and over 90% of patients also had hepatitis C. What should an EMT take from this outbreak?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "human immunodeficiency virus",
    "topic_n": 7
   },
   {
-   "question": "Which term is defined as: A microorganism that is capable of causing disease in a susceptible host.",
+   "answer": 1,
    "choices": [
-    "pathogen",
-    "quid pro quo",
-    "eye protection",
-    "bloodborne pathogens"
+    "the host the illness attacked first",
+    "the disease-causing microorganism at the source of the outbreak",
+    "the vector that spread the illness",
+    "the vehicle that carried the illness to the guests"
    ],
-   "answer": 0,
-   "explanation": "pathogen: A microorganism that is capable of causing disease in a susceptible host.",
+   "explanation": "The bacterium is the pathogen, the microorganism causing the disease. The shower mist and water were the vehicle that carried it to the guests, who were the hosts; no living carrier was involved, so there is no vector.",
+   "question": "Investigators trace a cluster of severe pneumonia cases to one hotel's water system, where they find a previously unrecognized bacterium growing in the pipes. Guests who breathed mist from the showers became ill. In this outbreak, the bacterium is best described as:",
    "source": "Flashcard Slides — Set 2",
    "topic": "pathogen",
    "topic_n": 8
   },
   {
-   "question": "What does the term \"pathogen\" mean?",
+   "answer": 1,
    "choices": [
-    "A microorganism that is capable of causing disease in a susceptible host.",
-    "The individual in the department who is charged with the responsibility of managing exposures and infection control.",
-    "Pathogenic microorganisms that are present in human blood and can cause disease in humans. These pathogens include, but are not limited to, hepatitis B virus and human immunodeficiency virus.",
-    "The misuse of drugs or alcohol by a provider, on or off duty, that endangers the provider, coworkers, and patients; among EMS personnel, its most serious consequence is substandard or inappropriate patient care."
+    "the protein on the bacterium",
+    "the bacterium",
+    "the potato salad",
+    "the fly"
    ],
-   "answer": 0,
-   "explanation": "pathogen: A microorganism that is capable of causing disease in a susceptible host.",
+   "explanation": "The bacterium is the pathogen, the microorganism that caused the disease. The protein is an antigen because it triggers the immune response, the fly acted as a mechanical vector, and the salad was the vehicle.",
+   "question": "During a food-poisoning investigation, a health officer sorts out the pieces: a bacterium in the potato salad made people sick, a protein on that bacterium triggered their immune response, and a fly that landed on the salad helped carry the bacterium from a trash bin. The disease-causing organism in this event is:",
    "source": "Flashcard Slides — Set 2",
    "topic": "pathogen",
    "topic_n": 8
   },
   {
-   "question": "In 1976, 221 attendees of an American Legion convention at a Philadelphia hotel fell ill with pneumonia and 34 died. CDC investigator Joseph McDade identified a previously unknown bacterium, Legionella pneumophila, traced to the hotel's cooling tower. What is the main lesson of this investigation for an EMT?",
+   "answer": 1,
    "choices": [
     "Respiratory illness clusters should be attributed to weather changes unless a pathogen is confirmed.",
     "Treat unexplained clusters of respiratory illness as infectious until proven otherwise.",
     "Only illnesses with a known cause require the crew to wear respiratory protection.",
     "Clusters of pneumonia at one building are usually caused by food poisoning and need no precautions."
    ],
-   "answer": 1,
    "explanation": "A brand-new pathogen caused the outbreak before anyone knew it existed, so unexplained illness clusters must be treated as infectious.",
+   "question": "In 1976, 221 attendees of an American Legion convention at a Philadelphia hotel fell ill with pneumonia and 34 died. CDC investigator Joseph McDade identified a previously unknown bacterium, Legionella pneumophila, traced to the hotel's cooling tower. What is the main lesson of this investigation for an EMT?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "pathogen",
    "topic_n": 8
   },
   {
-   "question": "Thomas Eric Duncan arrived in Dallas from Liberia in September 2014 and became the first Ebola case diagnosed in the United States; he died on October 8, 2014. His recent travel from an outbreak region was a key fact in recognizing the danger. What practice does this case highlight for EMS crews?",
+   "answer": 2,
    "choices": [
     "Patients arriving from overseas should be refused transport until public health clears them.",
     "Travel history matters only for patients who already have a confirmed diagnosis.",
     "Ask where a febrile patient has traveled — travel history is a vital sign.",
     "Ask about travel only after the patient reaches the hospital, to avoid delaying transport."
    ],
-   "answer": 2,
    "explanation": "A single imported case can bring an overseas pathogen into a US emergency department without warning, so travel history must be asked early.",
+   "question": "Thomas Eric Duncan arrived in Dallas from Liberia in September 2014 and became the first Ebola case diagnosed in the United States; he died on October 8, 2014. His recent travel from an outbreak region was a key fact in recognizing the danger. What practice does this case highlight for EMS crews?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "pathogen",
    "topic_n": 8
   },
   {
-   "question": "Which term is defined as: Exposure or transmission of a communicable disease from one person to another by physical contact.",
+   "answer": 3,
    "choices": [
-    "wellness",
+    "foodborne transmission",
+    "airborne transmission",
+    "indirect contact",
+    "direct contact"
+   ],
+   "explanation": "The organism passed by physical contact with the infected person, with no object in between, which is direct contact. Indirect contact would require a contaminated object to carry the organism to you.",
+   "question": "While helping lift a patient, your bare forearm, which has a fresh scrape, presses against the patient's draining, infected leg wound. This is an example of disease spread by:",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "direct contact",
+   "topic_n": 9
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "vector-borne transmission",
     "direct contact",
-    "bloodborne pathogens",
-    "posttraumatic stress disorder"
+    "indirect contact",
+    "airborne transmission"
    ],
-   "answer": 1,
-   "explanation": "direct contact: Exposure or transmission of a communicable disease from one person to another by physical contact.",
+   "explanation": "The first wrestler's spread required actual physical contact with the infected person, which is direct contact. The towel case is indirect contact, because a contaminated object carried the organism instead.",
+   "question": "Two wrestlers on the same team develop the same skin infection. One caught it during a match from skin-to-skin contact with an infected opponent. The other never wrestled him but dried off with the opponent's unwashed towel. The first wrestler's infection spread by:",
    "source": "Flashcard Slides — Set 2",
    "topic": "direct contact",
    "topic_n": 9
   },
   {
-   "question": "What does the term \"direct contact\" mean?",
-   "choices": [
-    "The body's response to stress that begins with an alarm response, followed by a stage of reaction and resistance, and then recovery or, if the stress is prolonged, exhaustion.",
-    "Exposure or transmission of a communicable disease from one person to another by physical contact.",
-    "The misuse of drugs or alcohol by a provider, on or off duty, that endangers the provider, coworkers, and patients; among EMS personnel, its most serious consequence is substandard or inappropriate patient care.",
-    "A combination of exhaustion, cynicism, and reduced performance resulting from long-term job stresses."
-   ],
-   "answer": 1,
-   "explanation": "direct contact: Exposure or transmission of a communicable disease from one person to another by physical contact.",
-   "source": "Flashcard Slides — Set 2",
-   "topic": "direct contact",
-   "topic_n": 9
-  },
-  {
-   "question": "During the 2003 season, five St. Louis Rams players developed MRSA infections, and every infection started at a turf-burn abrasion, mostly in linemen and linebackers; investigators blamed skin-to-skin contact, shared towels, and communal whirlpools. What precaution does this case stress for an EMT?",
+   "answer": 0,
    "choices": [
     "Cover your own broken skin before patient contact, because open cuts are a doorway for infection.",
     "Abrasions should be left uncovered so they can dry out during the shift.",
     "Skin infections like MRSA spread only through the air, so covering cuts does not matter.",
     "Gloves alone are enough protection even when the EMT has open cuts on the hands."
    ],
-   "answer": 0,
    "explanation": "MRSA moved between players through skin-to-skin contact at open abrasions — textbook direct contact transmission.",
+   "question": "During the 2003 season, five St. Louis Rams players developed MRSA infections, and every infection started at a turf-burn abrasion, mostly in linemen and linebackers; investigators blamed skin-to-skin contact, shared towels, and communal whirlpools. What precaution does this case stress for an EMT?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "direct contact",
    "topic_n": 9
   },
   {
-   "question": "In Dallas in 2014, ICU nurses Nina Pham and Amber Vinson were infected with Ebola after caring for patient Thomas Eric Duncan; Vinson had inserted catheters, drawn blood, and handled heavy body-fluid exposure. What does their infection demonstrate about PPE?",
+   "answer": 2,
    "choices": [
     "PPE is unnecessary when the provider is experienced with the procedures being performed.",
     "Gloves alone provide adequate protection against blood and body fluids.",
     "For high-risk fluids, PPE must be complete and removed in the correct sequence — no shortcuts.",
     "PPE can be removed in any order as long as handwashing happens afterward."
    ],
-   "answer": 2,
    "explanation": "The nurses were infected through direct contact with infectious body fluids, so complete PPE and correct removal sequence are essential.",
+   "question": "In Dallas in 2014, ICU nurses Nina Pham and Amber Vinson were infected with Ebola after caring for patient Thomas Eric Duncan; Vinson had inserted catheters, drawn blood, and handled heavy body-fluid exposure. What does their infection demonstrate about PPE?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "direct contact",
    "topic_n": 9
   },
   {
-   "question": "Which term is defined as: A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease.",
+   "answer": 3,
    "choices": [
-    "exposure",
-    "critical incident stress debriefing",
-    "direct contact",
-    "designated officer"
+    "Nothing has happened yet, because she has no symptoms",
+    "She has an infection, because blood reached her eyes",
+    "It only counts if the patient is later confirmed to be ill",
+    "She has had an exposure: contact with blood that could lead to disease, and it must be reported and followed up even though she feels fine"
    ],
+   "explanation": "Contact with blood or body fluids that gives her the potential to develop disease is an exposure, whether or not symptoms ever appear. An infection would mean an organism has actually invaded and multiplied, and waiting to feel sick forfeits the follow-up window.",
+   "question": "During suctioning, blood splashes into an EMT's eyes. She feels completely fine and wants to finish the shift without paperwork. What is the correct understanding of her situation?",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "exposure",
+   "topic_n": 10
+  },
+  {
    "answer": 0,
-   "explanation": "exposure: A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease.",
-   "source": "Flashcard Slides — Set 2",
-   "topic": "exposure",
-   "topic_n": 10
-  },
-  {
-   "question": "What does the term \"exposure\" mean?",
    "choices": [
-    "Procedures to reduce transmission of infection among patients and health care personnel.",
-    "A delayed stress reaction to a prior incident. Often the result of one or more unresolved issues concerning the incident, and may relate to an incident that involved physical harm or the threat of physical harm.",
-    "A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease.",
-    "Reactions to stress that occur during a stressful situation."
+    "The first provider: she had contact with blood and the potential to develop disease",
+    "All three providers equally",
+    "The third provider: he is actually ill from the organism",
+    "The second provider: organisms are living on him without causing disease"
    ],
-   "answer": 2,
-   "explanation": "exposure: A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease.",
+   "explanation": "An exposure is contact with blood, body fluids, tissues, or airborne particles with the potential to develop disease; illness does not have to follow. The second provider's situation is colonization, and the third has an actual infection.",
+   "question": "Occupational health reviews three providers after a busy week. The first had blood splash her unprotected skin, but follow-up lab work shows no illness developing. The second has bacteria growing in his nose with no symptoms or disease. The third is home sick with a confirmed bacterial illness caught from a patient. Which provider's situation must be reported and followed up as a contact that could lead to disease, even though she may never become ill?",
    "source": "Flashcard Slides — Set 2",
    "topic": "exposure",
    "topic_n": 10
   },
   {
-   "question": "In 2001, an anthrax letter sent to Senator Daschle passed through Washington, DC's Brentwood mail facility before it was opened. Postal workers Thomas Morris Jr. and Joseph Curseen Jr. died of inhalation anthrax without ever opening the letter, and nearly 1,900 employees received full 60-day antibiotic courses. What does this case teach about an exposure?",
+   "answer": 0,
    "choices": [
     "An exposure does not require symptoms — report it the same shift and follow the follow-up plan.",
     "Only people who directly handled the letter need testing or preventive treatment.",
     "An exposure is only official once a laboratory confirms the person is infected.",
     "Workers without symptoms should wait to see if they get sick before reporting anything."
    ],
-   "answer": 0,
    "explanation": "The Brentwood workers were exposed without being patients at first, and exposure alone triggered testing, antibiotics, and monitoring.",
+   "question": "In 2001, an anthrax letter sent to Senator Daschle passed through Washington, DC's Brentwood mail facility before it was opened. Postal workers Thomas Morris Jr. and Joseph Curseen Jr. died of inhalation anthrax without ever opening the letter, and nearly 1,900 employees received full 60-day antibiotic courses. What does this case teach about an exposure?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "exposure",
    "topic_n": 10
   },
   {
-   "question": "Through February 2020, Kirkland, Washington firefighters answered about 30 medical calls at a nursing home where COVID-19 was spreading, up from 7 calls the month before, without knowing the virus was inside. On February 29 the city quarantined 25 firefighters and 2 police officers, and roughly a third of the department ended up in quarantine or isolation. What is the key staffing lesson?",
+   "answer": 0,
    "choices": [
     "One unprotected transport can sideline a whole crew — PPE protects staffing as well as health.",
     "Crews should keep answering calls at an outbreak facility without PPE to maintain staffing.",
     "Exposure tracking only matters once a responder tests positive.",
     "Quarantine after repeated facility calls is an overreaction if no responder feels sick."
    ],
-   "answer": 0,
    "explanation": "Repeated routine calls created repeated exposures before anyone knew the pathogen was there, sidelining much of the department.",
+   "question": "Through February 2020, Kirkland, Washington firefighters answered about 30 medical calls at a nursing home where COVID-19 was spreading, up from 7 calls the month before, without knowing the virus was inside. On February 29 the city quarantined 25 firefighters and 2 police officers, and roughly a third of the department ended up in quarantine or isolation. What is the key staffing lesson?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "exposure",
    "topic_n": 10
   },
   {
-   "question": "Which term is defined as: Procedures to reduce transmission of infection among patients and health care personnel.",
-   "choices": [
-    "airborne transmission",
-    "quid pro quo",
-    "distress",
-    "infection control"
-   ],
-   "answer": 3,
-   "explanation": "infection control: Procedures to reduce transmission of infection among patients and health care personnel.",
-   "source": "Flashcard Slides — Set 2",
-   "topic": "infection control",
-   "topic_n": 11
-  },
-  {
-   "question": "What does the term \"infection control\" mean?",
-   "choices": [
-    "Procedures to reduce transmission of infection among patients and health care personnel.",
-    "Handling needles and other sharps carefully and disposing of them properly; careless handling of sharps is the usual route by which HIV and hepatitis are spread in health care settings.",
-    "A sexually transmitted infectious disease caused by the bacterium Treponema pallidum; unlike many infections, it confers no protection from reinfection after exposure, so a treated person can catch it again.",
-    "Pathogenic microorganisms that are present in human blood and can cause disease in humans. These pathogens include, but are not limited to, hepatitis B virus and human immunodeficiency virus."
-   ],
    "answer": 0,
-   "explanation": "infection control: Procedures to reduce transmission of infection among patients and health care personnel.",
+   "choices": [
+    "infection control",
+    "exposure management",
+    "ambulance decontamination",
+    "standard precautions"
+   ],
+   "explanation": "Infection control is the whole set of procedures used to reduce transmission of infection among patients and health care personnel. Decontamination is only the cleaning piece of it, and standard precautions are the treat-every-patient-as-infectious rule behind the gloves and handwashing.",
+   "question": "Between patients, a crew wipes down the cot and rails, changes gloves, bags the trash, and washes hands before the next call. Taken together, these steps are the department's procedures for:",
    "source": "Flashcard Slides — Set 2",
    "topic": "infection control",
    "topic_n": 11
   },
   {
-   "question": "At Vienna General Hospital in 1847, mothers in the doctors' clinic died of childbed fever at far higher rates than in the midwives' clinic. Ignaz Semmelweis ordered handwashing in chlorinated lime solution after autopsy work, and mortality fell from 18.3% in April to 2.2% in June and 1.2% in July. What does this founding case establish?",
+   "answer": 1,
+   "choices": [
+    "Using a disinfectant the crew chief bought at a hardware store",
+    "Skipping hand hygiene between patients, which carries organisms from one patient straight to the next",
+    "Letting the patient ride without a sheet on the cot",
+    "Placing the oxygen mask before taking a full set of vitals"
+   ],
+   "explanation": "Hand hygiene between patients is a core infection control step. Skipping it moves organisms directly from the last patient to the next one, which defeats the cot disinfection the crew did perform.",
+   "question": "A crew turns a unit around fast between calls: the cot is disinfected and fresh gloves are stocked, but the EMT who just handled a vomiting patient skips washing his hands before touching the next patient's face to place an oxygen mask. Which failure most directly defeats the crew's efforts to stop infection from spreading between patients?",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "infection control",
+   "topic_n": 11
+  },
+  {
+   "answer": 0,
    "choices": [
     "Hand hygiene is the single most effective infection control step on every call.",
     "Mortality fell because the midwives' clinic admitted healthier patients, not because of handwashing.",
     "Handwashing matters only after autopsy or morgue work, not between patients.",
     "Gloves make hand hygiene unnecessary when they are changed between patients."
    ],
-   "answer": 0,
    "explanation": "One simple procedure — disinfecting hands between patients — cut deaths dramatically: the founding demonstration of infection control.",
+   "question": "At Vienna General Hospital in 1847, mothers in the doctors' clinic died of childbed fever at far higher rates than in the midwives' clinic. Ignaz Semmelweis ordered handwashing in chlorinated lime solution after autopsy work, and mortality fell from 18.3% in April to 2.2% in June and 1.2% in July. What does this founding case establish?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "infection control",
    "topic_n": 11
   },
   {
-   "question": "At the Endoscopy Center of Southern Nevada in 2008, staff reused syringes and single-dose medication vials between patients. About 50,000 patients were notified and urged to test for hepatitis C, hepatitis B, and HIV, and nine hepatitis C infections were genetically confirmed as clinic-linked. What rule does this case make absolute?",
+   "answer": 3,
    "choices": [
     "Single-dose vials can be shared between patients if the top is wiped with alcohol.",
     "Reusing injection equipment is acceptable when supplies are running low.",
     "A syringe may be reused on the same patient if the needle is changed each time.",
     "One syringe, one needle, one vial entry — never reuse injection equipment."
    ],
-   "answer": 3,
    "explanation": "Skipping basic infection control procedures turned a routine clinic into one of the largest exposure events in US history.",
+   "question": "At the Endoscopy Center of Southern Nevada in 2008, staff reused syringes and single-dose medication vials between patients. About 50,000 patients were notified and urged to test for hepatitis C, hepatitis B, and HIV, and nine hepatitis C infections were genetically confirmed as clinic-linked. What rule does this case make absolute?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "infection control",
    "topic_n": 11
   },
   {
-   "question": "Which term is defined as: Prolonged or excessive stress.",
+   "answer": 1,
    "choices": [
-    "exposure",
-    "critical incident stress debriefing",
-    "posttraumatic stress disorder",
-    "cumulative stress reactions"
+    "eustress",
+    "cumulative stress reactions",
+    "acute stress reaction",
+    "posttraumatic stress disorder"
    ],
+   "explanation": "Prolonged, excessive stress built up from many incidents over time produces cumulative stress reactions. Posttraumatic stress disorder ties to a specific traumatic incident, and an acute stress reaction happens during a single event.",
+   "question": "An EMT tells his chief, 'There was never one terrible call. It is just three years of bad calls stacking up, and lately I am exhausted all the time.' His stress picture best fits:",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "cumulative stress reactions",
+   "topic_n": 12
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Write him up for the sick days so the pattern is documented",
+    "Talk with him privately and connect him with support resources, treating this as the product of years of stacked stress",
+    "Move him to a busier station so he can rebuild his tolerance",
+    "Require him to attend a critical incident debriefing about his worst call"
+   ],
+   "explanation": "His decline is the product of prolonged, accumulated stress rather than one incident, so a single-incident debriefing misses the problem. A private, supportive conversation with resources addresses the buildup itself.",
+   "question": "A chief notices a reliable veteran EMT slowly sliding over two years: more sick days, less patience, declining interest in training. There was no single critical incident. What is the best first step?",
+   "source": "Flashcard Slides — Set 2",
+   "topic": "cumulative stress reactions",
+   "topic_n": 12
+  },
+  {
    "answer": 3,
-   "explanation": "cumulative stress reactions: Prolonged or excessive stress.",
-   "source": "Flashcard Slides — Set 2",
-   "topic": "cumulative stress reactions",
-   "topic_n": 12
-  },
-  {
-   "question": "What does the term \"cumulative stress reactions\" mean?",
-   "choices": [
-    "A beneficial response to a stressor.",
-    "The body's ability to protect itself from acquiring a disease.",
-    "Prolonged or excessive stress.",
-    "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions."
-   ],
-   "answer": 2,
-   "explanation": "cumulative stress reactions: Prolonged or excessive stress.",
-   "source": "Flashcard Slides — Set 2",
-   "topic": "cumulative stress reactions",
-   "topic_n": 12
-  },
-  {
-   "question": "After the September 11, 2001 attacks, FDNY screened 8,487 firefighters; 76% reported at least one PTSD symptom, about 12% met criteria for elevated PTSD risk, and a follow-up study found nearly half of probable PTSD cases were delayed onset, appearing 3–4 years later. What should responders and their departments take from this?",
    "choices": [
     "Responders should wait until symptoms interfere with work before seeking any help.",
     "Screening after a major incident is unnecessary if crews seem fine in the first few weeks.",
     "Symptoms that appear years later are unrelated to the original incident and need no support.",
     "Delayed symptoms are normal — use peer support and counseling early, before stress compounds."
    ],
-   "answer": 3,
    "explanation": "Months of recovery work on top of losing 343 coworkers produced stress reactions that kept emerging for years.",
+   "question": "After the September 11, 2001 attacks, FDNY screened 8,487 firefighters; 76% reported at least one PTSD symptom, about 12% met criteria for elevated PTSD risk, and a follow-up study found nearly half of probable PTSD cases were delayed onset, appearing 3–4 years later. What should responders and their departments take from this?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "cumulative stress reactions",
    "topic_n": 12
   },
   {
-   "question": "CDC surveyed New Orleans police officers and firefighters 7–13 weeks after Hurricane Katrina struck in August 2005. Of 525 firefighters, 22% reported PTSD symptoms and 27% reported major depressive symptoms, and many responders had also lost their own homes in the flooding. What operational lesson does this support?",
+   "answer": 2,
    "choices": [
     "Personal losses at home do not affect a responder's stress level on duty.",
     "Rest rotations can be suspended during disasters because the work itself builds resilience.",
     "Rotate crews and protect rest during long disasters; responders who are also victims need extra support.",
     "Responders who lost homes should be kept on duty longer to keep their minds off their losses."
    ],
-   "answer": 2,
    "explanation": "Weeks of disaster duty while personally displaced is prolonged, excessive stress — the recipe for cumulative stress reactions.",
+   "question": "CDC surveyed New Orleans police officers and firefighters 7–13 weeks after Hurricane Katrina struck in August 2005. Of 525 firefighters, 22% reported PTSD symptoms and 27% reported major depressive symptoms, and many responders had also lost their own homes in the flooding. What operational lesson does this support?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "cumulative stress reactions",
    "topic_n": 12

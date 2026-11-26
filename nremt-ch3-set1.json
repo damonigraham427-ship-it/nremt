@@ -1,589 +1,589 @@
 {
  "questions": [
   {
-   "question": "Your patient is unresponsive after a cardiac arrest and cannot speak. His wife hands you a signed living will stating he does not want to be kept alive on machines if there is no hope of recovery. What is this document called?",
+   "answer": 3,
    "choices": [
     "do not resuscitate order",
     "durable power of attorney for health care",
     "informed consent form",
     "advance directive"
    ],
-   "answer": 3,
    "explanation": "It is written documentation, made while competent, specifying treatment if the patient later becomes unable to make decisions.",
+   "question": "Your patient is unresponsive after a cardiac arrest and cannot speak. His wife hands you a signed living will stating he does not want to be kept alive on machines if there is no hope of recovery. What is this document called?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "advance directive",
    "topic_n": 1
   },
   {
-   "question": "A nursing home patient in a persistent vegetative state has no written instructions, and her sons disagree about tube feeding. Which document, had she completed it while competent, would have specified her treatment wishes?",
+   "answer": 2,
    "choices": [
     "physician orders for life-sustaining treatment",
     "durable power of attorney for health care",
     "advance directive (living will / health care directive)",
     "do not resuscitate order"
    ],
-   "answer": 2,
    "explanation": "An advance directive records a competent patient's treatment choices for a future time when she cannot decide.",
+   "question": "A nursing home patient in a persistent vegetative state has no written instructions, and her sons disagree about tube feeding. Which document, had she completed it while competent, would have specified her treatment wishes?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "advance directive",
    "topic_n": 1
   },
   {
-   "question": "During transport of an incapacitated stroke patient, a daughter says, 'Mom signed papers years ago saying no ventilator if she couldn't recover.' You should ask for and transport which type of document?",
+   "answer": 3,
    "choices": [
     "organ donor registration card",
     "do not resuscitate order",
     "durable power of attorney for health care",
     "advance directive"
    ],
-   "answer": 3,
    "explanation": "That description matches a living will, a form of advance directive specifying future treatment.",
+   "question": "During transport of an incapacitated stroke patient, a daughter says, 'Mom signed papers years ago saying no ventilator if she couldn't recover.' You should ask for and transport which type of document?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "advance directive",
    "topic_n": 1
   },
   {
-   "question": "A patient sues your agency in civil court, claiming the crew's careless spinal handling worsened his injury and seeking money damages. What type of legal claim is this?",
+   "answer": 3,
    "choices": [
     "a breach of contract claim",
     "a criminal prosecution",
     "an administrative complaint",
     "a tort (civil lawsuit)"
    ],
-   "answer": 3,
    "explanation": "A tort is a wrongful act that gives rise to a civil lawsuit; negligence claims against EMS are torts.",
+   "question": "A patient sues your agency in civil court, claiming the crew's careless spinal handling worsened his injury and seeking money damages. What type of legal claim is this?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "torts",
    "topic_n": 2
   },
   {
-   "question": "An EMT deliberately trips a rude bystander, who breaks a wrist and sues for damages. The bystander's claim for this intentional wrongful act is best classified as what?",
+   "answer": 1,
    "choices": [
     "a breach of contract claim",
     "an intentional tort",
     "a workers' compensation claim",
     "a criminal assault charge"
    ],
-   "answer": 1,
    "explanation": "Intentional wrongful acts such as battery are torts and are pursued as civil lawsuits.",
+   "question": "An EMT deliberately trips a rude bystander, who breaks a wrist and sues for damages. The bystander's claim for this intentional wrongful act is best classified as what?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "torts",
    "topic_n": 2
   },
   {
-   "question": "A family files a civil action, not criminal charges, after a medication error harms their father, asking the court to award compensatory damages. This lawsuit arises from what category of wrongful acts?",
+   "answer": 0,
    "choices": [
     "torts",
     "administrative violations",
     "criminal offenses",
     "contract disputes"
    ],
-   "answer": 0,
    "explanation": "Civil lawsuits for damages arise from torts, as opposed to criminal prosecutions brought by the state.",
+   "question": "A family files a civil action, not criminal charges, after a medication error harms their father, asking the court to award compensatory damages. This lawsuit arises from what category of wrongful acts?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "torts",
    "topic_n": 2
   },
   {
-   "question": "A sedated patient arrives at the hospital with a dislocated shoulder that was not present before transport, and no one can explain how it happened during loading. The family sues, arguing the injury itself proves carelessness. Which doctrine are they invoking?",
+   "answer": 1,
    "choices": [
     "proximate cause",
     "res ipsa loquitur",
     "gross negligence",
     "implied consent"
    ],
-   "answer": 1,
    "explanation": "Res ipsa loquitur holds the provider liable even when the plaintiff cannot clearly demonstrate how the injury occurred, because the injury ordinarily does not happen without negligence.",
+   "question": "A sedated patient arrives at the hospital with a dislocated shoulder that was not present before transport, and no one can explain how it happened during loading. The family sues, arguing the injury itself proves carelessness. Which doctrine are they invoking?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "res ipsa loquitur",
    "topic_n": 3
   },
   {
-   "question": "After surgery, imaging shows a surgical sponge left inside the patient. The patient cannot identify which team member miscounted. Under which doctrine may the jury infer negligence from the retained sponge alone?",
+   "answer": 1,
    "choices": [
     "assumption of risk",
     "res ipsa loquitur",
     "informed consent",
     "strict liability"
    ],
-   "answer": 1,
    "explanation": "A retained foreign object is the classic res ipsa case: the thing speaks for itself and the plaintiff need not prove the exact negligent act.",
+   "question": "After surgery, imaging shows a surgical sponge left inside the patient. The patient cannot identify which team member miscounted. Under which doctrine may the jury infer negligence from the retained sponge alone?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "res ipsa loquitur",
    "topic_n": 3
   },
   {
-   "question": "An unconscious patient's dentures are found broken and his face bruised after a transfer, with no witness able to say what happened while the crew had sole control of him. The plaintiff's inability to show the exact mechanism does not defeat the claim because of what doctrine?",
+   "answer": 3,
    "choices": [
     "good Samaritan immunity",
     "contributory negligence",
     "sovereign immunity",
     "res ipsa loquitur"
    ],
-   "answer": 3,
    "explanation": "When the instrumentality was in the defendant's exclusive control and the injury ordinarily implies negligence, res ipsa loquitur supplies the inference.",
+   "question": "An unconscious patient's dentures are found broken and his face bruised after a transfer, with no witness able to say what happened while the crew had sole control of him. The plaintiff's inability to show the exact mechanism does not defeat the claim because of what doctrine?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "res ipsa loquitur",
    "topic_n": 3
   },
   {
-   "question": "Before starting an IV, you explain the procedure to your alert patient and she says, 'Okay, go ahead.' What have you just obtained?",
+   "answer": 0,
    "choices": [
     "consent (expressed consent)",
     "an advance directive",
     "informed refusal",
     "implied consent"
    ],
-   "answer": 0,
    "explanation": "Consent is permission to render care, and her verbal authorization gives it.",
+   "question": "Before starting an IV, you explain the procedure to your alert patient and she says, 'Okay, go ahead.' What have you just obtained?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "consent",
    "topic_n": 4
   },
   {
-   "question": "A competent adult with chest pain listens to your explanation and says, 'No IV, no monitor, and I am not going to the hospital.' Forcing treatment anyway would violate which requirement?",
+   "answer": 2,
    "choices": [
     "scope of practice",
     "duty to act",
     "consent",
     "confidentiality"
    ],
-   "answer": 2,
    "explanation": "Care requires the patient's permission; a competent patient's refusal withdraws that permission.",
+   "question": "A competent adult with chest pain listens to your explanation and says, 'No IV, no monitor, and I am not going to the hospital.' Forcing treatment anyway would violate which requirement?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "consent",
    "topic_n": 4
   },
   {
-   "question": "An unconscious trauma patient needs an airway and cannot respond. Crews treat him under the legal assumption he would want life-saving care. His care still rests on consent in which form?",
+   "answer": 2,
    "choices": [
     "expressed consent",
     "an advance directive",
     "implied consent",
     "informed consent"
    ],
-   "answer": 2,
    "explanation": "Permission is presumed for a patient unable to give consent who needs emergency care — implied consent.",
+   "question": "An unconscious trauma patient needs an airway and cannot respond. Crews treat him under the legal assumption he would want life-saving care. His care still rests on consent in which form?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "consent",
    "topic_n": 4
   },
   {
-   "question": "While competent, a man signs a document naming his sister to make his medical decisions if he becomes unable to do so, and she now presents it at his bedside. What is this document?",
+   "answer": 2,
    "choices": [
     "living will",
     "do not resuscitate order",
     "durable power of attorney for health care",
     "court guardianship order"
    ],
-   "answer": 2,
    "explanation": "It is the advance directive type that appoints another individual to make treatment decisions when the patient cannot.",
+   "question": "While competent, a man signs a document naming his sister to make his medical decisions if he becomes unable to do so, and she now presents it at his bedside. What is this document?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "durable power of attorney for health care",
    "topic_n": 5
   },
   {
-   "question": "Your unresponsive patient's husband says, 'I'm family, I decide,' but the patient's signed health care power of attorney names her adult son as agent, and the son is present. Who is the legally appointed decision-maker?",
+   "answer": 1,
    "choices": [
     "the medical director, as the highest medical authority",
     "the son, as agent under the durable power of attorney for health care",
     "the husband, as the closest family member present",
     "the EMT crew, until the hospital ethics board decides"
    ],
-   "answer": 1,
    "explanation": "The document appoints the agent; the named agent, not the nearest relative by default, holds the delegated authority.",
+   "question": "Your unresponsive patient's husband says, 'I'm family, I decide,' but the patient's signed health care power of attorney names her adult son as agent, and the son is present. Who is the legally appointed decision-maker?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "durable power of attorney for health care",
    "topic_n": 5
   },
   {
-   "question": "A patient executed a durable power of attorney for health care last year while fully competent. She is now comatose. When does her agent's authority to make treatment decisions operate?",
+   "answer": 3,
    "choices": [
     "only after a court declares her incompetent",
     "only during the final days of a terminal illness",
     "immediately upon signing the document",
     "when she is unable to make decisions herself"
    ],
-   "answer": 3,
    "explanation": "By definition the appointed agent acts on the patient's behalf when the patient is unable to do so.",
+   "question": "A patient executed a durable power of attorney for health care last year while fully competent. She is now comatose. When does her agent's authority to make treatment decisions operate?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "durable power of attorney for health care",
    "topic_n": 5
   },
   {
-   "question": "You begin treating a chest-pain patient, then leave the scene to answer another call before any other unit arrives, without telling the patient or arranging care. What is this called?",
+   "answer": 2,
    "choices": [
     "breach of confidentiality",
     "negligence",
     "abandonment",
     "false imprisonment"
    ],
-   "answer": 2,
    "explanation": "It is unilateral termination of care without the patient's consent and without provisions for continuing care by an equal or higher provider.",
+   "question": "You begin treating a chest-pain patient, then leave the scene to answer another call before any other unit arrives, without telling the patient or arranging care. What is this called?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "abandonment",
    "topic_n": 6
   },
   {
-   "question": "A paramedic drops off a still-symptomatic patient with a basic-level first responder crew and clears, though no equal or higher provider has accepted care. Which legal exposure is greatest?",
+   "answer": 3,
    "choices": [
     "breach of confidentiality",
     "assault and battery",
     "defamation",
     "abandonment"
    ],
-   "answer": 3,
    "explanation": "Handing a patient down, or to no one, without a proper transfer to the same or higher level is abandonment.",
+   "question": "A paramedic drops off a still-symptomatic patient with a basic-level first responder crew and clears, though no equal or higher provider has accepted care. Which legal exposure is greatest?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "abandonment",
    "topic_n": 6
   },
   {
-   "question": "Mid-transport, an EMT decides the patient 'looks fine,' stops at the patient's house instead of the hospital, and leaves him on the porch without any medical handover. This best describes what?",
+   "answer": 1,
    "choices": [
     "involuntary transport",
     "abandonment",
     "false imprisonment",
     "malpractice"
    ],
-   "answer": 1,
    "explanation": "Terminating care unilaterally, without consent and without continuing care by an equal or higher medical professional, is abandonment.",
+   "question": "Mid-transport, an EMT decides the patient 'looks fine,' stops at the patient's house instead of the hospital, and leaves him on the porch without any medical handover. This best describes what?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "abandonment",
    "topic_n": 6
   },
   {
-   "question": "Which term is defined as: Written documentation that specifies medical treatment for a competent patient should the patient become unable to make decisions; also called a living will or a health care directive.",
+   "answer": 3,
    "choices": [
     "discovery",
     "Good Samaritan laws",
     "health care proxy",
     "advance directive"
    ],
-   "answer": 3,
    "explanation": "advance directive: Written documentation that specifies medical treatment for a competent patient should the patient become unable to make decisions; also called a living will or a health care directive.",
+   "question": "Which term is defined as: Written documentation that specifies medical treatment for a competent patient should the patient become unable to make decisions; also called a living will or a health care directive.",
    "source": "Flashcard Slides — Set 1",
    "topic": "advance directive",
    "topic_n": 1
   },
   {
-   "question": "What does the term \"advance directive\" mean?",
+   "answer": 0,
    "choices": [
-    "When a person who has a duty abuses it, and causes harm to another individual, the EMT, the agency, and/or the medical director may be sued for negligence.",
-    "False and damaging information about a person that is communicated in writing.",
-    "False and damaging information about a person that is communicated by spoken word.",
-    "Written documentation that specifies medical treatment for a competent patient should the patient become unable to make decisions; also called a living will or a health care directive."
+    "It states the patient's own treatment wishes, written while she was competent, for a time when she cannot decide for herself",
+    "It transfers her medical decision-making to the crew on scene",
+    "It names the person who will make all of her medical decisions from now on",
+    "It is only a request the crew may follow or ignore at their discretion"
    ],
-   "answer": 3,
-   "explanation": "advance directive: Written documentation that specifies medical treatment for a competent patient should the patient become unable to make decisions; also called a living will or a health care directive.",
+   "explanation": "An advance directive records the patient's own treatment choices ahead of time, while she was competent, for situations where she can't speak for herself. It doesn't appoint anyone — naming a decision-maker is a durable power of attorney for health care.",
+   "question": "Your crew is called for an unresponsive 78-year-old woman. Her husband hands you a signed, witnessed document she completed last year stating she does not want CPR or a breathing tube if her heart stops. She has no pulse. Which statement about this document is correct?",
    "source": "Flashcard Slides — Set 1",
    "topic": "advance directive",
    "topic_n": 1
   },
   {
-   "question": "A 21-year-old woman is left in a persistent vegetative state and placed on a ventilator. She left no written instructions about her treatment wishes. Her parents ask that the ventilator be removed, but her doctors and the hospital refuse, and a court ultimately has to decide who can state her wishes for her. What should this case teach an EMT to do on calls involving incapacitated patients?",
+   "answer": 0,
    "choices": [
     "Ask early about an advance directive or living will on every incapacitated patient, and document and relay whatever the family produces.",
     "Accept a relative's verbal account as legally equal to a signed written directive.",
     "Tell the family the crew can decide whether life support continues when no document exists.",
     "Refuse to transport the patient until a court order settles the family's dispute."
    ],
-   "answer": 0,
    "explanation": "With no written directive, a court had to decide who could state the patient's wishes — the gap an advance directive is meant to fill.",
+   "question": "A 21-year-old woman is left in a persistent vegetative state and placed on a ventilator. She left no written instructions about her treatment wishes. Her parents ask that the ventilator be removed, but her doctors and the hospital refuse, and a court ultimately has to decide who can state her wishes for her. What should this case teach an EMT to do on calls involving incapacitated patients?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "advance directive",
    "topic_n": 1
   },
   {
-   "question": "A woman is left in a persistent vegetative state after a car crash and is fed through a surgically placed tube. Her parents ask the hospital to remove the tube, but the hospital refuses without a court order, and the U.S. Supreme Court holds the state may require clear and convincing evidence of the patient's wishes before life support is withdrawn. Her wishes were later proven through additional evidence from friends. What practice does this case support for EMS crews?",
+   "answer": 3,
    "choices": [
     "Rely on the family's verbal account alone, since relatives always know the patient's wishes best.",
     "Treat tube feeding as a family decision that relatives may reverse at any time.",
     "Withhold all care from incapacitated patients until a judge rules on their wishes.",
     "Locate, copy, and transport any written directive with the patient, because oral family claims are weaker proof of the patient's wishes."
    ],
-   "answer": 3,
    "explanation": "A competent person's wishes, shown through a living will or other clear evidence, control — making written advance directives the strongest proof.",
+   "question": "A woman is left in a persistent vegetative state after a car crash and is fed through a surgically placed tube. Her parents ask the hospital to remove the tube, but the hospital refuses without a court order, and the U.S. Supreme Court holds the state may require clear and convincing evidence of the patient's wishes before life support is withdrawn. Her wishes were later proven through additional evidence from friends. What practice does this case support for EMS crews?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "advance directive",
    "topic_n": 1
   },
   {
-   "question": "Which term is defined as: Wrongful acts that give rise to a civil lawsuit.",
+   "answer": 2,
    "choices": [
     "morality",
     "implied consent",
     "torts",
     "discovery"
    ],
-   "answer": 2,
    "explanation": "torts: Wrongful acts that give rise to a civil lawsuit.",
+   "question": "Which term is defined as: Wrongful acts that give rise to a civil lawsuit.",
    "source": "Flashcard Slides — Set 1",
    "topic": "torts",
    "topic_n": 2
   },
   {
-   "question": "What does the term \"torts\" mean?",
+   "answer": 1,
    "choices": [
-    "Type of consent in which a patient who is unable to give consent is given treatment under the legal assumption that he or she would want treatment.",
-    "The philosophy of right and wrong, of moral duties, and of ideal professional behavior.",
-    "Wrongful acts that give rise to a civil lawsuit.",
-    "The confinement of a person without legal authority or the person's consent."
+    "The duplicate billing statement",
+    "The deliberate shove",
+    "Both — any mistake by an EMS agency is automatically a civil wrong",
+    "Neither — civil suits can only follow criminal charges"
    ],
-   "answer": 2,
-   "explanation": "torts: Wrongful acts that give rise to a civil lawsuit.",
+   "explanation": "A tort is a wrongful act — like an intentional shove — that gives the injured person grounds for a civil lawsuit. A clerical billing error, with no wrongful act or harm behind it, doesn't meet that bar.",
+   "question": "Two complaints come in after one shift. In the first, an EMT deliberately shoved a combative patient's family member. In the second, the billing office accidentally sent a patient a duplicate statement. Which complaint, if proven, is a wrongful act that could support a civil suit against the provider?",
    "source": "Flashcard Slides — Set 1",
    "topic": "torts",
    "topic_n": 2
   },
   {
-   "question": "A woman waiting on a train platform is injured when guards helping a man board a train knock his unmarked package of fireworks loose; it explodes and topples a scale at the far end of the platform onto her. A jury first awards her damages, but the state's highest court reverses, holding the railroad owed her no duty because injury to her was not reasonably foreseeable. What does this case illustrate about negligence claims?",
+   "answer": 3,
    "choices": [
     "A plaintiff can recover even when the harm was completely unforeseeable to the defendant.",
     "A civil negligence suit cannot succeed unless the defendant acted intentionally.",
     "Any person injured on a defendant's property can automatically recover damages.",
     "Not every bad outcome is an actionable tort; duty, breach, causation, and foreseeable harm all matter in a negligence claim."
    ],
-   "answer": 3,
    "explanation": "Negligence liability reaches only plaintiffs to whom a duty was owed and whose harm was reasonably foreseeable.",
+   "question": "A woman waiting on a train platform is injured when guards helping a man board a train knock his unmarked package of fireworks loose; it explodes and topples a scale at the far end of the platform onto her. A jury first awards her damages, but the state's highest court reverses, holding the railroad owed her no duty because injury to her was not reasonably foreseeable. What does this case illustrate about negligence claims?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "torts",
    "topic_n": 2
   },
   {
-   "question": "A 79-year-old woman spills coffee served at 180-190 degrees F in her lap, suffering third-degree burns that require eight days of hospitalization and skin grafting. The restaurant had refused her request of about $20,000, offering $800, and evidence showed it had received prior complaints about the coffee's temperature. A jury awards compensatory and punitive damages. What does this case show about tort suits?",
+   "answer": 2,
    "choices": [
     "Punitive damages can never be awarded in a civil tort case.",
     "Tort suits are criminal prosecutions that the state brings against a defendant.",
     "Tort cases are civil: the remedy is money damages, and prior complaints and ignored warnings become key evidence.",
     "Prior complaints about the same hazard are inadmissible in a tort case."
    ],
-   "answer": 2,
    "explanation": "The suit was a civil negligence/product tort over an allegedly wrongful act, not a criminal case.",
+   "question": "A 79-year-old woman spills coffee served at 180-190 degrees F in her lap, suffering third-degree burns that require eight days of hospitalization and skin grafting. The restaurant had refused her request of about $20,000, offering $800, and evidence showed it had received prior complaints about the coffee's temperature. A jury awards compensatory and punitive damages. What does this case show about tort suits?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "torts",
    "topic_n": 2
   },
   {
-   "question": "Which term is defined as: When the EMT or an EMS system is held liable even when the plaintiff is unable to clearly demonstrate how an injury occurred.",
+   "answer": 0,
    "choices": [
     "res ipsa loquitur",
     "chain of evidence",
     "patient autonomy",
     "duty to act"
    ],
-   "answer": 0,
    "explanation": "res ipsa loquitur: When the EMT or an EMS system is held liable even when the plaintiff is unable to clearly demonstrate how an injury occurred.",
+   "question": "Which term is defined as: When the EMT or an EMS system is held liable even when the plaintiff is unable to clearly demonstrate how an injury occurred.",
    "source": "Flashcard Slides — Set 1",
    "topic": "res ipsa loquitur",
    "topic_n": 3
   },
   {
-   "question": "What does the term \"res ipsa loquitur\" mean?",
+   "answer": 3,
    "choices": [
-    "When the EMT or an EMS system is held liable even when the plaintiff is unable to clearly demonstrate how an injury occurred.",
-    "Any information about health status, provision of health care, or payment for health care that can be linked to an individual.",
-    "The legal duty of an EMT to notify the appropriate authorities in specific situations, such as suspected child or elder abuse or neglect, injuries caused by weapons or crimes, and attempted suicide.",
-    "The communication of false information about a person that is damaging to that person's reputation or standing in the community."
+    "The hospital is liable only if the surgeon admits fault",
+    "The claim can only proceed as a criminal case, not a civil one",
+    "The claim must fail, because a plaintiff always has to prove the precise act that caused the injury",
+    "The circumstances themselves can support liability, even without proof of exactly how the injury occurred"
    ],
-   "answer": 0,
-   "explanation": "res ipsa loquitur: When the EMT or an EMS system is held liable even when the plaintiff is unable to clearly demonstrate how an injury occurred.",
+   "explanation": "Some injuries — a sponge left behind after surgery — simply don't happen unless someone was negligent, so the facts speak for themselves and the plaintiff doesn't have to prove the exact moment of the error. Ordinary negligence claims, by contrast, do require proof of how the breach happened.",
+   "question": "Eight months after abdominal surgery, imaging for unrelated pain shows a surgical sponge left inside the patient. The patient sues, but no one can testify exactly how or when the sponge was left behind. The patient's attorney argues the injury could not have happened without someone's negligence. How can this claim succeed?",
    "source": "Flashcard Slides — Set 1",
    "topic": "res ipsa loquitur",
    "topic_n": 3
   },
   {
-   "question": "A man undergoes an appendectomy while unconscious under anesthesia and awakes with a new traumatic injury to his shoulder and neck, unrelated to the surgery. He cannot say who caused it or how it happened. The state supreme court allows his claim against the doctors, nurses, and hospital who controlled his unconscious body to proceed. What is the correct understanding of his claim?",
+   "answer": 3,
    "choices": [
     "The injury is automatically blamed on the operating surgeon alone.",
     "The claim fails because any injury during anesthesia is an expected risk of surgery.",
     "The patient cannot recover because he cannot identify the exact person who injured him.",
     "Under res ipsa loquitur, the providers who had exclusive control of the unconscious patient can be held to explain an injury that ordinarily does not occur without negligence."
    ],
-   "answer": 3,
    "explanation": "An unconscious patient cannot protect or speak for himself, so unexplained injuries during care are the providers' responsibility to explain.",
+   "question": "A man undergoes an appendectomy while unconscious under anesthesia and awakes with a new traumatic injury to his shoulder and neck, unrelated to the surgery. He cannot say who caused it or how it happened. The state supreme court allows his claim against the doctors, nurses, and hospital who controlled his unconscious body to proceed. What is the correct understanding of his claim?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "res ipsa loquitur",
    "topic_n": 3
   },
   {
-   "question": "A barrel of flour falls from the window of a warehouse onto a man passing below, injuring him. He cannot prove exactly how the barrel came to fall or identify the specific careless act involved. The court holds the accident itself is evidence of negligence, because barrels do not roll out of warehouses without carelessness. What principle does this case establish?",
+   "answer": 2,
    "choices": [
     "Falling objects are legally presumed to be the fault of the injured passerby.",
     "A plaintiff must always prove the precise negligent act before recovering damages.",
     "An injury that ordinarily happens only through carelessness can itself support an inference of negligence, even when the plaintiff cannot demonstrate exactly how it occurred.",
     "Liability for an accident requires a written contract between the parties."
    ],
-   "answer": 2,
    "explanation": "This is the origin of res ipsa loquitur: liability can be inferred when the plaintiff cannot demonstrate exactly how the injury occurred.",
+   "question": "A barrel of flour falls from the window of a warehouse onto a man passing below, injuring him. He cannot prove exactly how the barrel came to fall or identify the specific careless act involved. The court holds the accident itself is evidence of negligence, because barrels do not roll out of warehouses without carelessness. What principle does this case establish?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "res ipsa loquitur",
    "topic_n": 3
   },
   {
-   "question": "Which term is defined as: Permission to render care.",
+   "answer": 2,
    "choices": [
     "emergency doctrine",
     "patient autonomy",
     "consent",
     "in loco parentis"
    ],
-   "answer": 2,
    "explanation": "consent: Permission to render care.",
+   "question": "Which term is defined as: Permission to render care.",
    "source": "Flashcard Slides — Set 1",
    "topic": "consent",
    "topic_n": 4
   },
   {
-   "question": "What does the term \"consent\" mean?",
-   "choices": [
-    "Stiffening of the body muscles; a definitive sign of death.",
-    "Permission to render care.",
-    "The written or electronic legal record of an EMS call, which courts treat as a reflection of the care itself, so that an incomplete or untidy report is read as evidence of inadequate care.",
-    "Unlawfully placing a patient in fear of bodily harm."
-   ],
    "answer": 1,
-   "explanation": "consent: Permission to render care.",
+   "choices": [
+    "Nothing, because permission only counts when it is in writing",
+    "Only the care he agreed to — his permission does not extend to the transport he is now refusing",
+    "All further care, because agreeing once covers the whole call",
+    "Transport only, since vital signs and oxygen don't require permission"
+   ],
+   "explanation": "Consent is permission for the care the patient actually agreed to. Agreeing to an assessment and oxygen doesn't carry over to a transport the patient is refusing — each step of care needs the patient's permission.",
+   "question": "A 45-year-old man with chest pain lets you take his vital signs and start oxygen, but then says, \"That's it — I'm not going to the hospital.\" What does his earlier agreement authorize?",
    "source": "Flashcard Slides — Set 1",
    "topic": "consent",
    "topic_n": 4
   },
   {
-   "question": "A patient consents to an abdominal examination under anesthesia but expressly refuses surgery. While she is anesthetized, the surgeon removes a fibroid tumor anyway. The court writes that every adult of sound mind has the right to determine what shall be done with his or her own body, and that a surgeon who operates without consent commits an assault. What lesson should an EMT take from this case?",
+   "answer": 0,
    "choices": [
     "Consent to one intervention is not consent to another; if the patient said no, or never said yes, do not treat beyond what was authorized.",
     "Once a patient signs any consent form, the care team may proceed as it sees fit.",
     "A refusal given before anesthesia becomes invalid once the patient is unconscious.",
     "Consent to anesthesia automatically covers any procedure the surgeon finds necessary."
    ],
-   "answer": 0,
    "explanation": "Treatment is lawful only with the patient's permission to render that care.",
+   "question": "A patient consents to an abdominal examination under anesthesia but expressly refuses surgery. While she is anesthetized, the surgeon removes a fibroid tumor anyway. The court writes that every adult of sound mind has the right to determine what shall be done with his or her own body, and that a surgeon who operates without consent commits an assault. What lesson should an EMT take from this case?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "consent",
    "topic_n": 4
   },
   {
-   "question": "A competent patient having an asthma attack clearly refuses treatment, but providers intubate and treat her against her expressed refusal. The state's highest court holds the emergency exception does not override a competent patient's refusal, and that treating a competent person without consent is a battery. What should an EMT do when a competent patient refuses life-saving care?",
+   "answer": 3,
    "choices": [
     "Restrain and treat the patient first, then document the refusal after arrival.",
     "Override the refusal, because the emergency exception permits treating any life-threatening condition.",
     "Treat the refusal as automatically invalid because the illness itself impairs the patient.",
     "Respect the refusal: assess capacity, explain the consequences, document carefully, and involve medical control rather than forcing care."
    ],
-   "answer": 3,
    "explanation": "A competent patient's 'no' removes the permission to render care, even life-saving care.",
+   "question": "A competent patient having an asthma attack clearly refuses treatment, but providers intubate and treat her against her expressed refusal. The state's highest court holds the emergency exception does not override a competent patient's refusal, and that treating a competent person without consent is a battery. What should an EMT do when a competent patient refuses life-saving care?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "consent",
    "topic_n": 4
   },
   {
-   "question": "Which term is defined as: A type of advance directive executed by a competent adult that appoints another individual to make medical treatment decisions on his or her behalf when he or she is unable to do so.",
+   "answer": 0,
    "choices": [
     "durable power of attorney for health care",
     "battery",
     "do not resuscitate order",
     "applied ethics"
    ],
-   "answer": 0,
    "explanation": "durable power of attorney for health care: A type of advance directive executed by a competent adult that appoints another individual to make medical treatment decisions on his or her behalf when he or she is unable to do so.",
+   "question": "Which term is defined as: A type of advance directive executed by a competent adult that appoints another individual to make medical treatment decisions on his or her behalf when he or she is unable to do so.",
    "source": "Flashcard Slides — Set 1",
    "topic": "durable power of attorney for health care",
    "topic_n": 5
   },
   {
-   "question": "What does the term \"durable power of attorney for health care\" mean?",
+   "answer": 3,
    "choices": [
-    "Damages awarded in a civil lawsuit that are intended to restore the plaintiff to the same condition that he or she was in prior to the incident complained about in the lawsuit.",
-    "Decomposition of body tissues; a definitive sign of death.",
-    "A type of advance directive executed by a competent adult that appoints another individual to make medical treatment decisions on his or her behalf when he or she is unable to do so.",
-    "Unlawfully placing a patient in fear of bodily harm."
+    "Neither — when documents conflict, treat as if no documents exist",
+    "The daughter's — once named, her decisions replace the patient's entirely",
+    "The crew's — on scene, providers decide which document to follow",
+    "The patient's own written instructions — the agent's job is to carry out his wishes, not override them"
    ],
-   "answer": 2,
-   "explanation": "durable power of attorney for health care: A type of advance directive executed by a competent adult that appoints another individual to make medical treatment decisions on his or her behalf when he or she is unable to do so.",
+   "explanation": "A health care agent named in a durable power of attorney speaks for the patient — carrying out the patient's known wishes. The agent can't use that authority to override instructions the patient left for himself.",
+   "question": "An unresponsive patient's daughter shows you a legal document the patient signed naming her to make his medical decisions when he can't. She insists he receive a treatment that his own written instructions specifically refuse. Whose instruction should control?",
    "source": "Flashcard Slides — Set 1",
    "topic": "durable power of attorney for health care",
    "topic_n": 5
   },
   {
-   "question": "A famous radio host with progressive dementia had signed a 2007 advance directive granting health care power of attorney to his daughter and stating he did not want life-sustaining procedures if he lost cognitive function. A conflicting 2011 document naming his wife as agent later surfaces, and the two sides fight in court; a judge ultimately upholds the 2007 directive. As an EMT presented with two conflicting documents and two claimed agents, what should you do?",
+   "answer": 2,
    "choices": [
     "Follow whichever document is most recently dated without involving medical control.",
     "Let the spouse's instructions override the named agent's document.",
     "Do not pick sides; present all the paperwork to medical control and the receiving facility and let them determine the controlling agent.",
     "Refuse to transport until the family settles the dispute among themselves."
    ],
-   "answer": 2,
    "explanation": "Competing directives and competing agents are for medical control, the facility, and the courts to resolve — not the crew.",
+   "question": "A famous radio host with progressive dementia had signed a 2007 advance directive granting health care power of attorney to his daughter and stating he did not want life-sustaining procedures if he lost cognitive function. A conflicting 2011 document naming his wife as agent later surfaces, and the two sides fight in court; a judge ultimately upholds the 2007 directive. As an EMT presented with two conflicting documents and two claimed agents, what should you do?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "durable power of attorney for health care",
    "topic_n": 5
   },
   {
-   "question": "A man is severely brain-injured in a truck accident, conscious but unable to communicate consistently, and dependent on tube feeding. He left no health care instructions and never appointed an agent under a durable power of attorney for health care. His wife, as conservator, seeks to withhold tube feeding, but his mother and sister object, and the state supreme court limits her authority. What does this case show about decision-making authority?",
+   "answer": 3,
    "choices": [
     "The crew should follow the majority vote of the family members present at the scene.",
     "The closest relative automatically gains full authority to withhold treatment.",
     "A conservator can always withhold artificial nutrition and hydration on a patient's behalf.",
     "Without a durable power of attorney for health care appointing an agent, a decision-maker's authority is sharply limited, so crews should escalate to medical control rather than taking one relative's word as authority."
    ],
-   "answer": 3,
    "explanation": "Because no document appointed an agent, the conservator lacked authority to withhold artificial nutrition without clear and convincing evidence of the patient's wishes.",
+   "question": "A man is severely brain-injured in a truck accident, conscious but unable to communicate consistently, and dependent on tube feeding. He left no health care instructions and never appointed an agent under a durable power of attorney for health care. His wife, as conservator, seeks to withhold tube feeding, but his mother and sister object, and the state supreme court limits her authority. What does this case show about decision-making authority?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "durable power of attorney for health care",
    "topic_n": 5
   },
   {
-   "question": "Which term is defined as: Unilateral termination of care by the EMT without the patient's consent and without making provisions for continuing care by a medical professional who is training at the same level or higher.",
+   "answer": 0,
    "choices": [
     "abandonment",
     "forcible restraint",
     "expressed consent",
     "slander"
    ],
-   "answer": 0,
    "explanation": "abandonment: Unilateral termination of care by the EMT without the patient's consent and without making provisions for continuing care by a medical professional who is training at the same level or higher.",
+   "question": "Which term is defined as: Unilateral termination of care by the EMT without the patient's consent and without making provisions for continuing care by a medical professional who is training at the same level or higher.",
    "source": "Flashcard Slides — Set 1",
    "topic": "abandonment",
    "topic_n": 6
   },
   {
-   "question": "What does the term \"abandonment\" mean?",
+   "answer": 3,
    "choices": [
-    "The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it.",
-    "Unilateral termination of care by the EMT without the patient's consent and without making provisions for continuing care by a medical professional who is training at the same level or higher.",
-    "The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment against his or her will.",
-    "Refers to the legal responsibility of a person or organization to take on some of the functions and responsibilities of a parent."
+    "Transferring care to a paramedic crew that arrives on scene",
+    "Leaving after the patient signs a refusal and is told to call back if symptoms worsen",
+    "Handing the patient to an EMT of equal training who accepts care and receives a report",
+    "Leaving the patient with a bystander and departing before any other provider takes over"
    ],
-   "answer": 1,
-   "explanation": "abandonment: Unilateral termination of care by the EMT without the patient's consent and without making provisions for continuing care by a medical professional who is training at the same level or higher.",
+   "explanation": "Once care begins, an EMT can't simply walk away: care continues until it is handed to a provider of equal or higher training, or the patient properly refuses. Leaving a patient with a bystander who can't take over care is abandonment.",
+   "question": "Your crew is caring for a stable patient when a second, more serious call comes in. In which situation has the crew improperly ended its care of the first patient?",
    "source": "Flashcard Slides — Set 1",
    "topic": "abandonment",
    "topic_n": 6
   },
   {
-   "question": "A 25-year-old pregnant woman has difficulty breathing at the Brooklyn cafe where she works. Two on-duty FDNY EMTs in the restaurant are asked to help; one calls 911 from her cell phone, but neither goes to check on her, and both leave before the ambulance arrives 13 minutes later. She is found unconscious, apneic, and pulseless, and both she and her baby die. What does this case teach about an EMT's responsibility?",
+   "answer": 3,
    "choices": [
     "EMTs who are not assigned to the call have no reason to begin care before an ambulance arrives.",
     "Leaving the scene is acceptable as long as someone present knows CPR.",
     "Calling 911 from the scene fully transfers responsibility to the responding crew.",
     "Calling 911 is not a handover; if you make patient contact, stay and render care until a provider of equal or higher level takes over."
    ],
-   "answer": 3,
    "explanation": "Walking away from a patient who needs care, without any handover to an equal or higher provider, is the conduct abandonment law targets.",
+   "question": "A 25-year-old pregnant woman has difficulty breathing at the Brooklyn cafe where she works. Two on-duty FDNY EMTs in the restaurant are asked to help; one calls 911 from her cell phone, but neither goes to check on her, and both leave before the ambulance arrives 13 minutes later. She is found unconscious, apneic, and pulseless, and both she and her baby die. What does this case teach about an EMT's responsibility?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "abandonment",
    "topic_n": 6
   },
   {
-   "question": "Four paramedics respond to a 30-year-old woman, recently postpartum, found unconscious on a call classified as a stroke. They take no vital signs, perform no appropriate exam, suggest she has had too much to drink, and leave after about 13 minutes, reporting no patient found. Her mother drives her to the hospital, where a scan shows an acute subarachnoid hemorrhage; she dies days later, and the county settles for about $2.75 million. What standard should govern a non-transport decision?",
+   "answer": 0,
    "choices": [
     "A non-transport decision needs a full assessment, vital signs, a capacity check, documentation, and medical-control involvement — never a walk-away.",
     "A brief scene time is acceptable whenever the patient does not request transport.",
     "If a patient appears intoxicated, crews may clear the scene without taking vital signs.",
     "Family members can be left to transport any patient the crew judges stable enough."
    ],
-   "answer": 0,
    "explanation": "Leaving a patient who has not competently refused, without arranging continuing care by an equal or higher provider, is abandonment in operational form.",
+   "question": "Four paramedics respond to a 30-year-old woman, recently postpartum, found unconscious on a call classified as a stroke. They take no vital signs, perform no appropriate exam, suggest she has had too much to drink, and leave after about 13 minutes, reporting no patient found. Her mother drives her to the hospital, where a scan shows an acute subarachnoid hemorrhage; she dies days later, and the county settles for about $2.75 million. What standard should govern a non-transport decision?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "abandonment",
    "topic_n": 6

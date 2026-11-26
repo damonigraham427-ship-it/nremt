@@ -1,169 +1,169 @@
 {
  "questions": [
   {
-   "question": "Which term is defined as: Questions for which the patient must provide detail to give an answer.",
+   "answer": 3,
    "choices": [
     "channel",
     "mental model",
     "simplex",
     "open-ended questions"
    ],
-   "answer": 3,
    "explanation": "open-ended questions: Questions for which the patient must provide detail to give an answer.",
+   "question": "Which term is defined as: Questions for which the patient must provide detail to give an answer.",
    "source": "Flashcard Slides — Set 5",
    "topic": "open-ended questions",
    "topic_n": 25
   },
   {
-   "question": "What does the term \"open-ended questions\" mean?",
+   "answer": 0,
    "choices": [
-    "A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
-    "The transmission of information to another person—verbally or through body language.",
-    "Questions for which the patient must provide detail to give an answer.",
-    "Any radio hardware containing a transmitter and receiver that is located in a fixed place."
+    "An open-ended question",
+    "Noise",
+    "Ethnocentrism",
+    "A closed-ended question"
    ],
-   "answer": 2,
-   "explanation": "open-ended questions: Questions for which the patient must provide detail to give an answer.",
+   "explanation": "An open-ended question requires the patient to provide detail to answer, which is why her story filled in gaps you did not know to ask about. A closed-ended question would have gotten a word or two; noise is anything that obscures a message; ethnocentrism is judging another culture by your own values.",
+   "question": "You sit down with a patient and ask, \"Tell me what happened this morning.\" She answers with a full story, including details you would never have thought to ask about. You got that detail because you used:",
    "source": "Flashcard Slides — Set 5",
    "topic": "open-ended questions",
    "topic_n": 25
   },
   {
-   "question": "Which term is defined as: A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
+   "answer": 0,
    "choices": [
     "telemetry",
     "communication",
     "cellular telephone",
     "rapport"
    ],
-   "answer": 0,
    "explanation": "telemetry: A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
+   "question": "Which term is defined as: A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
    "source": "Flashcard Slides — Set 5",
    "topic": "telemetry",
    "topic_n": 26
   },
   {
-   "question": "What does the term \"telemetry\" mean?",
+   "answer": 1,
    "choices": [
-    "A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
-    "Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
-    "A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
-    "A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital."
+    "Trunking",
+    "Telemetry",
+    "Paging",
+    "A verbal radio report"
    ],
-   "answer": 3,
-   "explanation": "telemetry: A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
+   "explanation": "Telemetry is the process of converting electronic signals into coded, audible signals that a receiver with a decoder can turn back into data. A verbal radio report is you speaking the findings yourself; trunking assigns frequencies from a pool; paging sends alerts to receivers.",
+   "question": "You attach the ECG, and the monitor converts the tracing into coded, audible signals that travel by radio to the hospital, where a decoder turns them back into the tracing for the physician. Sending patient data this way is called:",
    "source": "Flashcard Slides — Set 5",
    "topic": "telemetry",
    "topic_n": 26
   },
   {
-   "question": "Which term is defined as: A special telephone line that is used for specific point-to-point communications; also known as a hot line.",
+   "answer": 2,
    "choices": [
     "standing orders",
     "interoperable communications system",
     "dedicated line",
     "multiplex"
    ],
-   "answer": 2,
    "explanation": "dedicated line: A special telephone line that is used for specific point-to-point communications; also known as a hot line.",
+   "question": "Which term is defined as: A special telephone line that is used for specific point-to-point communications; also known as a hot line.",
    "source": "Flashcard Slides — Set 5",
    "topic": "dedicated line",
    "topic_n": 27
   },
   {
-   "question": "What does the term \"dedicated line\" mean?",
+   "answer": 1,
    "choices": [
-    "The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
-    "A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
-    "A special telephone line that is used for specific point-to-point communications; also known as a hot line.",
-    "Any radio hardware containing a transmitter and receiver that is located in a fixed place."
+    "Cellular telephone",
+    "Dedicated line",
+    "Trunked channel",
+    "Base station"
    ],
-   "answer": 2,
-   "explanation": "dedicated line: A special telephone line that is used for specific point-to-point communications; also known as a hot line.",
+   "explanation": "A dedicated line is a special telephone line used for specific point-to-point communications - a hot line that connects two points and nothing else. A cellular telephone communicates through cell sites and can reach many numbers; a base station is radio hardware; a trunked channel is assigned from a shared pool of frequencies.",
+   "question": "From the emergency department's EMS room, you pick up a special telephone that connects you point-to-point, straight to your dispatch center and nowhere else. This telephone line is a:",
    "source": "Flashcard Slides — Set 5",
    "topic": "dedicated line",
    "topic_n": 27
   },
   {
-   "question": "Which term is defined as: The reason a patient called for help; also, the patient’s response to questions such as “What’s wrong?” or “What happened?”",
+   "answer": 2,
    "choices": [
     "patient care report",
     "base station",
     "chief complaint",
     "mental model"
    ],
-   "answer": 2,
    "explanation": "chief complaint: The reason a patient called for help; also, the patient’s response to questions such as “What’s wrong?” or “What happened?”",
+   "question": "Which term is defined as: The reason a patient called for help; also, the patient’s response to questions such as “What’s wrong?” or “What happened?”",
    "source": "Flashcard Slides — Set 5",
    "topic": "chief complaint",
    "topic_n": 28
   },
   {
-   "question": "What does the term \"chief complaint\" mean?",
+   "answer": 2,
    "choices": [
-    "Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
-    "The condition requiring the most urgent intervention as determined by the provider's assessment of the patient; this is not always the same as the chief complaint.",
-    "The reason a patient called for help; also, the patient’s response to questions such as “What’s wrong?” or “What happened?”",
-    "A small computer terminal inside the ambulance that directly receives data from the dispatch center."
+    "Mental model",
+    "Handover",
+    "Chief complaint",
+    "Chief concern"
    ],
-   "answer": 2,
-   "explanation": "chief complaint: The reason a patient called for help; also, the patient’s response to questions such as “What’s wrong?” or “What happened?”",
+   "explanation": "The chief complaint is the reason the patient called for help - her own response to \"What's wrong?\" or \"What happened?\" The chief concern is the condition your assessment finds most urgent, which is not always the same as the complaint.",
+   "question": "You ask a patient, \"What's wrong today?\" and she answers, \"I've had chest pressure since breakfast.\" For your report, her answer - the reason she called for help, in her own words - is recorded as her:",
    "source": "Flashcard Slides — Set 5",
    "topic": "chief complaint",
    "topic_n": 28
   },
   {
-   "question": "Which term is defined as: When a person considers his or her own cultural values as more important when interacting with people from another culture.",
+   "answer": 3,
    "choices": [
     "documentation",
     "trunking",
     "mission-critical communications",
     "ethnocentrism"
    ],
-   "answer": 3,
    "explanation": "ethnocentrism: When a person considers his or her own cultural values as more important when interacting with people from another culture.",
+   "question": "Which term is defined as: When a person considers his or her own cultural values as more important when interacting with people from another culture.",
    "source": "Flashcard Slides — Set 5",
    "topic": "ethnocentrism",
    "topic_n": 29
   },
   {
-   "question": "What does the term \"ethnocentrism\" mean?",
+   "answer": 0,
    "choices": [
-    "The recorded portion of the EMT’s patient interaction, either written or electronic. This becomes part of the patient's permanent medical record.",
-    "A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
-    "The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or a mobile data terminal.",
-    "When a person considers his or her own cultural values as more important when interacting with people from another culture."
+    "Ethnocentrism",
+    "Cultural imposition",
+    "Noise",
+    "Rapport"
    ],
-   "answer": 3,
-   "explanation": "ethnocentrism: When a person considers his or her own cultural values as more important when interacting with people from another culture.",
+   "explanation": "Considering your own cultural values more important - judging another culture's ways as simply wrong - is ethnocentrism. Cultural imposition goes a step further: actually forcing your beliefs, values, and practices on the patient.",
+   "question": "A crew member rolls his eyes at a family's healing customs and tells them, \"Your way of doing this is just wrong - ours is the right way.\" His attitude is an example of:",
    "source": "Flashcard Slides — Set 5",
    "topic": "ethnocentrism",
    "topic_n": 29
   },
   {
-   "question": "Which term is defined as: The transmission of information to another person—verbally or through body language.",
+   "answer": 1,
    "choices": [
     "duplex",
     "communication",
     "therapeutic communication",
     "noise"
    ],
-   "answer": 1,
    "explanation": "communication: The transmission of information to another person—verbally or through body language.",
+   "question": "Which term is defined as: The transmission of information to another person—verbally or through body language.",
    "source": "Flashcard Slides — Set 5",
    "topic": "communication",
    "topic_n": 30
   },
   {
-   "question": "What does the term \"communication\" mean?",
+   "answer": 0,
    "choices": [
-    "The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
-    "The transmission of information to another person—verbally or through body language.",
-    "A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
-    "The ability to transmit and receive simultaneously."
+    "Communication",
+    "Trunking",
+    "A handover",
+    "Telemetry"
    ],
-   "answer": 1,
-   "explanation": "communication: The transmission of information to another person—verbally or through body language.",
+   "explanation": "Communication is the transmission of information to another person, verbally or through body language - your posture sent a message without a single word. Telemetry sends coded patient data to a hospital; a handover transfers care to another provider; trunking assigns radio frequencies.",
+   "question": "Mid-interview, you cross your arms, sigh, and glance at the door. You have not said a word, but the patient stops talking and looks away, clearly reading your body language. What just took place?",
    "source": "Flashcard Slides — Set 5",
    "topic": "communication",
    "topic_n": 30

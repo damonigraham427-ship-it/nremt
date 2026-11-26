@@ -1,589 +1,589 @@
 {
  "questions": [
   {
-   "question": "Eight months after working a fatal apartment fire where two children died, an EMT still has nightmares about the scene, avoids driving past the building, and startles badly at the sound of a smoke alarm. What stress disorder best fits this picture?",
+   "answer": 3,
    "choices": [
     "acute stress reaction",
     "burnout",
     "compassion fatigue",
     "posttraumatic stress disorder"
    ],
-   "answer": 3,
    "explanation": "The symptoms are a delayed reaction to a prior incident, appearing and persisting long after the event itself.",
+   "question": "Eight months after working a fatal apartment fire where two children died, an EMT still has nightmares about the scene, avoids driving past the building, and startles badly at the sound of a smoke alarm. What stress disorder best fits this picture?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "posttraumatic stress disorder",
    "topic_n": 1
   },
   {
-   "question": "A paramedic who treated victims of a mass shooting two years ago reports intrusive memories, emotional numbness, and trouble sleeping that have never fully gone away despite peer support. What condition should be suspected?",
+   "answer": 3,
    "choices": [
     "compassion fatigue",
     "general adaptation syndrome",
     "cumulative stress reaction",
     "posttraumatic stress disorder"
    ],
-   "answer": 3,
    "explanation": "Unresolved reactions tied to an earlier traumatic incident that involved harm and threat of harm point to PTSD.",
+   "question": "A paramedic who treated victims of a mass shooting two years ago reports intrusive memories, emotional numbness, and trouble sleeping that have never fully gone away despite peer support. What condition should be suspected?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "posttraumatic stress disorder",
    "topic_n": 1
   },
   {
-   "question": "During a routine physical, a firefighter mentions that ever since a building collapse early in his career he has flashbacks when he hears a PASS alarm and has started drinking to sleep. What delayed stress reaction is this?",
+   "answer": 0,
    "choices": [
     "posttraumatic stress disorder",
     "compassion fatigue",
     "cumulative stress reaction",
     "acute stress reaction"
    ],
-   "answer": 0,
    "explanation": "Flashbacks and avoidance surfacing long after a life-threatening incident are hallmarks of PTSD.",
+   "question": "During a routine physical, a firefighter mentions that ever since a building collapse early in his career he has flashbacks when he hears a PASS alarm and has started drinking to sleep. What delayed stress reaction is this?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "posttraumatic stress disorder",
    "topic_n": 1
   },
   {
-   "question": "A veteran EMT notices that over the past year she has stopped introducing herself to patients, feels irritated by minor complaints, and no longer feels anything when a patient cries. Her empathy has slowly drained away. What is this called?",
+   "answer": 1,
    "choices": [
     "cumulative stress reaction",
     "compassion fatigue",
     "posttraumatic stress disorder",
     "burnout"
    ],
-   "answer": 1,
    "explanation": "The gradual loss of compassion after repeated exposure to others' suffering is the defining feature of compassion fatigue.",
+   "question": "A veteran EMT notices that over the past year she has stopped introducing herself to patients, feels irritated by minor complaints, and no longer feels anything when a patient cries. Her empathy has slowly drained away. What is this called?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
   },
   {
-   "question": "After months of back-to-back overdose and cardiac arrest calls, a paramedic tells his partner, 'I used to care about these people. Now I just go through the motions.' What stress disorder is developing?",
+   "answer": 0,
    "choices": [
     "compassion fatigue",
     "acute stress reaction",
     "burnout",
     "distress"
    ],
-   "answer": 0,
    "explanation": "Caring capacity erodes gradually with cumulative exposure, which is compassion fatigue rather than a single-incident reaction.",
+   "question": "After months of back-to-back overdose and cardiac arrest calls, a paramedic tells his partner, 'I used to care about these people. Now I just go through the motions.' What stress disorder is developing?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
   },
   {
-   "question": "A charge nurse reviewing survey results finds her long-serving EMS crews score lower on empathy measures every year they stay in the field. What phenomenon do the surveys describe?",
+   "answer": 2,
    "choices": [
     "burnout",
     "delayed stress reaction",
     "compassion fatigue",
     "posttraumatic stress disorder"
    ],
-   "answer": 2,
    "explanation": "Compassion fatigue builds over time with years of caregiving, and studies show it rises with experience.",
+   "question": "A charge nurse reviewing survey results finds her long-serving EMS crews score lower on empathy measures every year they stay in the field. What phenomenon do the surveys describe?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
   },
   {
-   "question": "An EMT who was energized by busy shifts last year now dreads the tones, has stomach aches before work, and snaps at her family after hard calls. The job's demands have become a harmful burden rather than a challenge. What type of stress response is she showing?",
+   "answer": 3,
    "choices": [
     "eustress",
     "burnout",
     "compassion fatigue",
     "distress"
    ],
-   "answer": 3,
    "explanation": "Her response to the stressor is negative and damaging, which is distress rather than beneficial eustress.",
+   "question": "An EMT who was energized by busy shifts last year now dreads the tones, has stomach aches before work, and snaps at her family after hard calls. The job's demands have become a harmful burden rather than a challenge. What type of stress response is she showing?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "distress",
    "topic_n": 3
   },
   {
-   "question": "After a week of short staffing and mandatory overtime, a paramedic reports headaches, poor sleep, and a feeling of being overwhelmed that is hurting his performance. What is this negative response to a stressor called?",
+   "answer": 3,
    "choices": [
     "acute stress reaction",
     "eustress",
     "general adaptation syndrome",
     "distress"
    ],
-   "answer": 3,
    "explanation": "The stressor is producing a harmful, negative response in the provider, the definition of distress.",
+   "question": "After a week of short staffing and mandatory overtime, a paramedic reports headaches, poor sleep, and a feeling of being overwhelmed that is hurting his performance. What is this negative response to a stressor called?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "distress",
    "topic_n": 3
   },
   {
-   "question": "Two EMTs work the same difficult pediatric call. One feels focused and motivated afterward; the other feels shaky, tearful, and unable to concentrate for the rest of the shift. Which EMT is experiencing distress?",
+   "answer": 1,
    "choices": [
     "eustress (the first EMT)",
     "distress (the second EMT)",
     "an acute stress reaction (the first EMT)",
     "compassion fatigue (the second EMT)"
    ],
-   "answer": 1,
    "explanation": "Distress is the negative response to a stressor; the same event can produce eustress in one person and distress in another.",
+   "question": "Two EMTs work the same difficult pediatric call. One feels focused and motivated afterward; the other feels shaky, tearful, and unable to concentrate for the rest of the shift. Which EMT is experiencing distress?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "distress",
    "topic_n": 3
   },
   {
-   "question": "After a call, an EMT realizes the patient's blood got into a cut on her hand. She fills out an exposure report and calls the one person in her department responsible for verifying the exposure and contacting the hospital for the source patient's test results. Who is she calling?",
+   "answer": 1,
    "choices": [
     "the department's medical director",
     "designated officer (designated infection control officer)",
     "her shift supervisor",
     "the hospital's infection preventionist"
    ],
-   "answer": 1,
    "explanation": "Managing exposures and infection control follow-up for the department is the designated officer's assigned role.",
+   "question": "After a call, an EMT realizes the patient's blood got into a cut on her hand. She fills out an exposure report and calls the one person in her department responsible for verifying the exposure and contacting the hospital for the source patient's test results. Who is she calling?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "designated officer",
    "topic_n": 4
   },
   {
-   "question": "A hospital diagnoses a transported patient with meningitis two days after the call and must notify the transporting EMS agency. Under the Ryan White notification process, the hospital communicates with which person at the agency?",
+   "answer": 1,
    "choices": [
     "the local health department director",
     "designated officer",
     "the crew's paramedic in charge",
     "the agency's chief executive"
    ],
-   "answer": 1,
    "explanation": "The designated officer is the department's official point of contact for exposure notification and infection control.",
+   "question": "A hospital diagnoses a transported patient with meningitis two days after the call and must notify the transporting EMS agency. Under the Ryan White notification process, the hospital communicates with which person at the agency?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "designated officer",
    "topic_n": 4
   },
   {
-   "question": "Your department is writing its exposure control plan and must name the individual who will track crew exposures, arrange postexposure follow-up, and serve as liaison with medical facilities. What position must be named?",
+   "answer": 0,
    "choices": [
     "designated officer",
     "safety officer",
     "public information officer",
     "training officer"
    ],
-   "answer": 0,
    "explanation": "Federal law and OSHA practice place exposure management and infection control responsibility on a named designated officer.",
+   "question": "Your department is writing its exposure control plan and must name the individual who will track crew exposures, arrange postexposure follow-up, and serve as liaison with medical facilities. What position must be named?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "designated officer",
    "topic_n": 4
   },
   {
-   "question": "Your crew is dispatched to a nursing home where 14 residents developed vomiting and diarrhea a day after the same catered lunch. The suspected route of spread is a contaminated meal. What type of transmission is this?",
+   "answer": 3,
    "choices": [
     "vector-borne transmission",
     "indirect contact transmission",
     "airborne transmission",
     "foodborne transmission"
    ],
-   "answer": 3,
    "explanation": "Illness caused by an organism contaminating food is foodborne transmission.",
+   "question": "Your crew is dispatched to a nursing home where 14 residents developed vomiting and diarrhea a day after the same catered lunch. The suspected route of spread is a contaminated meal. What type of transmission is this?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "foodborne transmission",
    "topic_n": 5
   },
   {
-   "question": "At a summer camp, dozens of children become ill with bloody diarrhea after eating undercooked burgers at a cookout. Investigators trace the bacteria to the ground beef. How was the organism transmitted?",
+   "answer": 1,
    "choices": [
     "vector-borne transmission",
     "foodborne transmission",
     "direct contact transmission",
     "airborne transmission"
    ],
-   "answer": 1,
    "explanation": "The pathogen reached the patients through contaminated food, the definition of foodborne transmission.",
+   "question": "At a summer camp, dozens of children become ill with bloody diarrhea after eating undercooked burgers at a cookout. Investigators trace the bacteria to the ground beef. How was the organism transmitted?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "foodborne transmission",
    "topic_n": 5
   },
   {
-   "question": "A city issues a boil-water order after E. coli is found in the municipal supply, and your station begins running calls for dehydrated elderly patients with gastroenteritis. What transmission route is involved?",
+   "answer": 1,
    "choices": [
     "bloodborne transmission",
     "foodborne transmission",
     "airborne transmission",
     "indirect contact transmission"
    ],
-   "answer": 1,
    "explanation": "The definition covers contamination of food or water with a disease-causing organism.",
+   "question": "A city issues a boil-water order after E. coli is found in the municipal supply, and your station begins running calls for dehydrated elderly patients with gastroenteritis. What transmission route is involved?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "foodborne transmission",
    "topic_n": 5
   },
   {
-   "question": "An EMT starts a station routine of exercising on shift, keeping regular sleep hours on days off, getting an annual physical, and attending a peer support night each month. What concept is she practicing?",
+   "answer": 2,
    "choices": [
     "infection control",
     "resilience",
     "wellness",
     "critical incident stress management"
    ],
-   "answer": 2,
    "explanation": "Wellness is the active pursuit of good health, and her routine deliberately pursues physical and mental health.",
+   "question": "An EMT starts a station routine of exercising on shift, keeping regular sleep hours on days off, getting an annual physical, and attending a peer support night each month. What concept is she practicing?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "wellness",
    "topic_n": 6
   },
   {
-   "question": "Your department replaces a punitive fitness test with voluntary health screenings, nutrition coaching, and on-duty workout time, aiming to keep crews healthy across a whole career. What is the program's focus?",
+   "answer": 0,
    "choices": [
     "wellness",
     "risk management",
     "occupational safety compliance",
     "quality improvement"
    ],
-   "answer": 0,
    "explanation": "The program actively pursues a state of good health rather than just treating illness or injury.",
+   "question": "Your department replaces a punitive fitness test with voluntary health screenings, nutrition coaching, and on-duty workout time, aiming to keep crews healthy across a whole career. What is the program's focus?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "wellness",
    "topic_n": 6
   },
   {
-   "question": "A paramedic who smokes decides to quit, joins a cessation program, and tracks his blood pressure monthly with the department nurse. Which idea best describes what he is doing?",
+   "answer": 1,
    "choices": [
     "resilience training",
     "wellness",
     "post-incident recovery",
     "disease management"
    ],
-   "answer": 1,
    "explanation": "Quitting smoking and monitoring his health are deliberate actions in pursuit of good health, which is wellness.",
+   "question": "A paramedic who smokes decides to quit, joins a cessation program, and tracks his blood pressure monthly with the department nurse. Which idea best describes what he is doing?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "wellness",
    "topic_n": 6
   },
   {
-   "question": "Which term is defined as: A delayed stress reaction to a prior incident. Often the result of one or more unresolved issues concerning the incident, and may relate to an incident that involved physical harm or the threat of physical harm.",
+   "answer": 1,
    "choices": [
-    "acute stress reactions",
+    "cumulative stress reaction",
     "posttraumatic stress disorder",
-    "personal protective equipment",
-    "general adaptation syndrome"
+    "compassion fatigue",
+    "acute stress reaction"
    ],
-   "answer": 1,
-   "explanation": "posttraumatic stress disorder: A delayed stress reaction to a prior incident. Often the result of one or more unresolved issues concerning the incident, and may relate to an incident that involved physical harm or the threat of physical harm.",
+   "explanation": "His symptoms surfaced long after the event and are tied to that one incident, which points to posttraumatic stress disorder. An acute stress reaction happens during or right after the event, not a year later, and cumulative stress builds from many incidents rather than one.",
+   "question": "A paramedic works a house fire where a child dies. At his one-month wellness check he says he is doing fine. A year later he is having nightmares about the call, avoids the street where it happened, and has started drinking to fall asleep. His presentation best fits which reaction?",
    "source": "Flashcard Slides — Set 1",
    "topic": "posttraumatic stress disorder",
    "topic_n": 1
   },
   {
-   "question": "What does the term \"posttraumatic stress disorder\" mean?",
+   "answer": 3,
    "choices": [
-    "Reactions to stress that occur after a stressful situation.",
-    "A delayed stress reaction to a prior incident. Often the result of one or more unresolved issues concerning the incident, and may relate to an incident that involved physical harm or the threat of physical harm.",
-    "Acquired immunodeficiency syndrome (AIDS) is caused by HIV, which damages the cells in the body's immune system so that the body is unable to fight infection or certain cancers.",
-    "The way in which an infectious disease is spread: contact, airborne, by vehicles, or by vectors."
+    "acute stress reaction",
+    "general adaptation syndrome",
+    "eustress",
+    "posttraumatic stress disorder"
    ],
-   "answer": 1,
-   "explanation": "posttraumatic stress disorder: A delayed stress reaction to a prior incident. Often the result of one or more unresolved issues concerning the incident, and may relate to an incident that involved physical harm or the threat of physical harm.",
+   "explanation": "Timing separates the two: symptoms that appear long after a traumatic incident and persist point to posttraumatic stress disorder. The first EMT's on-scene reaction that resolved within days was an acute stress reaction.",
+   "question": "Two EMTs worked the same fatal crash. One had a racing heart and shaky hands at the scene that settled within days. The other felt fine for months, then developed flashbacks and started avoiding that highway two years later. The second EMT's reaction is best described as:",
    "source": "Flashcard Slides — Set 1",
    "topic": "posttraumatic stress disorder",
    "topic_n": 1
   },
   {
-   "question": "After the September 11, 2001 attacks, FDNY firefighters and EMS responders worked rescue and recovery at Ground Zero. Federal monitoring later found nearly 20% of responders were diagnosed with World Trade Center-related PTSD, and about half of the mental health disorders did not appear until 11 to 13 years after the exposure. What does this case illustrate about PTSD in responders?",
+   "answer": 3,
    "choices": [
     "PTSD only develops in responders who showed obvious symptoms at the scene.",
     "A single critical incident debriefing held right after the event is enough to prevent PTSD.",
     "Responders who stay busy and avoid talking about the event rarely develop PTSD.",
     "PTSD can be a delayed reaction that surfaces years after the incident, so responders need monitoring and follow-up long after the event, not just in the weeks after it."
    ],
-   "answer": 3,
    "explanation": "PTSD is a delayed stress reaction; symptoms may emerge years after the traumatic incident.",
+   "question": "After the September 11, 2001 attacks, FDNY firefighters and EMS responders worked rescue and recovery at Ground Zero. Federal monitoring later found nearly 20% of responders were diagnosed with World Trade Center-related PTSD, and about half of the mental health disorders did not appear until 11 to 13 years after the exposure. What does this case illustrate about PTSD in responders?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "posttraumatic stress disorder",
    "topic_n": 1
   },
   {
-   "question": "Two bombs exploded near the Boston Marathon finish line on April 15, 2013, killing 3 spectators and wounding more than 260 people. Medical tent volunteers and responders treated severe blast injuries, including many amputations. Ten years later, responders still described intrusive thoughts, nightmares, and anxiety, and a hospital support group was treating classic PTSD symptoms. What is the main lesson of this case?",
+   "answer": 3,
    "choices": [
     "Only responders who were physically injured at the scene are at risk for lasting PTSD.",
     "Symptoms lasting more than a year mean the responder was unfit for duty from the start.",
     "PTSD after a mass-casualty event resolves on its own once the responder returns to a normal schedule.",
     "Even after a well-run, successful response, PTSD symptoms can persist for years, so planned long-term follow-up matters as much as the initial debriefing."
    ],
-   "answer": 3,
    "explanation": "PTSD is a delayed, persistent reaction that can follow even a single well-handled incident.",
+   "question": "Two bombs exploded near the Boston Marathon finish line on April 15, 2013, killing 3 spectators and wounding more than 260 people. Medical tent volunteers and responders treated severe blast injuries, including many amputations. Ten years later, responders still described intrusive thoughts, nightmares, and anxiety, and a hospital support group was treating classic PTSD symptoms. What is the main lesson of this case?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "posttraumatic stress disorder",
    "topic_n": 1
   },
   {
-   "question": "Which term is defined as: A stress disorder characterized by gradual lessening of compassion over time.",
+   "answer": 3,
    "choices": [
-    "host",
-    "hepatitis",
-    "compassion fatigue",
-    "critical incident stress management"
+    "posttraumatic stress disorder",
+    "acute stress reaction",
+    "burnout",
+    "compassion fatigue"
    ],
-   "answer": 2,
-   "explanation": "compassion fatigue: A stress disorder characterized by gradual lessening of compassion over time.",
+   "explanation": "What is draining away is specifically her compassion, and it has lessened gradually over years of caregiving, which is compassion fatigue. Burnout centers on exhaustion and cynicism from overall job stress, and posttraumatic stress disorder ties back to a specific traumatic incident.",
+   "question": "A medic with 15 years on the job tells her partner, 'Ten years ago I felt every call. Now a patient can cry in front of me and I feel nothing. It just crept up on me.' This gradual change is best described as:",
    "source": "Flashcard Slides — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
   },
   {
-   "question": "What does the term \"compassion fatigue\" mean?",
+   "answer": 1,
    "choices": [
-    "A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease.",
-    "What airborne bacterial disease is caused by Mycobacterium tuberculosis, spreads when an infected person coughs or sneezes, and is indicated by a positive skin test showing exposure to the bacterium.",
-    "A stress disorder characterized by gradual lessening of compassion over time.",
-    "A microorganism that is capable of causing disease in a susceptible host."
+    "Report her to the supervisor for discipline before her attitude spreads",
+    "Recognize that her ability to care has gradually drained away and encourage her to use peer support and employee assistance resources",
+    "Tell her to toughen up, because feeling nothing is what keeps providers functional",
+    "Assume it will pass on its own and say nothing"
    ],
-   "answer": 2,
-   "explanation": "compassion fatigue: A stress disorder characterized by gradual lessening of compassion over time.",
+   "explanation": "Her empathy has eroded gradually over years of exposure to suffering, which is compassion fatigue. Early support and resources are the right response; discipline treats a stress injury as misconduct, and silence lets it deepen.",
+   "question": "Over the past year your partner has stopped making eye contact with patients, sighs when the tones drop, and says she just does not have it in her to care anymore. No single bad call explains it. What is the best first response?",
    "source": "Flashcard Slides — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
   },
   {
-   "question": "During the COVID-19 pandemic, a Spanish study of 506 healthcare professionals used the ProQOL scale to measure professional quality of life after months of caring for dying patients. It found 60.4% of respondents had high levels of compassion fatigue and another 33.6% had moderate levels. What pattern does this case show?",
+   "answer": 0,
    "choices": [
     "Compassion fatigue develops gradually as compassion erodes over months of caring for suffering patients, and it should be treated as a measurable occupational injury, not an attitude problem.",
     "Compassion fatigue is a sudden reaction to one especially bad call.",
     "High compassion fatigue scores simply mean the clinicians chose the wrong profession.",
     "Only new, inexperienced clinicians are at risk of losing compassion for patients."
    ],
-   "answer": 0,
    "explanation": "Compassion fatigue is the gradual lessening of compassion over time with sustained caregiving.",
+   "question": "During the COVID-19 pandemic, a Spanish study of 506 healthcare professionals used the ProQOL scale to measure professional quality of life after months of caring for dying patients. It found 60.4% of respondents had high levels of compassion fatigue and another 33.6% had moderate levels. What pattern does this case show?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
   },
   {
-   "question": "A New Zealand journal review of international evidence on compassion fatigue in paramedics found that its prevalence increases the longer a provider spends in the role. Job satisfaction, education, and regular monitoring of mental health were identified as key protectors. Based on this case, what should an EMS agency do?",
+   "answer": 0,
    "choices": [
     "Because compassion fatigue rises with years spent in the role, the agency should use routine mental health check-ins, manageable workloads, and job satisfaction measures as frontline defenses.",
     "The agency should rotate providers permanently out of patient care after five years.",
     "Because it mainly affects new hires, the agency should focus support only during the first year.",
     "Because compassion fatigue cannot be monitored, the agency should wait until a provider resigns."
    ],
-   "answer": 0,
    "explanation": "Compassion steadily lessens across a caregiving career, so ongoing monitoring and workload management are key defenses.",
+   "question": "A New Zealand journal review of international evidence on compassion fatigue in paramedics found that its prevalence increases the longer a provider spends in the role. Job satisfaction, education, and regular monitoring of mental health were identified as key protectors. Based on this case, what should an EMS agency do?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
   },
   {
-   "question": "Which term is defined as: A negative response to a stressor.",
+   "answer": 0,
    "choices": [
     "distress",
-    "communicable disease",
-    "sharps safety",
-    "aerosol-generating procedure"
+    "wellness",
+    "resilience",
+    "eustress"
    ],
-   "answer": 0,
-   "explanation": "distress: A negative response to a stressor.",
+   "explanation": "The same stressor produced two different responses. The harmful one, the one damaging his sleep and his outlook, is distress; his partner's energizing response is eustress.",
+   "question": "Two EMTs run the same chaotic multi-casualty call. One leaves feeling keyed up, focused, and proud of how she performed. The other goes home with a headache, cannot sleep, and dreads the next shift. The second EMT's response to the stressor is best described as:",
    "source": "Flashcard Slides — Set 1",
    "topic": "distress",
    "topic_n": 3
   },
   {
-   "question": "What does the term \"distress\" mean?",
-   "choices": [
-    "The spread of an organism via droplets or dust.",
-    "A negative response to a stressor.",
-    "The use of objects to limit a person's ability to see you.",
-    "The individual in the department who is charged with the responsibility of managing exposures and infection control."
-   ],
    "answer": 1,
-   "explanation": "distress: A negative response to a stressor.",
+   "choices": [
+    "Cover his charting errors so he does not get in trouble",
+    "Speak up and encourage him to talk with a supervisor or peer support, because his stress response is now harming his health and his work",
+    "Tell him the job clearly is not for him and he should quit",
+    "Say nothing, because a harmful stress response always resolves on its own"
+   ],
+   "explanation": "His reaction to the stressor has turned harmful, showing up in his sleep, his temper, and his errors, which is distress. Early support is the right move; silence lets it grow, and covering errors hides a safety problem.",
+   "question": "After a string of mandatory overtime shifts, one crew member is sleeping poorly, snapping at patients, and making small charting errors he never used to make. His partner, working the same shifts, is tired but coping well. What should the partner do first?",
    "source": "Flashcard Slides — Set 1",
    "topic": "distress",
    "topic_n": 3
   },
   {
-   "question": "Beyond Blue's 'Answering the Call' survey collected responses from 21,014 current and former Australian police and emergency services personnel. One in three employees reported high or very high psychological distress, and employees with more than 10 years of service were almost twice as likely to experience it. What is the main lesson for EMS agencies?",
+   "answer": 0,
    "choices": [
     "Distress accumulates with years of service, so agencies should measure it routinely instead of waiting for a crisis.",
     "Because distress is a personal response, agencies have no reason to track it.",
     "Distress only appears after a single catastrophic incident.",
     "Distress is rare in emergency services and mainly affects new recruits."
    ],
-   "answer": 0,
    "explanation": "Distress, the negative response to stressors, builds with cumulative exposure over a career.",
+   "question": "Beyond Blue's 'Answering the Call' survey collected responses from 21,014 current and former Australian police and emergency services personnel. One in three employees reported high or very high psychological distress, and employees with more than 10 years of service were almost twice as likely to experience it. What is the main lesson for EMS agencies?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "distress",
    "topic_n": 3
   },
   {
-   "question": "After the April 19, 1995 bombing of the Murrah Federal Building in Oklahoma City, which killed 168 people, researchers interviewed 255 survivors about six months later. They found 45% had a postdisaster psychiatric disorder, while many others were distressed and hyperaroused without meeting criteria for an illness. What should providers expect after a critical incident?",
+   "answer": 2,
    "choices": [
     "Responders who do not develop a disorder were not really affected by the event.",
     "Only people who meet criteria for a psychiatric disorder need support after an incident.",
     "Distress is the common response after a critical incident, so support should be normalized for all responders and survivors, not only those with a diagnosed disorder.",
     "Distress after a disaster is a sign of poor training and should be documented as such."
    ],
-   "answer": 2,
    "explanation": "Distress affects far more people than those who develop a formal disorder after an incident.",
+   "question": "After the April 19, 1995 bombing of the Murrah Federal Building in Oklahoma City, which killed 168 people, researchers interviewed 255 survivors about six months later. They found 45% had a postdisaster psychiatric disorder, while many others were distressed and hyperaroused without meeting criteria for an illness. What should providers expect after a critical incident?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "distress",
    "topic_n": 3
   },
   {
-   "question": "Which term is defined as: The individual in the department who is charged with the responsibility of managing exposures and infection control.",
-   "choices": [
-    "designated officer",
-    "contamination",
-    "vector-borne transmission",
-    "ambulance decontamination"
-   ],
    "answer": 0,
-   "explanation": "designated officer: The individual in the department who is charged with the responsibility of managing exposures and infection control.",
+   "choices": [
+    "The department's designated officer",
+    "The hospital's billing department",
+    "The state health department's general information line",
+    "Your partner, who can keep it between the two of you"
+   ],
+   "explanation": "The designated officer is the one person in the department charged with managing exposures and infection control, so reporting there starts the documentation, testing, and follow-up. Keeping it informal between partners delays all three.",
+   "question": "During a call, blood from a trauma patient gets into a cut on your hand. After washing up, who should you notify first so the exposure is documented and follow-up testing gets arranged?",
    "source": "Flashcard Slides — Set 1",
    "topic": "designated officer",
    "topic_n": 4
   },
   {
-   "question": "What does the term \"designated officer\" mean?",
+   "answer": 2,
    "choices": [
-    "The individual in the department who is charged with the responsibility of managing exposures and infection control.",
-    "What are the hazards at a structure fire that include possible building collapse, high heat, smoke and toxic gases, and oxygen-deficient air, and that require EMTs to stage at a safe distance and stay clear until the fire department declares the scene safe.",
-    "The capacity of an individual to cope with and recover from distress.",
-    "The most effective way to preserve body heat when functioning in cold, wet weather — wearing at least three layers of clothing."
+    "The on-duty dispatcher",
+    "The newest EMT on the crew",
+    "The designated officer",
+    "The department's public information officer"
    ],
-   "answer": 0,
-   "explanation": "designated officer: The individual in the department who is charged with the responsibility of managing exposures and infection control.",
+   "explanation": "Exposure notifications route to the designated officer, who manages exposures and infection control for the department. Dispatch handles calls and the public information officer handles media; neither coordinates crew testing and follow-up.",
+   "question": "The hospital calls your agency: a patient you transported yesterday has confirmed bacterial meningitis. Who at your department receives that notification and coordinates testing and follow-up for the crew?",
    "source": "Flashcard Slides — Set 1",
    "topic": "designated officer",
    "topic_n": 4
   },
   {
-   "question": "Congress passed the Ryan White CARE Act in 1990. Its responder provisions required emergency response employers to name a designated officer for exposure questions, and hospitals were required to tell that officer whether a source patient had a listed infectious disease. Why does this designated officer role matter?",
+   "answer": 1,
    "choices": [
     "The designated officer personally treats every exposed provider at the hospital.",
     "The designated officer is the department's official channel for exposure notification, which is what makes hospitals share source-patient results with the agency.",
     "The designated officer role exists mainly to discipline providers who skip PPE.",
     "Any crew member can call the hospital directly and get a source patient's test results."
    ],
-   "answer": 1,
    "explanation": "Exposure follow-up runs through the designated officer, the person charged with managing exposures and infection control.",
+   "question": "Congress passed the Ryan White CARE Act in 1990. Its responder provisions required emergency response employers to name a designated officer for exposure questions, and hospitals were required to tell that officer whether a source patient had a listed infectious disease. Why does this designated officer role matter?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "designated officer",
    "topic_n": 4
   },
   {
-   "question": "CDC interim Ebola guidance for EMS systems and 911 centers states that any provider whose skin or mucous membranes contact a suspected Ebola patient's fluids should act immediately, and directs the provider to report the exposure to a supervisor or designated infection control officer as soon as possible. What should the exposed EMT do?",
+   "answer": 0,
    "choices": [
     "Stop work at once, wash the exposed area, and report the exposure to a supervisor or the designated infection control officer as soon as possible.",
     "Handle the follow-up personally by calling the hospital laboratory for the patient's results.",
     "Wait to see whether the patient tests positive before reporting anything.",
     "Finish the transport, then mention the exposure at the end of the shift if symptoms develop."
    ],
-   "answer": 0,
    "explanation": "After any exposure: stop, wash, and notify the designated officer immediately, not at the end of shift.",
+   "question": "CDC interim Ebola guidance for EMS systems and 911 centers states that any provider whose skin or mucous membranes contact a suspected Ebola patient's fluids should act immediately, and directs the provider to report the exposure to a supervisor or designated infection control officer as soon as possible. What should the exposed EMT do?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "designated officer",
    "topic_n": 4
   },
   {
-   "question": "Which term is defined as: The contamination of food or water with an organism that can cause disease.",
+   "answer": 0,
    "choices": [
-    "infectious disease",
-    "critical incident stress management",
     "foodborne transmission",
-    "general adaptation syndrome"
+    "airborne transmission",
+    "vector-borne transmission",
+    "direct contact"
    ],
+   "explanation": "The illness tracked to one shared food item, which points to a contaminated food source. Airborne spread would not have spared the residents who skipped the dish but shared the same building air, and no contact or insect explains the pattern.",
+   "question": "A nursing home serves a catered lunch. About a day later, 14 residents who ate the potato salad develop vomiting and diarrhea, while residents who skipped it stay well. The route by which this illness most likely spread is:",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "foodborne transmission",
+   "topic_n": 5
+  },
+  {
    "answer": 2,
-   "explanation": "foodborne transmission: The contamination of food or water with an organism that can cause disease.",
-   "source": "Flashcard Slides — Set 1",
-   "topic": "foodborne transmission",
-   "topic_n": 5
-  },
-  {
-   "question": "What does the term \"foodborne transmission\" mean?",
    "choices": [
-    "The organism or individual that is attacked by the infecting agent.",
-    "The active pursuit of a state of good health.",
-    "The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease.",
-    "The contamination of food or water with an organism that can cause disease."
+    "Check the family for insect bites, since a vector is the most likely source",
+    "Focus only on who touched whom, since spread requires skin-to-skin contact",
+    "Treat their drinking water and food as the likely source, and ask what they have eaten and drunk in the past day",
+    "Assume the illness spread through the air and ventilate the home before entering"
    ],
-   "answer": 3,
-   "explanation": "foodborne transmission: The contamination of food or water with an organism that can cause disease.",
+   "explanation": "A boil-water order warns that the food and water route is the danger, so the history should target what the family took in. The other options chase airborne, vector, and contact routes that do not fit a contaminated water supply.",
+   "question": "After flooding, your county issues a boil-water order because the water supply may be contaminated. On a call for a family with vomiting and diarrhea, which change best reflects how this illness spreads?",
    "source": "Flashcard Slides — Set 1",
    "topic": "foodborne transmission",
    "topic_n": 5
   },
   {
-   "question": "In 1993, E. coli O157:H7 in undercooked hamburger patties from Jack in the Box restaurants sickened 732 people across four western states. Four children died and 178 people were left with permanent injury, including kidney and brain damage. What is the key lesson for EMTs from this outbreak?",
+   "answer": 0,
    "choices": [
     "Clusters of bloody diarrhea in children after eating out should be reported quickly, because early recognition of foodborne transmission helps stop outbreaks.",
     "Undercooked food only causes mild illness, so clusters of cases do not need urgent reporting.",
     "Bloody diarrhea after a meal is usually caused by airborne spread inside the restaurant.",
     "Food histories are not useful on GI calls because hospitals identify outbreaks on their own."
    ],
-   "answer": 0,
    "explanation": "Contaminated food is a classic vehicle for foodborne transmission, and clusters are the clue that links cases into an outbreak.",
+   "question": "In 1993, E. coli O157:H7 in undercooked hamburger patties from Jack in the Box restaurants sickened 732 people across four western states. Four children died and 178 people were left with permanent injury, including kidney and brain damage. What is the key lesson for EMTs from this outbreak?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "foodborne transmission",
    "topic_n": 5
   },
   {
-   "question": "In 2011, Listeria monocytogenes on whole cantaloupes from Jensen Farms in Colorado infected 147 people in 28 states. Thirty-three people died, most of them elderly, and one pregnant patient miscarriage. CDC called it the deadliest US foodborne outbreak in decades. What should EMTs keep in mind from this case?",
+   "answer": 2,
    "choices": [
     "Listeriosis only causes mild stomach upset and never affects pregnant patients.",
     "Produce cannot transmit disease, so fever in an elderly patient after eating melon is unrelated to food.",
     "Elderly and pregnant patients with fever and confusion after suspect food should have listeriosis considered, since foodborne illness can be deadly in these groups.",
     "Foodborne outbreaks stay local, so a nationally distributed product is not a concern for EMS."
    ],
-   "answer": 2,
    "explanation": "A single contaminated food item distributed nationally shows how far foodborne transmission can reach before it is detected.",
+   "question": "In 2011, Listeria monocytogenes on whole cantaloupes from Jensen Farms in Colorado infected 147 people in 28 states. Thirty-three people died, most of them elderly, and one pregnant patient miscarriage. CDC called it the deadliest US foodborne outbreak in decades. What should EMTs keep in mind from this case?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "foodborne transmission",
    "topic_n": 5
   },
   {
-   "question": "Which term is defined as: The active pursuit of a state of good health.",
+   "answer": 0,
    "choices": [
     "wellness",
-    "eustress",
     "resilience",
-    "ambulance decontamination"
+    "critical incident stress management",
+    "eustress"
    ],
-   "answer": 0,
-   "explanation": "wellness: The active pursuit of a state of good health.",
+   "explanation": "Wellness is the active, ongoing pursuit of good health through daily habits like sleep, exercise, nutrition, and screening. Resilience is the capacity to bounce back after a bad event, and critical incident stress management is a response process used after incidents, not a daily habit.",
+   "question": "A medic makes a standing plan for her career: she guards her sleep, exercises on her days off, eats real meals on shift, and keeps up with her annual physicals and vaccinations. She is actively practicing:",
    "source": "Flashcard Slides — Set 1",
    "topic": "wellness",
    "topic_n": 6
   },
   {
-   "question": "What does the term \"wellness\" mean?",
+   "answer": 3,
    "choices": [
-    "Exposure or transmission of a communicable disease from one person to another by physical contact.",
-    "The active pursuit of a state of good health.",
-    "The spread of an organism via droplets or dust.",
-    "What PPE must be worn when blood or body fluids may splash into the eyes, noting that prescription glasses do not provide adequate protection because they offer little or no side protection."
+    "Give crews a resilience lecture once a year",
+    "Add a second peer supporter to the call roster",
+    "Offer a debriefing after every fatal call",
+    "Build sleep, exercise, nutrition, and routine health screening into the department's regular program"
    ],
-   "answer": 1,
-   "explanation": "wellness: The active pursuit of a state of good health.",
+   "explanation": "Career-long health comes from actively pursuing good health day to day: sleep, exercise, food, and screening. Debriefings and peer support react to incidents after they happen; they aid recovery but do not build everyday health.",
+   "question": "A department wants to improve its crews' long-term health, not just respond after bad calls. Which change best does that?",
    "source": "Flashcard Slides — Set 1",
    "topic": "wellness",
    "topic_n": 6
   },
   {
-   "question": "In 1997 the IAFF and IAFC launched the Fire Service Joint Labor Management Wellness-Fitness Initiative, built together by ten metropolitan departments and their unions, including FDNY, Seattle, Phoenix, and LA County. The program is mandatory in structure but non-punitive, covering medical exams, fitness, rehabilitation, and behavioral health. What makes this wellness model work?",
+   "answer": 0,
    "choices": [
     "Wellness works when labor and management build the program together and keep it non-punitive, as an organized, career-long pursuit of good health.",
     "A wellness program only needs to cover fitness testing once, at hiring.",
     "Wellness is an individual responsibility, so departments should not organize programs.",
     "Wellness programs work best when failing a fitness test leads to discipline."
    ],
-   "answer": 0,
    "explanation": "Wellness is the active pursuit of good health, best pursued as an organized, non-punitive system.",
+   "question": "In 1997 the IAFF and IAFC launched the Fire Service Joint Labor Management Wellness-Fitness Initiative, built together by ten metropolitan departments and their unions, including FDNY, Seattle, Phoenix, and LA County. The program is mandatory in structure but non-punitive, covering medical exams, fitness, rehabilitation, and behavioral health. What makes this wellness model work?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "wellness",
    "topic_n": 6
   },
   {
-   "question": "NFPA counted 62 on-duty firefighter deaths in the United States in 2024. Overexertion and strain caused 40 of them, and 30 of those were heart attacks; US Fire Administration guidance notes sudden cardiac events account for nearly 45% of firefighter line-of-duty deaths in recent years. What is the main lesson of these statistics?",
+   "answer": 1,
    "choices": [
     "On-duty deaths are mainly caused by trauma, so health screening is a low priority.",
     "Because sudden cardiac events are the leading killer of firefighters, fitness, sleep, and medical screening are life-safety equipment, and wellness is a safety program.",
     "Wellness only matters for older firefighters nearing retirement.",
     "Cardiac deaths are unavoidable in the fire service, so screening has little value."
    ],
-   "answer": 1,
    "explanation": "The leading killer of firefighters is a health condition, which is why wellness, the active pursuit of good health, is a safety program.",
+   "question": "NFPA counted 62 on-duty firefighter deaths in the United States in 2024. Overexertion and strain caused 40 of them, and 30 of those were heart attacks; US Fire Administration guidance notes sudden cardiac events account for nearly 45% of firefighter line-of-duty deaths in recent years. What is the main lesson of these statistics?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "wellness",
    "topic_n": 6

@@ -1,169 +1,169 @@
 {
  "questions": [
   {
-   "question": "Which term is defined as: A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
+   "answer": 2,
    "choices": [
     "therapeutic communication",
     "chief concern",
     "cellular telephone",
     "Federal Communications Commission"
    ],
-   "answer": 2,
    "explanation": "cellular telephone: A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
+   "question": "Which term is defined as: A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
    "source": "Flashcard Slides — Set 3",
    "topic": "cellular telephone",
    "topic_n": 13
   },
   {
-   "question": "What does the term \"cellular telephone\" mean?",
+   "answer": 3,
    "choices": [
-    "A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
-    "Questions that can be answered in short or single-word responses.",
-    "A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
-    "Any radio hardware containing a transmitter and receiver that is located in a fixed place."
+    "Scanner",
+    "Base station",
+    "Repeater",
+    "Cellular telephone"
    ],
-   "answer": 2,
-   "explanation": "cellular telephone: A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
+   "explanation": "A cellular telephone is a low-power radio that communicates through an interconnected series of repeater stations called cells, handing the call off as you move. A base station is fixed hardware at one location; a scanner only receives and cycles through channels; a repeater rebroadcasts one signal on a second frequency.",
+   "question": "Driving across town, your portable phone never loses its signal. Without you doing anything, it hands the call off from one low-power repeater site to the next as you move. This works because the phone is a:",
    "source": "Flashcard Slides — Set 3",
    "topic": "cellular telephone",
    "topic_n": 13
   },
   {
-   "question": "Which term is defined as: A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
+   "answer": 0,
    "choices": [
     "interoperable communications system",
     "VHF",
     "trunking",
     "channel"
    ],
-   "answer": 0,
    "explanation": "interoperable communications system: A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
+   "question": "Which term is defined as: A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
    "source": "Flashcard Slides — Set 3",
    "topic": "interoperable communications system",
    "topic_n": 14
   },
   {
-   "question": "What does the term \"interoperable communications system\" mean?",
+   "answer": 2,
    "choices": [
-    "When one person imposes his or her beliefs, values, and practices on another because he or she believes his or her ideals are superior.",
-    "A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
-    "Questions that can be answered in short or single-word responses.",
-    "The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or a mobile data terminal."
+    "Telemetry",
+    "A paging system",
+    "An interoperable communications system",
+    "A trunking system"
    ],
-   "answer": 1,
-   "explanation": "interoperable communications system: A communication system that uses voice-over-Internet Protocol (VoIP) technology to allow multiple agencies to share data, voice, and other forms of communication in a disaster or emergency situation.",
+   "explanation": "An interoperable communications system uses voice-over-Internet Protocol (VoIP) technology so multiple agencies can share voice, data, and other communication in a disaster. Trunking only assigns frequencies within one system; paging sends alerts; telemetry transmits patient data.",
+   "question": "At a tornado disaster, fire, EMS, and law enforcement crews from three counties can all talk to each other and share data, even though each agency normally uses its own system. The shared system that links them uses Internet-based voice technology and is called:",
    "source": "Flashcard Slides — Set 3",
    "topic": "interoperable communications system",
    "topic_n": 14
   },
   {
-   "question": "Which term is defined as: The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
+   "answer": 1,
    "choices": [
     "rapport",
     "emotional intelligence",
     "cellular telephone",
     "trunking"
    ],
-   "answer": 1,
    "explanation": "emotional intelligence: The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
+   "question": "Which term is defined as: The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
    "source": "Flashcard Slides — Set 3",
    "topic": "emotional intelligence",
    "topic_n": 15
   },
   {
-   "question": "What does the term \"emotional intelligence\" mean?",
-   "choices": [
-    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
-    "A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency.",
-    "A trusting relationship that you build with your patient.",
-    "The ability to understand and manage one’s own emotions and properly respond to the emotions of others."
-   ],
    "answer": 3,
-   "explanation": "emotional intelligence: The ability to understand and manage one’s own emotions and properly respond to the emotions of others.",
+   "choices": [
+    "Rapport",
+    "Ethnocentrism",
+    "Facilitation",
+    "Emotional intelligence"
+   ],
+   "explanation": "Understanding and managing your own emotions, and responding well to the emotions of others, is emotional intelligence. Rapport is the trusting relationship you build with a patient; facilitation is encouraging a patient to keep talking; ethnocentrism is treating your own culture as more important than another's.",
+   "question": "After a rough call, your partner snaps at you over something small. You feel your own temper rising, recognize it, take a breath, and answer calmly instead of snapping back. What have you just used?",
    "source": "Flashcard Slides — Set 3",
    "topic": "emotional intelligence",
    "topic_n": 15
   },
   {
-   "question": "Which term is defined as: A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
+   "answer": 3,
    "choices": [
     "handover",
     "telemetry",
     "chief concern",
     "health information exchange"
    ],
-   "answer": 3,
    "explanation": "health information exchange: A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
+   "question": "Which term is defined as: A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
    "source": "Flashcard Slides — Set 3",
    "topic": "health information exchange",
    "topic_n": 16
   },
   {
-   "question": "What does the term \"health information exchange\" mean?",
+   "answer": 0,
    "choices": [
-    "The picture an individual has in his or her head of “what’s going on” in a given situation.",
-    "Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship.",
-    "Radio frequencies between 300 and 3,000 MHz.",
-    "A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available."
+    "Health information exchange",
+    "Base station",
+    "Patient care report",
+    "Mobile data terminal"
    ],
-   "answer": 3,
-   "explanation": "health information exchange: A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
+   "explanation": "A health information exchange is the shared system that lets providers access a patient's health data - past problems, medications, allergies - and avoid duplicating tests. The mobile data terminal is only the screen in the ambulance that displays the information; the patient care report is the legal record your crew creates for this call.",
+   "question": "Before you arrive, the screen in your ambulance pulls up a frequent patient's medication list, allergies, and past medical problems from records shared between hospitals and EMS agencies, so you do not repeat tests she had yesterday. The system that supplied this information is a:",
    "source": "Flashcard Slides — Set 3",
    "topic": "health information exchange",
    "topic_n": 16
   },
   {
-   "question": "Which term is defined as: The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
+   "answer": 3,
    "choices": [
     "base station",
     "communication",
     "duplex",
     "patient care report"
    ],
-   "answer": 3,
    "explanation": "patient care report: The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
+   "question": "Which term is defined as: The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
    "source": "Flashcard Slides — Set 3",
    "topic": "patient care report",
    "topic_n": 17
   },
   {
-   "question": "What does the term \"patient care report\" mean?",
-   "choices": [
-    "The ability to transmit and receive simultaneously.",
-    "The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
-    "Radio frequencies between 300 and 3,000 MHz.",
-    "Any communications where disruption will result in the failure of the mission at hand."
-   ],
    "answer": 1,
-   "explanation": "patient care report: The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
+   "choices": [
+    "Dispatch log",
+    "Patient care report",
+    "Handover",
+    "Radio report"
+   ],
+   "explanation": "The patient care report is the legal document used to record all patient care activities, with direct care, administrative, and quality control functions. A radio report and a handover are spoken communications; the dispatch log records response times, not patient care.",
+   "question": "Months from now, this call may be reviewed in court and by your agency's quality team. One document will follow the patient as the official legal record of everything your crew did. That document is the:",
    "source": "Flashcard Slides — Set 3",
    "topic": "patient care report",
    "topic_n": 17
   },
   {
-   "question": "Which term is defined as: Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
+   "answer": 0,
    "choices": [
     "base station",
     "emotional intelligence",
     "channel",
     "trunking"
    ],
-   "answer": 0,
    "explanation": "base station: Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
+   "question": "Which term is defined as: Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
    "source": "Flashcard Slides — Set 3",
    "topic": "base station",
    "topic_n": 18
   },
   {
-   "question": "What does the term \"base station\" mean?",
-   "choices": [
-    "Anything that dampens or obscures the true meaning of a message.",
-    "The ability to transmit audio and data signals through the use of more than one communications channel.",
-    "Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
-    "An assigned frequency or frequencies that are used to carry voice and/or data communications."
-   ],
    "answer": 2,
-   "explanation": "base station: Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
+   "choices": [
+    "Repeater",
+    "Scanner",
+    "Base station",
+    "Cellular telephone"
+   ],
+   "explanation": "A base station is radio hardware containing a transmitter and receiver located in a fixed place - headquarters. A repeater's job is narrower: it receives a signal on one frequency and rebroadcasts it on a second frequency; a scanner only receives; a cellular telephone is a low-power portable.",
+   "question": "Every transmission from your crews funnels through the powerful transmitter and receiver mounted at headquarters, which never moves and coordinates the whole system's traffic. That fixed installation is the:",
    "source": "Flashcard Slides — Set 3",
    "topic": "base station",
    "topic_n": 18

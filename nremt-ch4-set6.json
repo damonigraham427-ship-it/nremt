@@ -1,169 +1,169 @@
 {
  "questions": [
   {
-   "question": "Which term is defined as: Any communications where disruption will result in the failure of the mission at hand.",
+   "answer": 0,
    "choices": [
     "mission-critical communications",
     "interoperable communications system",
     "cultural imposition",
     "dedicated line"
    ],
-   "answer": 0,
    "explanation": "mission-critical communications: Any communications where disruption will result in the failure of the mission at hand.",
+   "question": "Which term is defined as: Any communications where disruption will result in the failure of the mission at hand.",
    "source": "Flashcard Slides — Set 6",
    "topic": "mission-critical communications",
    "topic_n": 31
   },
   {
-   "question": "What does the term \"mission-critical communications\" mean?",
-   "choices": [
-    "A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
-    "Any communications where disruption will result in the failure of the mission at hand.",
-    "Single-frequency radio; transmissions can occur in either direction but not simultaneously; when one party transmits, the other can only receive, and the party that is transmitting is unable to receive.",
-    "A low-power portable radio that communicates through an interconnected series of repeater stations called cells."
-   ],
    "answer": 1,
-   "explanation": "mission-critical communications: Any communications where disruption will result in the failure of the mission at hand.",
+   "choices": [
+    "Interoperable communications",
+    "Mission-critical communications",
+    "Paging",
+    "Simplex communications"
+   ],
+   "explanation": "Mission-critical communications are any communications where disruption will result in failure of the mission at hand. An interoperable system links different agencies together; simplex is one-direction-at-a-time radio; paging sends alerts - none of those describe what happens if the link is lost.",
+   "question": "A dispatcher warns crews to keep one link clear during a building collapse rescue: if that link goes down or gets tied up, the rescue effort itself will fail. Communications with that much riding on them are called:",
    "source": "Flashcard Slides — Set 6",
    "topic": "mission-critical communications",
    "topic_n": 31
   },
   {
-   "question": "Which term is defined as: An assigned frequency or frequencies that are used to carry voice and/or data communications.",
+   "answer": 3,
    "choices": [
     "telemetry",
     "simplex",
     "noise",
     "channel"
    ],
-   "answer": 3,
    "explanation": "channel: An assigned frequency or frequencies that are used to carry voice and/or data communications.",
+   "question": "Which term is defined as: An assigned frequency or frequencies that are used to carry voice and/or data communications.",
    "source": "Flashcard Slides — Set 6",
    "topic": "channel",
    "topic_n": 32
   },
   {
-   "question": "What does the term \"channel\" mean?",
+   "answer": 2,
    "choices": [
-    "A radio receiver that searches or scans across several frequencies until the message is completed; the process is then repeated.",
-    "The reason a patient called for help; also, the patient’s response to questions such as “What’s wrong?” or “What happened?”",
-    "Any communications where disruption will result in the failure of the mission at hand.",
-    "An assigned frequency or frequencies that are used to carry voice and/or data communications."
+    "Band",
+    "Repeater",
+    "Channel",
+    "Base station"
    ],
-   "answer": 3,
-   "explanation": "channel: An assigned frequency or frequencies that are used to carry voice and/or data communications.",
+   "explanation": "A channel is an assigned frequency or frequencies used to carry voice and/or data communications. A band is a whole range of frequencies, such as 30-300 MHz; a repeater rebroadcasts a signal on a second frequency; a base station is the fixed radio hardware at headquarters.",
+   "question": "At a working fire, dispatch moves your crew off the main frequency: \"All units switch to TAC 3 and stay there for this incident.\" TAC 3, the assigned frequency your crew now talks on, is an example of a:",
    "source": "Flashcard Slides — Set 6",
    "topic": "channel",
    "topic_n": 32
   },
   {
-   "question": "Which term is defined as: A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency.",
+   "answer": 3,
    "choices": [
     "emotional intelligence",
     "cultural imposition",
     "chief complaint",
     "repeater"
    ],
-   "answer": 3,
    "explanation": "repeater: A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency.",
+   "question": "Which term is defined as: A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency.",
    "source": "Flashcard Slides — Set 6",
    "topic": "repeater",
    "topic_n": 33
   },
   {
-   "question": "What does the term \"repeater\" mean?",
+   "answer": 1,
    "choices": [
-    "The recorded portion of the EMT’s patient interaction, either written or electronic. This becomes part of the patient's permanent medical record.",
-    "When one person imposes his or her beliefs, values, and practices on another because he or she believes his or her ideals are superior.",
-    "A low-power portable radio that communicates through an interconnected series of repeater stations called cells.",
-    "A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency."
+    "Cellular telephone",
+    "Repeater",
+    "Base station",
+    "Scanner"
    ],
-   "answer": 3,
-   "explanation": "repeater: A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency.",
+   "explanation": "A repeater is a special base station radio that receives messages on one frequency and automatically retransmits them on a second frequency, extending their range. A base station is the fixed transmitter and receiver at headquarters; a scanner only receives; a cellular telephone works through cell sites.",
+   "question": "Your portable radio's signal is too weak to reach dispatch from inside a concrete building, but your message gets through anyway: a hilltop unit picks it up and rebroadcasts it, stronger, on a second frequency. That hilltop unit is a:",
    "source": "Flashcard Slides — Set 6",
    "topic": "repeater",
    "topic_n": 33
   },
   {
-   "question": "Which term is defined as: The picture an individual has in his or her head of “what’s going on” in a given situation.",
+   "answer": 0,
    "choices": [
     "mental model",
     "scanner",
     "channel",
     "therapeutic communication"
    ],
-   "answer": 0,
    "explanation": "mental model: The picture an individual has in his or her head of “what’s going on” in a given situation.",
+   "question": "Which term is defined as: The picture an individual has in his or her head of “what’s going on” in a given situation.",
    "source": "Flashcard Slides — Set 6",
    "topic": "mental model",
    "topic_n": 34
   },
   {
-   "question": "What does the term \"mental model\" mean?",
+   "answer": 3,
    "choices": [
-    "The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions.",
-    "The picture an individual has in his or her head of “what’s going on” in a given situation.",
-    "When a person considers his or her own cultural values as more important when interacting with people from another culture.",
-    "The ability to transmit audio and data signals through the use of more than one communications channel."
+    "Chief concern",
+    "Standing orders",
+    "Rapport",
+    "Mental model"
    ],
-   "answer": 1,
-   "explanation": "mental model: The picture an individual has in his or her head of “what’s going on” in a given situation.",
+   "explanation": "Your mental model is the picture in your head of what is going on in a given situation; when it is wrong, you have to rebuild it from what you actually find. The chief concern is the most urgent problem your assessment identifies - here, the possible heart problem, not the fall.",
+   "question": "Dispatch describes a \"minor fall,\" so you walk in picturing a quick lift assist. Instead you find the patient pale, sweating, and clutching his chest - and for a moment you keep treating it as a fall call. The picture in your head that you walked in with is your:",
    "source": "Flashcard Slides — Set 6",
    "topic": "mental model",
    "topic_n": 34
   },
   {
-   "question": "Which term is defined as: When one person imposes his or her beliefs, values, and practices on another because he or she believes his or her ideals are superior.",
+   "answer": 0,
    "choices": [
     "cultural imposition",
     "mental model",
     "base station",
     "scanner"
    ],
-   "answer": 0,
    "explanation": "cultural imposition: When one person imposes his or her beliefs, values, and practices on another because he or she believes his or her ideals are superior.",
+   "question": "Which term is defined as: When one person imposes his or her beliefs, values, and practices on another because he or she believes his or her ideals are superior.",
    "source": "Flashcard Slides — Set 6",
    "topic": "cultural imposition",
    "topic_n": 35
   },
   {
-   "question": "What does the term \"cultural imposition\" mean?",
+   "answer": 2,
    "choices": [
-    "The transfer of pertinent patient information and the responsibility for the patient’s care; often involving the face-to-face exchange of information when a patient is moved from one health care provider to another.",
-    "The ability to transmit and receive simultaneously.",
-    "VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use.",
-    "When one person imposes his or her beliefs, values, and practices on another because he or she believes his or her ideals are superior."
+    "Facilitation",
+    "Ethnocentrism",
+    "Cultural imposition",
+    "Therapeutic communication"
    ],
-   "answer": 3,
-   "explanation": "cultural imposition: When one person imposes his or her beliefs, values, and practices on another because he or she believes his or her ideals are superior.",
+   "explanation": "Cultural imposition is imposing your own beliefs, values, and practices on another person because you believe your ideals are superior. Ethnocentrism is the attitude of judging your culture superior; imposition is the act of forcing your practices on the patient.",
+   "question": "A patient declines a treatment step for religious reasons. Your partner insists anyway, telling the family, \"We do it our way - it's better,\" and pushes his own practices on them over their objections. Your partner is guilty of:",
    "source": "Flashcard Slides — Set 6",
    "topic": "cultural imposition",
    "topic_n": 35
   },
   {
-   "question": "Which term is defined as: VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use.",
+   "answer": 2,
    "choices": [
     "therapeutic communication",
     "Federal Communications Commission",
     "MED channels",
     "health information exchange"
    ],
-   "answer": 2,
    "explanation": "MED channels: VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use.",
+   "question": "Which term is defined as: VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use.",
    "source": "Flashcard Slides — Set 6",
    "topic": "MED channels",
    "topic_n": 36
   },
   {
-   "question": "What does the term \"MED channels\" mean?",
+   "answer": 1,
    "choices": [
-    "A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
-    "A special base station radio that receives messages and signals on one frequency and then automatically retransmits them on a second frequency.",
-    "A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
-    "VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use."
+    "A trunked talk group",
+    "The MED channels",
+    "The paging channel",
+    "A simplex channel"
    ],
-   "answer": 3,
-   "explanation": "MED channels: VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use.",
+   "explanation": "The MED channels are the VHF and UHF channels the Federal Communications Commission designated exclusively for EMS use. A trunked talk group is assigned from a shared pool of frequencies, simplex is a one-direction-at-a-time mode, and paging channels carry alerts - none of those are reserved for EMS.",
+   "question": "You need to call in a report to the hospital, and the regular traffic channels are jammed with fire and police calls. You switch to the set of VHF and UHF frequencies the federal regulators set aside for EMS use only. You are now transmitting on:",
    "source": "Flashcard Slides — Set 6",
    "topic": "MED channels",
    "topic_n": 36

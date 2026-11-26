@@ -1,393 +1,393 @@
 {
  "questions": [
   {
-   "question": "A coworker who was not on your call asks you to pull up the electronic report of a well-known local athlete you transported so he can see what happened. You refuse because he has no role in the patient's care. Which federal law are you following?",
+   "answer": 0,
    "choices": [
     "HIPAA",
     "EMTALA",
     "The OSHA bloodborne pathogens standard",
     "The Stark Law"
    ],
-   "answer": 0,
    "explanation": "HIPAA limits use and disclosure of protected health information to those with a legitimate need related to care, payment, or operations.",
+   "question": "A coworker who was not on your call asks you to pull up the electronic report of a well-known local athlete you transported so he can see what happened. You refuse because he has no role in the patient's care. Which federal law are you following?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "HIPAA",
    "topic_n": 56
   },
   {
-   "question": "After a dramatic rescue, you post a photo of the injured patient on your personal social media account without the patient's permission. Which federal law have you most likely violated?",
+   "answer": 3,
    "choices": [
     "The Communications Decency Act",
     "EMTALA",
     "The Freedom of Information Act",
     "HIPAA"
    ],
-   "answer": 3,
    "explanation": "Posting an identifiable patient's image is an unauthorized disclosure of protected health information under HIPAA.",
+   "question": "After a dramatic rescue, you post a photo of the injured patient on your personal social media account without the patient's permission. Which federal law have you most likely violated?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "HIPAA",
    "topic_n": 56
   },
   {
-   "question": "Your ambulance service loses an unencrypted laptop containing 500 patient care reports, and federal regulators investigate the service's privacy and security practices. Which law gives those regulators their enforcement authority?",
+   "answer": 3,
    "choices": [
     "The Federal Trade Commission Act",
     "The Patient Safety and Quality Improvement Act",
     "The Sarbanes-Oxley Act",
     "HIPAA"
    ],
-   "answer": 3,
    "explanation": "The HHS Office for Civil Rights enforces HIPAA's Privacy and Security Rules, including against ambulance services.",
+   "question": "Your ambulance service loses an unencrypted laptop containing 500 patient care reports, and federal regulators investigate the service's privacy and security practices. Which law gives those regulators their enforcement authority?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "HIPAA",
    "topic_n": 56
   },
   {
-   "question": "You treat a 6-year-old with bruises in different stages of healing on her back and arms. Her caregiver's explanation changes twice and does not match the injuries. What legal duty do you have, even without proof of who caused the injuries?",
+   "answer": 1,
    "choices": [
     "implied consent",
     "mandatory reporting",
     "duty to act",
     "Good Samaritan protection"
    ],
-   "answer": 1,
    "explanation": "EMTs must report suspected child abuse to the appropriate authority; suspicion, not proof, triggers the duty.",
+   "question": "You treat a 6-year-old with bruises in different stages of healing on her back and arms. Her caregiver's explanation changes twice and does not match the injuries. What legal duty do you have, even without proof of who caused the injuries?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "mandatory reporting",
    "topic_n": 57
   },
   {
-   "question": "You transport an elderly patient from a nursing home with untreated pressure injuries, severe dehydration, and signs of long neglect. State law requires you to notify adult protective services. What is this requirement called?",
+   "answer": 2,
    "choices": [
     "scope of practice",
     "duty to act",
     "mandatory reporting",
     "standard of care"
    ],
-   "answer": 2,
    "explanation": "Suspected elder abuse or neglect is one of the specific situations the law requires EMTs to report.",
+   "question": "You transport an elderly patient from a nursing home with untreated pressure injuries, severe dehydration, and signs of long neglect. State law requires you to notify adult protective services. What is this requirement called?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "mandatory reporting",
    "topic_n": 57
   },
   {
-   "question": "A patient with a gunshot wound asks you not to tell anyone how he was injured. Your state's law requires reporting of injuries caused by weapons to law enforcement. What duty overrides the patient's request?",
+   "answer": 2,
    "choices": [
     "Good Samaritan protection",
     "implied consent",
     "mandatory reporting",
     "expressed consent"
    ],
-   "answer": 2,
    "explanation": "Weapon and crime-related injuries are mandatory-report situations; the report must be made even if the patient objects.",
+   "question": "A patient with a gunshot wound asks you not to tell anyone how he was injured. Your state's law requires reporting of injuries caused by weapons to law enforcement. What duty overrides the patient's request?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "mandatory reporting",
    "topic_n": 57
   },
   {
-   "question": "At a shooting scene, you cut off the victim's shirt to treat him. An officer asks you to hand the shirt to the evidence technician and sign a form listing everyone who handled it. What is that form maintaining?",
+   "answer": 1,
    "choices": [
     "continuity of care",
     "chain of evidence",
     "chain of command",
     "chain of survival"
    ],
-   "answer": 1,
    "explanation": "The signed record of every person who collected, handled, and transferred the item is the chain of evidence (chain of custody).",
+   "question": "At a shooting scene, you cut off the victim's shirt to treat him. An officer asks you to hand the shirt to the evidence technician and sign a form listing everyone who handled it. What is that form maintaining?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "chain of evidence",
    "topic_n": 58
   },
   {
-   "question": "During CPR at a stabbing scene, you move a knife aside and later kick a shell casing without noticing. At trial, the defense argues the physical evidence cannot be trusted. What has your scene disturbance damaged?",
+   "answer": 3,
    "choices": [
     "evidence-based practice",
     "continuity of care",
     "chain of command",
     "chain of evidence"
    ],
-   "answer": 3,
    "explanation": "Undocumented movement of evidence breaks the unbroken record needed for the evidence to stay usable in court.",
+   "question": "During CPR at a stabbing scene, you move a knife aside and later kick a shell casing without noticing. At trial, the defense argues the physical evidence cannot be trusted. What has your scene disturbance damaged?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "chain of evidence",
    "topic_n": 58
   },
   {
-   "question": "You find a bullet casing in the ambulance after transporting a gunshot patient. You place it in a labeled bag, seal it, and document the time, where you found it, and the officer you gave it to. What are you preserving?",
+   "answer": 0,
    "choices": [
     "chain of evidence",
     "chain of command",
     "evidence-based practice",
     "chain of survival"
    ],
-   "answer": 0,
    "explanation": "Labeling, sealing, and documenting each transfer keeps the record of custody unbroken from discovery to court.",
+   "question": "You find a bullet casing in the ambulance after transporting a gunshot patient. You place it in a labeled bag, seal it, and document the time, where you found it, and the officer you gave it to. What are you preserving?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "chain of evidence",
    "topic_n": 58
   },
   {
-   "question": "Your patient care report for a chest pain call is missing the second set of vital signs and has several blank fields. In the malpractice trial two years later, the plaintiff's attorney argues the missing entries prove the reassessment never happened. What legal record is he attacking?",
+   "answer": 0,
    "choices": [
     "patient care documentation",
     "quality improvement review",
     "medical control authorization",
     "incident report"
    ],
-   "answer": 0,
    "explanation": "Courts treat the patient care report as a reflection of the care itself, so gaps are read as care that was not done.",
+   "question": "Your patient care report for a chest pain call is missing the second set of vital signs and has several blank fields. In the malpractice trial two years later, the plaintiff's attorney argues the missing entries prove the reassessment never happened. What legal record is he attacking?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "patient care documentation",
    "topic_n": 59
   },
   {
-   "question": "A new EMT asks why the crew spends so long writing a neat, complete, accurate report after every call instead of just noting the basics. The best answer is that the report is a legal document that stands as the record of the care provided. What is this record called?",
+   "answer": 2,
    "choices": [
     "run summary log",
     "incident report",
     "patient care documentation",
     "quality assurance review"
    ],
-   "answer": 2,
    "explanation": "The patient care report is the written or electronic legal record of the call and of the care given.",
+   "question": "A new EMT asks why the crew spends so long writing a neat, complete, accurate report after every call instead of just noting the basics. The best answer is that the report is a legal document that stands as the record of the care provided. What is this record called?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "patient care documentation",
    "topic_n": 59
   },
   {
-   "question": "After a call goes badly, a paramedic quietly rewrites the report to add an intervention that was never performed. Beyond the care itself, what has the paramedic falsified, creating separate criminal and licensure exposure?",
+   "answer": 1,
    "choices": [
     "quality improvement review",
     "patient care documentation",
     "incident report",
     "medical direction record"
    ],
-   "answer": 1,
    "explanation": "Altering the patient care report is falsification of the legal record of the call, independent of the quality of the care.",
+   "question": "After a call goes badly, a paramedic quietly rewrites the report to add an intervention that was never performed. Beyond the care itself, what has the paramedic falsified, creating separate criminal and licensure exposure?",
    "source": "Quiz-Style Slides — Set 11",
    "topic": "patient care documentation",
    "topic_n": 59
   },
   {
-   "question": "Which term is defined as: The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it.",
+   "answer": 2,
    "choices": [
     "gross negligence",
     "torts",
     "HIPAA",
     "ethics"
    ],
+   "explanation": "HIPAA: The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it.",
+   "question": "Which term is defined as: The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it.",
+   "source": "Flashcard Slides — Set 11",
+   "topic": "HIPAA",
+   "topic_n": 56
+  },
+  {
    "answer": 2,
-   "explanation": "HIPAA: The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it.",
-   "source": "Flashcard Slides — Set 11",
-   "topic": "HIPAA",
-   "topic_n": 56
-  },
-  {
-   "question": "What does the term \"HIPAA\" mean?",
    "choices": [
-    "Permission to render care.",
-    "The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it.",
-    "Written questions that the defense and plaintiff send to one another.",
-    "The legal duty of an EMT to notify the appropriate authorities in specific situations, such as suspected child or elder abuse or neglect, injuries caused by weapons or crimes, and attempted suicide."
+    "Neither — patient information may never leave the ambulance",
+    "The reporter's — records become public once a call ends",
+    "The hospital's — sharing for continuing care is a permitted use of patient information",
+    "Both — the law treats all requesters the same"
    ],
-   "answer": 1,
-   "explanation": "HIPAA: The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it.",
+   "explanation": "HIPAA — the federal law enacted in 1996 — protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it. Sharing with the hospital for continuing care is permitted; handing it to a reporter is not.",
+   "question": "After a call, two requests come in for the patient's information. The hospital's records office requests your run report so the care team can continue treatment. A newspaper reporter requests the same report \"for a story.\" Under the federal law protecting patient health information, which request may you honor?",
    "source": "Flashcard Slides — Set 11",
    "topic": "HIPAA",
    "topic_n": 56
   },
   {
-   "question": "In December 2012, an unencrypted laptop carrying patient care reports fell off the back bumper of a moving ambulance and was never recovered; 500 patients were affected. Federal investigators later found the ambulance company had done no risk analysis and had no security training program, and the company paid a $65,000 HIPAA settlement. What should the EMTs and their service have done to prevent this?",
+   "answer": 1,
    "choices": [
     "Report a lost device to regulators only if a patient complains about it.",
     "Secure and encrypt laptops and tablets carrying patient reports; an unencrypted device lost from a moving unit is a reportable HIPAA breach.",
     "Wipe the device remotely and say nothing, since there is no proof anyone accessed the data.",
     "Keep paper backup copies of every report in the ambulance so electronic devices are not needed."
    ],
-   "answer": 1,
    "explanation": "EMTs must secure laptops and tablets carrying patient reports; an unencrypted device lost on the road is a reportable breach.",
+   "question": "In December 2012, an unencrypted laptop carrying patient care reports fell off the back bumper of a moving ambulance and was never recovered; 500 patients were affected. Federal investigators later found the ambulance company had done no risk analysis and had no security training program, and the company paid a $65,000 HIPAA settlement. What should the EMTs and their service have done to prevent this?",
    "source": "Flashcard Case Studies — Set 11",
    "topic": "HIPAA",
    "topic_n": 56
   },
   {
-   "question": "From 2005 to 2008, employees at a large hospital system repeatedly opened the electronic records of celebrity patients they were not treating, just to look. Nothing was ever shared outside the hospital, but federal investigators still found HIPAA violations and the system paid an $865,500 settlement. Why was the employees' conduct a violation?",
+   "answer": 1,
    "choices": [
     "Employees may view any record at their own facility as long as they do not copy it.",
     "Accessing a patient's record out of curiosity, with no role in that patient's care, is a HIPAA violation even if nothing is ever shared.",
     "Curiosity access is acceptable for training purposes as long as the employee is credentialed.",
     "Viewing a record only becomes a violation if the information is printed or shared outside the facility."
    ],
-   "answer": 1,
    "explanation": "EMTs should open or discuss a patient's information only when their job requires it; curiosity alone makes the access illegal.",
+   "question": "From 2005 to 2008, employees at a large hospital system repeatedly opened the electronic records of celebrity patients they were not treating, just to look. Nothing was ever shared outside the hospital, but federal investigators still found HIPAA violations and the system paid an $865,500 settlement. Why was the employees' conduct a violation?",
    "source": "Flashcard Case Studies — Set 11",
    "topic": "HIPAA",
    "topic_n": 56
   },
   {
-   "question": "Which term is defined as: The legal duty of an EMT to notify the appropriate authorities in specific situations, such as suspected child or elder abuse or neglect, injuries caused by weapons or crimes, and attempted suicide.",
+   "answer": 0,
    "choices": [
     "mandatory reporting",
     "dependent lividity",
     "emergency",
     "morality"
    ],
-   "answer": 0,
    "explanation": "mandatory reporting: The legal duty of an EMT to notify the appropriate authorities in specific situations, such as suspected child or elder abuse or neglect, injuries caused by weapons or crimes, and attempted suicide.",
+   "question": "Which term is defined as: The legal duty of an EMT to notify the appropriate authorities in specific situations, such as suspected child or elder abuse or neglect, injuries caused by weapons or crimes, and attempted suicide.",
    "source": "Flashcard Slides — Set 11",
    "topic": "mandatory reporting",
    "topic_n": 57
   },
   {
-   "question": "What does the term \"mandatory reporting\" mean?",
+   "answer": 0,
    "choices": [
-    "The legal duty of an EMT to notify the appropriate authorities in specific situations, such as suspected child or elder abuse or neglect, injuries caused by weapons or crimes, and attempted suicide.",
-    "Wrongful acts that give rise to a civil lawsuit.",
-    "Statutory provisions enacted by many states to protect citizens from liability for errors and omissions in giving good faith emergency medical care, unless there is wanton, gross, or willful negligence.",
-    "The federal law, enacted in 1996, that protects the privacy and security of a patient's health information and limits how EMS personnel may use or share it."
+    "The suspected elder neglect",
+    "Both — everything learned on a call must be reported",
+    "The adult's private admission about his feelings",
+    "Neither — patient information is always confidential, no exceptions"
    ],
-   "answer": 0,
-   "explanation": "mandatory reporting: The legal duty of an EMT to notify the appropriate authorities in specific situations, such as suspected child or elder abuse or neglect, injuries caused by weapons or crimes, and attempted suicide.",
+   "explanation": "Mandatory reporting is the legal duty of an EMT to notify the appropriate authorities in specific situations, such as suspected child or elder abuse or neglect, injuries caused by weapons or crimes, and attempted suicide. A competent adult's private feelings are not on that list.",
+   "question": "On two calls, an EMT learns things in confidence. On the first, she finds an elderly woman filthy, dehydrated, and uncared-for by the relative responsible for her. On the second, a competent adult patient privately admits he sometimes feels depressed. Which situation legally requires the EMT to notify the appropriate authorities?",
    "source": "Flashcard Slides — Set 11",
    "topic": "mandatory reporting",
    "topic_n": 57
   },
   {
-   "question": "In 2001, a graduate assistant witnessed a coach sexually abusing a boy in a team shower and reported it to the head coach, who passed it along to two university administrators. No one reported it to police or child welfare authorities, and the administrators were later charged with failure to report suspected child abuse. What does this case teach an EMT about mandatory reporting?",
+   "answer": 0,
    "choices": [
     "Telling a supervisor is not enough; the report must reach the proper authority as the law requires, because handing it up the chain can leave the duty unmet.",
     "A report to any supervisor fully satisfies the legal duty to report suspected abuse.",
     "An internal report protects the child as long as administrators keep it documented.",
     "Only the person who personally witnessed the abuse can be charged for failing to report it."
    ],
-   "answer": 0,
    "explanation": "EMTs must make the report to the proper authority themselves; assuming someone else reported it can leave the duty unmet.",
+   "question": "In 2001, a graduate assistant witnessed a coach sexually abusing a boy in a team shower and reported it to the head coach, who passed it along to two university administrators. No one reported it to police or child welfare authorities, and the administrators were later charged with failure to report suspected child abuse. What does this case teach an EMT about mandatory reporting?",
    "source": "Flashcard Case Studies — Set 11",
    "topic": "mandatory reporting",
    "topic_n": 57
   },
   {
-   "question": "An 8-year-old boy's teacher repeatedly reported his visible injuries to the county child abuse hotline, and dozens of complaints reached the child welfare agency, yet he was never removed from the home and was later tortured and killed. You now transport a child with fresh, suspicious injuries and learn a report was already filed last month. What should you do?",
+   "answer": 0,
    "choices": [
     "Report every new sign of abuse you see, even if you believe a report was already made; repeated, specific reports create the record that forces action.",
     "Report again only if you personally witness the abuse taking place.",
     "Skip the report, since duplicate reports only slow down the agency's response.",
     "Document the injuries in the patient care report and leave any reporting to the hospital social worker."
    ],
-   "answer": 0,
    "explanation": "Mandatory reporting only protects a child when each professional reports fully; report every new sign, even if a report was already made.",
+   "question": "An 8-year-old boy's teacher repeatedly reported his visible injuries to the county child abuse hotline, and dozens of complaints reached the child welfare agency, yet he was never removed from the home and was later tortured and killed. You now transport a child with fresh, suspicious injuries and learn a report was already filed last month. What should you do?",
    "source": "Flashcard Case Studies — Set 11",
    "topic": "mandatory reporting",
    "topic_n": 57
   },
   {
-   "question": "Which term is defined as: The documented, unbroken record of everyone who collected, handled, and transferred physical evidence from a crime scene, maintained so the evidence stays usable in court.",
+   "answer": 2,
    "choices": [
     "consent",
     "patient care documentation",
     "chain of evidence",
     "Good Samaritan laws"
    ],
-   "answer": 2,
    "explanation": "chain of evidence: The documented, unbroken record of everyone who collected, handled, and transferred physical evidence from a crime scene, maintained so the evidence stays usable in court.",
+   "question": "Which term is defined as: The documented, unbroken record of everyone who collected, handled, and transferred physical evidence from a crime scene, maintained so the evidence stays usable in court.",
    "source": "Flashcard Slides — Set 11",
    "topic": "chain of evidence",
    "topic_n": 58
   },
   {
-   "question": "What does the term \"chain of evidence\" mean?",
+   "answer": 0,
    "choices": [
-    "Immediate care or treatment.",
-    "The documented, unbroken record of everyone who collected, handled, and transferred physical evidence from a crime scene, maintained so the evidence stays usable in court.",
-    "Written questions that the defense and plaintiff send to one another.",
-    "Permission for treatment given by a competent patient after the potential risks, benefits, and alternatives to treatment have been explained."
+    "The documented record of who handled the evidence was broken — an unlogged handoff leaves a gap in its history",
+    "Only the first officer's name matters, not later transfers",
+    "Nothing — evidence speaks for itself regardless of handling",
+    "The casing should have been kept in the ambulance"
    ],
-   "answer": 1,
-   "explanation": "chain of evidence: The documented, unbroken record of everyone who collected, handled, and transferred physical evidence from a crime scene, maintained so the evidence stays usable in court.",
+   "explanation": "The chain of evidence is the documented, unbroken record of everyone who collected, handled, and transferred physical evidence from a crime scene, maintained so the evidence stays usable in court. A transfer nobody signed for is a break in that chain — and a reason a court may doubt the evidence.",
+   "question": "At a shooting scene, an officer hands your EMT a shell casing in a sealed bag. Your EMT passes it to a second officer at the hospital, but nobody signs or logs the transfer. Months later, the defense attacks the casing in court. What went wrong?",
    "source": "Flashcard Slides — Set 11",
    "topic": "chain of evidence",
    "topic_n": 58
   },
   {
-   "question": "A 6-year-old girl was reported missing from her home, and police treated the call as a kidnapping: only her bedroom was cordoned off while family and friends walked freely through the rest of the house. That afternoon her father found her body in the basement, removed tape from her mouth, and carried her upstairs. The case remains unsolved, and the early contamination of the scene is still cited as a major investigative failure. What should EMS providers do at a scene like this?",
+   "answer": 0,
    "choices": [
     "Limit entry, avoid moving anything not needed for patient care, and tell investigators exactly what they touched or moved.",
     "Move the body to a cleaner area so investigators have room to work.",
     "Let family members remain with the body so the scene stays emotionally calm.",
     "Search the rest of the house themselves to locate evidence before police arrive."
    ],
-   "answer": 0,
    "explanation": "An unsecured scene and a moved body break the evidence record before collection even begins, and no later documentation can restore it.",
+   "question": "A 6-year-old girl was reported missing from her home, and police treated the call as a kidnapping: only her bedroom was cordoned off while family and friends walked freely through the rest of the house. That afternoon her father found her body in the basement, removed tape from her mouth, and carried her upstairs. The case remains unsolved, and the early contamination of the scene is still cited as a major investigative failure. What should EMS providers do at a scene like this?",
    "source": "Flashcard Case Studies — Set 11",
    "topic": "chain of evidence",
    "topic_n": 58
   },
   {
-   "question": "A homeless man's DNA was found under the fingernails of a home-invasion murder victim, and he was charged with murder and jailed for about five months. Hospital records then proved he had been in a hospital bed at the time of the killing; investigators concluded the same paramedics had treated him hours earlier and that a pulse oximeter clipped to both men's fingers had likely transferred his DNA to the victim. What lesson does this hold for EMTs?",
+   "answer": 3,
    "choices": [
     "DNA found at a scene always proves the person was physically present there.",
     "Paramedics should refuse to treat a second patient on the same shift to prevent any transfer.",
     "Reusable equipment only needs cleaning when it is visibly soiled with blood.",
     "EMTs must clean or replace equipment between patients and be aware that their own movements can transfer evidence into or out of a scene."
    ],
-   "answer": 3,
    "explanation": "EMS equipment carried one patient's DNA onto a victim, creating physical evidence that pointed at an innocent man.",
+   "question": "A homeless man's DNA was found under the fingernails of a home-invasion murder victim, and he was charged with murder and jailed for about five months. Hospital records then proved he had been in a hospital bed at the time of the killing; investigators concluded the same paramedics had treated him hours earlier and that a pulse oximeter clipped to both men's fingers had likely transferred his DNA to the victim. What lesson does this hold for EMTs?",
    "source": "Flashcard Case Studies — Set 11",
    "topic": "chain of evidence",
    "topic_n": 58
   },
   {
-   "question": "Which term is defined as: The written or electronic legal record of an EMS call, which courts treat as a reflection of the care itself, so that an incomplete or untidy report is read as evidence of inadequate care.",
+   "answer": 1,
    "choices": [
-    "ethics",
-    "health care directive",
-    "emergency medical care",
-    "patient care documentation"
+    "Neither — reports are informal notes, not legal records",
+    "The second — the report is treated as the record of the care itself, so a late, incomplete report reads as inadequate care",
+    "The first — writing at the hospital looks rushed",
+    "Both equally — all reports carry the same weight"
    ],
-   "answer": 3,
-   "explanation": "patient care documentation: The written or electronic legal record of an EMS call, which courts treat as a reflection of the care itself, so that an incomplete or untidy report is read as evidence of inadequate care.",
+   "explanation": "Patient care documentation is the written or electronic legal record of an EMS call, and courts treat it as a reflection of the care itself. A report reconstructed from memory days later, with gaps, invites the conclusion that the care had gaps too.",
+   "question": "Two EMTs finish their reports differently. One completes his at the hospital while the call is fresh. The other, busy, writes hers from memory two days later and leaves out a medication time she can't recall. If both reports end up in court, which EMT has the bigger problem — and why?",
    "source": "Flashcard Slides — Set 11",
    "topic": "patient care documentation",
    "topic_n": 59
   },
   {
-   "question": "What does the term \"patient care documentation\" mean?",
+   "answer": 2,
    "choices": [
-    "The written or electronic legal record of an EMS call, which courts treat as a reflection of the care itself, so that an incomplete or untidy report is read as evidence of inadequate care.",
-    "Stiffening of the body muscles; a definitive sign of death.",
-    "The confinement of a person without legal authority or the person's consent.",
-    "A written document that specifies medical treatment for a competent patient, should he or she become unable to make decisions in the future; also known as an advance directive or a living will."
+    "Destroy the report and start a fresh one",
+    "Erase it completely so no one sees the mistake",
+    "Draw a single line through the error, initial it, and write the correction — the original entry stays readable",
+    "Leave it — errors in a legal record can never be changed"
    ],
+   "explanation": "The patient care report is a legal record of the call. Errors are corrected with a single line through the entry, initialed, so the original remains readable — erasing or destroying entries looks like falsifying the record.",
+   "question": "An EMT spots a wrong time in a completed run report. One partner suggests erasing it and writing over it so \"it looks clean.\" What is the proper way to fix the error?",
+   "source": "Flashcard Slides — Set 11",
+   "topic": "patient care documentation",
+   "topic_n": 59
+  },
+  {
    "answer": 0,
-   "explanation": "patient care documentation: The written or electronic legal record of an EMS call, which courts treat as a reflection of the care itself, so that an incomplete or untidy report is read as evidence of inadequate care.",
-   "source": "Flashcard Slides — Set 11",
-   "topic": "patient care documentation",
-   "topic_n": 59
-  },
-  {
-   "question": "In 2008, a 48-year-old man with chest pain and shortness of breath was walked down three flights of stairs by paramedics, but his patient care report stated he had been carried down in a stair chair. His daughter spotted the false entry in his records, both paramedics admitted the stair chair was never used, and both were fired after a state investigation. What rule of documentation did they break?",
    "choices": [
     "EMTs must document only what was actually done; a report that describes care never given is falsification, with legal and career consequences.",
     "Minor exaggerations in a report are acceptable when the overall care was appropriate.",
     "The report should describe the care that protocol says should have been given on the call.",
     "In court, only the patient's outcome matters, not whether the report was accurate."
    ],
-   "answer": 0,
    "explanation": "The falsified report, not just the care, drove the firings and the state investigation; once the record was proven false, the service's account of the whole call collapsed.",
+   "question": "In 2008, a 48-year-old man with chest pain and shortness of breath was walked down three flights of stairs by paramedics, but his patient care report stated he had been carried down in a stair chair. His daughter spotted the false entry in his records, both paramedics admitted the stair chair was never used, and both were fired after a state investigation. What rule of documentation did they break?",
    "source": "Flashcard Case Studies — Set 11",
    "topic": "patient care documentation",
    "topic_n": 59
   },
   {
-   "question": "In 2020, responders worked a 20-year-old woman for about 30 minutes and a physician pronounced her dead by phone; funeral home staff later found her alive in a body bag. State regulators found the lead paramedic had given the physician inaccurate vital sign information, stopped resuscitation six minutes before he had permission, and changed his report when it was uploaded a second time the next day. Both paramedics' licenses were suspended. What does the altered report teach about patient care documentation?",
+   "answer": 0,
    "choices": [
     "Never alter a submitted report without a transparent, dated correction; an unexplained change reads in court as a cover-up.",
     "Correcting a report the next day is acceptable as long as the final version looks consistent.",
     "Reports may be rewritten after a bad outcome to clarify what the crew intended to do.",
     "Only the first version of a report can ever be used against a provider in court."
    ],
-   "answer": 0,
    "explanation": "The altered and inaccurate report became central evidence against the crew: what was documented, and then changed, showed the care did not match the record.",
+   "question": "In 2020, responders worked a 20-year-old woman for about 30 minutes and a physician pronounced her dead by phone; funeral home staff later found her alive in a body bag. State regulators found the lead paramedic had given the physician inaccurate vital sign information, stopped resuscitation six minutes before he had permission, and changed his report when it was uploaded a second time the next day. Both paramedics' licenses were suspended. What does the altered report teach about patient care documentation?",
    "source": "Flashcard Case Studies — Set 11",
    "topic": "patient care documentation",
    "topic_n": 59

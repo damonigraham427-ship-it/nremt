@@ -1,169 +1,169 @@
 {
  "questions": [
   {
-   "question": "Which term is defined as: A radio receiver that searches or scans across several frequencies until the message is completed; the process is then repeated.",
+   "answer": 2,
    "choices": [
     "communication",
     "health information exchange",
     "scanner",
     "patient care report"
    ],
-   "answer": 2,
    "explanation": "scanner: A radio receiver that searches or scans across several frequencies until the message is completed; the process is then repeated.",
+   "question": "Which term is defined as: A radio receiver that searches or scans across several frequencies until the message is completed; the process is then repeated.",
    "source": "Flashcard Slides — Set 2",
    "topic": "scanner",
    "topic_n": 7
   },
   {
-   "question": "What does the term \"scanner\" mean?",
+   "answer": 1,
    "choices": [
-    "The use of a radio signal and a voice or digital message that is transmitted to pagers (“beepers”) or a mobile data terminal.",
-    "A system that allows EMS providers to access relevant health data (eg, past medical problems, medications, allergies, end-of-life decisions), avoid duplicating unnecessary tests, and ensure that the information needed to provide care is available.",
-    "A process in which electronic signals are converted into coded, audible signals; these signals can then be transmitted by radio or telephone to a receiver with a decoder at the hospital.",
-    "A radio receiver that searches or scans across several frequencies until the message is completed; the process is then repeated."
+    "Multiplex system",
+    "Scanner",
+    "Repeater",
+    "Base station"
    ],
-   "answer": 3,
-   "explanation": "scanner: A radio receiver that searches or scans across several frequencies until the message is completed; the process is then repeated.",
+   "explanation": "A receiver that searches across several frequencies and locks onto an active transmission is a scanner. A repeater rebroadcasts signals on a second frequency; a base station is the fixed transmitter and receiver at headquarters; multiplex sends voice and data on separate channels at once.",
+   "question": "The radio at your station base keeps cycling through several channels on its own. Whenever a transmission starts on one of them, it stops there until the message ends, then starts cycling again. This receiver is a:",
    "source": "Flashcard Slides — Set 2",
    "topic": "scanner",
    "topic_n": 7
   },
   {
-   "question": "Which term is defined as: The recorded portion of the EMT’s patient interaction, either written or electronic. This becomes part of the patient's permanent medical record.",
+   "answer": 0,
    "choices": [
     "documentation",
     "chief complaint",
     "base station",
     "scanner"
    ],
-   "answer": 0,
    "explanation": "documentation: The recorded portion of the EMT’s patient interaction, either written or electronic. This becomes part of the patient's permanent medical record.",
+   "question": "Which term is defined as: The recorded portion of the EMT’s patient interaction, either written or electronic. This becomes part of the patient's permanent medical record.",
    "source": "Flashcard Slides — Set 2",
    "topic": "documentation",
    "topic_n": 8
   },
   {
-   "question": "What does the term \"documentation\" mean?",
+   "answer": 2,
    "choices": [
-    "The recorded portion of the EMT’s patient interaction, either written or electronic. This becomes part of the patient's permanent medical record.",
-    "VHF and UHF channels that the Federal Communications Commission has designated exclusively for EMS use.",
-    "Anything that dampens or obscures the true meaning of a message.",
-    "The legal document used to record all patient care activities. This report has direct patient care functions and administrative and quality control functions."
+    "Patient care report",
+    "Radio report",
+    "Documentation",
+    "Handover"
    ],
-   "answer": 0,
-   "explanation": "documentation: The recorded portion of the EMT’s patient interaction, either written or electronic. This becomes part of the patient's permanent medical record.",
+   "explanation": "Documentation is the recorded portion of the patient interaction, and it becomes part of the patient's permanent medical record. The patient care report is the legal document that carries that record; a radio report and a handover are spoken communications, not the written record itself.",
+   "question": "Everything you record about a patient encounter - the times, findings, and care you write down as the call unfolds - makes up the:",
    "source": "Flashcard Slides — Set 2",
    "topic": "documentation",
    "topic_n": 8
   },
   {
-   "question": "Which term is defined as: Single-frequency radio; transmissions can occur in either direction but not simultaneously; when one party transmits, the other can only receive, and the party that is transmitting is unable to receive.",
+   "answer": 3,
    "choices": [
     "mission-critical communications",
     "multiplex",
     "cultural imposition",
     "simplex"
    ],
-   "answer": 3,
    "explanation": "simplex: Single-frequency radio; transmissions can occur in either direction but not simultaneously; when one party transmits, the other can only receive, and the party that is transmitting is unable to receive.",
+   "question": "Which term is defined as: Single-frequency radio; transmissions can occur in either direction but not simultaneously; when one party transmits, the other can only receive, and the party that is transmitting is unable to receive.",
    "source": "Flashcard Slides — Set 2",
    "topic": "simplex",
    "topic_n": 9
   },
   {
-   "question": "What does the term \"simplex\" mean?",
-   "choices": [
-    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use.",
-    "Anything that dampens or obscures the true meaning of a message.",
-    "Single-frequency radio; transmissions can occur in either direction but not simultaneously; when one party transmits, the other can only receive, and the party that is transmitting is unable to receive.",
-    "Verbal and nonverbal communication techniques that encourage patients to express their feelings and achieve a positive relationship."
-   ],
    "answer": 2,
-   "explanation": "simplex: Single-frequency radio; transmissions can occur in either direction but not simultaneously; when one party transmits, the other can only receive, and the party that is transmitting is unable to receive.",
+   "choices": [
+    "Trunking mode",
+    "Duplex mode",
+    "Simplex mode",
+    "Multiplex mode"
+   ],
+   "explanation": "On simplex, a single frequency carries transmissions in one direction at a time; while you transmit, you cannot receive, so two people transmitting at once lose both messages. Duplex lets transmitting and receiving happen at the same time; multiplex sends voice and data on separate channels; trunking assigns frequencies from a pool.",
+   "question": "You and your partner are talking on portable radios at a scene. Every time you both key up at the same moment, neither of you hears a word the other said. This happens because your radios are operating in:",
    "source": "Flashcard Slides — Set 2",
    "topic": "simplex",
    "topic_n": 9
   },
   {
-   "question": "Which term is defined as: A trusting relationship that you build with your patient.",
+   "answer": 2,
    "choices": [
     "noise",
     "handover",
     "rapport",
     "dedicated line"
    ],
-   "answer": 2,
    "explanation": "rapport: A trusting relationship that you build with your patient.",
+   "question": "Which term is defined as: A trusting relationship that you build with your patient.",
    "source": "Flashcard Slides — Set 2",
    "topic": "rapport",
    "topic_n": 10
   },
   {
-   "question": "What does the term \"rapport\" mean?",
-   "choices": [
-    "A trusting relationship that you build with your patient.",
-    "Any radio hardware containing a transmitter and receiver that is located in a fixed place.",
-    "The ability to transmit and receive simultaneously.",
-    "The federal agency that has jurisdiction over interstate and international telephone and telegraph services; it allocates and licenses radio frequencies, assigns radio call signs, and approves equipment for radio use."
-   ],
    "answer": 0,
-   "explanation": "rapport: A trusting relationship that you build with your patient.",
+   "choices": [
+    "Rapport",
+    "Emotional intelligence",
+    "A mental model",
+    "Cultural imposition"
+   ],
+   "explanation": "The trusting relationship that makes a patient open up and answer honestly is rapport. Emotional intelligence is understanding and managing your own emotions and others'; a mental model is your picture of what is going on in a situation; cultural imposition is forcing your practices on a patient.",
+   "question": "You spend the first minutes of a call chatting calmly with a nervous patient about her grandkids. Soon she relaxes and starts answering your questions honestly and in detail. What have you built with her?",
    "source": "Flashcard Slides — Set 2",
    "topic": "rapport",
    "topic_n": 10
   },
   {
-   "question": "Which term is defined as: Radio frequencies between 30 and 300 MHz; this spectrum is further divided into high and low bands.",
+   "answer": 1,
    "choices": [
     "channel",
     "VHF",
     "base station",
     "mission-critical communications"
    ],
-   "answer": 1,
    "explanation": "VHF: Radio frequencies between 30 and 300 MHz; this spectrum is further divided into high and low bands.",
+   "question": "Which term is defined as: Radio frequencies between 30 and 300 MHz; this spectrum is further divided into high and low bands.",
    "source": "Flashcard Slides — Set 2",
    "topic": "VHF",
    "topic_n": 11
   },
   {
-   "question": "What does the term \"VHF\" mean?",
+   "answer": 3,
    "choices": [
-    "Radio frequencies between 30 and 300 MHz; this spectrum is further divided into high and low bands.",
-    "A special telephone line that is used for specific point-to-point communications; also known as a hot line.",
-    "Written documents, signed by the EMS system’s medical director, that outline specific directions, permissions, and sometimes prohibitions regarding patient care; also called protocols.",
-    "The transmission of information to another person—verbally or through body language."
+    "UHF - 155 MHz falls in the 300-3,000 MHz band, and those waves carry best in open country",
+    "UHF - 155 MHz is one of the channels reserved only for EMS traffic",
+    "VHF - 155 MHz falls in the 300-3,000 MHz band, so the waves are short and hug the ground",
+    "VHF - 155 MHz falls in the 30-300 MHz band, and those longer waves travel well over open terrain"
    ],
-   "answer": 0,
-   "explanation": "VHF: Radio frequencies between 30 and 300 MHz; this spectrum is further divided into high and low bands.",
+   "explanation": "155 MHz sits inside 30-300 MHz, so it is VHF, and VHF's longer waves carry well over open terrain. UHF runs from 300 to 3,000 MHz; the channels reserved only for EMS are the MED channels, not a band.",
+   "question": "Your county's radios operate at 155 MHz, and the signal carries well across miles of open farmland. A new EMT asks which band you are in and why the signal behaves that way. You tell her:",
    "source": "Flashcard Slides — Set 2",
    "topic": "VHF",
    "topic_n": 11
   },
   {
-   "question": "Which term is defined as: Radio frequencies between 300 and 3,000 MHz.",
+   "answer": 1,
    "choices": [
     "therapeutic communication",
     "UHF",
     "handover",
     "trunking"
    ],
-   "answer": 1,
    "explanation": "UHF: Radio frequencies between 300 and 3,000 MHz.",
+   "question": "Which term is defined as: Radio frequencies between 300 and 3,000 MHz.",
    "source": "Flashcard Slides — Set 2",
    "topic": "UHF",
    "topic_n": 12
   },
   {
-   "question": "What does the term \"UHF\" mean?",
-   "choices": [
-    "A small computer terminal inside the ambulance that directly receives data from the dispatch center.",
-    "Radio frequencies between 300 and 3,000 MHz.",
-    "Any communications where disruption will result in the failure of the mission at hand.",
-    "Any radio hardware containing a transmitter and receiver that is located in a fixed place."
-   ],
    "answer": 1,
-   "explanation": "UHF: Radio frequencies between 300 and 3,000 MHz.",
+   "choices": [
+    "VHF - the 300-3,000 MHz band, reserved for hospital traffic",
+    "UHF - the 300-3,000 MHz band, whose shorter waves penetrate buildings well",
+    "VHF - the 30-300 MHz band, whose longer waves carry farthest in open country",
+    "UHF - the 30-300 MHz band, which the FCC set aside only for EMS"
+   ],
+   "explanation": "460 MHz is above 300 MHz, so it is UHF (300-3,000 MHz), and UHF's shorter waves penetrate buildings better than VHF. VHF covers 30-300 MHz, and the channels set aside only for EMS are the MED channels.",
+   "question": "Your city's radios run on 460 MHz, and the signal punches through concrete parking garages downtown far better than the county's older system did. The 460 MHz frequency places your radios in:",
    "source": "Flashcard Slides — Set 2",
    "topic": "UHF",
    "topic_n": 12

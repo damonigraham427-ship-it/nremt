@@ -1,491 +1,491 @@
 {
  "questions": [
   {
-   "question": "At a nursing home, staff hand you a signed state out-of-hospital DNR form for your pulseless, apneic patient and the form matches the patient. What should you do?",
+   "answer": 0,
    "choices": [
     "do not resuscitate order",
     "advance directive",
     "health care power of attorney",
     "living will"
    ],
-   "answer": 0,
    "explanation": "A valid written physician DNR order directs medical personnel not to attempt resuscitation in cardiac arrest, so you withhold CPR and follow local protocol.",
+   "question": "At a nursing home, staff hand you a signed state out-of-hospital DNR form for your pulseless, apneic patient and the form matches the patient. What should you do?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "do not resuscitate order",
    "topic_n": 36
   },
   {
-   "question": "You arrive at a home where a hospice patient is pulseless. The family says 'she never wanted CPR' but cannot produce any signed order or DNR bracelet. What is your correct action?",
+   "answer": 2,
    "choices": [
     "provide comfort measures only while the family searches for the paperwork",
     "withhold resuscitation because the family has clearly stated her wishes",
     "begin resuscitation (no valid do not resuscitate order present)",
     "contact the family physician by phone before deciding whether to start CPR"
    ],
-   "answer": 2,
    "explanation": "Without the written physician documentation that defines a DNR order, verbal family statements alone do not authorize withholding resuscitation.",
+   "question": "You arrive at a home where a hospice patient is pulseless. The family says 'she never wanted CPR' but cannot produce any signed order or DNR bracelet. What is your correct action?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "do not resuscitate order",
    "topic_n": 36
   },
   {
-   "question": "A hospital patient with a valid DNR order arrests and a new nurse starts compressions before anyone checks the chart. Which document, had it been checked, gave permission not to attempt resuscitation?",
+   "answer": 1,
    "choices": [
     "living will",
     "do not resuscitate order",
     "advance directive",
     "durable power of attorney for health care"
    ],
-   "answer": 1,
    "explanation": "The DNR order is the physician's written documentation telling personnel not to attempt resuscitation if arrest occurs.",
+   "question": "A hospital patient with a valid DNR order arrests and a new nurse starts compressions before anyone checks the chart. Which document, had it been checked, gave permission not to attempt resuscitation?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "do not resuscitate order",
    "topic_n": 36
   },
   {
-   "question": "After a dramatic MVC, an EMT posts on social media: 'Bad wreck on Route 7 tonight, driver didn't make it,' with no name. A local reporter identifies the patient from the details. What has the EMT committed?",
+   "answer": 2,
    "choices": [
     "negligence",
     "defamation",
     "breach of confidentiality",
     "libel"
    ],
-   "answer": 2,
    "explanation": "Details that let others identify the patient disclose patient information without proper authorization, even without a name.",
+   "question": "After a dramatic MVC, an EMT posts on social media: 'Bad wreck on Route 7 tonight, driver didn't make it,' with no name. A local reporter identifies the patient from the details. What has the EMT committed?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "breach of confidentiality",
    "topic_n": 37
   },
   {
-   "question": "A paramedic's spouse asks how the mayor, who was transported last shift, is doing. The paramedic shares the mayor's diagnosis and condition at home. What is this?",
+   "answer": 3,
    "choices": [
     "defamation",
     "gross negligence",
     "libel",
     "breach of confidentiality"
    ],
-   "answer": 3,
    "explanation": "Telling anyone not involved in care, including family at home, discloses information without the patient's authorization.",
+   "question": "A paramedic's spouse asks how the mayor, who was transported last shift, is doing. The paramedic shares the mayor's diagnosis and condition at home. What is this?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "breach of confidentiality",
    "topic_n": 37
   },
   {
-   "question": "Which of the following is the correct way to share an interesting case with your class instructor?",
+   "answer": 1,
    "choices": [
     "post it in a closed class group using only the patient's initials",
     "discuss it with all identifying information removed (no breach of confidentiality)",
     "share the full run report as long as it is used for teaching purposes",
     "remove the patient's name but keep the address, date, and location of the call"
    ],
-   "answer": 1,
    "explanation": "Teaching discussion is permitted only when the patient cannot be identified; sharing identifiable details without authorization is a breach of confidentiality.",
+   "question": "Which of the following is the correct way to share an interesting case with your class instructor?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "breach of confidentiality",
    "topic_n": 37
   },
   {
-   "question": "Which of the following items from a patient care report is protected health information?",
+   "answer": 0,
    "choices": [
     "protected health information (the patient's name linked to her diagnosis and treatment)",
     "the patient's age and zip code with no other details attached",
     "a list of diagnoses with no names or identifiers attached to it",
     "the total number of transports your agency ran that month"
    ],
-   "answer": 0,
    "explanation": "A name linked to health status or care provided can be tied to an individual, which is the definition of protected health information.",
+   "question": "Which of the following items from a patient care report is protected health information?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "protected health information",
    "topic_n": 38
   },
   {
-   "question": "A crew leaves a printed run report with the patient's name, address, chief complaint, and insurance number on the ambulance dashboard in public view. What category of information has been put at risk?",
+   "answer": 2,
    "choices": [
     "agency property that anyone on duty may review",
     "public information once the run is complete",
     "protected health information",
     "de-identified statistical data"
    ],
-   "answer": 2,
    "explanation": "Health, care, and payment details that can be linked to an individual are PHI whether they are on paper or on a screen.",
+   "question": "A crew leaves a printed run report with the patient's name, address, chief complaint, and insurance number on the ambulance dashboard in public view. What category of information has been put at risk?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "protected health information",
    "topic_n": 38
   },
   {
-   "question": "A researcher receives a data set of 500 transports with ages and zip codes but no names, addresses, or any way to link records to a person. Why is this set generally not treated as PHI?",
+   "answer": 2,
    "choices": [
     "the data came from a public hospital",
     "the records are more than one year old",
     "it cannot be linked to an individual",
     "the researcher signed a confidentiality agreement"
    ],
-   "answer": 2,
    "explanation": "PHI must be linkable to an individual; properly de-identified data with no link back falls outside the definition.",
+   "question": "A researcher receives a data set of 500 transports with ages and zip codes but no names, addresses, or any way to link records to a person. Why is this set generally not treated as PHI?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "protected health information",
    "topic_n": 38
   },
   {
-   "question": "An EMT-B is riding with a paramedic partner when a critical patient needs an IV medication. The paramedic is busy with the airway and says, 'You start the IV and push it, you've watched me do it plenty of times.' What should the EMT-B do?",
+   "answer": 3,
    "choices": [
     "perform it this one time and document that the paramedic directed it",
     "start the IV line but let the paramedic push the medication",
     "start the IV only because the patient is critical and no one else is free",
     "refuse; IV medication administration is outside the EMT-B scope of practice"
    ],
-   "answer": 3,
    "explanation": "Scope of practice is set by state law for each certification level, and a partner's instruction cannot expand what an EMT-B is legally able to do.",
+   "question": "An EMT-B is riding with a paramedic partner when a critical patient needs an IV medication. The paramedic is busy with the airway and says, 'You start the IV and push it, you've watched me do it plenty of times.' What should the EMT-B do?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "scope of practice",
    "topic_n": 39
   },
   {
-   "question": "Your state adds oropharyngeal airways and pulse oximetry to the EMT scope but not CPAP. A neighboring state's EMTs use CPAP routinely. On a mutual-aid call in your state, which list governs the care you may provide?",
+   "answer": 3,
    "choices": [
     "the neighboring state's scope, since its EMTs work the same call",
     "the national registry's recommended skill list",
     "your agency medical director's personal preference",
     "scope of practice (your state's definition for your level)"
    ],
-   "answer": 3,
    "explanation": "Scope of practice is most commonly defined by state law, so your own state's rules for your certification level control.",
+   "question": "Your state adds oropharyngeal airways and pulse oximetry to the EMT scope but not CPAP. A neighboring state's EMTs use CPAP routinely. On a mutual-aid call in your state, which list governs the care you may provide?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "scope of practice",
    "topic_n": 39
   },
   {
-   "question": "A newly certified EMT wants to perform a skill he practiced in a hospital job but that does not appear in his state's EMT protocols or scope. What is the correct course?",
+   "answer": 2,
    "choices": [
     "perform it once and report it to the state afterward",
     "perform it only while a paramedic watches him do it",
     "do not perform it as an EMT; it is outside his scope of practice",
     "perform it because prior hospital training counts as authorization"
    ],
-   "answer": 2,
    "explanation": "Experience from another job does not change the state-defined scope that outlines the care an EMT may provide.",
+   "question": "A newly certified EMT wants to perform a skill he practiced in a hospital job but that does not appear in his state's EMT protocols or scope. What is the correct course?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "scope of practice",
    "topic_n": 39
   },
   {
-   "question": "You are called to check a person found in an unheated cabin. The body is stiff, blood has pooled on the underside, and the skin feels the same temperature as the cold room air. Which sign describes the body cooling to match the room?",
+   "answer": 0,
    "choices": [
     "algor mortis",
     "rigor mortis",
     "putrefaction",
     "livor mortis"
    ],
-   "answer": 0,
    "explanation": "Algor mortis is the cooling of the body after death until it matches the ambient temperature.",
+   "question": "You are called to check a person found in an unheated cabin. The body is stiff, blood has pooled on the underside, and the skin feels the same temperature as the cold room air. Which sign describes the body cooling to match the room?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "algor mortis",
    "topic_n": 40
   },
   {
-   "question": "A forensic investigator takes a rectal temperature at a death scene and compares it with room temperature and body weight to estimate the postmortem interval. Which postmortem change is she measuring?",
+   "answer": 1,
    "choices": [
     "rigor mortis",
     "algor mortis",
     "livor mortis",
     "dependent lividity"
    ],
-   "answer": 1,
    "explanation": "Estimating time since death from how far the body has cooled toward ambient temperature is the forensic use of algor mortis.",
+   "question": "A forensic investigator takes a rectal temperature at a death scene and compares it with room temperature and body weight to estimate the postmortem interval. Which postmortem change is she measuring?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "algor mortis",
    "topic_n": 40
   },
   {
-   "question": "Two bodies are found at the same scene, one in a refrigerated room and one in a warm room. Why will the refrigerated body feel cold much sooner, and why does that limit time-of-death estimates?",
+   "answer": 1,
    "choices": [
     "putrefaction (decomposition slows the longer a body stays warm)",
     "algor mortis (cooling proceeds until the body matches ambient temperature, so environment changes the rate)",
     "livor mortis (blood settles faster in a refrigerated body)",
     "rigor mortis (muscle stiffening finishes sooner in a cold room)"
    ],
-   "answer": 1,
    "explanation": "Algor mortis ends when body and ambient temperatures match, so a cold environment cools a body faster and makes cooling alone an unreliable clock.",
+   "question": "Two bodies are found at the same scene, one in a refrigerated room and one in a warm room. Why will the refrigerated body feel cold much sooner, and why does that limit time-of-death estimates?",
    "source": "Quiz-Style Slides — Set 7",
    "topic": "algor mortis",
    "topic_n": 40
   },
   {
-   "question": "Which term is defined as: Written documentation by a physician giving permission to medical personnel not to attempt resuscitation in the event of cardiac arrest.",
+   "answer": 3,
    "choices": [
     "health care directive",
     "health care proxy",
     "forcible restraint",
     "do not resuscitate order"
    ],
-   "answer": 3,
    "explanation": "do not resuscitate order: Written documentation by a physician giving permission to medical personnel not to attempt resuscitation in the event of cardiac arrest.",
+   "question": "Which term is defined as: Written documentation by a physician giving permission to medical personnel not to attempt resuscitation in the event of cardiac arrest.",
    "source": "Flashcard Slides — Set 7",
    "topic": "do not resuscitate order",
    "topic_n": 36
   },
   {
-   "question": "What does the term \"do not resuscitate order\" mean?",
+   "answer": 2,
    "choices": [
-    "The legal duty of an EMT to notify the appropriate authorities in specific situations, such as suspected child or elder abuse or neglect, injuries caused by weapons or crimes, and attempted suicide.",
-    "Written documentation by a physician giving permission to medical personnel not to attempt resuscitation in the event of cardiac arrest.",
-    "The right of a patient to make informed choices regarding his or her health care.",
-    "A legal defense that may be raised when the defendant thinks that the conduct of the plaintiff somehow contributed to any injuries or damages that were sustained by the plaintiff."
+    "Begin CPR only if a second family member agrees",
+    "Wait while the wife looks for a signed copy before doing anything",
+    "Begin CPR — an unsigned, undated document isn't a valid order the crew can follow",
+    "Withhold CPR — any paper the family produces must be honored"
    ],
-   "answer": 1,
-   "explanation": "do not resuscitate order: Written documentation by a physician giving permission to medical personnel not to attempt resuscitation in the event of cardiac arrest.",
+   "explanation": "A do not resuscitate order is a physician's order, and crews can only honor a valid one — properly signed and current. A document missing the physician's signature doesn't meet that standard, so resuscitation begins.",
+   "question": "You arrive to find a man in cardiac arrest. His wife hands you a document she says directs crews not to attempt resuscitation, but it has no physician signature and no date. What should the crew do?",
    "source": "Flashcard Slides — Set 7",
    "topic": "do not resuscitate order",
    "topic_n": 36
   },
   {
-   "question": "Paramedics bring in an unconscious 70-year-old man whose chest is tattooed 'Do Not Resuscitate,' with 'Not' underlined and what appears to be his signature. No signed state DNR form has been found yet. What does the tattoo mean for withholding CPR?",
+   "answer": 0,
    "choices": [
     "A tattoo alone is not a legal DNR order; look for the valid signed state DNR form or bracelet and verify it before withholding resuscitation.",
     "Start CPR but stop it as soon as any family member arrives and objects",
     "Ignore the tattoo entirely, because a tattoo can never reflect a patient's wishes",
     "Honor the tattoo immediately and withhold CPR without any further verification"
    ],
-   "answer": 0,
    "explanation": "A tattoo is not the written physician documentation a DNR requires; the valid signed order must be located before resuscitation is withheld.",
+   "question": "Paramedics bring in an unconscious 70-year-old man whose chest is tattooed 'Do Not Resuscitate,' with 'Not' underlined and what appears to be his signature. No signed state DNR form has been found yet. What does the tattoo mean for withholding CPR?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "do not resuscitate order",
    "topic_n": 36
   },
   {
-   "question": "A 92-year-old hospice patient with a living will refusing revival is found unresponsive. No DNR order was ever placed in her chart, so paramedics perform CPR, intubate her, and transport her; she dies days later after life support is removed. Why did EMS resuscitate?",
+   "answer": 0,
    "choices": [
     "A living will alone is not an out-of-hospital DNR; without a signed order form EMS can see, resuscitation proceeds by default.",
     "The physician's phone instruction to call 911 created a valid DNR order",
     "The living will should have been treated by the paramedics as a valid DNR order",
     "Enrollment in hospice care by itself legally functions as a DNR order"
    ],
-   "answer": 0,
    "explanation": "Families and facilities must get the signed DNR order form where EMS can see it; a living will alone does not authorize withholding resuscitation.",
+   "question": "A 92-year-old hospice patient with a living will refusing revival is found unresponsive. No DNR order was ever placed in her chart, so paramedics perform CPR, intubate her, and transport her; she dies days later after life support is removed. Why did EMS resuscitate?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "do not resuscitate order",
    "topic_n": 36
   },
   {
-   "question": "Which term is defined as: Disclosure of information without proper authorization.",
+   "answer": 0,
    "choices": [
     "breach of confidentiality",
     "health care directive",
     "expressed consent",
     "emergency"
    ],
-   "answer": 0,
    "explanation": "breach of confidentiality: Disclosure of information without proper authorization.",
+   "question": "Which term is defined as: Disclosure of information without proper authorization.",
    "source": "Flashcard Slides — Set 7",
    "topic": "breach of confidentiality",
    "topic_n": 37
   },
   {
-   "question": "What does the term \"breach of confidentiality\" mean?",
+   "answer": 1,
    "choices": [
-    "Disclosure of information without proper authorization.",
-    "The right of a patient to make informed choices regarding his or her health care.",
-    "A term relating to medical jurisprudence (law) or forensic medicine.",
-    "The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment against his or her will."
+    "The report to the nurse — patient details should never be shared with anyone",
+    "The dinner conversation — the patient's information was disclosed without proper authorization",
+    "Neither — family members are covered by the same rules as coworkers",
+    "Both — all discussion of a call is prohibited"
    ],
-   "answer": 0,
-   "explanation": "breach of confidentiality: Disclosure of information without proper authorization.",
+   "explanation": "A breach of confidentiality is disclosure of information without proper authorization. The receiving nurse needs the report to continue care; the spouse at dinner has no such authorization, however harmless it felt.",
+   "question": "After a call involving a well-known local businessman, an EMT tells his spouse over dinner who the patient was and what was wrong with him. Earlier, the same EMT gave a full report to the receiving nurse. Which conversation crossed the line?",
    "source": "Flashcard Slides — Set 7",
    "topic": "breach of confidentiality",
    "topic_n": 37
   },
   {
-   "question": "An EMT responding to a murder scene photographs the victim's body on his cell phone and posts the photo on his Facebook page. He is fired, his certification is revoked, and he is barred from ever working as an EMT again. What rule did he break?",
+   "answer": 3,
    "choices": [
     "Scene photos are acceptable as long as the patient's face is not visible",
     "Photos may be shared if they are posted to a private social media account",
     "Posting is allowed once the call is over and the patient is deceased",
     "Never photograph a patient or scene for personal use; posting it discloses patient information with no authorization and can end a certification."
    ],
-   "answer": 3,
    "explanation": "One personal post of a patient or scene photo is a breach of confidentiality that can end a certification and become a criminal case.",
+   "question": "An EMT responding to a murder scene photographs the victim's body on his cell phone and posts the photo on his Facebook page. He is fired, his certification is revoked, and he is barred from ever working as an EMT again. What rule did he break?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "breach of confidentiality",
    "topic_n": 37
   },
   {
-   "question": "Between 2005 and 2008, employees at a large hospital repeatedly opened celebrity patients' electronic records with no treatment reason; one was indicted for selling information to a tabloid, 13 employees were fired, and the system paid $865,500 to settle the federal case. What does this case illustrate?",
+   "answer": 3,
    "choices": [
     "Viewing a record is only a breach if the information is sold for money",
     "Employees may view any record in their own facility as long as they do not print it",
     "Celebrity records carry less protection because the patients are public figures",
     "Curiosity is not authorization; only open records of patients you are actually treating."
    ],
-   "answer": 3,
    "explanation": "Accessing records without a job purpose is an unauthorized disclosure of confidential information, even when nothing is posted or sold.",
+   "question": "Between 2005 and 2008, employees at a large hospital repeatedly opened celebrity patients' electronic records with no treatment reason; one was indicted for selling information to a tabloid, 13 employees were fired, and the system paid $865,500 to settle the federal case. What does this case illustrate?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "breach of confidentiality",
    "topic_n": 37
   },
   {
-   "question": "Which term is defined as: Any information about health status, provision of health care, or payment for health care that can be linked to an individual.",
+   "answer": 3,
    "choices": [
     "battery",
     "ethics",
     "advance directive",
     "protected health information"
    ],
+   "explanation": "protected health information: Any information about health status, provision of health care, or payment for health care that can be linked to an individual.",
+   "question": "Which term is defined as: Any information about health status, provision of health care, or payment for health care that can be linked to an individual.",
+   "source": "Flashcard Slides — Set 7",
+   "topic": "protected health information",
+   "topic_n": 38
+  },
+  {
    "answer": 3,
-   "explanation": "protected health information: Any information about health status, provision of health care, or payment for health care that can be linked to an individual.",
-   "source": "Flashcard Slides — Set 7",
-   "topic": "protected health information",
-   "topic_n": 38
-  },
-  {
-   "question": "What does the term \"protected health information\" mean?",
    "choices": [
-    "A term relating to medical jurisprudence (law) or forensic medicine.",
-    "Failure to provide the same care that a person with similar training would provide.",
-    "Any information about health status, provision of health care, or payment for health care that can be linked to an individual.",
-    "The philosophy of right and wrong, of moral duties, and of ideal professional behavior."
+    "Neither — photos are never health information",
+    "Both — no call may ever be discussed in any form",
+    "The de-identified case description",
+    "The photo showing the name band"
    ],
-   "answer": 2,
-   "explanation": "protected health information: Any information about health status, provision of health care, or payment for health care that can be linked to an individual.",
+   "explanation": "Protected health information is any information about health status, provision of health care, or payment for health care that can be linked to an individual. The wristband photo ties care to a named person; the case description with identifiers stripped out does not.",
+   "question": "Two posts go up after a dramatic call. The first describes the mechanism and injuries with no name, photo, or anything that could identify the patient. The second is a photo of the scene that clearly shows the patient's hospital wristband with his name. Which post mishandles information that can be linked to an individual?",
    "source": "Flashcard Slides — Set 7",
    "topic": "protected health information",
    "topic_n": 38
   },
   {
-   "question": "An unencrypted laptop holding the electronic records of 500 patients falls off the back bumper of an ambulance and is never recovered. Federal investigators find the service never did a proper risk analysis, and it pays $65,000 with a two-year corrective action plan. What lesson does this case teach?",
+   "answer": 1,
    "choices": [
     "Records used for transport rather than billing fall outside HIPAA protection",
     "Encrypt every device that carries patient reports and physically secure it in the rig; a lost unencrypted laptop is a reportable breach.",
     "A lost device is only a breach if someone proves the data was actually read",
     "Paper run reports are the only records that count as protected health information"
    ],
-   "answer": 1,
    "explanation": "Information about patients' care that can be linked to them is PHI, and a lost unencrypted device exposes it.",
+   "question": "An unencrypted laptop holding the electronic records of 500 patients falls off the back bumper of an ambulance and is never recovered. Federal investigators find the service never did a proper risk analysis, and it pays $65,000 with a two-year corrective action plan. What lesson does this case teach?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "protected health information",
    "topic_n": 38
   },
   {
-   "question": "Attackers enter a health insurer's systems through spear-phishing emails and steal data on almost 79 million people, including names, Social Security numbers, medical ID numbers, addresses, and birth dates. The company pays $16 million, then the largest HIPAA settlement in history. Why was this data protected health information?",
+   "answer": 3,
    "choices": [
     "Data taken by hackers is excluded from HIPAA breach rules",
     "Only handwritten clinical notes qualify as protected health information",
     "Insurance ID numbers are not PHI because the health plan issues them",
     "PHI includes identifiers plus payment and coverage data, not just clinical notes."
    ],
-   "answer": 3,
    "explanation": "Names and medical ID numbers linked to health plan records are protected health information.",
+   "question": "Attackers enter a health insurer's systems through spear-phishing emails and steal data on almost 79 million people, including names, Social Security numbers, medical ID numbers, addresses, and birth dates. The company pays $16 million, then the largest HIPAA settlement in history. Why was this data protected health information?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "protected health information",
    "topic_n": 38
   },
   {
-   "question": "Which term is defined as: Most commonly defined by state law; outlines the care that the EMT is able to provide for the patient.",
+   "answer": 0,
    "choices": [
     "scope of practice",
     "rigor mortis",
     "interrogatories",
     "chain of evidence"
    ],
-   "answer": 0,
    "explanation": "scope of practice: Most commonly defined by state law; outlines the care that the EMT is able to provide for the patient.",
+   "question": "Which term is defined as: Most commonly defined by state law; outlines the care that the EMT is able to provide for the patient.",
    "source": "Flashcard Slides — Set 7",
    "topic": "scope of practice",
    "topic_n": 39
   },
   {
-   "question": "What does the term \"scope of practice\" mean?",
+   "answer": 2,
    "choices": [
-    "Most commonly defined by state law; outlines the care that the EMT is able to provide for the patient.",
-    "A person who is under the legal age in a given state but, because of other circumstances, is legally considered an adult.",
-    "Immediate care or treatment.",
-    "Disclosure of information without proper authorization."
+    "The problem is the instructor's, for demonstrating it",
+    "The only problem is that the skill might fail",
+    "He acted outside the range of care his level is authorized to provide, regardless of what he was shown in class",
+    "Nothing — anything taught in school is fair game on the street"
    ],
-   "answer": 0,
-   "explanation": "scope of practice: Most commonly defined by state law; outlines the care that the EMT is able to provide for the patient.",
+   "explanation": "Scope of practice is the range of care a provider is authorized to give. Being shown a skill in class doesn't authorize it — if state protocol doesn't include it for EMTs, performing it is outside scope.",
+   "question": "In EMT school, an instructor demonstrated an advanced airway skill so students would recognize it. On a call, an EMT attempts that skill on a patient because \"I was taught how.\" State protocol does not authorize EMTs to perform it. What is the problem?",
    "source": "Flashcard Slides — Set 7",
    "topic": "scope of practice",
    "topic_n": 39
   },
   {
-   "question": "In Kentucky in 2025, paramedics give antivenom to a snakebite victim after consulting an emergency physician, and the patient survives. However, only specially certified wilderness paramedics may give antivenom in that state, so the crew self-reports acting outside their scope. What does this case show?",
+   "answer": 3,
    "choices": [
     "A hospital physician's agreement automatically expands a paramedic's state scope",
     "If the patient survives, the treatment is retroactively within scope",
     "Scope rules apply only to medications given without consulting a physician",
     "A good outcome does not erase a scope violation; know your state's authorized list and document medical direction."
    ],
-   "answer": 3,
    "explanation": "Antivenom sat outside the Kentucky paramedic scope even though a physician agreed and the patient lived.",
+   "question": "In Kentucky in 2025, paramedics give antivenom to a snakebite victim after consulting an emergency physician, and the patient survives. However, only specially certified wilderness paramedics may give antivenom in that state, so the crew self-reports acting outside their scope. What does this case show?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "scope of practice",
    "topic_n": 39
   },
   {
-   "question": "An Iowa EMT is suspended in 2024 for acting outside his scope of practice; a coworker reports he did it again a month later, and state records show he had been disciplined in 2014 and 2015 for IV starts beyond his EMT scope. He is fired. What is the lesson?",
+   "answer": 3,
    "choices": [
     "Only the first out-of-scope act is punished; later ones are a training issue",
     "Performing an out-of-scope skill is acceptable whenever the patient benefits",
     "A skill learned in another job may be used on duty after one supervised success",
     "If a skill is not in your certification level's scope, do not perform it even if you were trained on it somewhere else."
    ],
-   "answer": 3,
    "explanation": "Starting an IV is an advanced skill outside an EMT's state-defined scope, and repeating it after discipline escalates the consequences to termination.",
+   "question": "An Iowa EMT is suspended in 2024 for acting outside his scope of practice; a coworker reports he did it again a month later, and state records show he had been disciplined in 2014 and 2015 for IV starts beyond his EMT scope. He is fired. What is the lesson?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "scope of practice",
    "topic_n": 39
   },
   {
-   "question": "Which term is defined as: Cooling of the body after death until it matches the ambient temperature.",
+   "answer": 1,
    "choices": [
     "chain of evidence",
     "algor mortis",
     "standard of care",
     "contributory negligence"
    ],
-   "answer": 1,
    "explanation": "algor mortis: Cooling of the body after death until it matches the ambient temperature.",
+   "question": "Which term is defined as: Cooling of the body after death until it matches the ambient temperature.",
    "source": "Flashcard Slides — Set 7",
    "topic": "algor mortis",
    "topic_n": 40
   },
   {
-   "question": "What does the term \"algor mortis\" mean?",
-   "choices": [
-    "Cooling of the body after death until it matches the ambient temperature.",
-    "The written or electronic legal record of an EMS call, which courts treat as a reflection of the care itself, so that an incomplete or untidy report is read as evidence of inadequate care.",
-    "The study of ethics related to issues that arise in health care.",
-    "Permission for treatment given by a competent patient after the potential risks, benefits, and alternatives to treatment have been explained."
-   ],
    "answer": 0,
-   "explanation": "algor mortis: Cooling of the body after death until it matches the ambient temperature.",
+   "choices": [
+    "The cool body has likely been dead longer — body temperature falls after death, so the accounts don't both fit",
+    "The cool body must have been moved in from a colder place",
+    "Nothing — body temperature doesn't change after death",
+    "The warm body has been dead longer, because warmth means decomposition has begun"
+   ],
+   "explanation": "Algor mortis is the cooling of the body after death. In the same room, the noticeably cooler body has almost certainly been dead longer — temperature is one of the findings used to estimate time of death.",
+   "question": "Two bodies are found in the same apartment on a cool evening. Witnesses say both men died at about the same time, roughly an hour before you arrived. One body still feels warm; the other is noticeably cool to the touch. What does the temperature difference tell you?",
    "source": "Flashcard Slides — Set 7",
    "topic": "algor mortis",
    "topic_n": 40
   },
   {
-   "question": "A forensic method estimates time of death from one rectal temperature, the ambient temperature, body weight, and corrective factors for clothing and surroundings; validated on 111 cases, its 95 percent confidence interval is plus or minus 2.8 hours for deaths within the first 10 hours. How should EMS treat this kind of estimate?",
+   "answer": 2,
    "choices": [
     "Once a body feels cold, investigators no longer need temperature readings",
     "A single rectal temperature can pinpoint the exact minute of death",
     "Cooling gives a range, never an exact time; document scene temperature and do not disturb the body so investigators can use it.",
     "Body cooling follows a fixed rate of exactly one degree per hour in all conditions"
    ],
-   "answer": 2,
    "explanation": "The nomogram is algor mortis in practice, working backward from how far the body has cooled toward ambient temperature.",
+   "question": "A forensic method estimates time of death from one rectal temperature, the ambient temperature, body weight, and corrective factors for clothing and surroundings; validated on 111 cases, its 95 percent confidence interval is plus or minus 2.8 hours for deaths within the first 10 hours. How should EMS treat this kind of estimate?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "algor mortis",
    "topic_n": 40
   },
   {
-   "question": "A 21-year-old student is found dead in her bedroom, killed the night before. Police prevent the coroner from checking her body temperature until around midnight the following night, so he can only estimate death within a two-hour window with no precision, and time of death becomes a contested issue at trial. What went wrong?",
+   "answer": 3,
    "choices": [
     "Bodies cool so slowly that a one-day delay has no effect on estimates",
     "Stomach contents alone can always replace temperature data for time of death",
     "A rectal temperature taken a day later is just as accurate as one taken at discovery",
     "Preserve the scene and call investigators early; once a body reaches ambient temperature, the cooling evidence is gone for good."
    ],
-   "answer": 3,
    "explanation": "Because the body had already cooled toward room temperature before anyone measured it, algor mortis could no longer narrow the time of death.",
+   "question": "A 21-year-old student is found dead in her bedroom, killed the night before. Police prevent the coroner from checking her body temperature until around midnight the following night, so he can only estimate death within a two-hour window with no precision, and time of death becomes a contested issue at trial. What went wrong?",
    "source": "Flashcard Case Studies — Set 7",
    "topic": "algor mortis",
    "topic_n": 40

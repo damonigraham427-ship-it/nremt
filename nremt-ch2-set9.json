@@ -1,589 +1,589 @@
 {
  "questions": [
   {
-   "question": "A paramedic repeatedly takes fentanyl from the ambulance narcotics box, refills the vials with saline, and documents doses that were never given. A trauma patient later gets no pain relief from a vial that should have contained fentanyl. What provider problem caused this patient harm?",
+   "answer": 1,
    "choices": [
     "burnout",
     "substance abuse",
     "compassion fatigue",
     "cumulative stress reaction"
    ],
-   "answer": 1,
    "explanation": "Diverting narcotics for personal use is substance abuse, and patients who receive saline instead of medication get substandard care.",
+   "question": "A paramedic repeatedly takes fentanyl from the ambulance narcotics box, refills the vials with saline, and documents doses that were never given. A trauma patient later gets no pain relief from a vial that should have contained fentanyl. What provider problem caused this patient harm?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "substance abuse",
    "topic_n": 45
   },
   {
-   "question": "Your partner arrives for shift smelling of alcohol, slurring words, and stumbling, but insists he is fine to drive the ambulance. What is this situation an example of?",
+   "answer": 1,
    "choices": [
     "delayed stress reaction",
     "substance abuse",
     "burnout",
     "compassion fatigue"
    ],
-   "answer": 1,
    "explanation": "Working while impaired by alcohol is substance abuse and puts the patient, the crew, and the public at risk.",
+   "question": "Your partner arrives for shift smelling of alcohol, slurring words, and stumbling, but insists he is fine to drive the ambulance. What is this situation an example of?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "substance abuse",
    "topic_n": 45
   },
   {
-   "question": "Over several months, a once-reliable EMT begins missing shifts, shows declining skills on calls, and is caught taking morphine from the drug safe. Coworkers agree the greatest danger from his behavior is not morale or discipline, but the care his patients receive. What is the underlying problem?",
+   "answer": 3,
    "choices": [
     "posttraumatic stress disorder",
     "acute stress reaction",
     "compassion fatigue",
     "substance abuse"
    ],
-   "answer": 3,
    "explanation": "Drug or alcohol abuse among EMS personnel is most serious because it leads to substandard or inappropriate patient care.",
+   "question": "Over several months, a once-reliable EMT begins missing shifts, shows declining skills on calls, and is caught taking morphine from the drug safe. Coworkers agree the greatest danger from his behavior is not morale or discipline, but the care his patients receive. What is the underlying problem?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "substance abuse",
    "topic_n": 45
   },
   {
-   "question": "You finish a call with a patient who has a draining MRSA wound, then immediately begin assessing the next patient without stopping at the sink or using sanitizer. Which basic infection-control step did you skip?",
+   "answer": 3,
    "choices": [
     "sharps safety",
     "ambulance decontamination",
     "standard precautions",
     "hand washing"
    ],
-   "answer": 3,
    "explanation": "Hand washing between patient contacts is the simplest, most effective way to stop carrying germs from one patient to the next.",
+   "question": "You finish a call with a patient who has a draining MRSA wound, then immediately begin assessing the next patient without stopping at the sink or using sanitizer. Which basic infection-control step did you skip?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "hand washing",
    "topic_n": 46
   },
   {
-   "question": "A new EMT asks which single habit prevents more infections than any glove, mask, or gown. What is the answer?",
+   "answer": 2,
    "choices": [
     "disinfecting the ambulance after each call",
     "using standard precautions",
     "hand washing",
     "wearing gloves on every call"
    ],
-   "answer": 2,
    "explanation": "Clean hands between contacts break the chain of transmission more reliably than any single piece of equipment.",
+   "question": "A new EMT asks which single habit prevents more infections than any glove, mask, or gown. What is the answer?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "hand washing",
    "topic_n": 46
   },
   {
-   "question": "After removing your gloves following a call with a patient who has influenza, your hands look clean, so you head straight to the next call. What should you have done first?",
+   "answer": 1,
    "choices": [
     "putting on a new pair of gloves",
     "hand washing",
     "changing into a fresh uniform",
     "disinfecting the stretcher"
    ],
-   "answer": 1,
    "explanation": "Gloves can leak or tear and hands are contaminated during glove removal, so hand washing is required after every patient contact.",
+   "question": "After removing your gloves following a call with a patient who has influenza, your hands look clean, so you head straight to the next call. What should you have done first?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "hand washing",
    "topic_n": 46
   },
   {
-   "question": "After starting an IV, an EMT drops the used needle onto the stretcher instead of into the sharps container, and his partner is stuck when she reaches for a blanket. Which safety failure caused this exposure?",
+   "answer": 2,
    "choices": [
     "standard precautions",
     "hand washing",
     "sharps safety",
     "infection control"
    ],
-   "answer": 2,
    "explanation": "Careless handling of sharps is the usual way HIV and hepatitis spread to health care workers.",
+   "question": "After starting an IV, an EMT drops the used needle onto the stretcher instead of into the sharps container, and his partner is stuck when she reaches for a blanket. Which safety failure caused this exposure?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "sharps safety",
    "topic_n": 47
   },
   {
-   "question": "A used lancet is found loose in the glove compartment, and the sharps container in the ambulance is stuffed past the fill line with needles poking out. What practice has broken down?",
+   "answer": 1,
    "choices": [
     "hand washing",
     "sharps safety",
     "standard precautions",
     "ambulance decontamination"
    ],
-   "answer": 1,
    "explanation": "Sharps must go immediately into a proper container, and overfilled containers cause exactly the sticks that transmit bloodborne viruses.",
+   "question": "A used lancet is found loose in the glove compartment, and the sharps container in the ambulance is stuffed past the fill line with needles poking out. What practice has broken down?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "sharps safety",
    "topic_n": 47
   },
   {
-   "question": "An EMT recaps a used needle with two hands before throwing it away, 'to make it safe.' Why is this against sharps safety practice?",
-   "choices": [
-    "sharps safety",
-    "infection control",
-    "standard precautions",
-    "exposure control"
-   ],
    "answer": 0,
-   "explanation": "Recapping is a leading cause of needlesticks; used sharps should be dropped directly into a sharps container, never recapped.",
+   "choices": [
+    "Recapping is a leading cause of needlesticks; a used needle should go straight into a sharps container, never recapped.",
+    "The problem is only that he used two hands; recapping with one hand is the approved method for used needles.",
+    "Nothing is wrong with it, as long as he recaps slowly and watches what he is doing.",
+    "The needle should be bent or broken first so it cannot be reused, then thrown in the trash."
+   ],
+   "explanation": "Two-handed recapping puts the free hand directly in the needle's path and causes a large share of needlesticks. Used sharps go directly into a sharps container, uncapped — and never into regular trash.",
+   "question": "An EMT recaps a used needle with two hands before throwing it away, 'to make it safe.' What is wrong with this, and what should he do instead?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "sharps safety",
    "topic_n": 47
   },
   {
-   "question": "After transporting a patient with bloody vomiting, you wipe down the stretcher and bench with disinfectant and immediately dry everything with a towel so the unit looks ready. What step of ambulance decontamination did you defeat?",
+   "answer": 0,
    "choices": [
     "ambulance decontamination",
     "standard precautions",
     "hand washing",
     "sharps safety"
    ],
-   "answer": 0,
    "explanation": "Disinfectants need their full contact time; surfaces should be allowed to air dry unless the product directions say otherwise.",
+   "question": "After transporting a patient with bloody vomiting, you wipe down the stretcher and bench with disinfectant and immediately dry everything with a towel so the unit looks ready. What step of ambulance decontamination did you defeat?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "ambulance decontamination",
    "topic_n": 48
   },
   {
-   "question": "Your crew wants to clear the hospital quickly, so the back of the ambulance gets no cleaning after a call involving a patient with diarrhea and a fever. What required task is being skipped?",
+   "answer": 3,
    "choices": [
     "infection control",
     "sharps safety",
     "standard precautions",
     "ambulance decontamination"
    ],
-   "answer": 3,
    "explanation": "The patient compartment must be cleaned and disinfected after every call, or the next patient rides in the last patient's germs.",
+   "question": "Your crew wants to clear the hospital quickly, so the back of the ambulance gets no cleaning after a call involving a patient with diarrhea and a fever. What required task is being skipped?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "ambulance decontamination",
    "topic_n": 48
   },
   {
-   "question": "A study swabs your ambulance and finds staph bacteria on the stretcher rails and work counter even though the unit was 'cleaned' that morning. Which process most likely failed?",
+   "answer": 2,
    "choices": [
     "sharps safety",
     "standard precautions",
     "ambulance decontamination",
     "hand washing"
    ],
-   "answer": 2,
    "explanation": "Research repeatedly finds pathogens surviving in ambulances when cleaning and disinfection are rushed or incomplete.",
+   "question": "A study swabs your ambulance and finds staph bacteria on the stretcher rails and work counter even though the unit was 'cleaned' that morning. Which process most likely failed?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "ambulance decontamination",
    "topic_n": 48
   },
   {
-   "question": "A patient tells you he does not need testing because he 'already had syphilis and was cured last year, so he is immune now.' What is wrong with his reasoning?",
+   "answer": 3,
    "choices": [
-    "mumps",
-    "syphilis",
-    "rubella",
-    "chickenpox"
+    "He is right — once you have had that infection and finished treatment, your body protects you from getting it again.",
+    "He only needs testing if he develops symptoms, because a cured infection cannot come back silently.",
+    "He should be tested for other infections, but never this one again, since repeat infection is impossible.",
+    "Being treated and cured does not make you immune — you can catch the same infection again, so testing is still a good idea."
    ],
-   "answer": 1,
-   "explanation": "Syphilis confers no protection from reinfection after exposure; successful treatment does not make a person immune.",
+   "explanation": "This infection is unusual: curing it gives no protection against catching it again after a new exposure. A patient who believes he is immune may skip testing and stay infected without knowing it.",
+   "question": "A patient tells you he does not need testing because he was treated and cured of a bacterial sexually transmitted infection last year, 'so he is immune now.' What do you tell him?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "syphilis",
    "topic_n": 49
   },
   {
-   "question": "Six months after completing penicillin treatment for syphilis, a man's follow-up blood test shows a fourfold rise in his RPR titer and he has a new painless sore. What most likely happened?",
+   "answer": 2,
    "choices": [
-    "chlamydia",
-    "syphilis",
-    "herpes",
-    "gonorrhea"
+    "The new sore must be from a different kind of illness, because this infection cannot occur twice.",
+    "The original treatment failed and the first infection was never actually cured.",
+    "He has been reinfected — the earlier cure gave him no immunity, so a new exposure started a new infection.",
+    "He is immune now, so the rising test result must be a laboratory error."
    ],
-   "answer": 1,
-   "explanation": "A rising titer with new lesions after treatment signals a brand-new syphilis infection, because prior infection gives no immunity.",
+   "explanation": "His test fell after treatment, which shows the first infection was cured — so a sharp rise with a new sore after a new partner means a brand-new infection. This infection confers no immunity, which is exactly why reinfection is common.",
+   "question": "A man completed antibiotic treatment for a bacterial sexually transmitted infection. His follow-up blood test three months later had fallen just as expected, showing the treatment worked. Now, six months after treatment, his test has risen sharply again and he has a new painless sore, and he reports a new partner in the past two months. What most likely happened?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "syphilis",
    "topic_n": 49
   },
   {
-   "question": "Of rubella, mumps, chickenpox, and syphilis, which disease can a patient catch again even after having it and being fully treated?",
-   "choices": [
-    "syphilis",
-    "mumps",
-    "rubella",
-    "chickenpox"
-   ],
    "answer": 0,
+   "choices": [
+    "syphilis",
+    "mumps",
+    "rubella",
+    "chickenpox"
+   ],
    "explanation": "Rubella, mumps, and chickenpox generally leave immunity; syphilis does not protect against reinfection.",
+   "question": "Of rubella, mumps, chickenpox, and syphilis, which disease can a patient catch again even after having it and being fully treated?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "syphilis",
    "topic_n": 49
   },
   {
-   "question": "You arrive at a rollover with the car resting on its side and a patient trapped inside. Your partner wants to climb in through the rear window immediately. What must happen first?",
+   "answer": 3,
    "choices": [
     "airway management",
     "patient packaging",
     "rapid extrication",
     "vehicle stabilization"
    ],
-   "answer": 3,
    "explanation": "The vehicle must be stabilized with struts or cribbing before anyone accesses the patient, or it may roll or drop onto both of you.",
+   "question": "You arrive at a rollover with the car resting on its side and a patient trapped inside. Your partner wants to climb in through the rear window immediately. What must happen first?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "vehicle stabilization",
    "topic_n": 50
   },
   {
-   "question": "A sedan sits nose-down in a ditch on a slope, rocking slightly whenever rescuers lean on it. Before cutting tools come out, the crew chief orders cribbing and struts placed at four points. What safety step is she enforcing?",
+   "answer": 3,
    "choices": [
     "rapid extrication",
     "hazard control",
     "patient packaging",
     "vehicle stabilization"
    ],
-   "answer": 3,
    "explanation": "Ensuring the vehicle is stable before attempting access prevents movement that can crush rescuers or worsen the patient's injuries.",
+   "question": "A sedan sits nose-down in a ditch on a slope, rocking slightly whenever rescuers lean on it. Before cutting tools come out, the crew chief orders cribbing and struts placed at four points. What safety step is she enforcing?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "vehicle stabilization",
    "topic_n": 50
   },
   {
-   "question": "During an extrication, every push of the spreaders makes the car shift a little on its crushed suspension. What should the crew stop and correct before continuing?",
+   "answer": 2,
    "choices": [
     "extrication technique",
     "scene lighting",
     "vehicle stabilization",
     "tool placement"
    ],
-   "answer": 2,
    "explanation": "A vehicle that moves during tool work is not stabilized; the crew must secure it before patient access continues.",
+   "question": "During an extrication, every push of the spreaders makes the car shift a little on its crushed suspension. What should the crew stop and correct before continuing?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "vehicle stabilization",
    "topic_n": 50
   },
   {
-   "question": "Which term is defined as: The misuse of drugs or alcohol by a provider, on or off duty, that endangers the provider, coworkers, and patients; among EMS personnel, its most serious consequence is substandard or inappropriate patient care.",
+   "answer": 3,
    "choices": [
-    "substance abuse",
-    "infectious disease",
-    "bloodborne pathogens",
-    "posttraumatic stress disorder"
+    "Cover for him this once and say nothing, since reporting him could end his career.",
+    "Let him sleep it off in the bunk room for a few hours, then let him drive once he seems steadier.",
+    "Wait until the shift ends, then tell him privately to come in sober next time.",
+    "He must not work the shift. Take him off the unit and report what you observed to a supervisor right away."
    ],
-   "answer": 0,
-   "explanation": "substance abuse: The misuse of drugs or alcohol by a provider, on or off duty, that endangers the provider, coworkers, and patients; among EMS personnel, its most serious consequence is substandard or inappropriate patient care.",
+   "explanation": "A provider impaired by alcohol endangers patients, the crew, and the public — that is substance abuse on duty, and the immediate duty is to keep him off calls and notify a supervisor. Covering for him leaves patients in the care of an impaired provider.",
+   "question": "Your partner shows up for shift smelling of alcohol, slurring his words, and stumbling slightly as he loads the ambulance. How should this be handled?",
    "source": "Flashcard Slides — Set 9",
    "topic": "substance abuse",
    "topic_n": 45
   },
   {
-   "question": "What does the term \"substance abuse\" mean?",
+   "answer": 1,
    "choices": [
-    "A stress disorder characterized by gradual lessening of compassion over time.",
-    "The body's ability to protect itself from acquiring a disease.",
-    "The misuse of drugs or alcohol by a provider, on or off duty, that endangers the provider, coworkers, and patients; among EMS personnel, its most serious consequence is substandard or inappropriate patient care.",
-    "The organism or individual that is attacked by the infecting agent."
+    "Start double-checking his vials quietly and only report it if it happens a third time.",
+    "Report it to a supervisor immediately and document exactly what was observed; swapped vials and falsified logs point to drug diversion.",
+    "Say nothing for now — weak medication is probably just a pharmacy error.",
+    "Confront the partner in front of the next patient so he knows the crew is watching."
    ],
-   "answer": 2,
-   "explanation": "substance abuse: The misuse of drugs or alcohol by a provider, on or off duty, that endangers the provider, coworkers, and patients; among EMS personnel, its most serious consequence is substandard or inappropriate patient care.",
+   "explanation": "Saline in returned vials plus falsified logs is the signature of a provider diverting narcotics — substance abuse that directly harms patients, who were left in pain. It has to be reported and documented at once, not handled quietly by the crew.",
+   "question": "On two calls this week, patients got no relief from a narcotic your partner administered. When pharmacy tests the returned vials from his shifts, they contain saline, and the medication logs do not match. What should the crew do with this information?",
    "source": "Flashcard Slides — Set 9",
    "topic": "substance abuse",
    "topic_n": 45
   },
   {
-   "question": "A paramedic supervisor replaced fentanyl in ambulance vials with saline and falsified the narcotics logs; an audit later found 26 of 28 fentanyl vials tampered with, and field crews had noticed the drug sometimes seemed ineffective at relieving pain. When crews notice that a narcotic seems ineffective, seals look broken, or log counts do not match, what should they do?",
+   "answer": 3,
    "choices": [
     "Assume the pharmacy supplied a weak batch and keep using the remaining vials until the next scheduled audit.",
     "Mention it to coworkers informally but wait for a patient complaint before filing any report.",
     "Quietly discard the suspect vials and restock the narcotics box so the unit stays in service.",
     "Treat ineffective narcotics, broken seals, and log discrepancies as red flags and report them immediately."
    ],
-   "answer": 3,
    "explanation": "Ineffective narcotics, broken seals, and log discrepancies are red flags for diversion and must be reported immediately.",
+   "question": "A paramedic supervisor replaced fentanyl in ambulance vials with saline and falsified the narcotics logs; an audit later found 26 of 28 fentanyl vials tampered with, and field crews had noticed the drug sometimes seemed ineffective at relieving pain. When crews notice that a narcotic seems ineffective, seals look broken, or log counts do not match, what should they do?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "substance abuse",
    "topic_n": 45
   },
   {
-   "question": "A paramedic transporting a patient sideswiped three parked vehicles at about 1 a.m., and post-crash testing required by department protocol showed he was under the influence of alcohol. What does this case require of EMS providers and their partners?",
+   "answer": 0,
    "choices": [
     "Never work impaired, and never let an impaired partner drive or treat patients; intervene and notify a supervisor.",
     "Give the provider coffee and a short rest in the cab, then let him resume driving.",
     "Cover for the provider this once so he is not disciplined, and warn him privately not to repeat it.",
     "Let the provider finish the shift as long as no one was hurt in the crash."
    ],
-   "answer": 0,
    "explanation": "On-duty impairment is a patient-safety emergency; coworkers must intervene and notify a supervisor rather than look away.",
+   "question": "A paramedic transporting a patient sideswiped three parked vehicles at about 1 a.m., and post-crash testing required by department protocol showed he was under the influence of alcohol. What does this case require of EMS providers and their partners?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "substance abuse",
    "topic_n": 45
   },
   {
-   "question": "Which term is defined as: The simplest, yet most effective, method of preventing the spread of infectious disease: washing the hands in between patient contacts.",
+   "answer": 1,
    "choices": [
-    "structural fire hazards",
-    "exposure",
-    "hand washing",
-    "personal protective equipment"
+    "Put on a fresh pair of gloves over your hands as they are.",
+    "Wash your hands with soap and water.",
+    "Use an alcohol-based hand rub and skip the sink, even though your hands are visibly soiled.",
+    "Wipe your hands on a towel until they look clean."
    ],
-   "answer": 2,
-   "explanation": "hand washing: The simplest, yet most effective, method of preventing the spread of infectious disease: washing the hands in between patient contacts.",
+   "explanation": "Hand washing is the simplest and most effective way to stop infection from spreading between patients, and visibly soiled hands need soap and water — alcohol rubs do not work through grime. Fresh gloves over dirty hands just carry the contamination forward.",
+   "question": "You finish a call with a flu patient and pull off your gloves. Your hands look clean, but they picked up visible grime and fluid during the call. What should you do first, before touching the radio, the door handles, or the next patient?",
    "source": "Flashcard Slides — Set 9",
    "topic": "hand washing",
    "topic_n": 46
   },
   {
-   "question": "What does the term \"hand washing\" mean?",
-   "choices": [
-    "The simplest, yet most effective, method of preventing the spread of infectious disease: washing the hands in between patient contacts.",
-    "The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning employee safety.",
-    "What type of sexual harassment occurs when the harasser requests sexual favors in exchange for something else, such as a promotion, a job benefit, a better shift, or a favorable evaluation.",
-    "The misuse of drugs or alcohol by a provider, on or off duty, that endangers the provider, coworkers, and patients; among EMS personnel, its most serious consequence is substandard or inappropriate patient care."
-   ],
    "answer": 0,
-   "explanation": "hand washing: The simplest, yet most effective, method of preventing the spread of infectious disease: washing the hands in between patient contacts.",
+   "choices": [
+    "Hands must be washed between every patient contact, whether or not gloves were worn.",
+    "Gloves must be changed more often, since changing gloves replaces the need to clean hands.",
+    "Hands only need washing at the start of the shift, as long as gloves are worn for every contact after that.",
+    "Hands only need washing when they look dirty, since germs you cannot see are not a real risk."
+   ],
+   "explanation": "Gloves are not a substitute for hand washing — organisms ride on hands from one patient to the next whenever hands are not cleaned between contacts. Washing between every contact is the practice that breaks that chain.",
+   "question": "An infection outbreak in a hospital nursery is traced to staff hands: workers were moving from baby to baby, changing gloves but not cleaning their hands in between. What practice has to change?",
    "source": "Flashcard Slides — Set 9",
    "topic": "hand washing",
    "topic_n": 46
   },
   {
-   "question": "In 1847, a maternity clinic where doctors came straight from autopsies lost about 18% of mothers to childbed fever. When the physician in charge required hand disinfection with chlorinated lime solution before examining patients, mortality fell to about 2% within two months, with no other major change. What does this case demonstrate?",
+   "answer": 3,
    "choices": [
     "Isolating fever patients in a separate ward is what actually ended the deaths.",
     "Deliveries are safest when handled only by midwives rather than physicians.",
     "Disinfecting instruments and bedding matters more than disinfecting hands.",
     "Hand hygiene between patient contacts is a proven infection-control intervention that dramatically reduces patient deaths."
    ],
-   "answer": 3,
    "explanation": "Hand hygiene is the original, proven infection-control intervention; deaths collapsed when hands were disinfected between contacts.",
+   "question": "In 1847, a maternity clinic where doctors came straight from autopsies lost about 18% of mothers to childbed fever. When the physician in charge required hand disinfection with chlorinated lime solution before examining patients, mortality fell to about 2% within two months, with no other major change. What does this case demonstrate?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "hand washing",
    "topic_n": 46
   },
   {
-   "question": "During a Klebsiella pneumoniae outbreak in a hospital neonatal unit, investigators recovered the organism from the hands of 10% of the staff, and the official investigation attributed the spread in part to inadequate hand washing in an overcrowded nursery. What practice does this case demand of providers caring for high-risk patients such as infants?",
+   "answer": 3,
    "choices": [
     "Restrict visitors to the unit, since staff hands are rarely the route of spread.",
     "Wash hands thoroughly once at the start of the shift and after breaks.",
     "Rely on gloves instead of hand washing when moving quickly between infants.",
     "Wash hands between every patient, every time, especially with infants and other high-risk patients."
    ],
-   "answer": 3,
    "explanation": "The organism was recovered from staff hands, so hand washing between every patient is the control that stops the spread.",
+   "question": "During a Klebsiella pneumoniae outbreak in a hospital neonatal unit, investigators recovered the organism from the hands of 10% of the staff, and the official investigation attributed the spread in part to inadequate hand washing in an overcrowded nursery. What practice does this case demand of providers caring for high-risk patients such as infants?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "hand washing",
    "topic_n": 46
   },
   {
-   "question": "Which term is defined as: Handling needles and other sharps carefully and disposing of them properly; careless handling of sharps is the usual route by which HIV and hepatitis are spread in health care settings.",
+   "answer": 3,
    "choices": [
-    "tuberculosis",
-    "sharps safety",
-    "delayed stress reactions",
-    "cover"
+    "ambulance decontamination",
+    "infection control",
+    "standard precautions",
+    "sharps safety"
    ],
+   "explanation": "Careful handling and proper disposal of needles is sharps safety, and it failed the moment the used needle was left loose on the stretcher. Careless sharps handling is the usual route for bloodborne infections in health care settings.",
+   "question": "While stripping the stretcher after a call, your partner is stuck by a used needle that was dropped on the mattress instead of being put in the sharps container. What practice failed here?",
+   "source": "Flashcard Slides — Set 9",
+   "topic": "sharps safety",
+   "topic_n": 47
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Do not force the needle in. Set the sharp down safely, close and replace the overfilled container, and report it so a fresh one is placed.",
+    "Push the needle in firmly with the cap until it fits — the container is designed to take pressure.",
+    "Carry the needle to a container in another room, holding it by the hub as you walk.",
+    "Leave the used needle on the counter until the next crew comes in and deals with it."
+   ],
+   "explanation": "Forcing a sharp into an overfilled container is how providers get stuck. An overfilled container gets closed, replaced, and reported; loose or carried sharps put everyone who touches that space at risk.",
+   "question": "You go to dispose of a used needle and find the sharps container filled past its line, with needle tips poking out of the opening. What is the correct action?",
+   "source": "Flashcard Slides — Set 9",
+   "topic": "sharps safety",
+   "topic_n": 47
+  },
+  {
    "answer": 1,
-   "explanation": "sharps safety: Handling needles and other sharps carefully and disposing of them properly; careless handling of sharps is the usual route by which HIV and hepatitis are spread in health care settings.",
-   "source": "Flashcard Slides — Set 9",
-   "topic": "sharps safety",
-   "topic_n": 47
-  },
-  {
-   "question": "What does the term \"sharps safety\" mean?",
-   "choices": [
-    "Cleaning and disinfecting the ambulance and its equipment after a call, including allowing disinfected surfaces to air dry unless otherwise indicated in the product directions, so the unit is safe for the next patient.",
-    "Inflammation of the liver, usually caused by a viral infection, that causes fever, loss of appetite, nausea, intestinal upset, and often jaundice.",
-    "Handling needles and other sharps carefully and disposing of them properly; careless handling of sharps is the usual route by which HIV and hepatitis are spread in health care settings.",
-    "A sexually transmitted infectious disease caused by the bacterium Treponema pallidum; unlike many infections, it confers no protection from reinfection after exposure, so a treated person can catch it again."
-   ],
-   "answer": 2,
-   "explanation": "sharps safety: Handling needles and other sharps carefully and disposing of them properly; careless handling of sharps is the usual route by which HIV and hepatitis are spread in health care settings.",
-   "source": "Flashcard Slides — Set 9",
-   "topic": "sharps safety",
-   "topic_n": 47
-  },
-  {
-   "question": "A 26-year-old nurse was flushing the IV line of a patient in the terminal stages of AIDS when the patient jerked and the needle punctured her palm. Despite wound care, reporting, and postexposure prophylaxis, she was diagnosed with HIV about nine months later and later learned she also had hepatitis C. What is the sharps-safety lesson of this case?",
    "choices": [
     "Hold the needle loosely so it drops harmlessly if the patient moves suddenly.",
     "Treat every used sharp as loaded: control the patient, the needle, and your hands before you move.",
     "Recap the needle as soon as the line is flushed so it cannot stick anyone.",
     "Postexposure prophylaxis reliably prevents infection, so a stick is mainly a paperwork event."
    ],
-   "answer": 1,
    "explanation": "One moment with one used needle transmitted both HIV and hepatitis C; controlling the sharp before moving is the prevention.",
+   "question": "A 26-year-old nurse was flushing the IV line of a patient in the terminal stages of AIDS when the patient jerked and the needle punctured her palm. Despite wound care, reporting, and postexposure prophylaxis, she was diagnosed with HIV about nine months later and later learned she also had hepatitis C. What is the sharps-safety lesson of this case?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "sharps safety",
    "topic_n": 47
   },
   {
-   "question": "An ED nurse disposing of a blood-draw needle was stuck by a needle protruding from a sharps container that had been jammed past capacity; about five months later she was diagnosed with both HIV and hepatitis C. What sharps practice would have prevented this injury?",
+   "answer": 3,
    "choices": [
     "Push protruding needles down into the container with a gloved hand before adding more sharps.",
     "Empty overfilled containers into a larger bin so they can keep being used.",
     "Recap every needle before disposal so nothing can protrude from the container.",
     "Never force a sharp into a full container; replace containers at the fill line and report overfilled ones."
    ],
-   "answer": 3,
    "explanation": "She was injured by someone else's careless disposal; containers must be replaced at the fill line, never forced.",
+   "question": "An ED nurse disposing of a blood-draw needle was stuck by a needle protruding from a sharps container that had been jammed past capacity; about five months later she was diagnosed with both HIV and hepatitis C. What sharps practice would have prevented this injury?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "sharps safety",
    "topic_n": 47
   },
   {
-   "question": "Which term is defined as: Cleaning and disinfecting the ambulance and its equipment after a call, including allowing disinfected surfaces to air dry unless otherwise indicated in the product directions, so the unit is safe for the next patient.",
-   "choices": [
-    "aerosol-generating procedure",
-    "ambulance decontamination",
-    "bloodborne pathogens",
-    "tuberculosis"
-   ],
-   "answer": 1,
-   "explanation": "ambulance decontamination: Cleaning and disinfecting the ambulance and its equipment after a call, including allowing disinfected surfaces to air dry unless otherwise indicated in the product directions, so the unit is safe for the next patient.",
-   "source": "Flashcard Slides — Set 9",
-   "topic": "ambulance decontamination",
-   "topic_n": 48
-  },
-  {
-   "question": "What does the term \"ambulance decontamination\" mean?",
-   "choices": [
-    "The formal, structured group debriefing held 24 to 72 hours after a critical incident, as part of critical incident stress management (CISM), in which the responders involved discuss the incident and their reactions to it.",
-    "A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease.",
-    "The primary federal agency that conducts and supports public health activities in the United States.",
-    "Cleaning and disinfecting the ambulance and its equipment after a call, including allowing disinfected surfaces to air dry unless otherwise indicated in the product directions, so the unit is safe for the next patient."
-   ],
    "answer": 3,
-   "explanation": "ambulance decontamination: Cleaning and disinfecting the ambulance and its equipment after a call, including allowing disinfected surfaces to air dry unless otherwise indicated in the product directions, so the unit is safe for the next patient.",
+   "choices": [
+    "Nothing went wrong; disinfectant works the instant it touches a surface.",
+    "The mistake was using a spray bottle instead of a pre-soaked wipe.",
+    "The mistake was cleaning the stretcher before cleaning the rest of the ambulance.",
+    "The disinfectant never got its required contact time — wiped dry at once, it did not stay wet on the surface long enough to kill organisms."
+   ],
+   "explanation": "Disinfectants only work while they stay wet on the surface for the contact time in the product directions. Wiping it dry immediately makes the surface look clean while leaving organisms alive for the next patient.",
+   "question": "After a call, a crew member sprays disinfectant on the stretcher and immediately wipes it dry so the unit 'looks ready' for the next patient. What went wrong?",
    "source": "Flashcard Slides — Set 9",
    "topic": "ambulance decontamination",
    "topic_n": 48
   },
   {
-   "question": "Researchers cultured five sites in each of 21 ambulances and found MRSA in nearly half the fleet; the work area beside the patient was the most contaminated site, and MRSA was also recovered from stretcher handrails, cushions, steering wheels, and suction tips. What does this study require of crews cleaning up after a call?",
+   "answer": 1,
+   "choices": [
+    "The glove step: the crew should have worn gloves while spraying the disinfectant.",
+    "The disinfecting step: surfaces were sprayed but not kept wet for the disinfectant's full contact time, so organisms survived the 'cleaning.'",
+    "The hand washing step: bacteria on rails and counters can only come from unwashed hands.",
+    "Nothing failed: disinfectant kills all bacteria the moment it is sprayed, so the swab result must be wrong."
+   ],
+   "explanation": "Cleaning removes dirt; disinfecting kills organisms — but only if the surface stays wet for the product's contact time. Spraying and wiping right away leaves live bacteria behind, which is exactly what the swab found.",
+   "question": "A quality check swabs the ambulance after a crew's usual 'cleaning' and finds staph bacteria on the rails and counters. The crew insists they sprayed disinfectant after every call. Which part of the process most likely failed?",
+   "source": "Flashcard Slides — Set 9",
+   "topic": "ambulance decontamination",
+   "topic_n": 48
+  },
+  {
+   "answer": 2,
    "choices": [
     "Disinfect only the stretcher, since that is the only surface the patient touches.",
     "Skip the steering wheel and work counter, because patients never touch them.",
     "Decontaminate the whole patient compartment, including crew work areas, not just the stretcher.",
     "Accept that MRSA in ambulances is unavoidable, so a quick wipe-down is sufficient."
    ],
-   "answer": 2,
    "explanation": "Routine cleaning was leaving MRSA throughout working ambulances, so the whole compartment, including work areas, must be decontaminated.",
+   "question": "Researchers cultured five sites in each of 21 ambulances and found MRSA in nearly half the fleet; the work area beside the patient was the most contaminated site, and MRSA was also recovered from stretcher handrails, cushions, steering wheels, and suction tips. What does this study require of crews cleaning up after a call?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "ambulance decontamination",
    "topic_n": 48
   },
   {
-   "question": "Swabs from an ambulance on permanent duty found Staphylococcus aureus in over half of samples, and 40% of those isolates were MRSA, even though high-standard disinfection had been applied; the authors blamed protective biofilm and failures of technique and contact time. What must crews do for disinfectant to actually work?",
+   "answer": 0,
    "choices": [
     "Apply disinfectant as directed and let surfaces air dry for the full contact time; wiping dry early or skimping coverage leaves biofilm-protected bacteria alive.",
     "Clean only visibly soiled surfaces, since biofilm forms only where soil can be seen.",
     "Use a weaker disinfectant solution so no residue is left on surfaces.",
     "Wipe the disinfectant dry right away so the unit can return to service faster."
    ],
-   "answer": 0,
    "explanation": "Decontamination fails when technique, product choice, or contact time is wrong; surfaces need full directed contact time and air drying.",
+   "question": "Swabs from an ambulance on permanent duty found Staphylococcus aureus in over half of samples, and 40% of those isolates were MRSA, even though high-standard disinfection had been applied; the authors blamed protective biofilm and failures of technique and contact time. What must crews do for disinfectant to actually work?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "ambulance decontamination",
    "topic_n": 48
   },
   {
-   "question": "Which term is defined as: A sexually transmitted infectious disease caused by the bacterium Treponema pallidum; unlike many infections, it confers no protection from reinfection after exposure, so a treated person can catch it again.",
-   "choices": [
-    "syphilis",
-    "cumulative stress reactions",
-    "communicable disease",
-    "posttraumatic stress disorder"
-   ],
-   "answer": 0,
-   "explanation": "syphilis: A sexually transmitted infectious disease caused by the bacterium Treponema pallidum; unlike many infections, it confers no protection from reinfection after exposure, so a treated person can catch it again.",
-   "source": "Flashcard Slides — Set 9",
-   "topic": "syphilis",
-   "topic_n": 49
-  },
-  {
-   "question": "What does the term \"syphilis\" mean?",
-   "choices": [
-    "Handling needles and other sharps carefully and disposing of them properly; careless handling of sharps is the usual route by which HIV and hepatitis are spread in health care settings.",
-    "A sexually transmitted infectious disease caused by the bacterium Treponema pallidum; unlike many infections, it confers no protection from reinfection after exposure, so a treated person can catch it again.",
-    "The use of objects to limit a person's ability to see you.",
-    "What are the hazards at a structure fire that include possible building collapse, high heat, smoke and toxic gases, and oxygen-deficient air, and that require EMTs to stage at a safe distance and stay clear until the fire department declares the scene safe."
-   ],
    "answer": 1,
-   "explanation": "syphilis: A sexually transmitted infectious disease caused by the bacterium Treponema pallidum; unlike many infections, it confers no protection from reinfection after exposure, so a treated person can catch it again.",
+   "choices": [
+    "Because she was treated before, she cannot have this infection again, so the result should be ignored.",
+    "A rising test like this usually means a new infection, because treatment gave her no lasting protection; she needs prompt retesting and treatment, which also protects the baby.",
+    "She should wait until after delivery to be checked, since this infection cannot affect a pregnancy.",
+    "The rise is expected in pregnancy and means her old treatment is still working, so nothing needs to be done."
+   ],
+   "explanation": "A test that fell after treatment and now rises sharply points to reinfection — prior treatment leaves no immunity. In pregnancy the stakes double, because the infection can reach the baby, so she needs retesting and treatment now, not after delivery.",
+   "question": "A woman treated last year for a bacterial sexually transmitted infection is now pregnant. Her blood tests after treatment had fallen as expected, but her new prenatal test has risen sharply. What should she expect, and what do you advise?",
    "source": "Flashcard Slides — Set 9",
    "topic": "syphilis",
    "topic_n": 49
   },
   {
-   "question": "A 21-year-old pregnant woman was treated for syphilis in her first trimester and her VDRL titers fell as expected, but at week 39 the titer rose again and clinicians diagnosed reinfection; her newborn tested positive and was treated for congenital syphilis. What does this case teach about a history of treated syphilis?",
+   "answer": 3,
+   "choices": [
+    "Only if a sore appears, because this infection always causes obvious symptoms when it returns.",
+    "No — once treated, he cannot catch this infection again, so testing would be wasted.",
+    "He should test for other infections instead, since repeat infection with this one is impossible.",
+    "Yes — get tested. Treatment cured the last infection but gave no immunity, so a new exposure can mean a new infection even without symptoms."
+   ],
+   "explanation": "Because this infection leaves no protection behind, a treated patient with new exposure is at risk all over again — and it can be present without symptoms. Testing is the only way to know.",
+   "question": "A patient you transported last year after treatment for a bacterial sexually transmitted infection is back with new risk exposure and no symptoms. He asks whether he really needs testing again. What advice follows from how this infection behaves?",
+   "source": "Flashcard Slides — Set 9",
+   "topic": "syphilis",
+   "topic_n": 49
+  },
+  {
+   "answer": 0,
    "choices": [
     "A history of treated syphilis never rules out syphilis; reinfection can occur even later in the same pregnancy, so retesting matters.",
     "Treatment in the first trimester always protects the newborn for the rest of the pregnancy.",
     "Newborn testing is unnecessary when the mother completed syphilis treatment earlier in pregnancy.",
     "A falling VDRL titer after treatment means the patient is immune from then on."
    ],
-   "answer": 0,
    "explanation": "Treatment early in pregnancy did not protect her or her baby, because syphilis reinfection later in the same pregnancy is a real event.",
+   "question": "A 21-year-old pregnant woman was treated for syphilis in her first trimester and her VDRL titers fell as expected, but at week 39 the titer rose again and clinicians diagnosed reinfection; her newborn tested positive and was treated for congenital syphilis. What does this case teach about a history of treated syphilis?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "syphilis",
    "topic_n": 49
   },
   {
-   "question": "A large STD center reviewed its syphilis cases over nine years and found that of 1,859 episodes in 663 patients, 55.5% were reinfections rather than first infections, and the authors state that syphilis infection does not confer definitive, protective immunity. What should providers expect and advise?",
+   "answer": 2,
    "choices": [
     "Assume most repeat episodes mean the first infection was never actually treated.",
     "Expect reinfection only in patients whose HIV is untreated.",
     "Expect repeat infections in at-risk patients and encourage follow-up testing after any treatment.",
     "Advise treated patients that one infection protects them against catching syphilis again."
    ],
-   "answer": 2,
    "explanation": "Catching syphilis again was more common than catching it the first time; the disease leaves no protective immunity.",
+   "question": "A large STD center reviewed its syphilis cases over nine years and found that of 1,859 episodes in 663 patients, 55.5% were reinfections rather than first infections, and the authors state that syphilis infection does not confer definitive, protective immunity. What should providers expect and advise?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "syphilis",
    "topic_n": 49
   },
   {
-   "question": "Which term is defined as: Securing a crashed vehicle with cribbing, struts, or other supports so it cannot move, shift, or roll; it must be done to ensure the vehicle is stable before attempting to access a patient trapped inside.",
-   "choices": [
-    "eye protection",
-    "ambulance decontamination",
-    "syphilis",
-    "vehicle stabilization"
-   ],
-   "answer": 3,
-   "explanation": "vehicle stabilization: Securing a crashed vehicle with cribbing, struts, or other supports so it cannot move, shift, or roll; it must be done to ensure the vehicle is stable before attempting to access a patient trapped inside.",
-   "source": "Flashcard Slides — Set 9",
-   "topic": "vehicle stabilization",
-   "topic_n": 50
-  },
-  {
-   "question": "What does the term \"vehicle stabilization\" mean?",
-   "choices": [
-    "Securing a crashed vehicle with cribbing, struts, or other supports so it cannot move, shift, or roll; it must be done to ensure the vehicle is stable before attempting to access a patient trapped inside.",
-    "A situation in which a person has had contact with blood, body fluids, tissues, or airborne particles and has the potential to develop a disease.",
-    "The simplest, yet most effective, method of preventing the spread of infectious disease: washing the hands in between patient contacts.",
-    "A process that confronts the responses to critical incidents and defuses them, directing the emergency services personnel toward physical and emotional equilibrium."
-   ],
    "answer": 0,
-   "explanation": "vehicle stabilization: Securing a crashed vehicle with cribbing, struts, or other supports so it cannot move, shift, or roll; it must be done to ensure the vehicle is stable before attempting to access a patient trapped inside.",
+   "choices": [
+    "The vehicle must be secured with cribbing, struts, or other supports so it cannot move, shift, or roll while rescuers work in and around it.",
+    "The driver should be pulled out through the window immediately, before any equipment is set up.",
+    "The partner should climb in quickly while the vehicle happens to be still, before it starts rocking again.",
+    "The crew should rock the vehicle back onto its wheels first so it sits the way it was designed to."
+   ],
+   "explanation": "A vehicle that can still move can roll or shift onto rescuers and the patient. Securing it with cribbing or struts comes before anyone climbs in — patient access waits until the vehicle cannot move.",
+   "question": "You arrive at a rollover with the car resting on its side. The vehicle rocks slightly every time someone leans on it. Your partner wants to climb in through the rear window right now to reach the trapped driver. What must happen first?",
    "source": "Flashcard Slides — Set 9",
    "topic": "vehicle stabilization",
    "topic_n": 50
   },
   {
-   "question": "At a 1995 crash, firefighters worked on a car that had not been stabilized and whose cribbing was still on the truck; prying at the hood to reach the battery rocked the car and hurt the trapped occupant, and about 20 minutes later the undeployed airbags fired, injuring two firefighters. What sequence does this case demand before patient access?",
+   "answer": 3,
+   "choices": [
+    "Keep working — the rocking stops on its own once the door comes off.",
+    "Pull the patient out through the window now and stabilize the empty vehicle afterward.",
+    "Have two firefighters hold the car steady by hand while the spreaders keep pushing.",
+    "Stop and shore the vehicle up with cribbing and struts until it no longer moves, then resume the extrication."
+   ],
+   "explanation": "A vehicle that moves during extrication can shift onto the patient or the rescuers. The fix is to stop and stabilize it with supports until it sits still — hands cannot hold a car against spreader force.",
+   "question": "During extrication, the car rocks on its suspension every time the spreaders push. The rescue officer calls a pause. What should the crew do before work resumes?",
+   "source": "Flashcard Slides — Set 9",
+   "topic": "vehicle stabilization",
+   "topic_n": 50
+  },
+  {
+   "answer": 2,
    "choices": [
     "Pry the hood open first to disconnect the battery, since that makes stabilization safe.",
     "Begin extrication immediately and stabilize the vehicle only if it starts to move.",
     "Stabilize first, disconnect power, and respect undeployed airbags before starting patient access.",
     "Treat undeployed airbags as harmless once the engine is shut off."
    ],
-   "answer": 2,
    "explanation": "An unsecured, still-powered vehicle moved during work and then injured its rescuers; stabilization and power control come first.",
+   "question": "At a 1995 crash, firefighters worked on a car that had not been stabilized and whose cribbing was still on the truck; prying at the hood to reach the battery rocked the car and hurt the trapped occupant, and about 20 minutes later the undeployed airbags fired, injuring two firefighters. What sequence does this case demand before patient access?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "vehicle stabilization",
    "topic_n": 50
   },
   {
-   "question": "A sedan sat on a street with about a 15-degree grade with the driver trapped inside. Focused on the extrication, the crew began running a hydraulic tool on the door without stabilizing the vehicle, and the force rolled the car forward, with the patient inside, toward other fire units; a crewmember stopped it with a cribbing block under the rear tire and no one was injured. What rule does this near-miss establish?",
+   "answer": 1,
    "choices": [
     "Stabilize the vehicle only after extrication is underway and movement is noticed.",
     "Chock and crib on arrival, even on 'routine' crashes; slopes turn small tool forces into rolling vehicles.",
     "Rely on the parking brake and transmission to hold a vehicle on a grade during extrication.",
     "Have one rescuer brace the car by hand while the tools are running."
    ],
-   "answer": 1,
    "explanation": "An unstabilized vehicle on a grade moved under tool pressure; chocking and cribbing on arrival prevents the second incident.",
+   "question": "A sedan sat on a street with about a 15-degree grade with the driver trapped inside. Focused on the extrication, the crew began running a hydraulic tool on the door without stabilizing the vehicle, and the force rolled the car forward, with the patient inside, toward other fire units; a crewmember stopped it with a cribbing block under the rear tire and no one was injured. What rule does this near-miss establish?",
    "source": "Flashcard Case Studies — Set 9",
    "topic": "vehicle stabilization",
    "topic_n": 50

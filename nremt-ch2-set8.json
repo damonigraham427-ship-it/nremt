@@ -1,589 +1,589 @@
 {
  "questions": [
   {
-   "question": "Two days after a school bus rollover with several seriously injured children, your agency brings the crews who responded together for a formal, led group session to talk through the call and their reactions. What is this session called?",
+   "answer": 2,
    "choices": [
     "peer support counseling",
     "defusing",
     "critical incident stress debriefing",
     "critical incident stress management"
    ],
-   "answer": 2,
    "explanation": "A formal group debriefing held 24-72 hours after a critical incident is a CISD, part of CISM.",
+   "question": "Two days after a school bus rollover with several seriously injured children, your agency brings the crews who responded together for a formal, led group session to talk through the call and their reactions. What is this session called?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "critical incident stress debriefing",
    "topic_n": 39
   },
   {
-   "question": "A firefighter dies in a house fire. Forty-eight hours later, the firefighters who were on scene meet in a structured debriefing, led by trained CISM personnel, that is kept separate from any operational critique of the fire. What process is this?",
+   "answer": 1,
    "choices": [
     "defusing",
     "critical incident stress debriefing",
     "an operational after-action review",
     "individual crisis counseling"
    ],
-   "answer": 1,
    "explanation": "A line-of-duty death is a critical incident, and the formal 24-72 hour group session is the CISD.",
+   "question": "A firefighter dies in a house fire. Forty-eight hours later, the firefighters who were on scene meet in a structured debriefing, led by trained CISM personnel, that is kept separate from any operational critique of the fire. What process is this?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "critical incident stress debriefing",
    "topic_n": 39
   },
   {
-   "question": "After a mass-casualty shooting, a defusing was held the same night. Your chief now schedules the longer, formal group debriefing for the responding EMTs and paramedics for the following evening, about 36 hours after the incident. What is that formal session?",
+   "answer": 2,
    "choices": [
     "a demobilization briefing",
     "defusing",
     "critical incident stress debriefing",
     "critical incident stress management"
    ],
-   "answer": 2,
    "explanation": "The defusing is the early, short session; the formal debriefing at 24-72 hours is the CISD.",
+   "question": "After a mass-casualty shooting, a defusing was held the same night. Your chief now schedules the longer, formal group debriefing for the responding EMTs and paramedics for the following evening, about 36 hours after the incident. What is that formal session?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "critical incident stress debriefing",
    "topic_n": 39
   },
   {
-   "question": "You transport a patient from a homeless shelter who has had a productive cough for 3 weeks, night sweats, weight loss, and coughing up blood. In the closed ambulance you wear a fit-tested N95 respirator and place a surgical mask on the patient. What disease should you suspect?",
+   "answer": 1,
    "choices": [
     "pertussis",
     "tuberculosis",
     "influenza",
     "bacterial pneumonia"
    ],
-   "answer": 1,
    "explanation": "Prolonged cough, night sweats, weight loss, and hemoptysis are classic signs, and it spreads airborne in enclosed spaces.",
+   "question": "You transport a patient from a homeless shelter who has had a productive cough for 3 weeks, night sweats, weight loss, and coughing up blood. In the closed ambulance you wear a fit-tested N95 respirator and place a surgical mask on the patient. What disease should you suspect?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "tuberculosis",
    "topic_n": 40
   },
   {
-   "question": "A nursing-home patient tells you his TB skin test was positive last year but he never developed symptoms or took treatment. Today he has a new persistent cough. Your crew treats this as possible active disease and uses airborne precautions. What infection does a positive skin test show exposure to?",
+   "answer": 2,
    "choices": [
     "influenza",
     "hepatitis B",
-    "measles",
-    "tuberculosis"
+    "tuberculosis",
+    "measles"
    ],
-   "answer": 3,
-   "explanation": "A positive skin test shows exposure to Mycobacterium tuberculosis; latent infection can later become active disease.",
+   "explanation": "The skin test detects exposure to the bacterium that causes tuberculosis; a positive result with no symptoms means latent infection, which can become active disease later — exactly why a new cough changes the picture. None of the other choices is detected by this skin test.",
+   "question": "A nursing-home patient tells you his skin test for a bacterial lung infection was positive last year, but he never developed symptoms and never took treatment. Today he has a new persistent cough, and your crew uses airborne precautions. What infection does a positive skin test like his show exposure to?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "tuberculosis",
    "topic_n": 40
   },
   {
-   "question": "Dispatch sends you to a correctional facility for a man with fever, fatigue, and a chronic cough. Other inmates were recently diagnosed after sharing the same dormitory air for weeks. What airborne bacterial disease is most concerning here?",
+   "answer": 0,
    "choices": [
     "tuberculosis",
     "pneumonia",
     "bronchitis",
     "influenza"
    ],
-   "answer": 0,
    "explanation": "It spreads through airborne droplets in crowded, shared-air settings like dormitories and shelters.",
+   "question": "Dispatch sends you to a correctional facility for a man with fever, fatigue, and a chronic cough. Other inmates were recently diagnosed after sharing the same dormitory air for weeks. What airborne bacterial disease is most concerning here?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "tuberculosis",
    "topic_n": 40
   },
   {
-   "question": "You are staged at a house fire. Firefighters report the roof is sagging, interior temperatures are extreme, and thick smoke is pushing from every opening. What hazard group is the main reason you must not enter to reach a patient?",
+   "answer": 1,
    "choices": [
     "trench collapse hazards",
     "structural fire hazards",
     "hazardous materials exposure",
     "confined space hazards"
    ],
-   "answer": 1,
    "explanation": "Collapse, high heat, and toxic smoke make the interior unsafe for EMTs without firefighter protection.",
+   "question": "You are staged at a house fire. Firefighters report the roof is sagging, interior temperatures are extreme, and thick smoke is pushing from every opening. What hazard group is the main reason you must not enter to reach a patient?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "structural fire hazards",
    "topic_n": 41
   },
   {
-   "question": "At an apartment fire, a firefighter warns that air inside a burned room may not support life even where flames are out, and victims are coughing from carbon monoxide and other gases in the smoke. What are these dangers collectively called?",
+   "answer": 1,
    "choices": [
     "vehicle fire hazards",
     "structural fire hazards",
     "hazardous materials exposure",
     "electrical hazards"
    ],
-   "answer": 1,
    "explanation": "Smoke carries toxic gases and displaces oxygen, creating an oxygen-deficient atmosphere.",
+   "question": "At an apartment fire, a firefighter warns that air inside a burned room may not support life even where flames are out, and victims are coughing from carbon monoxide and other gases in the smoke. What are these dangers collectively called?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "structural fire hazards",
    "topic_n": 41
   },
   {
-   "question": "Your crew arrives first at a warehouse fire with heavy fire showing. No fire apparatus is on scene yet and bystanders urge you to go inside for a trapped worker. Why do you stage away from the building and wait?",
+   "answer": 2,
    "choices": [
     "confined space hazards",
     "hazardous materials exposure",
     "structural fire hazards",
     "swift-water rescue hazards"
    ],
-   "answer": 2,
    "explanation": "An unstable, superheated, smoke-filled structure can collapse or flash over; entry is a fire department operation.",
+   "question": "Your crew arrives first at a warehouse fire with heavy fire showing. No fire apparatus is on scene yet and bystanders urge you to go inside for a trapped worker. Why do you stage away from the building and wait?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "structural fire hazards",
    "topic_n": 41
   },
   {
-   "question": "You are suctioning a bleeding airway and blood sprays toward your face. You are wearing only your prescription glasses. What PPE are you missing?",
+   "answer": 3,
    "choices": [
     "a surgical mask",
     "prescription glasses",
     "sterile gloves",
     "eye protection"
    ],
-   "answer": 3,
    "explanation": "Prescription glasses offer little or no side protection against splashes.",
+   "question": "You are suctioning a bleeding airway and blood sprays toward your face. You are wearing only your prescription glasses. What PPE are you missing?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "eye protection",
    "topic_n": 42
   },
   {
-   "question": "Before starting an IV on a combative, vomiting patient, your partner puts on rated safety glasses with side shields. What is this PPE called?",
+   "answer": 1,
    "choices": [
     "a surgical mask",
     "eye protection",
     "prescription glasses with clip-on shades",
     "a cloth face covering"
    ],
-   "answer": 1,
    "explanation": "Rated eyewear with side protection blocks fluid reaching the eye's mucous membranes.",
+   "question": "Before starting an IV on a combative, vomiting patient, your partner puts on rated safety glasses with side shields. What is this PPE called?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "eye protection",
    "topic_n": 42
   },
   {
-   "question": "At a crash scene, blood and fluids may splash while you control bleeding and clear an airway. What should you put on to protect your eyes, instead of relying on regular glasses?",
+   "answer": 1,
    "choices": [
     "prescription glasses",
     "eye protection",
     "a surgical mask",
     "sunglasses"
    ],
-   "answer": 1,
    "explanation": "Proper rated protection, such as goggles or a face shield, covers the sides regular glasses leave open.",
+   "question": "At a crash scene, blood and fluids may splash while you control bleeding and clear an airway. What should you put on to protect your eyes, instead of relying on regular glasses?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "eye protection",
    "topic_n": 42
   },
   {
-   "question": "A station captain tells a new EMT, 'Go out with me and I will put you on the day shift you want; say no and you stay on nights.' What type of sexual harassment is this?",
+   "answer": 0,
    "choices": [
     "quid pro quo",
     "retaliation",
     "hostile work environment harassment",
     "constructive discharge"
    ],
-   "answer": 0,
    "explanation": "A supervisor tied a sexual favor to a shift benefit.",
+   "question": "A station captain tells a new EMT, 'Go out with me and I will put you on the day shift you want; say no and you stay on nights.' What type of sexual harassment is this?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "quid pro quo",
    "topic_n": 43
   },
   {
-   "question": "During her review, an EMT's supervisor says her evaluation will improve if she sends him explicit photos, and will suffer if she refuses. What is this called?",
+   "answer": 0,
    "choices": [
     "quid pro quo",
     "hostile work environment harassment",
     "retaliation",
     "gender discrimination"
    ],
-   "answer": 0,
    "explanation": "A favorable evaluation was offered in exchange for sexual favors.",
+   "question": "During her review, an EMT's supervisor says her evaluation will improve if she sends him explicit photos, and will suffer if she refuses. What is this called?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "quid pro quo",
    "topic_n": 43
   },
   {
-   "question": "A paramedic is told by the chief who approves promotions that she will not be promoted unless she has sex with him. She refuses and is passed over. What type of sexual harassment occurred?",
+   "answer": 3,
    "choices": [
     "constructive discharge",
     "hostile work environment harassment",
     "workplace bullying",
     "quid pro quo"
    ],
-   "answer": 3,
    "explanation": "Promotion was conditioned on sex, and refusal brought a job loss.",
+   "question": "A paramedic is told by the chief who approves promotions that she will not be promoted unless she has sex with him. She refuses and is passed over. What type of sexual harassment occurred?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "quid pro quo",
    "topic_n": 43
   },
   {
-   "question": "You are posted outdoors for several hours at a winter MVC scene in rain and wind near freezing. Your partner wears one heavy coat over a cotton shirt and is soon soaked and shivering. What should you both have worn to preserve body heat?",
+   "answer": 2,
    "choices": [
     "heated undergarments alone",
     "a single heavy insulated coat",
     "cold-weather clothing layers",
     "chemical-resistant coveralls"
    ],
-   "answer": 2,
    "explanation": "At least three layers trap heat and keep insulation working in cold, wet weather; one soaked coat does not.",
+   "question": "You are posted outdoors for several hours at a winter MVC scene in rain and wind near freezing. Your partner wears one heavy coat over a cotton shirt and is soon soaked and shivering. What should you both have worn to preserve body heat?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "cold-weather clothing layers",
    "topic_n": 44
   },
   {
-   "question": "During a long ice-rescue standby, a crew member removes his insulating middle layer because he feels warm while working, then becomes chilled and clumsy once he stops moving. What protective practice did he break?",
+   "answer": 2,
    "choices": [
     "a windbreaker over a uniform shirt",
     "cotton thermal underwear",
     "cold-weather clothing layers",
     "a single heavy insulated coat"
    ],
-   "answer": 2,
    "explanation": "Layering lets you add or remove layers with activity level so you stay warm without sweating through your insulation.",
+   "question": "During a long ice-rescue standby, a crew member removes his insulating middle layer because he feels warm while working, then becomes chilled and clumsy once he stops moving. What protective practice did he break?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "cold-weather clothing layers",
    "topic_n": 44
   },
   {
-   "question": "Your service is equipping crews for a forecasted blizzard shift with wet snow and subfreezing wind chills. The supply officer asks what minimum clothing setup each EMT should wear on calls. What do you tell her?",
+   "answer": 2,
    "choices": [
     "cotton thermal underwear",
     "one-piece insulated coveralls",
     "cold-weather clothing layers",
     "a single heavy insulated coat"
    ],
-   "answer": 2,
    "explanation": "Wearing at least three layers is the textbook's most effective way to preserve body heat in cold, wet conditions.",
+   "question": "Your service is equipping crews for a forecasted blizzard shift with wet snow and subfreezing wind chills. The supply officer asks what minimum clothing setup each EMT should wear on calls. What do you tell her?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "cold-weather clothing layers",
    "topic_n": 44
   },
   {
-   "question": "Which term is defined as: The formal, structured group debriefing held 24 to 72 hours after a critical incident, as part of critical incident stress management (CISM), in which the responders involved discuss the incident and their reactions to it.",
-   "choices": [
-    "critical incident stress debriefing",
-    "resilience",
-    "critical incident stress management",
-    "infection control"
-   ],
-   "answer": 0,
-   "explanation": "critical incident stress debriefing: The formal, structured group debriefing held 24 to 72 hours after a critical incident, as part of critical incident stress management (CISM), in which the responders involved discuss the incident and their reactions to it.",
-   "source": "Flashcard Slides — Set 8",
-   "topic": "critical incident stress debriefing",
-   "topic_n": 39
-  },
-  {
-   "question": "What does the term \"critical incident stress debriefing\" mean?",
-   "choices": [
-    "A beneficial response to a stressor.",
-    "The active pursuit of a state of good health.",
-    "The federal regulatory compliance agency that develops, publishes, and enforces guidelines concerning employee safety.",
-    "The formal, structured group debriefing held 24 to 72 hours after a critical incident, as part of critical incident stress management (CISM), in which the responders involved discuss the incident and their reactions to it."
-   ],
    "answer": 3,
-   "explanation": "critical incident stress debriefing: The formal, structured group debriefing held 24 to 72 hours after a critical incident, as part of critical incident stress management (CISM), in which the responders involved discuss the incident and their reactions to it.",
+   "choices": [
+    "critical incident stress management",
+    "a defusing",
+    "an employee assistance program",
+    "critical incident stress debriefing"
+   ],
+   "explanation": "The formal, structured group session held a day or more after the incident is the debriefing. A defusing is the short, informal session held within hours, and critical incident stress management is the whole program the debriefing belongs to.",
+   "question": "Thirty-six hours after a fatal shooting call, the responders involved sit down for a formal, structured group session led by a trained peer-and-mental-health team. They talk through the incident and their reactions to it. This session is separate from the operational critique of the call. What is this session called?",
    "source": "Flashcard Slides — Set 8",
    "topic": "critical incident stress debriefing",
    "topic_n": 39
   },
   {
-   "question": "After a gunman killed 23 people at a cafeteria in Killeen, Texas, in 1991, the EMS workers who responded were offered a critical incident stress debriefing within 24 hours and were checked again 8 to 10 days later and at 1 month. Research on those workers linked debriefing attendance to better recovery from depression and anxiety symptoms. What does this case show an agency should do after a mass-casualty call?",
+   "answer": 2,
+   "choices": [
+    "Return them to full duty without follow-up and watch to see whether they improve on their own.",
+    "Hold the identical formal session again every week until the symptoms stop.",
+    "Connect them with follow-up support — continued check-ins and referral to professional counseling — since the formal session is one step, not the end of care.",
+    "Nothing further; once the formal session has been held, the agency's responsibility is finished."
+   ],
+   "explanation": "A debriefing is one part of the stress program; members who are still struggling weeks later need follow-up — check-ins and professional help. Repeating the same session or closing the file leaves them unsupported.",
+   "question": "Your crew went through the formal group session two days after a child's death, but a month later two members are still having nightmares, trouble concentrating, and dread about coming to work. What should the agency do next?",
+   "source": "Flashcard Slides — Set 8",
+   "topic": "critical incident stress debriefing",
+   "topic_n": 39
+  },
+  {
+   "answer": 0,
    "choices": [
     "Offer the formal debriefing early after the call and check on responders again weeks later, not just that night.",
     "Hold one debriefing the night of the call and consider the stress response finished once it is held.",
     "Wait at least a month before offering any debriefing so responders have time to process on their own.",
     "Make debriefing available only to responders who ask for it, since most recover without it."
    ],
-   "answer": 0,
    "explanation": "Offer the formal debriefing early after a mass-casualty call and follow up with responders weeks later, not just that night.",
+   "question": "After a gunman killed 23 people at a cafeteria in Killeen, Texas, in 1991, the EMS workers who responded were offered a critical incident stress debriefing within 24 hours and were checked again 8 to 10 days later and at 1 month. Research on those workers linked debriefing attendance to better recovery from depression and anxiety symptoms. What does this case show an agency should do after a mass-casualty call?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "critical incident stress debriefing",
    "topic_n": 39
   },
   {
-   "question": "After a 1989 earthquake in Newcastle, Australia, researchers followed 195 disaster helpers for 2 years, comparing 62 who were debriefed with 133 who were not. They found no evidence that the debriefed helpers recovered any faster, even after exposure level was taken into account. What is the correct lesson for an EMS agency?",
+   "answer": 2,
    "choices": [
     "Stop offering debriefings entirely, since this study proves they have no value for responders.",
     "Replace group debriefings with a single written stress survey mailed out a year after the incident.",
     "Do not treat a debriefing as a guarantee against PTSD; keep watching responders over time and refer those who are struggling.",
     "Assume any responder who attended a debriefing is cleared of PTSD risk and needs no follow-up."
    ],
-   "answer": 2,
    "explanation": "A debriefing is not a guarantee against PTSD; monitor responders over time and refer those who struggle.",
+   "question": "After a 1989 earthquake in Newcastle, Australia, researchers followed 195 disaster helpers for 2 years, comparing 62 who were debriefed with 133 who were not. They found no evidence that the debriefed helpers recovered any faster, even after exposure level was taken into account. What is the correct lesson for an EMS agency?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "critical incident stress debriefing",
    "topic_n": 39
   },
   {
-   "question": "Which term is defined as: What airborne bacterial disease is caused by Mycobacterium tuberculosis, spreads when an infected person coughs or sneezes, and is indicated by a positive skin test showing exposure to the bacterium.",
-   "choices": [
-    "host",
-    "tuberculosis",
-    "cold-weather clothing layers",
-    "ambulance decontamination"
-   ],
    "answer": 1,
-   "explanation": "tuberculosis: What airborne bacterial disease is caused by Mycobacterium tuberculosis, spreads when an infected person coughs or sneezes, and is indicated by a positive skin test showing exposure to the bacterium.",
-   "source": "Flashcard Slides — Set 8",
-   "topic": "tuberculosis",
-   "topic_n": 40
-  },
-  {
-   "question": "What does the term \"tuberculosis\" mean?",
    "choices": [
-    "The misuse of drugs or alcohol by a provider, on or off duty, that endangers the provider, coworkers, and patients; among EMS personnel, its most serious consequence is substandard or inappropriate patient care.",
-    "A beneficial response to a stressor.",
-    "What airborne bacterial disease is caused by Mycobacterium tuberculosis, spreads when an infected person coughs or sneezes, and is indicated by a positive skin test showing exposure to the bacterium.",
-    "The simplest, yet most effective, method of preventing the spread of infectious disease: washing the hands in between patient contacts."
+    "bacterial pneumonia",
+    "tuberculosis",
+    "bronchitis",
+    "influenza"
    ],
-   "answer": 2,
-   "explanation": "tuberculosis: What airborne bacterial disease is caused by Mycobacterium tuberculosis, spreads when an infected person coughs or sneezes, and is indicated by a positive skin test showing exposure to the bacterium.",
+   "explanation": "Three weeks of cough, night sweats, weight loss, and coughing blood is the classic picture of tuberculosis, an airborne bacterial disease. The crew needs a fit-tested respirator and the patient needs a mask, because it spreads through the air when he coughs.",
+   "question": "A patient at a homeless shelter has been coughing for three weeks. He has lost weight, soaks his sheets with night sweats, and today he coughed up blood. Which disease is most likely?",
    "source": "Flashcard Slides — Set 8",
    "topic": "tuberculosis",
    "topic_n": 40
   },
   {
-   "question": "An outbreak of tuberculosis first detected in early 2024 in the Kansas City metro area grew to 68 confirmed active cases with 2 deaths before contact tracing and treatment brought it under control. Investigators found the disease had spread through prolonged shared air in the community. What does this mean for EMTs transporting a patient with a chronic cough from an affected area?",
+   "answer": 0,
+   "choices": [
+    "Airborne precautions: a fit-tested respirator on the crew, a surgical mask on the patient, and the ambulance ventilated.",
+    "Contact precautions: gloves and a gown, since the infection spreads by touch.",
+    "Standard precautions only: the student is not coughing right now, so nothing extra is needed.",
+    "Droplet precautions only: a surgical mask on the crew is enough for any coughing patient."
+   ],
+   "explanation": "An airborne disease that spreads through shared room air calls for airborne precautions — respirator for the crew, mask on the patient, fresh air in the unit. Droplet and contact precautions aim at splashes and touch, which are not how this infection travels.",
+   "question": "Over several weeks, students in a college dormitory keep testing positive for the same airborne bacterial lung infection after sharing common rooms with a student who had a long, untreated cough. When your crew transports one of these students, which precaution set fits?",
+   "source": "Flashcard Slides — Set 8",
+   "topic": "tuberculosis",
+   "topic_n": 40
+  },
+  {
+   "answer": 1,
    "choices": [
     "Treat the call as low risk once the patient denies a formal TB diagnosis at the door.",
     "Use airborne precautions for the patient and expect follow-up testing if a transport exposure is identified.",
     "Use only standard precautions, because TB spreads mainly through contact with contaminated surfaces.",
     "Avoid respirators during transport, since TB is only a risk inside hospital isolation rooms."
    ],
-   "answer": 1,
    "explanation": "TB spreads through prolonged shared air, so EMTs use airborne precautions and complete follow-up testing after an exposure.",
+   "question": "An outbreak of tuberculosis first detected in early 2024 in the Kansas City metro area grew to 68 confirmed active cases with 2 deaths before contact tracing and treatment brought it under control. Investigators found the disease had spread through prolonged shared air in the community. What does this mean for EMTs transporting a patient with a chronic cough from an affected area?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "tuberculosis",
    "topic_n": 40
   },
   {
-   "question": "In 2007, an Atlanta man with drug-resistant tuberculosis flew on international flights, exposing fellow passengers in the enclosed cabin, and the CDC issued its first federal isolation order since 1963 after he re-entered the United States. Which precaution set matches the risk he posed to people sharing his air?",
+   "answer": 0,
    "choices": [
     "Mask the suspected TB patient, wear a fit-tested respirator yourself, and notify the receiving hospital and public health authorities.",
     "Wear gloves and a surgical mask, since drug-resistant TB spreads by contact with skin and surfaces.",
     "Isolate only after a laboratory confirms drug resistance, which can take several weeks.",
     "Open the vehicle windows and skip respirators, because moving air eliminates the airborne risk."
    ],
-   "answer": 0,
    "explanation": "A suspected TB patient gets masked, the EMT wears a fit-tested respirator, and the hospital and public health authorities are notified.",
+   "question": "In 2007, an Atlanta man with drug-resistant tuberculosis flew on international flights, exposing fellow passengers in the enclosed cabin, and the CDC issued its first federal isolation order since 1963 after he re-entered the United States. Which precaution set matches the risk he posed to people sharing his air?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "tuberculosis",
    "topic_n": 40
   },
   {
-   "question": "Which term is defined as: What are the hazards at a structure fire that include possible building collapse, high heat, smoke and toxic gases, and oxygen-deficient air, and that require EMTs to stage at a safe distance and stay clear until the fire department declares the scene safe.",
+   "answer": 0,
    "choices": [
-    "concealment",
-    "contamination",
-    "transmission",
-    "structural fire hazards"
+    "Structural fire hazards — possible collapse, high heat, toxic gases, and oxygen-poor air inside the building.",
+    "Concealment failure — the smoke makes it impossible for the crew to stay hidden from bystanders.",
+    "Contamination — the main danger is infectious organisms growing on surfaces inside the house.",
+    "Crowd hostility — staged distance is required whenever bystanders gather at a fire."
    ],
-   "answer": 3,
-   "explanation": "structural fire hazards: What are the hazards at a structure fire that include possible building collapse, high heat, smoke and toxic gases, and oxygen-deficient air, and that require EMTs to stage at a safe distance and stay clear until the fire department declares the scene safe.",
+   "explanation": "Collapse, extreme heat, toxic smoke, and air too low in oxygen to breathe are the hazards of the structure itself, and EMTs are not equipped to enter them. The crew stages clear until the fire department declares the scene safe.",
+   "question": "You arrive at a house fire. The roof is sagging, the heat is intense even from the street, and thick toxic smoke is pouring out of every opening. Your crew stages a safe distance away and waits. What is the crew protecting itself from?",
    "source": "Flashcard Slides — Set 8",
    "topic": "structural fire hazards",
    "topic_n": 41
   },
   {
-   "question": "What does the term \"structural fire hazards\" mean?",
-   "choices": [
-    "Any airway manipulation that induces the production of aerosols that may present a risk for airborne transmission of pathogens, such as during CPR.",
-    "Protective measures that have traditionally been developed by the Centers for Disease Control and Prevention (CDC) for use in dealing with objects, blood, body fluids, and other potential exposure risks of communicable disease; they are now officially referred to as standard precautions.",
-    "What are the hazards at a structure fire that include possible building collapse, high heat, smoke and toxic gases, and oxygen-deficient air, and that require EMTs to stage at a safe distance and stay clear until the fire department declares the scene safe.",
-    "The individual in the department who is charged with the responsibility of managing exposures and infection control."
-   ],
    "answer": 2,
-   "explanation": "structural fire hazards: What are the hazards at a structure fire that include possible building collapse, high heat, smoke and toxic gases, and oxygen-deficient air, and that require EMTs to stage at a safe distance and stay clear until the fire department declares the scene safe.",
+   "choices": [
+    "Enter with a wet towel over the face for protection against the smoke.",
+    "Go in quickly while staying low, since the worker is reported to be near the door.",
+    "Stay staged outside, pass the report to the fire department, and be ready to treat the patient when firefighters bring him out.",
+    "Send one EMT in alone so at least someone is searching while the other waits."
+   ],
+   "explanation": "A burning warehouse can collapse, and its heat and toxic, oxygen-poor air can kill an unprotected rescuer in minutes. EMS treats the patients the fire department brings out; entering turns rescuers into patients.",
+   "question": "At a warehouse fire, bystanders grab your arm and beg your crew to go in after a worker they say is trapped near the front door. Smoke is rolling out and part of the roof has already dropped. What is the correct action?",
    "source": "Flashcard Slides — Set 8",
    "topic": "structural fire hazards",
    "topic_n": 41
   },
   {
-   "question": "In 1999, six career firefighters died inside a six-story cold-storage warehouse fire in Worcester, Massachusetts, after becoming lost in near-zero visibility; four died from inhaling smoke, soot, and hot gases, and two from severe thermal injuries. What does this case require of EMTs at a working structure fire?",
+   "answer": 0,
    "choices": [
     "Stage clear of the structure fire and let firefighters with SCBA and thermal imaging handle the interior search.",
     "Ventilate the building by opening doors and windows to make interior conditions safer for entry.",
     "Search the floors above the fire first, since smoke and heat are most dangerous at ground level.",
     "Enter behind the first hose line without SCBA so treatment can start as soon as a victim is found."
    ],
-   "answer": 0,
    "explanation": "Heat, smoke, and toxic gases kill inside structure fires, so EMTs stage outside and leave interior search to firefighters in SCBA.",
+   "question": "In 1999, six career firefighters died inside a six-story cold-storage warehouse fire in Worcester, Massachusetts, after becoming lost in near-zero visibility; four died from inhaling smoke, soot, and hot gases, and two from severe thermal injuries. What does this case require of EMTs at a working structure fire?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "structural fire hazards",
    "topic_n": 41
   },
   {
-   "question": "At the 2003 Station nightclub fire in Rhode Island, pyrotechnics ignited flammable foam and 100 people died. Investigators found toxic, superheated smoke filled the building in about 90 seconds, with oxygen falling below 12 percent and carbon monoxide and hydrogen cyanide passing tenability limits in the same span. How should EMTs set up at a fire like this?",
+   "answer": 2,
    "choices": [
     "Send EMTs in pairs for quick interior sweeps during the first two minutes, before conditions worsen.",
     "Focus on burn treatment only, since smoke conditions inside assembly buildings are rarely lethal.",
     "Expect rapid smoke-inhalation and burn casualties and set up treatment outside the hazard zone.",
     "Set up the treatment area just inside the main entrance, where victims can reach it fastest."
    ],
-   "answer": 2,
    "explanation": "Extreme heat, toxic gases, and oxygen deficiency make a fire's interior unsurvivable in minutes, so treatment is set up outside the hazard zone.",
+   "question": "At the 2003 Station nightclub fire in Rhode Island, pyrotechnics ignited flammable foam and 100 people died. Investigators found toxic, superheated smoke filled the building in about 90 seconds, with oxygen falling below 12 percent and carbon monoxide and hydrogen cyanide passing tenability limits in the same span. How should EMTs set up at a fire like this?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "structural fire hazards",
    "topic_n": 41
   },
   {
-   "question": "Which term is defined as: What PPE must be worn when blood or body fluids may splash into the eyes, noting that prescription glasses do not provide adequate protection because they offer little or no side protection.",
-   "choices": [
-    "bloodborne pathogens",
-    "cold-weather clothing layers",
-    "eye protection",
-    "personal protective equipment"
-   ],
    "answer": 2,
-   "explanation": "eye protection: What PPE must be worn when blood or body fluids may splash into the eyes, noting that prescription glasses do not provide adequate protection because they offer little or no side protection.",
-   "source": "Flashcard Slides — Set 8",
-   "topic": "eye protection",
-   "topic_n": 42
-  },
-  {
-   "question": "What does the term \"eye protection\" mean?",
    "choices": [
-    "What PPE must be worn when blood or body fluids may splash into the eyes, noting that prescription glasses do not provide adequate protection because they offer little or no side protection.",
-    "Exposure or transmission of a communicable disease from one person to another by physical contact.",
-    "What type of sexual harassment occurs when the harasser requests sexual favors in exchange for something else, such as a promotion, a job benefit, a better shift, or a favorable evaluation.",
-    "Reactions to stress that occur after a stressful situation."
+    "A second pair of gloves, since suctioning is a two-hand task.",
+    "A headlamp so he can see into the airway.",
+    "Rated eye protection with side coverage, such as splash goggles or safety glasses with side shields.",
+    "A gown over his uniform to keep blood off his clothes."
    ],
-   "answer": 0,
-   "explanation": "eye protection: What PPE must be worn when blood or body fluids may splash into the eyes, noting that prescription glasses do not provide adequate protection because they offer little or no side protection.",
+   "explanation": "Suctioning a bleeding airway can splash blood into the eyes. Prescription glasses leave the sides wide open and do not count as protection — he needs rated eye protection with side coverage before he starts.",
+   "question": "Your partner is about to suction a patient with a badly bleeding mouth. He is wearing gloves and his regular prescription glasses. What must he add before he starts?",
    "source": "Flashcard Slides — Set 8",
    "topic": "eye protection",
    "topic_n": 42
   },
   {
-   "question": "A hemodialysis nurse got blood from a hepatitis C positive patient splashed into her face and eyes. She washed her eyes immediately and her first tests were negative, but about 6 months later she developed hepatitis C, confirmed by positive antibody and viral tests. What practice would have prevented this exposure?",
+   "answer": 0,
+   "choices": [
+    "Only the second EMT — prescription glasses leave the sides open to splashes and offer little or no side protection.",
+    "Only the first EMT — rated safety glasses are made for construction, not medical calls.",
+    "Both EMTs — any lens in front of the eyes blocks splashes equally well.",
+    "Neither EMT — eyes cannot be protected during patient care, so neither setup matters."
+   ],
+   "explanation": "Splash protection has to cover the sides as well as the front. Regular prescription glasses leave gaps that blood can reach through, which is why rated glasses with side shields are the ones that count.",
+   "question": "Two EMTs are getting ready for a call where blood may splash. One wears his regular prescription glasses. The other wears rated safety glasses with side shields. Whose eyes are actually protected, and why?",
+   "source": "Flashcard Slides — Set 8",
+   "topic": "eye protection",
+   "topic_n": 42
+  },
+  {
+   "answer": 1,
    "choices": [
     "Skip follow-up testing once the first blood tests come back negative, since infection would already show.",
     "Wear rated eye protection before the splash risk occurs, and treat every eye splash as a real exposure with flushing, reporting, and follow-up.",
     "Rely on prescription glasses, which block most blood splashes from reaching the eyes.",
     "Report the splash only if symptoms develop, to avoid unnecessary exposure paperwork."
    ],
-   "answer": 1,
    "explanation": "Blood can infect through the eyes alone, so rated eye protection is worn in advance and every splash gets flushing, reporting, and follow-up.",
+   "question": "A hemodialysis nurse got blood from a hepatitis C positive patient splashed into her face and eyes. She washed her eyes immediately and her first tests were negative, but about 6 months later she developed hepatitis C, confirmed by positive antibody and viral tests. What practice would have prevented this exposure?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "eye protection",
    "topic_n": 42
   },
   {
-   "question": "A national study of U.S. paramedics found more than 20 percent are exposed to blood each year. Half of mucous membrane exposures were caused by the patient vomiting, spitting, or coughing up blood, a third involved an uncooperative or combative patient, and a third happened even though the paramedic was wearing eye or face protection. What is the right response to these findings?",
+   "answer": 2,
    "choices": [
     "Rely on a surgical mask alone, because most splashes strike the mouth rather than the eyes.",
     "Skip eye protection with combative patients, since it is likely to be knocked off anyway.",
     "Put on well-fitting rated eye protection before patient contact, because EMS eye exposures are sudden and patient-driven.",
     "Put eye protection on only after a patient starts vomiting or bleeding, when the risk becomes clear."
    ],
-   "answer": 2,
    "explanation": "Eye exposures in EMS are sudden and patient-driven, so rated, well-fitting eye protection goes on before patient contact.",
+   "question": "A national study of U.S. paramedics found more than 20 percent are exposed to blood each year. Half of mucous membrane exposures were caused by the patient vomiting, spitting, or coughing up blood, a third involved an uncooperative or combative patient, and a third happened even though the paramedic was wearing eye or face protection. What is the right response to these findings?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "eye protection",
    "topic_n": 42
   },
   {
-   "question": "Which term is defined as: What type of sexual harassment occurs when the harasser requests sexual favors in exchange for something else, such as a promotion, a job benefit, a better shift, or a favorable evaluation.",
+   "answer": 0,
    "choices": [
-    "tuberculosis",
-    "cold-weather clothing layers",
     "quid pro quo",
-    "syphilis"
+    "retaliation",
+    "workplace discrimination",
+    "hostile work environment"
    ],
-   "answer": 2,
-   "explanation": "quid pro quo: What type of sexual harassment occurs when the harasser requests sexual favors in exchange for something else, such as a promotion, a job benefit, a better shift, or a favorable evaluation.",
+   "explanation": "A job benefit offered in exchange for a date — with a worse shift threatened if she refuses — is quid pro quo: something given for something in return. A hostile work environment is built from ongoing offensive behavior rather than a single bargain like this.",
+   "question": "A captain tells an EMT he can put her on the day shift she wants if she goes out with him — and that if she refuses, she can expect to stay on nights. What type of sexual harassment is this?",
    "source": "Flashcard Slides — Set 8",
    "topic": "quid pro quo",
    "topic_n": 43
   },
   {
-   "question": "What does the term \"quid pro quo\" mean?",
-   "choices": [
-    "The body's response to stress that begins with an alarm response, followed by a stage of reaction and resistance, and then recovery or, if the stress is prolonged, exhaustion.",
-    "What type of sexual harassment occurs when the harasser requests sexual favors in exchange for something else, such as a promotion, a job benefit, a better shift, or a favorable evaluation.",
-    "What airborne bacterial disease is caused by Mycobacterium tuberculosis, spreads when an infected person coughs or sneezes, and is indicated by a positive skin test showing exposure to the bacterium.",
-    "The active pursuit of a state of good health."
-   ],
    "answer": 1,
-   "explanation": "quid pro quo: What type of sexual harassment occurs when the harasser requests sexual favors in exchange for something else, such as a promotion, a job benefit, a better shift, or a favorable evaluation.",
+   "choices": [
+    "It is only a compliment unless he repeats it several more times, so she should wait and see.",
+    "It is quid pro quo harassment; she should write down his exact words, the date, and any witnesses, and report it.",
+    "It is a hostile work environment issue, so she should confront him alone without writing anything down.",
+    "It is not harassment because he has not touched her or changed her evaluation yet."
+   ],
+   "explanation": "Trading a better evaluation for explicit photos is quid pro quo harassment — a benefit offered in exchange for something sexual. Documenting the exact words, date, and witnesses and reporting it protects her and creates the record the agency needs.",
+   "question": "A supervisor tells an EMT her evaluation will 'get a lot better' if she sends him explicit photos of herself. What is this, and what should she do?",
    "source": "Flashcard Slides — Set 8",
    "topic": "quid pro quo",
    "topic_n": 43
   },
   {
-   "question": "In a landmark Supreme Court case, a bank employee alleged her supervisor forced her into sex repeatedly and that she submitted out of fear of losing her job. The Court held that sexual harassment is sex discrimination under Title VII and recognized quid pro quo harassment. What makes a supervisor's sexual demands coercive in this pattern?",
+   "answer": 2,
    "choices": [
     "Sexual demands are only coercive if the supervisor states a specific threat in front of witnesses.",
     "The conduct only counts as harassment if it happens during scheduled work hours at the workplace.",
     "A supervisor's job power makes sexual demands coercive, even without an explicit threat spoken aloud.",
     "A supervisor's demands are not harassment as long as the employee is never actually fired."
    ],
-   "answer": 2,
    "explanation": "A supervisor's power over the job makes sexual demands coercive even without an explicit threat.",
+   "question": "In a landmark Supreme Court case, a bank employee alleged her supervisor forced her into sex repeatedly and that she submitted out of fear of losing her job. The Court held that sexual harassment is sex discrimination under Title VII and recognized quid pro quo harassment. What makes a supervisor's sexual demands coercive in this pattern?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "quid pro quo",
    "topic_n": 43
   },
   {
-   "question": "The EEOC alleged that at a Las Vegas plumbing company, female employees who rejected sexual advances were threatened, while those who acquiesced were offered better work assignments and hours. The company agreed to pay $500,000 under a consent decree with training and an outside monitor. What rule does this case state for the workplace?",
+   "answer": 3,
    "choices": [
     "Better assignments may be offered for sexual compliance as long as no one is demoted for refusing.",
     "Only cash bonuses count as a job benefit, so shift and assignment offers cannot be quid pro quo.",
     "Employees should settle such offers privately with the supervisor before involving management.",
     "Better shifts or assignments must never be traded for sexual compliance; document and report any such offer."
    ],
-   "answer": 3,
    "explanation": "Trading better shifts or assignments for sexual compliance is quid pro quo harassment; document it and report it.",
+   "question": "The EEOC alleged that at a Las Vegas plumbing company, female employees who rejected sexual advances were threatened, while those who acquiesced were offered better work assignments and hours. The company agreed to pay $500,000 under a consent decree with training and an outside monitor. What rule does this case state for the workplace?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "quid pro quo",
    "topic_n": 43
   },
   {
-   "question": "Which term is defined as: The most effective way to preserve body heat when functioning in cold, wet weather — wearing at least three layers of clothing.",
+   "answer": 0,
    "choices": [
-    "syphilis",
-    "cold-weather clothing layers",
-    "standard precautions",
-    "delayed stress reactions"
+    "At least three layers: a wicking base layer, an insulating middle layer, and a wind- and water-resistant outer layer.",
+    "One even heavier coat, so his body heat stays trapped under a single thick shell.",
+    "Two cotton sweatshirts under his uniform, since cotton holds warmth when it gets damp.",
+    "A heated vest by itself, so he can skip bulky clothing and move faster."
    ],
-   "answer": 1,
-   "explanation": "cold-weather clothing layers: The most effective way to preserve body heat when functioning in cold, wet weather — wearing at least three layers of clothing.",
+   "explanation": "Layering works because each part does a job: the base moves sweat away, the middle traps heat, and the shell blocks wind and water. Soaked cotton does the opposite — it pulls heat away from the body, which is why one heavy coat over cotton failed him.",
+   "question": "Your partner works a long winter scene wearing one heavy coat over a cotton shirt. The cotton gets soaked with sweat and snow, and within the hour he is shivering hard and clumsy. What should he have worn instead to preserve his body heat?",
    "source": "Flashcard Slides — Set 8",
    "topic": "cold-weather clothing layers",
    "topic_n": 44
   },
   {
-   "question": "What does the term \"cold-weather clothing layers\" mean?",
+   "answer": 0,
    "choices": [
-    "Reactions to stress that occur after a stressful situation.",
-    "The most effective way to preserve body heat when functioning in cold, wet weather — wearing at least three layers of clothing.",
-    "The abnormal invasion of a host or host tissues by organisms such as bacteria, viruses, or parasites, with or without signs or symptoms of disease.",
-    "A process that confronts the responses to critical incidents and defuses them, directing the emergency services personnel toward physical and emotional equilibrium."
+    "A three-part setup: a moisture-wicking base, an insulating middle, and a wind- and water-resistant outer shell.",
+    "One heavy insulated parka per person, worn over the regular uniform.",
+    "Chemical hand warmers and a knit cap, with the regular uniform underneath.",
+    "Extra cotton uniform shirts so members can change when one gets wet."
    ],
-   "answer": 1,
-   "explanation": "cold-weather clothing layers: The most effective way to preserve body heat when functioning in cold, wet weather — wearing at least three layers of clothing.",
+   "explanation": "Preserving body heat in cold, wet weather takes at least three layers working together — wick, insulate, and block wind and water. A single parka over a uniform, or cotton that stays wet, leaves the crew losing heat on a long scene.",
+   "question": "A blizzard shift is coming and the supply officer is issuing cold-weather gear to every crew member. What is the minimum clothing setup she should hand out for working in cold, wet weather?",
    "source": "Flashcard Slides — Set 8",
    "topic": "cold-weather clothing layers",
    "topic_n": 44
   },
   {
-   "question": "During the February 2021 Winter Storm Uri in Texas, 246 people died, and 158 of the deaths (64 percent) were from hypothermia. The state health department's report listed 'not wearing appropriate clothing or enough layering' among the risk factors for those deaths. What should an EMT take from this for cold-weather operations?",
+   "answer": 1,
    "choices": [
     "Wear one heavy coat, which the report identified as equal to layered clothing for preventing heat loss.",
     "Dress in layers yourself and check patients and bystanders for inadequate clothing, not just injuries.",
     "Assume people found indoors are safe from hypothermia and do not need a clothing check.",
     "Focus only on treating injuries, since hypothermia deaths in disasters come from building failures, not clothing."
    ],
-   "answer": 1,
    "explanation": "Inadequate clothing and layering contributed to fatal heat loss, so EMTs layer up and check others' clothing during cold disasters.",
+   "question": "During the February 2021 Winter Storm Uri in Texas, 246 people died, and 158 of the deaths (64 percent) were from hypothermia. The state health department's report listed 'not wearing appropriate clothing or enough layering' among the risk factors for those deaths. What should an EMT take from this for cold-weather operations?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "cold-weather clothing layers",
    "topic_n": 44
   },
   {
-   "question": "A 40-year-old fire captain fell repeatedly from a personal watercraft during surf rescue training in about 47 degree F water. He wore a dry suit over a jumpsuit, but his hood and thin gloves were not waterproof and gave minimal thermal protection once wet; he died two days later from complications involving hypothermia. What failed in his clothing system?",
+   "answer": 3,
    "choices": [
     "The jumpsuit under the dry suit was the problem, because layering under a dry suit traps cold water.",
     "The dry suit itself failed, showing that dry suits should not be used for surf rescue training.",
     "Nothing about the clothing failed; the outcome was caused only by the length of the swim.",
     "The system failed at its weakest points, so every part of a cold-water clothing system, including gloves and hood, must be waterproof and insulated before training or response."
    ],
-   "answer": 3,
    "explanation": "Cold-weather layers only preserve heat if every layer, including hood and gloves, stays protective when wet.",
+   "question": "A 40-year-old fire captain fell repeatedly from a personal watercraft during surf rescue training in about 47 degree F water. He wore a dry suit over a jumpsuit, but his hood and thin gloves were not waterproof and gave minimal thermal protection once wet; he died two days later from complications involving hypothermia. What failed in his clothing system?",
    "source": "Flashcard Case Studies — Set 8",
    "topic": "cold-weather clothing layers",
    "topic_n": 44

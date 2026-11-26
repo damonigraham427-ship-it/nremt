@@ -309,323 +309,323 @@
    "topic_n": 8
   },
   {
-   "question": "Which term is defined as: \"A process in which a person, an institution, or a program is evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care\"?",
+   "answer": 1,
    "choices": [
     "Licensure",
     "Certification",
     "Credentialing",
     "Public health"
    ],
-   "answer": 1,
    "explanation": "The deck defines certification as evaluation and recognition against predetermined standards for safe and ethical care.",
+   "question": "Which term is defined as: \"A process in which a person, an institution, or a program is evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care\"?",
    "source": "Flashcard Slides — Set 2",
    "topic": "certification",
    "topic_n": 7
   },
   {
-   "question": "What does certification mean?",
+   "answer": 0,
    "choices": [
-    "A competent authority, usually the state, allowing a person to perform a regulated act",
-    "An established process to determine the qualifications necessary to practice a profession",
-    "Being evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care",
-    "The designated area in which an EMS agency is responsible for prehospital care"
+    "Practice as an EMT in that state, because certification alone does not grant permission to practice",
+    "Sit for a specialty certification exam",
+    "Use the title “certified EMT” on a job application",
+    "Renew her national certification when it comes due"
    ],
-   "answer": 2,
-   "explanation": "Certification is the process of being evaluated and recognized as meeting predetermined standards.",
+   "explanation": "Certification says she met a national standard; it is not permission to work. She still needs the state's licensure before she can legally perform EMT skills there.",
+   "question": "An EMT passes the national registry exam and earns her certification, but her state application to practice is still pending. She is on tomorrow's ambulance schedule. What is she NOT yet allowed to do?",
    "source": "Flashcard Slides — Set 2",
    "topic": "certification",
    "topic_n": 7
   },
   {
-   "question": "In 2023, Indiana found that a Muncie fire captain had texted NREMT exam answers to eight recruits, who were then censured, fined, and had their results voided. What does this case show about certification?",
+   "answer": 0,
    "choices": [
     "Certification protects the public only if the exam measures what each candidate actually knows",
     "Certification is granted by the local medical director, not a national body",
     "Recruits may share exam questions as long as they passed first",
     "Exam security rules apply only to paramedic candidates"
    ],
-   "answer": 0,
    "explanation": "The deck's lesson: certification protects the public only if the exam measures what each candidate actually knows, and receiving exam content can cost a certification.",
+   "question": "In 2023, Indiana found that a Muncie fire captain had texted NREMT exam answers to eight recruits, who were then censured, fined, and had their results voided. What does this case show about certification?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "certification",
    "topic_n": 7
   },
   {
-   "question": "Los Medanos College in California could not prove that required skills testing had occurred for its 2019-2023 EMT classes, and about 247 graduates learned they had never been eligible for their certificates. What principle does this illustrate?",
+   "answer": 3,
    "choices": [
     "Skills testing only matters for paramedic programs",
     "Graduates are responsible for scheduling their own state audits",
     "A program's certificate protects graduates even without records",
     "If a program cannot prove testing happened, the state treats it as not done"
    ],
-   "answer": 3,
    "explanation": "The deck states that if a program can't prove testing happened, the state treats it as not done, so EMTs should keep their own records.",
+   "question": "Los Medanos College in California could not prove that required skills testing had occurred for its 2019-2023 EMT classes, and about 247 graduates learned they had never been eligible for their certificates. What principle does this illustrate?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "certification",
    "topic_n": 7
   },
   {
-   "question": "Which term is defined as: \"The designated area in which the EMS agency is responsible for the provision of prehospital emergency care and transportation to the hospital\"?",
+   "answer": 2,
    "choices": [
     "Credentialing",
     "Licensure",
     "Primary service area",
     "Mobile integrated health care"
    ],
-   "answer": 2,
    "explanation": "The deck defines the primary service area as the designated area where the agency is responsible for prehospital care and transport.",
+   "question": "Which term is defined as: \"The designated area in which the EMS agency is responsible for the provision of prehospital emergency care and transportation to the hospital\"?",
    "source": "Flashcard Slides — Set 2",
    "topic": "primary service area",
    "topic_n": 8
   },
   {
-   "question": "What is a primary service area?",
+   "answer": 2,
    "choices": [
-    "The designated area in which an EMS agency is responsible for providing prehospital emergency care and transportation to the hospital",
-    "A competent authority, usually the state, allowing a person to perform a regulated act",
-    "An established process to determine the qualifications necessary to practice a profession",
-    "Delivering health care within the community rather than at a physician's office or hospital"
+    "The hospital that sits closest to the scene",
+    "The agency with the most senior paramedic on duty",
+    "The primary service area, the designated zone in which each agency is responsible for prehospital care",
+    "Whichever agency arrived at the scene second"
    ],
-   "answer": 0,
-   "explanation": "A primary service area is the designated area where the agency owes prehospital care and transport.",
+   "explanation": "Each agency is assigned a primary service area, and the agency whose area the call falls in owns the response. Arrival order, hospital distance, and seniority do not assign responsibility.",
+   "question": "A crash happens on a road that forms the border between two towns. Both agencies arrive, and each claims the other should take the call. What settles which agency is responsible for the call?",
    "source": "Flashcard Slides — Set 2",
    "topic": "primary service area",
    "topic_n": 8
   },
   {
-   "question": "In Winthrop, Massachusetts in 2024, both of the primary ambulance provider's units were busy when a 2-year-old stopped breathing, and mutual-aid calls found no available unit. What does this case show about a primary service area?",
+   "answer": 1,
    "choices": [
     "Mutual aid is not permitted inside a primary service area",
     "A primary service area is only as strong as its backup plan when the assigned provider runs out of units",
     "Fire departments are forbidden to transport patients in such areas",
     "Primary service areas guarantee a unit is always available"
    ],
-   "answer": 1,
    "explanation": "The deck's connection: a primary service area is only as strong as its backup plan when the assigned provider runs out of units.",
+   "question": "In Winthrop, Massachusetts in 2024, both of the primary ambulance provider's units were busy when a 2-year-old stopped breathing, and mutual-aid calls found no available unit. What does this case show about a primary service area?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "primary service area",
    "topic_n": 8
   },
   {
-   "question": "Pickens County, Alabama lost its ambulance subsidy in 2024 and fell to a single ambulance before service ended entirely. What lesson does this case teach about primary service areas?",
+   "answer": 2,
    "choices": [
     "Rural counties are exempt from designating a service area",
     "Helicopters can permanently replace ground ambulances in a service area",
     "A primary service area only works if someone can staff it and pay for it",
     "A service area ends automatically when a subsidy expires"
    ],
-   "answer": 2,
    "explanation": "The deck's connection: a primary service area only works if someone can staff it and pay for it.",
+   "question": "Pickens County, Alabama lost its ambulance subsidy in 2024 and fell to a single ambulance before service ended entirely. What lesson does this case teach about primary service areas?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "primary service area",
    "topic_n": 8
   },
   {
-   "question": "Which term is defined as: \"The process whereby a competent authority, usually the state, allows people to perform a regulated act\"?",
+   "answer": 0,
    "choices": [
     "Licensure",
     "Certification",
     "Credentialing",
     "Public health"
    ],
-   "answer": 0,
    "explanation": "The deck defines licensure as a competent authority, usually the state, allowing people to perform a regulated act.",
+   "question": "Which term is defined as: \"The process whereby a competent authority, usually the state, allows people to perform a regulated act\"?",
    "source": "Flashcard Slides — Set 2",
    "topic": "licensure",
    "topic_n": 9
   },
   {
-   "question": "What does licensure mean?",
+   "answer": 2,
    "choices": [
-    "Being evaluated and recognized as meeting certain predetermined standards",
-    "Delivering health care within the community rather than at a hospital",
-    "The branch of medicine focused on the health needs of entire populations",
-    "A competent authority, usually the state, allowing a person to perform a regulated act"
+    "Her employer's credentialing file",
+    "Her Texas driver's license",
+    "Permission from the state where she is practicing, through its license or a recognized privilege to practice",
+    "Her national certification card"
    ],
-   "answer": 3,
-   "explanation": "Licensure is the state's permission to perform a regulated act.",
+   "explanation": "Licensure is the state's permission to perform a regulated act, and it belongs to the state where the care happens. National certification and employer credentialing do not grant that permission by themselves.",
+   "question": "An EMT licensed in Texas rides along on a mutual-aid response into Oklahoma. Which credential determines whether she may legally perform EMT skills there?",
    "source": "Flashcard Slides — Set 2",
    "topic": "licensure",
    "topic_n": 9
   },
   {
-   "question": "After the Tyre Nichols response in Memphis in 2023, Tennessee's EMS Board suspended two responders' licenses at an emergency meeting within days of the incident. What does this show about licensure?",
+   "answer": 1,
    "choices": [
     "Licenses can only be suspended after a criminal conviction",
     "A state board can suspend a license quickly, then hold a full hearing that can end in revocation",
     "License discipline is handled by the provider's own agency, not the state",
     "Suspension is the most severe action a board can take"
    ],
-   "answer": 1,
    "explanation": "The deck's connection: a state board can suspend a license within days, then hold a full hearing that can end in revocation.",
+   "question": "After the Tyre Nichols response in Memphis in 2023, Tennessee's EMS Board suspended two responders' licenses at an emergency meeting within days of the incident. What does this show about licensure?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "licensure",
    "topic_n": 9
   },
   {
-   "question": "When the EMS Compact was activated for COVID-19 in March 2020, EMS personnel licensed in a member state received a \"privilege to practice\" in other member states. How does the Compact treat licensure?",
+   "answer": 2,
    "choices": [
     "It replaces state licenses with one national license",
     "It lets any EMT work in any state without restriction",
     "Licenses stay state-based; the Compact is how member states recognize each other's licenses",
     "It is run by the NREMT as a certification program"
    ],
-   "answer": 2,
    "explanation": "The deck states that licenses stay state-based and the Compact is how member states recognize each other's licenses.",
+   "question": "When the EMS Compact was activated for COVID-19 in March 2020, EMS personnel licensed in a member state received a \"privilege to practice\" in other member states. How does the Compact treat licensure?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "licensure",
    "topic_n": 9
   },
   {
-   "question": "Which term is defined as: \"The branch of medicine that is focused on examining the health needs of entire populations with the goal of preventing health problems\"?",
+   "answer": 3,
    "choices": [
     "Mobile integrated health care",
     "Certification",
     "Credentialing",
     "Public health"
    ],
-   "answer": 3,
    "explanation": "The deck defines public health as the branch of medicine focused on entire populations and preventing health problems.",
+   "question": "Which term is defined as: \"The branch of medicine that is focused on examining the health needs of entire populations with the goal of preventing health problems\"?",
    "source": "Flashcard Slides — Set 2",
    "topic": "public health",
    "topic_n": 10
   },
   {
-   "question": "What is public health?",
+   "answer": 2,
    "choices": [
-    "Delivering health care within the community rather than at a physician's office or hospital",
-    "The branch of medicine focused on the health needs of entire populations, with the goal of preventing health problems",
-    "An established process to determine the qualifications necessary to practice a profession",
-    "The designated area in which an EMS agency is responsible for prehospital care"
+    "Giving naloxone to the overdose patient in front of you",
+    "Transporting each overdose patient to the closest hospital",
+    "A community naloxone distribution and education program aimed at the whole county",
+    "Adding a second paramedic to every ambulance"
    ],
-   "answer": 1,
-   "explanation": "Public health examines the health needs of entire populations with the goal of preventing health problems.",
+   "explanation": "Public health works on the health of entire populations, so a county-wide prevention program fits it. Treating and transporting the patient in front of you is individual care, even when the same drug is involved.",
+   "question": "Overdose deaths in your county have doubled in a year. Which response is a population-level public health approach rather than individual patient care?",
    "source": "Flashcard Slides — Set 2",
    "topic": "public health",
    "topic_n": 10
   },
   {
-   "question": "In Brooklyn in 2016, EMS found 33 people intoxicated by a synthetic cannabinoid near one intersection, and the city's health department issued a public alert. How did EMS contribute to the public health response?",
+   "answer": 2,
    "choices": [
     "EMS crews arrested the people selling the drug",
     "EMS closed the intersection until the drug was identified",
     "EMS calls and syndromic surveillance drove a population-level public health response",
     "EMS treated the event as isolated calls with no wider significance"
    ],
-   "answer": 2,
    "explanation": "The deck's connection: EMS calls and syndromic surveillance drove a population-level public health response.",
+   "question": "In Brooklyn in 2016, EMS found 33 people intoxicated by a synthetic cannabinoid near one intersection, and the city's health department issued a public alert. How did EMS contribute to the public health response?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "public health",
    "topic_n": 10
   },
   {
-   "question": "A 2013 study of Massachusetts communities found opioid death rates were 27% lower with moderate enrollment and 46% lower with high enrollment in bystander naloxone (OEND) programs. What kind of intervention is bystander naloxone in this study?",
+   "answer": 0,
    "choices": [
     "A population-level intervention that works alongside 911",
     "A hospital-based treatment that replaces EMS response",
     "A credentialing requirement for Massachusetts EMTs",
     "A licensing standard for ambulance services"
    ],
-   "answer": 0,
    "explanation": "The deck describes bystander naloxone as a population-level intervention with measurable results that works alongside 911.",
+   "question": "A 2013 study of Massachusetts communities found opioid death rates were 27% lower with moderate enrollment and 46% lower with high enrollment in bystander naloxone (OEND) programs. What kind of intervention is bystander naloxone in this study?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "public health",
    "topic_n": 10
   },
   {
-   "question": "Which term is defined as: \"A method of delivering health care that involves providing health care within the community rather than at a physician's office or hospital\"?",
+   "answer": 1,
    "choices": [
     "Public health",
     "Mobile integrated health care",
     "Primary service area",
     "Certification"
    ],
-   "answer": 1,
    "explanation": "The deck defines mobile integrated health care as delivering health care within the community rather than at an office or hospital.",
+   "question": "Which term is defined as: \"A method of delivering health care that involves providing health care within the community rather than at a physician's office or hospital\"?",
    "source": "Flashcard Slides — Set 2",
    "topic": "mobile integrated health care",
    "topic_n": 11
   },
   {
-   "question": "What is mobile integrated health care?",
+   "answer": 1,
    "choices": [
-    "The branch of medicine focused on the health needs of entire populations",
-    "A competent authority, usually the state, allowing a person to perform a regulated act",
-    "Being evaluated and recognized as meeting certain predetermined standards",
-    "Delivering health care within the community rather than at a physician's office or hospital"
+    "A primary service area program, because it assigns zones for 911 response",
+    "Mobile integrated health care, delivering care to individual patients in the community instead of at a hospital",
+    "Credentialing, because it reviews the qualifications of providers",
+    "Public health, because it is aimed at the health of the entire population"
    ],
-   "answer": 3,
-   "explanation": "Mobile integrated health care provides health care within the community instead of at a physician's office or hospital.",
+   "explanation": "MIH delivers health care to individual patients out in the community rather than at a physician's office or hospital. Public health aims at whole populations, not named enrolled patients with their own doctors.",
+   "question": "An EMS program sends a paramedic to the homes of specific enrolled heart-failure patients. She checks their weights, reviews their medications, and reports back to each patient's own doctor so problems are caught before they become 911 calls. This program is best described as:",
    "source": "Flashcard Slides — Set 2",
    "topic": "mobile integrated health care",
    "topic_n": 11
   },
   {
-   "question": "Houston's ETHAN program connects low-acuity 911 patients by video to an emergency physician who decides whether they need the ED, a clinic, or a primary care referral; in its first year only 18% went by ambulance to the ED versus 74% of matched controls. What does ETHAN demonstrate about MIH?",
+   "answer": 2,
    "choices": [
     "Telehealth removes the need for a field assessment",
     "Low-acuity patients must always be transported to an ED",
     "Telehealth brings physician decisions to the patient and keeps ambulances free for emergencies",
     "MIH programs are run by hospitals, not EMS agencies"
    ],
-   "answer": 2,
    "explanation": "The deck's connection: telehealth brings physician decisions to the patient and keeps ambulances free for emergencies.",
+   "question": "Houston's ETHAN program connects low-acuity 911 patients by video to an emergency physician who decides whether they need the ED, a clinic, or a primary care referral; in its first year only 18% went by ambulance to the ED versus 74% of matched controls. What does ETHAN demonstrate about MIH?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "mobile integrated health care",
    "topic_n": 11
   },
   {
-   "question": "Which term is defined as: \"An established process to determine the qualifications necessary to be allowed to practice a particular profession, or to function as an organization\"?",
+   "answer": 2,
    "choices": [
     "Licensure",
     "Certification",
     "Credentialing",
     "Primary service area"
    ],
-   "answer": 2,
    "explanation": "The deck defines credentialing as the established process to determine the qualifications necessary to practice or function as an organization.",
+   "question": "Which term is defined as: \"An established process to determine the qualifications necessary to be allowed to practice a particular profession, or to function as an organization\"?",
    "source": "Flashcard Slides — Set 2",
    "topic": "credentialing",
    "topic_n": 12
   },
   {
-   "question": "What does credentialing mean?",
+   "answer": 0,
    "choices": [
-    "A competent authority, usually the state, allowing a person to perform a regulated act",
-    "An established process to determine the qualifications necessary to practice a particular profession or to function as an organization",
-    "Being evaluated and recognized as meeting certain predetermined standards to provide safe and ethical care",
-    "The designated area in which an EMS agency is responsible for prehospital care"
+    "Credentialing, verifying his qualifications against the issuing records before letting him practice",
+    "Certification, checking his national exam score",
+    "Accreditation, the review of the agency's training program",
+    "Licensure, the state's initial permission for him to work"
    ],
-   "answer": 1,
-   "explanation": "Credentialing is the established process to determine the qualifications necessary to practice a profession or function as an organization.",
+   "explanation": "Credentialing is the employer's process of determining and checking the qualifications needed to practice in that system. Verifying documents against the issuing records, instead of trusting photocopies, is exactly the step that catches a forgery.",
+   "question": "A new hire treated patients for months before anyone discovered that his certificate was forged. The agency had only ever looked at his own photocopies. Which hiring step, done properly, should have caught this?",
    "source": "Flashcard Slides — Set 2",
    "topic": "credentialing",
    "topic_n": 12
   },
   {
-   "question": "In Austin, Texas, the Office of the Medical Director alone grants or revokes the credentials medics need to practice in that system, separate from state certification. What does this mean for a state-certified medic?",
+   "answer": 3,
    "choices": [
     "State certification guarantees the right to work in any system",
     "Only the state can remove a medic from duty",
     "Decredentialing is a form of state discipline",
     "A state-certified medic can still lose the local credential needed to work in a system"
    ],
-   "answer": 3,
    "explanation": "The deck's connection: a state-certified medic can still lose the local credential needed to work in a system.",
+   "question": "In Austin, Texas, the Office of the Medical Director alone grants or revokes the credentials medics need to practice in that system, separate from state certification. What does this mean for a state-certified medic?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "credentialing",
    "topic_n": 12
   },
   {
-   "question": "In Colorado, two medical services companies hired a man whose paramedic certificate had expired in 2012 after accepting his forged documents; he treated over 100 patients. Where did credentialing fail?",
+   "answer": 1,
    "choices": [
     "The state registry refused to share his records",
     "The employers trusted applicant documents instead of checking the state registry",
     "The man held a valid credential from another state",
     "Credentialing was completed, but supervision was lacking"
    ],
-   "answer": 1,
    "explanation": "The deck's connection: employer credentialing failed by trusting applicant documents instead of checking the state registry.",
+   "question": "In Colorado, two medical services companies hired a man whose paramedic certificate had expired in 2012 after accepting his forged documents; he treated over 100 patients. Where did credentialing fail?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "credentialing",
    "topic_n": 12

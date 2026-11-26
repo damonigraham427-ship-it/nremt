@@ -1,589 +1,589 @@
 {
  "questions": [
   {
-   "question": "Your county-run ambulance crew is sued after a patient claims a delayed response harmed him. The county's lawyer argues the service is a governmental function and the claim should be dismissed before trial. What doctrine is the lawyer using?",
+   "answer": 3,
    "choices": [
     "Good Samaritan protection",
     "statute of limitations",
     "qualified immunity",
     "governmental immunity"
    ],
-   "answer": 3,
    "explanation": "Governmental immunity is the legal doctrine that can protect a government EMS provider from being sued or limit the judgment against it.",
+   "question": "Your county-run ambulance crew is sued after a patient claims a delayed response harmed him. The county's lawyer argues the service is a governmental function and the claim should be dismissed before trial. What doctrine is the lawyer using?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "governmental immunity",
    "topic_n": 7
   },
   {
-   "question": "A city EMS system and a private ambulance company provide identical care on identical calls. A negligence suit against the city system is dismissed on immunity grounds while the suit against the private company proceeds. Why the difference?",
+   "answer": 0,
    "choices": [
     "governmental immunity",
     "Good Samaritan protection",
     "qualified immunity",
     "vicarious liability"
    ],
-   "answer": 0,
    "explanation": "Governmental immunity generally applies to EMS systems operated by municipalities or other governmental entities, not to private companies.",
+   "question": "A city EMS system and a private ambulance company provide identical care on identical calls. A negligence suit against the city system is dismissed on immunity grounds while the suit against the private company proceeds. Why the difference?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "governmental immunity",
    "topic_n": 7
   },
   {
-   "question": "After a crash involving a municipal ambulance, a patient's attorney learns the recovery is capped by statute even though the crew was at fault. What doctrine limited the amount of the monetary judgment?",
+   "answer": 1,
    "choices": [
     "res ipsa loquitur",
     "governmental immunity",
     "contributory negligence",
     "statute of limitations"
    ],
-   "answer": 1,
    "explanation": "The definition covers both protection from suit and limits on the amount of a monetary judgment against the EMS provider.",
+   "question": "After a crash involving a municipal ambulance, a patient's attorney learns the recovery is capped by statute even though the crew was at fault. What doctrine limited the amount of the monetary judgment?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "governmental immunity",
    "topic_n": 7
   },
   {
-   "question": "In your patient care report you write that a patient is 'a known drug dealer who faked his chest pain,' which is untrue, and the report is shared with the hospital and your agency. The patient sues. What is the written false statement called?",
+   "answer": 3,
    "choices": [
     "slander",
     "battery",
     "perjury",
     "libel"
    ],
-   "answer": 3,
    "explanation": "Libel is false and damaging information about a person communicated in writing, and a patient care report is a written record.",
+   "question": "In your patient care report you write that a patient is 'a known drug dealer who faked his chest pain,' which is untrue, and the report is shared with the hospital and your agency. The patient sues. What is the written false statement called?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "libel",
    "topic_n": 8
   },
   {
-   "question": "An EMT posts on a public social media page that a coworker 'steals narcotics from the rig,' knowing the claim is false. The coworker is suspended and sues. Which tort fits the written post?",
+   "answer": 1,
    "choices": [
     "slander",
     "libel",
     "invasion of privacy",
     "false imprisonment"
    ],
-   "answer": 1,
    "explanation": "A false, damaging statement published in writing, including online, is libel; spoken false statements would be slander instead.",
+   "question": "An EMT posts on a public social media page that a coworker 'steals narcotics from the rig,' knowing the claim is false. The coworker is suspended and sues. Which tort fits the written post?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "libel",
    "topic_n": 8
   },
   {
-   "question": "During handoff you tell the nurse a patient is 'just drunk,' but you document nothing false. A second EMT instead writes 'intoxicated malingerer' in the chart without any evidence. Which EMT risks a libel claim?",
+   "answer": 3,
    "choices": [
     "neither EMT, because handoff remarks are privileged",
     "the EMT who spoke during handoff",
     "both EMTs, since both statements were false",
     "the EMT who wrote it in the chart"
    ],
-   "answer": 3,
    "explanation": "Libel requires the false, damaging statement to be communicated in writing, which the chart entry is and the spoken remark is not.",
+   "question": "During handoff you tell the nurse a patient is 'just drunk,' but you document nothing false. A second EMT instead writes 'intoxicated malingerer' in the chart without any evidence. Which EMT risks a libel claim?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "libel",
    "topic_n": 8
   },
   {
-   "question": "A patient with an emotional crisis refuses transport. You tell him, 'Agree to go, or I'll have the police hold you down and strap you to the stretcher.' He becomes visibly frightened. What have you committed?",
+   "answer": 0,
    "choices": [
     "assault",
     "false imprisonment",
     "negligence",
     "battery"
    ],
-   "answer": 0,
    "explanation": "Assault is unlawfully placing a patient in fear of bodily harm; threatening forced restraint to compel consent does this even without touching him.",
+   "question": "A patient with an emotional crisis refuses transport. You tell him, 'Agree to go, or I'll have the police hold you down and strap you to the stretcher.' He becomes visibly frightened. What have you committed?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "assault",
    "topic_n": 9
   },
   {
-   "question": "An EMT raises a fist at an agitated patient and says, 'Sit down or I'll knock you down,' and the patient cowers and complies. No contact is made. What is this?",
+   "answer": 2,
    "choices": [
     "battery",
     "abandonment",
     "assault",
     "kidnapping"
    ],
-   "answer": 2,
    "explanation": "The threat placed the patient in fear of immediate bodily harm, which is assault; actually striking him would be battery.",
+   "question": "An EMT raises a fist at an agitated patient and says, 'Sit down or I'll knock you down,' and the patient cowers and complies. No contact is made. What is this?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "assault",
    "topic_n": 9
   },
   {
-   "question": "Your partner, frustrated with a screaming patient, says, 'Keep it up and I'll sedate you until you can't talk.' The patient goes silent in fear. How should this be classified?",
+   "answer": 3,
    "choices": [
     "false imprisonment",
     "battery",
     "gross negligence",
     "assault"
    ],
-   "answer": 3,
    "explanation": "Threatening a medical intervention as punishment unlawfully places the patient in fear of bodily harm, which meets the definition of assault.",
+   "question": "Your partner, frustrated with a screaming patient, says, 'Keep it up and I'll sedate you until you can't talk.' The patient goes silent in fear. How should this be classified?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "assault",
    "topic_n": 9
   },
   {
-   "question": "Six months after a negligence suit is filed against your agency, you receive written questions from the plaintiff's attorney that you must answer under oath, and your partner is scheduled to answer oral questions under oath. What phase of the lawsuit is this?",
+   "answer": 2,
    "choices": [
     "voir dire",
     "arraignment",
     "discovery",
     "the pleading stage"
    ],
-   "answer": 2,
    "explanation": "Discovery is the phase where plaintiff and defense obtain information from each other, through interrogatories and depositions, to build their cases.",
+   "question": "Six months after a negligence suit is filed against your agency, you receive written questions from the plaintiff's attorney that you must answer under oath, and your partner is scheduled to answer oral questions under oath. What phase of the lawsuit is this?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "discovery",
    "topic_n": 10
   },
   {
-   "question": "Defense counsel sends your service a demand to produce the patient care report, dispatch audio, and the ambulance's event data recorder for a call from two years ago. Which phase of the civil lawsuit requires this exchange?",
+   "answer": 0,
    "choices": [
     "discovery",
     "voir dire",
     "the complaint stage",
     "sentencing"
    ],
-   "answer": 0,
    "explanation": "Demands for production of records are part of discovery, the information-exchange phase before trial.",
+   "question": "Defense counsel sends your service a demand to produce the patient care report, dispatch audio, and the ambulance's event data recorder for a call from two years ago. Which phase of the civil lawsuit requires this exchange?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "discovery",
    "topic_n": 10
   },
   {
-   "question": "An attorney explains that neither side wants surprises at trial, so each side will depose the other's witnesses and exchange expert reports over the next four months. What is this process called?",
+   "answer": 2,
    "choices": [
     "voir dire",
     "mediation",
     "discovery",
     "the arraignment process"
    ],
-   "answer": 2,
    "explanation": "Exchanging information and taking depositions so both sides can build and evaluate their cases is discovery.",
+   "question": "An attorney explains that neither side wants surprises at trial, so each side will depose the other's witnesses and exchange expert reports over the next four months. What is this process called?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "discovery",
    "topic_n": 10
   },
   {
-   "question": "Your crew arrives at a man who was struck by a car. Your partner glances at him, takes no vital signs, and clears the scene in under two minutes. The man later dies of internal bleeding a full assessment would have flagged. What is the partner's failure called?",
+   "answer": 0,
    "choices": [
     "negligence",
     "battery",
     "breach of confidentiality",
     "abandonment"
    ],
-   "answer": 0,
    "explanation": "Negligence is failure to provide the same care a person with similar training would provide, and a similarly trained EMT would have fully assessed the patient.",
+   "question": "Your crew arrives at a man who was struck by a car. Your partner glances at him, takes no vital signs, and clears the scene in under two minutes. The man later dies of internal bleeding a full assessment would have flagged. What is the partner's failure called?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "negligence",
    "topic_n": 11
   },
   {
-   "question": "A paramedic places an IV medication at ten times the protocol dose because she never checked the drug reference every other medic in her system uses, and the patient is harmed. Which term describes her care?",
+   "answer": 3,
    "choices": [
     "false imprisonment",
     "assault",
     "abandonment",
     "negligence"
    ],
-   "answer": 3,
    "explanation": "Her care fell below what a person with similar training would provide in the same situation, which is the definition of negligence.",
+   "question": "A paramedic places an IV medication at ten times the protocol dose because she never checked the drug reference every other medic in her system uses, and the patient is harmed. Which term describes her care?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "negligence",
    "topic_n": 11
   },
   {
-   "question": "Two EMTs respond to a patient slumped and unresponsive against a car. They stand nearby for many minutes without a primary assessment, vital signs, or oxygen, and the patient dies. A review finds they did not do what any EMT would be expected to do. What is this?",
+   "answer": 0,
    "choices": [
     "negligence",
     "abandonment",
     "battery",
     "kidnapping"
    ],
-   "answer": 0,
    "explanation": "Failing to perform the basic assessment and care that similarly trained providers would perform is negligence.",
+   "question": "Two EMTs respond to a patient slumped and unresponsive against a car. They stand nearby for many minutes without a primary assessment, vital signs, or oxygen, and the patient dies. A review finds they did not do what any EMT would be expected to do. What is this?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "negligence",
    "topic_n": 11
   },
   {
-   "question": "A competent, alert adult with a sprained ankle clearly refuses transport. Your partner straps him to the stretcher anyway and you drive him to the hospital because 'he needs an X-ray.' What crime does transporting him against his will risk?",
+   "answer": 1,
    "choices": [
     "battery",
     "kidnapping",
     "abandonment",
     "assault"
    ],
-   "answer": 1,
    "explanation": "Kidnapping includes transporting a competent adult for medical treatment against his or her will.",
+   "question": "A competent, alert adult with a sprained ankle clearly refuses transport. Your partner straps him to the stretcher anyway and you drive him to the hospital because 'he needs an X-ray.' What crime does transporting him against his will risk?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "kidnapping",
    "topic_n": 12
   },
   {
-   "question": "Police on scene order you to take a sober, oriented man who is refusing all care. There is no arrest, no psychiatric hold, and he is not a danger to himself or others. Why should you refuse the forced transport and call medical control instead?",
+   "answer": 1,
    "choices": [
     "refusing a police order would be obstruction",
     "transporting him could be kidnapping",
     "transporting him would be patient abandonment",
     "his refusal is overridden by implied consent"
    ],
-   "answer": 1,
    "explanation": "Seizing and carrying away a competent person by force without legal authority, including for medical treatment, meets the definition of kidnapping.",
+   "question": "Police on scene order you to take a sober, oriented man who is refusing all care. There is no arrest, no psychiatric hold, and he is not a danger to himself or others. Why should you refuse the forced transport and call medical control instead?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "kidnapping",
    "topic_n": 12
   },
   {
-   "question": "Mid-transport, a competent patient who first consented now demands to be let out at the next safe stop and tries to unbuckle the straps. A crew member holds her down and orders the driver to keep going to the hospital. What does continuing the transport risk being charged as?",
+   "answer": 0,
    "choices": [
     "kidnapping",
     "abandonment",
     "assault",
     "battery"
    ],
-   "answer": 0,
    "explanation": "Confining and carrying away a competent person by force after consent is withdrawn, for treatment she no longer wants, fits the definition of kidnapping.",
+   "question": "Mid-transport, a competent patient who first consented now demands to be let out at the next safe stop and tries to unbuckle the straps. A crew member holds her down and orders the driver to keep going to the hospital. What does continuing the transport risk being charged as?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "kidnapping",
    "topic_n": 12
   },
   {
-   "question": "Which term is defined as: Legal doctrine that can protect an EMS provider from being sued or that may limit the amount of the monetary judgement (the amount of money that a court of law orders one person to pay to another) against the EMS provider.",
+   "answer": 1,
    "choices": [
     "slander",
     "governmental immunity",
     "chain of evidence",
     "decision-making capacity"
    ],
-   "answer": 1,
    "explanation": "governmental immunity: Legal doctrine that can protect an EMS provider from being sued or that may limit the amount of the monetary judgement (the amount of money that a court of law orders one person to pay to another) against the EMS provider.",
+   "question": "Which term is defined as: Legal doctrine that can protect an EMS provider from being sued or that may limit the amount of the monetary judgement (the amount of money that a court of law orders one person to pay to another) against the EMS provider.",
    "source": "Flashcard Slides — Set 2",
    "topic": "governmental immunity",
    "topic_n": 7
   },
   {
-   "question": "What does the term \"governmental immunity\" mean?",
-   "choices": [
-    "Written, accepted levels of emergency care expected by reason of training and profession; written by legal or professional organizations so that patients are not exposed to unreasonable risk or harm.",
-    "Disclosure of information without proper authorization.",
-    "Written questions that the defense and plaintiff send to one another.",
-    "Legal doctrine that can protect an EMS provider from being sued or that may limit the amount of the monetary judgement (the amount of money that a court of law orders one person to pay to another) against the EMS provider."
-   ],
    "answer": 3,
-   "explanation": "governmental immunity: Legal doctrine that can protect an EMS provider from being sued or that may limit the amount of the monetary judgement (the amount of money that a court of law orders one person to pay to another) against the EMS provider.",
+   "choices": [
+    "The private provider is protected, because private companies can't be sued",
+    "Both suits proceed identically, because the error was the same",
+    "The county patient cannot sue at all, even for intentional harm",
+    "The suit against the county provider may be blocked, or the damages capped, because the employer is a government agency"
+   ],
+   "explanation": "Governmental immunity is a legal doctrine that can shield a government EMS provider from suit or limit the money damages awarded. A private provider doesn't get that protection for the same act.",
+   "question": "Two EMTs make the identical care error on the same day — one works for a county EMS agency, the other for a private company. Both patients sue. Which statement best describes how the suits may differ?",
    "source": "Flashcard Slides — Set 2",
    "topic": "governmental immunity",
    "topic_n": 7
   },
   {
-   "question": "The estate of a patient sued a county EMS service for malpractice, alleging paramedics failed to give oxygen, gave too small a medication dose, and delayed transport with repeated intubation attempts. The court dismissed the case before trial, holding that ambulance service was a governmental function and the county's insurance policy did not waive its immunity. What does this case illustrate?",
+   "answer": 2,
    "choices": [
     "A malpractice suit against a county EMS agency must always be decided by a jury.",
     "Immunity protects a government agency only after its crew proves the care met the standard.",
     "Governmental immunity can end a negligence suit against a government-run EMS agency before trial, regardless of whether the care provided was actually good.",
     "Purchasing a liability insurance policy automatically waives a county's immunity."
    ],
-   "answer": 2,
    "explanation": "Immunity depends on who operates the service and on insurance wording, not on whether the care was good.",
+   "question": "The estate of a patient sued a county EMS service for malpractice, alleging paramedics failed to give oxygen, gave too small a medication dose, and delayed transport with repeated intubation attempts. The court dismissed the case before trial, holding that ambulance service was a governmental function and the county's insurance policy did not waive its immunity. What does this case illustrate?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "governmental immunity",
    "topic_n": 7
   },
   {
-   "question": "A mother called 911 when her infant went into anaphylactic shock during a home infusion, and a basic life support ambulance responded because no ALS unit was available. The family sued the city, which argued it owed the patient no special duty. The state's highest court held that municipal ambulance service responding to a 911 call is a governmental function, so the city is liable only if it owed the patient a special duty. What can remove the immunity shield in such a case?",
+   "answer": 2,
    "choices": [
     "Every 911 caller automatically has a special duty claim against the city.",
     "Immunity is automatically lost whenever an ALS unit was unavailable for the call.",
     "Once a crew takes charge of a specific patient, its words and actions can create the special duty that removes the immunity protection.",
     "Immunity never applies when the patient is a child."
    ],
-   "answer": 2,
    "explanation": "A crew's own words and actions toward a specific patient can create the special duty that removes the immunity shield.",
+   "question": "A mother called 911 when her infant went into anaphylactic shock during a home infusion, and a basic life support ambulance responded because no ALS unit was available. The family sued the city, which argued it owed the patient no special duty. The state's highest court held that municipal ambulance service responding to a 911 call is a governmental function, so the city is liable only if it owed the patient a special duty. What can remove the immunity shield in such a case?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "governmental immunity",
    "topic_n": 7
   },
   {
-   "question": "Which term is defined as: False and damaging information about a person that is communicated in writing.",
+   "answer": 1,
    "choices": [
     "emergency doctrine",
     "libel",
     "slander",
     "torts"
    ],
-   "answer": 1,
    "explanation": "libel: False and damaging information about a person that is communicated in writing.",
+   "question": "Which term is defined as: False and damaging information about a person that is communicated in writing.",
    "source": "Flashcard Slides — Set 2",
    "topic": "libel",
    "topic_n": 8
   },
   {
-   "question": "What does the term \"libel\" mean?",
+   "answer": 0,
    "choices": [
-    "The time within which a legal case must be commenced.",
-    "False and damaging information about a person that is communicated in writing.",
-    "Permission to render care.",
-    "The manner in which principles of ethics are incorporated into professional conduct."
+    "The false statement written in the run report",
+    "Neither, because statements made on duty can't be defamatory",
+    "The insult spoken at the scene",
+    "Both equally, because spoken and written statements are treated the same"
    ],
-   "answer": 1,
-   "explanation": "libel: False and damaging information about a person that is communicated in writing.",
+   "explanation": "Libel is false, damaging information communicated in writing — like a false statement in a run report. The spoken insult, if false and damaging, would be slander instead.",
+   "question": "After a call, two things happen. An EMT loudly calls a patient \"a junkie faking it\" in front of bystanders — which isn't true. Another EMT writes in the run report that the patient \"was found stealing from the house,\" which also isn't true. Which act exposes its author to a defamation claim based on writing?",
    "source": "Flashcard Slides — Set 2",
    "topic": "libel",
    "topic_n": 8
   },
   {
-   "question": "A health care district's trauma agency director wrote a letter to a certifying group stating that a paramedic training company had billed the district for a course the district could not confirm took place, implying fraud and asking for an investigation. The company was suspended from hosting courses, an investigation found no billing impropriety, and a jury later awarded the company $692,400 for defamation. What is the lesson for EMS providers?",
+   "answer": 1,
    "choices": [
     "A written accusation is protected as long as it also requests an investigation.",
     "Never put an unproven accusation of fraud or misconduct in a letter, email, or report, because in writing it is preserved, forwarded, and sued over.",
     "A letter sent between agencies can never be the basis of a libel suit.",
     "Defamation claims can only arise from spoken statements, never from letters."
    ],
-   "answer": 1,
    "explanation": "A single written letter containing a false, damaging claim of fraud produced a six-figure defamation verdict.",
+   "question": "A health care district's trauma agency director wrote a letter to a certifying group stating that a paramedic training company had billed the district for a course the district could not confirm took place, implying fraud and asking for an investigation. The company was suspended from hosting courses, an investigation found no billing impropriety, and a jury later awarded the company $692,400 for defamation. What is the lesson for EMS providers?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "libel",
    "topic_n": 8
   },
   {
-   "question": "A former volunteer firefighter sued for defamation, alleging that a former mayor's wife falsely accused him on Facebook of threatening her and her teenage son, and that a former councilwoman repeated the allegations online and in a resignation letter. Police investigated the encounter and filed no charges. Why would these claims be libel rather than slander?",
+   "answer": 3,
    "choices": [
     "Facebook posts count as spoken words, so written claims about them are slander.",
     "A false statement is libel only when it appears in a printed newspaper.",
     "Online accusations cannot be defamation because the author can delete them.",
     "The accusations were communicated in writing, in Facebook posts and a resignation letter, and false written statements that damage a reputation are libel."
    ],
-   "answer": 3,
    "explanation": "A Facebook post is a written publication that can be screenshotted and filed in court.",
+   "question": "A former volunteer firefighter sued for defamation, alleging that a former mayor's wife falsely accused him on Facebook of threatening her and her teenage son, and that a former councilwoman repeated the allegations online and in a resignation letter. Police investigated the encounter and filed no charges. Why would these claims be libel rather than slander?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "libel",
    "topic_n": 8
   },
   {
-   "question": "Which term is defined as: Unlawfully placing a patient in fear of bodily harm.",
+   "answer": 0,
    "choices": [
     "assault",
     "dependent lividity",
     "Good Samaritan laws",
     "chain of evidence"
    ],
-   "answer": 0,
    "explanation": "assault: Unlawfully placing a patient in fear of bodily harm.",
+   "question": "Which term is defined as: Unlawfully placing a patient in fear of bodily harm.",
    "source": "Flashcard Slides — Set 2",
    "topic": "assault",
    "topic_n": 9
   },
   {
-   "question": "What does the term \"assault\" mean?",
+   "answer": 2,
    "choices": [
-    "Unlawfully placing a patient in fear of bodily harm.",
-    "Type of consent in which a patient who is unable to give consent is given treatment under the legal assumption that he or she would want treatment.",
-    "Immediate care or treatment.",
-    "A written document that specifies medical treatment for a competent patient, should he or she become unable to make decisions in the future; also known as an advance directive or a living will."
+    "Battery — he touched the patient without consent",
+    "No violation — words alone can never create liability",
+    "Assault — he unlawfully placed the patient in fear of bodily harm",
+    "False imprisonment — he confined the patient against his will"
    ],
-   "answer": 0,
-   "explanation": "assault: Unlawfully placing a patient in fear of bodily harm.",
+   "explanation": "Threatening harm so a patient fears being hurt is assault — no touching is required. Battery would require actually touching or treating him without consent, which didn't happen here.",
+   "question": "A competent patient refuses transport. Frustrated, an EMT says, \"If you don't cooperate, we'll hold you down and sedate you,\" and the patient, frightened, goes quiet. No one touches him. What has the EMT committed?",
    "source": "Flashcard Slides — Set 2",
    "topic": "assault",
    "topic_n": 9
   },
   {
-   "question": "A 23-year-old man was restrained by police and placed in carotid holds. Paramedics who responded injected him with 500 mg of ketamine, and he died days later. A grand jury indicted both paramedics, and each faced counts of second-degree assault in addition to homicide charges. What does this case teach about sedating a restrained patient?",
+   "answer": 0,
    "choices": [
     "Sedating a restrained patient is a use of force against that patient, so the EMT must assess the patient personally and dose by the patient's actual weight.",
     "Once police have restrained a patient, all medical decisions become the officers' responsibility.",
     "Sedation doses for agitated patients should be estimated generously to ensure they work.",
     "A paramedic cannot be charged with assault for medication given at a police request."
    ],
-   "answer": 0,
    "explanation": "Sedating a restrained patient is a use of force; assess the patient yourself and dose by actual weight.",
+   "question": "A 23-year-old man was restrained by police and placed in carotid holds. Paramedics who responded injected him with 500 mg of ketamine, and he died days later. A grand jury indicted both paramedics, and each faced counts of second-degree assault in addition to homicide charges. What does this case teach about sedating a restrained patient?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "assault",
    "topic_n": 9
   },
   {
-   "question": "A paramedic was alone with patients in the back of his ambulance and sexually assaulted them during interfacility transports. One 73-year-old patient was groped while unable to fight back. In total, 35 women came forward, and a jury later found the ambulance company grossly negligent for keeping him on transports after complaints, awarding one victim $3.25 million. What is the key lesson for agencies and crews?",
+   "answer": 1,
    "choices": [
     "Complaints about a provider should be held until a pattern of many victims appears.",
     "Every patient complaint about a provider must be taken seriously the first time, because ignoring complaints allows abuse to continue.",
     "Patients assaulted by a provider may only file internal complaints, not lawsuits.",
     "A provider working alone in back with a patient is never a safety concern."
    ],
-   "answer": 1,
    "explanation": "Take every patient complaint about a provider seriously the first time.",
+   "question": "A paramedic was alone with patients in the back of his ambulance and sexually assaulted them during interfacility transports. One 73-year-old patient was groped while unable to fight back. In total, 35 women came forward, and a jury later found the ambulance company grossly negligent for keeping him on transports after complaints, awarding one victim $3.25 million. What is the key lesson for agencies and crews?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "assault",
    "topic_n": 9
   },
   {
-   "question": "Which term is defined as: The phase of a civil lawsuit where the plaintiff and defense obtain information from each other that will help both build their cases.",
+   "answer": 0,
    "choices": [
     "discovery",
     "emergency",
     "morality",
     "medicolegal"
    ],
-   "answer": 0,
    "explanation": "discovery: The phase of a civil lawsuit where the plaintiff and defense obtain information from each other that will help both build their cases.",
+   "question": "Which term is defined as: The phase of a civil lawsuit where the plaintiff and defense obtain information from each other that will help both build their cases.",
    "source": "Flashcard Slides — Set 2",
    "topic": "discovery",
    "topic_n": 10
   },
   {
-   "question": "What does the term \"discovery\" mean?",
+   "answer": 1,
    "choices": [
-    "A type of advance directive executed by a competent adult that appoints another individual to make medical treatment decisions on his or her behalf when he or she is unable to do so.",
-    "When the EMT or an EMS system is held liable even when the plaintiff is unable to clearly demonstrate how an injury occurred.",
-    "Damages awarded in a civil lawsuit that are intended to restore the plaintiff to the same condition that he or she was in prior to the incident complained about in the lawsuit.",
-    "The phase of a civil lawsuit where the plaintiff and defense obtain information from each other that will help both build their cases."
+    "The trial itself, when witnesses testify before the jury",
+    "The pre-trial phase where each side obtains information from the other to build its case",
+    "An appeal, when a higher court reviews the outcome",
+    "The closing phase, when the jury reaches its verdict"
    ],
-   "answer": 3,
-   "explanation": "discovery: The phase of a civil lawsuit where the plaintiff and defense obtain information from each other that will help both build their cases.",
+   "explanation": "Discovery is the phase before trial where both sides exchange information — records, recordings, sworn answers — so each can build its case. It all happens before anyone testifies in front of a jury.",
+   "question": "A lawsuit from a call two years ago is moving toward trial. The patient's attorney demands copies of the PCR and radio recordings, and your EMT is ordered to answer questions under oath at a session held before the trial date. All of this information-gathering before trial is part of which phase of the case?",
    "source": "Flashcard Slides — Set 2",
    "topic": "discovery",
    "topic_n": 10
   },
   {
-   "question": "A family sued a city after its EMTs allegedly failed and refused to provide emergency care to a 25-year-old pregnant woman having difficulty breathing at her cashier job. In the civil case, both sides exchanged interrogatories and document production, and deposed witnesses including the FDNY EMS chief. What should EMTs take from how this case was litigated?",
+   "answer": 2,
    "choices": [
     "Discovery is limited to the patient care report and cannot reach recordings.",
     "Depositions are voluntary, and a provider may decline to answer questions.",
     "Everything discovery can reach, including dispatch recordings, protocols, and your own statements, is created on the day of the call, so document as if a deposition is coming.",
     "Statements a provider made before the lawsuit was filed are exempt from discovery."
    ],
-   "answer": 2,
    "explanation": "Document every call as if a deposition is coming, because discovery can reach it all.",
+   "question": "A family sued a city after its EMTs allegedly failed and refused to provide emergency care to a 25-year-old pregnant woman having difficulty breathing at her cashier job. In the civil case, both sides exchanged interrogatories and document production, and deposed witnesses including the FDNY EMS chief. What should EMTs take from how this case was litigated?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "discovery",
    "topic_n": 10
   },
   {
-   "question": "In a federal civil lawsuit over a man's death three days after a police beating, the parties spent years filing motions about depositions, with the plaintiff seeking to expand depositions from 30 to 44. The city reported the plaintiff had requested over 8,000 body-worn camera videos and over a million pages of documents and had taken 31 depositions, including of fire department personnel. What does the scale of this case show?",
+   "answer": 0,
    "choices": [
     "Discovery in a high-profile case can run for years and cover every video and page, so there is no such thing as an off-the-record run report.",
     "Video recordings are exempt from discovery because they are police property.",
     "Only police officers, not EMTs, can be deposed in a civil lawsuit.",
     "Discovery normally wraps up within a few weeks of the lawsuit being filed."
    ],
-   "answer": 0,
    "explanation": "Discovery can run for years and cover every video and page in a major case.",
+   "question": "In a federal civil lawsuit over a man's death three days after a police beating, the parties spent years filing motions about depositions, with the plaintiff seeking to expand depositions from 30 to 44. The city reported the plaintiff had requested over 8,000 body-worn camera videos and over a million pages of documents and had taken 31 depositions, including of fire department personnel. What does the scale of this case show?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "discovery",
    "topic_n": 10
   },
   {
-   "question": "Which term is defined as: Failure to provide the same care that a person with similar training would provide.",
+   "answer": 1,
    "choices": [
     "patient autonomy",
     "negligence",
     "battery",
     "assault"
    ],
-   "answer": 1,
    "explanation": "negligence: Failure to provide the same care that a person with similar training would provide.",
+   "question": "Which term is defined as: Failure to provide the same care that a person with similar training would provide.",
    "source": "Flashcard Slides — Set 2",
    "topic": "negligence",
    "topic_n": 11
   },
   {
-   "question": "What does the term \"negligence\" mean?",
+   "answer": 3,
    "choices": [
-    "Failure to provide the same care that a person with similar training would provide.",
-    "A type of advance directive executed by a competent adult that appoints another individual to make medical treatment decisions on his or her behalf when he or she is unable to do so.",
-    "Wrongful acts that give rise to a civil lawsuit.",
-    "A written document that specifies medical treatment for a competent patient, should he or she become unable to make decisions in the future; also known as an advance directive or a living will."
+    "EMTs can't be sued once they reach the hospital",
+    "The patient wasn't harmed badly enough to sue",
+    "It doesn't fail — duty, breach, and any harm are enough to win",
+    "One required element is missing: the harm wasn't caused by the EMT's breach"
    ],
-   "answer": 0,
-   "explanation": "negligence: Failure to provide the same care that a person with similar training would provide.",
+   "explanation": "A negligence claim needs four elements: duty, breach of duty, damages, and causation — the breach must actually have caused the harm. Here causation is missing, so the claim fails even though the other elements are present.",
+   "question": "A patient sues an EMT. The case shows the EMT had a duty to act and fell short of the expected care, and the patient was genuinely harmed — but the evidence shows the harm was caused entirely by the patient's pre-existing condition, not by anything the EMT did or failed to do. Why does this claim fail?",
    "source": "Flashcard Slides — Set 2",
    "topic": "negligence",
    "topic_n": 11
   },
   {
-   "question": "A paramedic responded to a victim at an emergency scene and performed a brief visual inspection, described in court as a '60-second examination.' He took no pulse and no blood pressure, left the scene, and the victim died shortly afterward. A jury awarded wrongful-death damages, and the appellate court upheld a gross negligence verdict because the truncated evaluation was an extreme departure from the standard of care. What practice does this case demand?",
+   "answer": 1,
    "choices": [
     "A brief visual check satisfies the standard of care for any patient who appears stable.",
     "Take vital signs on every patient contact, because a visual once-over is the fact pattern courts use to define falling below the standard of care.",
     "Vital signs are only required once the patient is loaded for transport.",
     "Negligence can only be found when the provider intended to harm the patient."
    ],
-   "answer": 1,
    "explanation": "Take vital signs on every patient contact; a visual once-over falls below the standard of care.",
+   "question": "A paramedic responded to a victim at an emergency scene and performed a brief visual inspection, described in court as a '60-second examination.' He took no pulse and no blood pressure, left the scene, and the victim died shortly afterward. A jury awarded wrongful-death damages, and the appellate court upheld a gross negligence verdict because the truncated evaluation was an extreme departure from the standard of care. What practice does this case demand?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "negligence",
    "topic_n": 11
   },
   {
-   "question": "Paramedics intubated a woman in a severe allergic reaction who was comatose and turning blue. The third attempt appeared to succeed, but hospital staff found the tube was in her esophagus, not her trachea, and by the time she was re-intubated she had suffered severe, irreversible brain damage. A jury awarded her estate $1 million. What must EMTs do to avoid this outcome?",
+   "answer": 2,
    "choices": [
     "Check tube placement only if the patient's condition begins to deteriorate.",
     "Assume a tube placed on the third attempt is correctly positioned.",
     "Confirm every intubation with more than one method, including capnography, and recheck tube placement after every move.",
     "Rely on visible chest rise alone as sufficient proof of tracheal placement."
    ],
-   "answer": 2,
    "explanation": "An unrecognized esophageal tube is a textbook negligence case; confirm placement with more than one method, including capnography.",
+   "question": "Paramedics intubated a woman in a severe allergic reaction who was comatose and turning blue. The third attempt appeared to succeed, but hospital staff found the tube was in her esophagus, not her trachea, and by the time she was re-intubated she had suffered severe, irreversible brain damage. A jury awarded her estate $1 million. What must EMTs do to avoid this outcome?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "negligence",
    "topic_n": 11
   },
   {
-   "question": "Which term is defined as: The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment against his or her will.",
+   "answer": 0,
    "choices": [
     "kidnapping",
     "emergency doctrine",
     "abandonment",
     "scope of practice"
    ],
-   "answer": 0,
    "explanation": "kidnapping: The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment against his or her will.",
+   "question": "Which term is defined as: The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment against his or her will.",
    "source": "Flashcard Slides — Set 2",
    "topic": "kidnapping",
    "topic_n": 12
   },
   {
-   "question": "What does the term \"kidnapping\" mean?",
+   "answer": 1,
    "choices": [
-    "The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment against his or her will.",
-    "The confinement of a person without legal authority or the person's consent.",
-    "A code of conduct that can be defined by society, religion, or a person, affecting character, conduct, and conscience.",
-    "Ability to understand and process information and make a choice regarding appropriate medical care."
+    "False imprisonment",
+    "Kidnapping",
+    "Slander",
+    "Abandonment"
    ],
-   "answer": 0,
-   "explanation": "kidnapping: The seizing, confining, abducting, or carrying away of a person by force, including transporting a competent adult for medical treatment against his or her will.",
+   "explanation": "Forcing a competent patient into the ambulance and carrying him away against his will fits kidnapping — seizing and carrying a person away by force, which includes transporting a competent adult for treatment against his will. False imprisonment is confining someone without authority; the carrying away is what pushes this further.",
+   "question": "A competent adult with a minor injury refuses transport. Believing he needs the hospital, the crew straps him to the stretcher over his protests and drives him across town. Beyond any other claim, the crew's decision to carry him away against his will exposes them to an accusation of:",
    "source": "Flashcard Slides — Set 2",
    "topic": "kidnapping",
    "topic_n": 12
   },
   {
-   "question": "Two EMTs responded to a domestic dispute involving an allegedly intoxicated man. Police said he needed to go to the hospital, but he said he did not want to be touched and refused. One EMT called his supervisor, who advised against transporting the man against his will, and the EMT told the sergeant his training taught him a forced transport would be considered kidnapping. The EMTs refused to transport him. What should you do when police pressure you to take a refusing, competent patient?",
+   "answer": 0,
    "choices": [
     "Call your supervisor and medical control and document the refusal, because an order from police does not make a forced transport legal.",
     "Refuse and leave without documenting, because the refusal is the police department's problem.",
     "Transport the patient, because apparent intoxication always overrides a refusal.",
     "Transport the patient, because police on scene can consent on the patient's behalf."
    ],
-   "answer": 0,
    "explanation": "A police order does not make a forced transport legal; involve your supervisor and medical control and document the refusal.",
+   "question": "Two EMTs responded to a domestic dispute involving an allegedly intoxicated man. Police said he needed to go to the hospital, but he said he did not want to be touched and refused. One EMT called his supervisor, who advised against transporting the man against his will, and the EMT told the sergeant his training taught him a forced transport would be considered kidnapping. The EMTs refused to transport him. What should you do when police pressure you to take a refusing, competent patient?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "kidnapping",
    "topic_n": 12
   },
   {
-   "question": "A man alleged in a federal lawsuit that during an acute medical and mental health emergency at his home, fire department and ambulance personnel restrained him and transported him to a hospital against his will, using force to keep him on the stretcher. He stated he was never placed on an involuntary commitment or psychiatric hold, and his complaint alleged kidnapping, claiming the defendants had no legal authority to keep transporting him once he withdrew consent. What principle does his claim rest on?",
+   "answer": 3,
    "choices": [
     "Consent given at the scene cannot be withdrawn once transport has begun.",
     "Any mental health emergency automatically authorizes involuntary transport.",
     "Applying restraints during transport makes the patient's consent irrelevant.",
     "Consent can be withdrawn mid-transport, and without a legal hold or incapacity, continuing to restrain and carry the patient is the fact pattern sued as kidnapping."
    ],
-   "answer": 3,
    "explanation": "Consent can be withdrawn mid-transport; without a legal hold, continuing the transport is sued as kidnapping.",
+   "question": "A man alleged in a federal lawsuit that during an acute medical and mental health emergency at his home, fire department and ambulance personnel restrained him and transported him to a hospital against his will, using force to keep him on the stretcher. He stated he was never placed on an involuntary commitment or psychiatric hold, and his complaint alleged kidnapping, claiming the defendants had no legal authority to keep transporting him once he withdrew consent. What principle does his claim rest on?",
    "source": "Flashcard Case Studies — Set 2",
    "topic": "kidnapping",
    "topic_n": 12

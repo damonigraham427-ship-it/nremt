@@ -59,13 +59,13 @@
   {
    "answer": 2,
    "choices": [
-    "A bag-mask device",
-    "A pulse oximeter",
-    "An automated external defibrillator",
-    "An IV infusion pump"
+    "Stop CPR and re-analyze every 10 seconds until a shock is advised",
+    "Press the shock button anyway, because a pulseless patient always needs a shock",
+    "Resume CPR immediately, starting with chest compressions",
+    "Remove the pads and wait for the paramedic unit before doing anything else"
    ],
-   "explanation": "An AED analyzes the heart rhythm and advises a shock for shockable rhythms such as ventricular fibrillation.",
-   "question": "A bystander finds a man pulseless, pads are placed on his chest, and the device analyzes the rhythm and advises a shock for ventricular fibrillation. What device is being used?",
+   "explanation": "No shock advised means the rhythm is not one a shock can fix, so the only treatment that helps is CPR. Stopping compressions to re-analyze or waiting for ALS wastes the minutes the brain has left.",
+   "question": "You are doing compressions on a pulseless man while your partner runs the defibrillator. It analyzes the rhythm and announces, “No shock advised.” The man still has no pulse and is not breathing. What should you do next?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "automated external defibrillator",
    "topic_n": 2
@@ -113,15 +113,15 @@
    "topic_n": 3
   },
   {
-   "answer": 3,
+   "answer": 2,
    "choices": [
-    "Medical direction",
-    "Patient privacy enforcement",
-    "Scope-of-practice expansion",
-    "Continuous quality improvement"
+    "Discipline, because a missed protocol step should be written up",
+    "Credentialing, because the crew's qualifications need to be re-examined",
+    "Continuous quality improvement, because the review was used to change the system and track whether the change worked",
+    "Medical direction, because the medical director should take over the crew's future calls"
    ],
-   "explanation": "Reviewing calls to learn and improve future performance is part of CQI.",
-   "question": "After a difficult call, a supervisor reviews the documentation with the crew to find what went well and what should change next time. Which system is at work here?",
+   "explanation": "CQI uses call reviews to find system fixes and then measures whether the fix worked. Writing the crew up is discipline, which punishes the people without changing the system that let the step be missed.",
+   "question": "After a rough call, a supervisor sits down with the crew and goes over the run report. She points out a step that was missed, but instead of writing anyone up, she changes the agency's checklist for that kind of call and plans to check next month's reports to see whether the fix worked. This response is best described as:",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "continuous quality improvement",
    "topic_n": 3
@@ -183,29 +183,29 @@
    "topic_n": 5
   },
   {
-   "answer": 2,
+   "answer": 1,
    "choices": [
-    "By mouth (oral)",
-    "Under the tongue (sublingual)",
-    "Intravenously, directly into a vein",
-    "Into muscle (intramuscular)"
+    "Oral route, by mouth",
+    "Intravenous route",
+    "Intramuscular route, a shot into a muscle",
+    "Sublingual route, under the tongue"
    ],
-   "explanation": "Fluids placed directly into a vein are given intravenously.",
-   "question": "A dehydrated patient's crew chooses a route that puts fluids straight into a vein rather than by mouth. Which route did they choose?",
+   "explanation": "The IV route puts fluids and medication straight into the bloodstream, so it works fastest and the rate can be controlled. Oral is out because the patient cannot swallow, and IM or sublingual routes cannot deliver fluids.",
+   "question": "Your AEMT partner is caring for a patient who is vomiting, cannot swallow, and needs fluids and a medication that must start working within minutes. Which route should she use?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "intravenous therapy",
    "topic_n": 5
   },
   {
-   "answer": 3,
+   "answer": 2,
    "choices": [
-    "Automated external defibrillation",
-    "Off-line medical control",
-    "Continuous quality improvement",
-    "Intravenous therapy"
+    "Ventilating the patient with a bag-mask device",
+    "Applying the AED and analyzing the rhythm",
+    "Starting an IV line and giving IV medications",
+    "Helping the patient take his prescribed nitroglycerin"
    ],
-   "explanation": "Giving medications through a vein is intravenous therapy, an advanced life support skill.",
-   "question": "An advanced provider's skill set includes starting a line in a vein to give certain emergency medications. What is that skill called?",
+   "explanation": "IV therapy is an AEMT/paramedic-level skill, not an EMT skill. AED use, bag-mask ventilation, and assisting with prescribed medications are all inside EMT practice.",
+   "question": "Your paramedic partner is busy managing the airway and asks which tasks you, the EMT, can take off her hands. Which one is OUTSIDE your scope of practice?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "intravenous therapy",
    "topic_n": 5
@@ -309,281 +309,281 @@
    "topic_n": 4
   },
   {
-   "question": "Which term is defined as: physician instructions given directly by radio or cell phone (online/direct) or indirectly by protocol/guidelines (offline/indirect), as authorized by the medical director of the service program?",
+   "answer": 1,
    "choices": [
     "Medical director",
     "Medical control",
     "Continuous quality improvement",
     "Intravenous therapy"
    ],
-   "answer": 1,
    "explanation": "Medical control is the physician direction of field care, given online by radio or phone or offline through protocols.",
+   "question": "Which term is defined as: physician instructions given directly by radio or cell phone (online/direct) or indirectly by protocol/guidelines (offline/indirect), as authorized by the medical director of the service program?",
    "source": "Flashcard Slides — Set 1",
    "topic": "medical control",
    "topic_n": 1
   },
   {
-   "question": "What does the term \"medical control\" mean?",
-   "choices": [
-    "The physician who authorizes EMTs to provide medical care in the field",
-    "A system of internal and external reviews and audits of an EMS system",
-    "Physician instructions given directly by radio or cell phone, or indirectly by protocol and guidelines",
-    "The delivery of medication directly into a vein"
-   ],
    "answer": 2,
-   "explanation": "Medical control means physician instructions to EMTs, delivered online during a call or offline through standing protocols.",
+   "choices": [
+    "In off-line medical direction, because the written protocol was missing",
+    "In the CQI process, because the call had not been reviewed yet",
+    "In the on-line medical control exchange, because verbal orders must be repeated back and confirmed",
+    "In credentialing, because the EMT was never approved to give medications"
+   ],
+   "explanation": "Medical control is the physician direction an EMT works under, and on-line orders given by radio only work safely when the EMT repeats them back. The protocol, the review process, and the EMT's credentials were not the problem here.",
+   "question": "An EMT radios the hospital for a medication order. A physician gives the order, but the EMT does not repeat it back, and the wrong dose is drawn up. The error is caught before the drug is given. Where did the breakdown occur?",
    "source": "Flashcard Slides — Set 1",
    "topic": "medical control",
    "topic_n": 1
   },
   {
-   "question": "In Southfield, Michigan in 2020, a physician declared Timesha Beauchamp dead by phone based on a crew's report; she was later found breathing at a funeral home, and regulators found the paramedic had stopped CPR early and reported inaccurate vitals. What does this case show about online medical control?",
+   "answer": 0,
    "choices": [
     "A termination-of-resuscitation order is only as reliable as the accurate, complete findings the crew reports to the physician",
     "Physicians should never give orders by phone",
     "Crews may stop CPR whenever they believe a patient is dead",
     "Online medical control removes the crew's responsibility for patient assessment"
    ],
-   "answer": 0,
    "explanation": "Ending resuscitation required a physician's order, and that order depended on an accurate crew report — the core of online medical control.",
+   "question": "In Southfield, Michigan in 2020, a physician declared Timesha Beauchamp dead by phone based on a crew's report; she was later found breathing at a funeral home, and regulators found the paramedic had stopped CPR early and reported inaccurate vitals. What does this case show about online medical control?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "medical control",
    "topic_n": 1
   },
   {
-   "question": "Which term is defined as: a device that detects treatable life-threatening cardiac dysrhythmias (ventricular fibrillation and ventricular tachycardia) and delivers the appropriate electrical shock to the patient?",
+   "answer": 1,
    "choices": [
-    "Intravenous therapy",
-    "Medical control",
-    "Automated external defibrillator",
-    "Continuous quality improvement"
+    "Put it on the patient's back instead",
+    "Move it to the left side of the chest, below the armpit",
+    "Leave it there, because the center of the chest is the correct spot",
+    "Place it directly on top of the first pad"
    ],
-   "answer": 2,
-   "explanation": "An automated external defibrillator detects shockable rhythms such as VF and ventricular tachycardia and delivers a shock.",
+   "explanation": "AED pads go on the upper right chest and the left side below the armpit, so the shock travels through the heart. A pad over the breastbone puts the current path in the wrong place.",
+   "question": "Your partner has placed one defibrillator pad on a pulseless patient's upper right chest, but she is about to stick the second pad in the middle of the chest, over the breastbone. What should you tell her?",
    "source": "Flashcard Slides — Set 1",
    "topic": "automated external defibrillator",
    "topic_n": 2
   },
   {
-   "question": "What is an automated external defibrillator (AED)?",
+   "answer": 3,
    "choices": [
-    "A device that detects shockable cardiac rhythms and delivers the appropriate electrical shock to the patient",
-    "A federal law that limits access to patients' health care information",
-    "A system of reviews and audits aimed at improving EMS outcomes",
-    "The physician who delegates authority for field care to EMTs"
+    "The oxygen flow must be turned up to 15 liters per minute first",
+    "A second set of pads must be applied to the chest",
+    "The patient's pulse must be checked for a full minute first",
+    "Everyone must be clear of the patient, with nobody touching him"
    ],
-   "answer": 0,
-   "explanation": "An AED analyzes the heart rhythm and delivers a shock for treatable rhythms like ventricular fibrillation.",
+   "explanation": "A shock delivered while someone is touching the patient can injure that person and steal energy from the shock. Clearing the patient comes before the button is pressed; extra pads and a long pulse check only delay the shock.",
+   "question": "The defibrillator advises a shock for a pulseless patient. A bystander is still holding the patient's shoulder, and your partner is leaning over the patient's head adjusting the oxygen. What must happen before anyone presses the shock button?",
    "source": "Flashcard Slides — Set 1",
    "topic": "automated external defibrillator",
    "topic_n": 2
   },
   {
-   "question": "When Buffalo Bills safety Damar Hamlin collapsed in cardiac arrest during a 2023 game in Cincinnati, trainers reached him within seconds, started CPR, and applied an AED; he needed one shock on the field and recovered with intact neurologic function. Which lesson does this case best illustrate?",
+   "answer": 1,
    "choices": [
     "Defibrillation works only after hospital arrival",
     "Immediate CPR and early defibrillation — the early links of the chain of survival — drive survival",
     "An AED should be applied only after ALS providers arrive",
     "A single shock guarantees a full recovery"
    ],
-   "answer": 1,
    "explanation": "Hamlin's case is a textbook chain of survival: quick recognition, immediate CPR, and early defibrillation, which UC Health credited for his recovery.",
+   "question": "When Buffalo Bills safety Damar Hamlin collapsed in cardiac arrest during a 2023 game in Cincinnati, trainers reached him within seconds, started CPR, and applied an AED; he needed one shock on the field and recovered with intact neurologic function. Which lesson does this case best illustrate?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "automated external defibrillator",
    "topic_n": 2
   },
   {
-   "question": "Which term is defined as: a system of internal and external reviews and audits of all aspects of an EMS system aimed at improving outcomes?",
+   "answer": 3,
    "choices": [
-    "HIPAA",
-    "Medical control",
-    "Medical director",
+    "The agency bought newer equipment for the ambulances",
+    "One supervisor counseled the crew with the worst record",
+    "The medical director signed the new protocol",
+    "It reviews the whole system, changes practice based on the data, and keeps measuring the result"
+   ],
+   "explanation": "CQI is a cycle: review the whole system, change what the data points to, then measure again. A signature, new gear, or counseling one crew does not close that loop.",
+   "question": "A year of run reports shows that crews across the whole agency keep missing the same assessment step. The agency rewrites its protocol, retrains every crew, and keeps tracking the numbers to see whether the miss rate drops. What makes this continuous quality improvement rather than a one-time fix?",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "continuous quality improvement",
+   "topic_n": 3
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Quality control",
+    "Credentialing",
+    "On-line medical control",
     "Continuous quality improvement"
    ],
-   "answer": 3,
-   "explanation": "Continuous quality improvement is the ongoing system of reviews and audits of all aspects of an EMS system aimed at improving outcomes.",
+   "explanation": "Reviewing the whole system over time to find patterns and improve outcomes is CQI. Checking one provider's single call against the standard is quality control, which is the other review described.",
+   "question": "Two reviews happen in the same week. In one, the medical director pulls a single crew's chart from last night to check that one call against the standard. In the other, a committee starts a six-month review of every cardiac arrest call in the system, looking for patterns to fix. The committee's system-wide review is an example of:",
    "source": "Flashcard Slides — Set 1",
    "topic": "continuous quality improvement",
    "topic_n": 3
   },
   {
-   "question": "What does \"continuous quality improvement\" (CQI) mean in EMS?",
-   "choices": [
-    "A system of internal and external reviews and audits of all aspects of an EMS system aimed at improving outcomes",
-    "Physician instructions given by radio during a call",
-    "A device that delivers a shock for ventricular fibrillation",
-    "Federal legislation that penalizes patient-privacy violations"
-   ],
-   "answer": 0,
-   "explanation": "CQI is the continuous cycle of reviewing and auditing EMS care in order to improve outcomes.",
-   "source": "Flashcard Slides — Set 1",
-   "topic": "continuous quality improvement",
-   "topic_n": 3
-  },
-  {
-   "question": "Seattle/King County's Medic One system tracks every cardiac arrest and gives crews case-by-case feedback; after reviews exposed long CPR pauses, protocols changed in 2005 to limit pauses and about 2,500 EMTs were retrained, and witnessed-VF survival climbed from about 33% to over 50%. This is an example of what?",
+   "answer": 1,
    "choices": [
     "Online medical control",
     "The CQI cycle: measure outcomes, feed them back, change practice, and re-measure",
     "A HIPAA enforcement action",
     "Public-access defibrillation"
    ],
-   "answer": 1,
    "explanation": "King County's program is the classic CQI cycle — measure, feed back, change practice, re-measure — and survival rose as a result.",
+   "question": "Seattle/King County's Medic One system tracks every cardiac arrest and gives crews case-by-case feedback; after reviews exposed long CPR pauses, protocols changed in 2005 to limit pauses and about 2,500 EMTs were retrained, and witnessed-VF survival climbed from about 33% to over 50%. This is an example of what?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "continuous quality improvement",
    "topic_n": 3
   },
   {
-   "question": "Which term is defined as: federal legislation passed in 1996 whose main effect in EMS is limiting the availability of patients' health care information and penalizing violations of patient privacy?",
+   "answer": 0,
    "choices": [
     "Health Insurance Portability and Accountability Act (HIPAA)",
     "Medical control",
     "Automated external defibrillator",
     "Continuous quality improvement"
    ],
-   "answer": 0,
    "explanation": "HIPAA, passed in 1996, limits access to patients' health care information and penalizes privacy violations.",
+   "question": "Which term is defined as: federal legislation passed in 1996 whose main effect in EMS is limiting the availability of patients' health care information and penalizing violations of patient privacy?",
    "source": "Flashcard Slides — Set 1",
    "topic": "HIPAA",
    "topic_n": 4
   },
   {
-   "question": "What is the Health Insurance Portability and Accountability Act (HIPAA)?",
-   "choices": [
-    "The physician who authorizes EMTs to provide care in the field",
-    "A system of reviews and audits of an EMS system",
-    "The delivery of medication directly into a vein",
-    "1996 federal legislation that limits availability of patients' health care information and penalizes privacy violations"
-   ],
    "answer": 3,
-   "explanation": "HIPAA is the 1996 federal law protecting patient health information, with penalties for privacy violations.",
+   "choices": [
+    "Share the full story, because immediate family always has a right to know",
+    "Tell him her diagnosis but leave out the treatment details",
+    "Give him the run report number so he can look the call up himself",
+    "Decline to share her medical information, because she has not authorized its release"
+   ],
+   "explanation": "HIPAA protects a patient's health information, and an alert patient who has not authorized release keeps that protection even against family. Sharing part of the information, or a way to look it up, is still a disclosure.",
+   "question": "After a call, the patient's adult son phones the station and asks how his mother is doing. She is alert, and she has told the crew she does not want her information shared. What should you do?",
    "source": "Flashcard Slides — Set 1",
    "topic": "HIPAA",
    "topic_n": 4
   },
   {
-   "question": "In Carroll County, Georgia, an unencrypted ambulance laptop holding the protected health information of about 500 patients fell off a unit's back bumper and was never recovered; the agency paid HHS $65,000 and agreed to encrypt all its computers. What should EMTs do to prevent this kind of HIPAA breach?",
+   "answer": 1,
    "choices": [
     "Keep laptops unencrypted so data can be recovered if lost",
     "Secure ePCR tablets and laptops before the ambulance moves, and report a missing device right away",
     "Store patient data only on personal devices",
     "Wait until the end of the shift to report a lost device"
    ],
-   "answer": 1,
    "explanation": "The lost-laptop case turned on unsecured devices; crews should secure ePCR devices before moving and report a loss immediately so the breach process can start.",
+   "question": "In Carroll County, Georgia, an unencrypted ambulance laptop holding the protected health information of about 500 patients fell off a unit's back bumper and was never recovered; the agency paid HHS $65,000 and agreed to encrypt all its computers. What should EMTs do to prevent this kind of HIPAA breach?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "HIPAA",
    "topic_n": 4
   },
   {
-   "question": "Which term is defined as: the delivery of medication directly into a vein?",
-   "choices": [
-    "Medical control",
-    "Intravenous therapy",
-    "Automated external defibrillator",
-    "Medical director"
-   ],
    "answer": 1,
-   "explanation": "Intravenous therapy is the delivery of medication directly into a vein.",
-   "source": "Flashcard Slides — Set 1",
-   "topic": "intravenous therapy",
-   "topic_n": 5
-  },
-  {
-   "question": "What does \"intravenous therapy\" mean?",
    "choices": [
-    "Physician instructions given indirectly through protocols",
-    "A system of internal and external audits of an EMS system",
-    "The delivery of medication directly into a vein",
-    "A device that detects and shocks ventricular fibrillation"
+    "Oral",
+    "Intravenous",
+    "Intramuscular",
+    "Nebulized"
    ],
-   "answer": 2,
-   "explanation": "Intravenous therapy delivers medication directly into a vein.",
+   "explanation": "Only the IV route delivers a drug straight into the bloodstream at a rate that can be adjusted as the patient changes. IM and oral routes absorb too slowly and unevenly, and a nebulizer only treats the lungs.",
+   "question": "En route to the hospital, your AEMT partner says the next medication has to start working almost immediately and keep working at a steady rate she can adjust minute by minute. A shot into the muscle or a pill will not do. Which route is she choosing?",
    "source": "Flashcard Slides — Set 1",
    "topic": "intravenous therapy",
    "topic_n": 5
   },
   {
-   "question": "In a 1994 Houston trial of 598 penetrating-trauma patients with low blood pressure, patients who received IV access but no fluids until the operating room survived to discharge at 70%, versus 62% for patients given immediate IV fluids. What practice change did this support?",
+   "answer": 1,
+   "choices": [
+    "It is the only route any provider is allowed to use for emergency drugs",
+    "It puts the drug directly into the bloodstream, giving the fastest and most controllable effect",
+    "It keeps working even after the patient's circulation has stopped",
+    "It removes the need to confirm the drug's dose and concentration"
+   ],
+   "explanation": "IV therapy delivers medication straight into the circulation, so onset is fast and the dose can be titrated. Dose and concentration still have to be confirmed, and no route works once circulation has stopped.",
+   "question": "Your paramedic partner has just placed a line in a deteriorating patient's arm and is giving the next drug through it instead of as a shot in the muscle or by mouth. Why is that route the right choice for this patient?",
+   "source": "Flashcard Slides — Set 1",
+   "topic": "intravenous therapy",
+   "topic_n": 5
+  },
+  {
+   "answer": 1,
    "choices": [
     "Always give large IV fluid volumes before transport",
     "Do not delay transport of penetrating trauma to start IVs; control bleeding and follow protocol fluid targets",
     "Never establish IV access in trauma patients",
     "IV fluids should replace rapid transport to a trauma center"
    ],
-   "answer": 1,
    "explanation": "The Houston trial showed more IV fluid is not always better; it shifted trauma care toward not delaying transport and toward permissive hypotension.",
+   "question": "In a 1994 Houston trial of 598 penetrating-trauma patients with low blood pressure, patients who received IV access but no fluids until the operating room survived to discharge at 70%, versus 62% for patients given immediate IV fluids. What practice change did this support?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "intravenous therapy",
    "topic_n": 5
   },
   {
-   "question": "In a 2020 Australian case, paramedics drew up 5 mg of 1:1,000 epinephrine intended for nebulization, but it was given intravenously by mistake, causing a racing heart, severe headache, and heart muscle injury. What error-prevention lesson does this case teach?",
+   "answer": 3,
    "choices": [
     "Nebulizer and IV doses of epinephrine are interchangeable",
     "Concentration does not matter if the drug is correct",
     "Epinephrine should never be carried on an ambulance",
     "Know IM epinephrine (1 mg/mL) from IV epinephrine (0.1 mg/mL), and read the label aloud to confirm drug, concentration, dose, and route"
    ],
-   "answer": 3,
    "explanation": "A wrong concentration given by the wrong route through an IV is a classic dangerous error; confirming drug, concentration, dose, and route prevents it.",
+   "question": "In a 2020 Australian case, paramedics drew up 5 mg of 1:1,000 epinephrine intended for nebulization, but it was given intravenously by mistake, causing a racing heart, severe headache, and heart muscle injury. What error-prevention lesson does this case teach?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "intravenous therapy",
    "topic_n": 5
   },
   {
-   "question": "Which term is defined as: the physician who authorizes or delegates to the EMT the authority to provide medical care in the field?",
+   "answer": 1,
    "choices": [
     "Medical control",
     "Medical director",
     "Health Insurance Portability and Accountability Act (HIPAA)",
     "Continuous quality improvement"
    ],
-   "answer": 1,
    "explanation": "The medical director is the physician who authorizes or delegates to EMTs the authority to provide medical care in the field.",
+   "question": "Which term is defined as: the physician who authorizes or delegates to the EMT the authority to provide medical care in the field?",
    "source": "Flashcard Slides — Set 1",
    "topic": "medical director",
    "topic_n": 6
   },
   {
-   "question": "What is a medical director in EMS?",
+   "answer": 0,
    "choices": [
-    "A system of reviews and audits aimed at improving outcomes",
-    "A device that detects shockable cardiac rhythms",
-    "The physician who authorizes or delegates to the EMT the authority to provide medical care in the field",
-    "Physician instructions given by radio or protocol"
+    "The medical director",
+    "The receiving hospital's administrator",
+    "The shift supervisor",
+    "The training officer"
    ],
-   "answer": 2,
-   "explanation": "The medical director is the physician whose authorization lets EMTs provide medical care in the field.",
+   "explanation": "EMTs practice under the medical director's authority: that physician authorizes and delegates field care, so a protocol change is not effective until the medical director approves it. Trainers and supervisors can support the change but cannot authorize it.",
+   "question": "Your agency wants to add a new medication to its EMT protocols. The training officer, the shift supervisor, and a local emergency physician all support the idea. Whose authorization must be in place before crews can actually use the medication?",
    "source": "Flashcard Slides — Set 1",
    "topic": "medical director",
    "topic_n": 6
   },
   {
-   "question": "In February 2023, the medical director of the Town of Eagle Point, Wisconsin EMS service resigned after complaining that providers were not following protocol; because state law requires a licensed medical director, the town had to suspend its EMS service until a new one was found. What does this case demonstrate?",
+   "answer": 1,
    "choices": [
     "Medical directors are optional for small services",
     "Without a medical director there is no legal authority to practice, so protocol compliance protects the service itself",
     "A service can keep running indefinitely on standing orders alone",
     "Protocol disputes have no effect on patient care"
    ],
-   "answer": 1,
    "explanation": "No medical director means no legal authority to practice; Eagle Point's protocol dispute became a service outage.",
+   "question": "In February 2023, the medical director of the Town of Eagle Point, Wisconsin EMS service resigned after complaining that providers were not following protocol; because state law requires a licensed medical director, the town had to suspend its EMS service until a new one was found. What does this case demonstrate?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "medical director",
    "topic_n": 6
   },
   {
-   "question": "Seattle's Medic One program began after cardiologist Dr. Leonard Cobb set the training standard for firefighters in 1969, authorized advanced skills, and reviewed care from the first patient onward; the first paramedic class answered its first call in 1970. Why is this case tied to the medical director topic?",
+   "answer": 0,
    "choices": [
     "It shows a physician setting training standards, authorizing skills, and reviewing care — the origin of the medical director role",
     "It shows the first use of an AED by bystanders",
     "It shows a HIPAA enforcement action against a hospital",
     "It shows why IV fluids should be delayed in trauma"
    ],
-   "answer": 0,
    "explanation": "Cobb's role — setting training standards, authorizing advanced skills, and reviewing care — is the origin of the medical director role in EMS.",
+   "question": "Seattle's Medic One program began after cardiologist Dr. Leonard Cobb set the training standard for firefighters in 1969, authorized advanced skills, and reviewed care from the first patient onward; the first paramedic class answered its first call in 1970. Why is this case tied to the medical director topic?",
    "source": "Flashcard Case Studies — Set 1",
    "topic": "medical director",
    "topic_n": 6
