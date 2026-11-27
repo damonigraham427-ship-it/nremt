@@ -50,6 +50,13 @@
    "chapter": 1
   },
   {
+   "category": "NREMT",
+   "file": "nremt-ch1-cases.json",
+   "note": "14 questions",
+   "title": "NREMT — Chapter 1, Case Study & Assessment in Action",
+   "chapter": 1
+  },
+  {
    "file": "nremt-ch2-set1.json",
    "title": "NREMT — Chapter 2, Set 1 (Topics 1–6)",
    "note": "42 questions",
