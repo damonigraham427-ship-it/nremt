@@ -1,11 +1,14 @@
 // Supporting info — per-topic tab (NREMT site only).
 // Data: supporting-info.json keyed by file -> topic -> sections
 // {what, details[], history, economics, science} (missing sections stay out).
-// Two comment channels, kept clearly separate:
-//  - "supporting-info": comment to Edison about the supporting info itself
-//  - "cogpsych": comment routed to the Cognitive Psychology Bot
-// Both ride examSync.sendReport. The panel is an inline section toggle:
-// opening it never navigates, so an exam in progress keeps its place.
+// Two comment channels, kept clearly separate and in different places:
+//  - "supporting-info": comment to Edison about the supporting info itself,
+//    sent from inside the supporting info panel (QA on the info).
+//  - "cogpsych": comment to the Cognitive Psychology Bot, sent from its own
+//    button + panel on the EXAM page, beside Quality review / Further
+//    research at question level. It is NOT part of the supporting panel.
+// Both ride examSync.sendReport. Panels are inline section toggles:
+// opening one never navigates, so an exam in progress keeps its place.
 (function () {
   var DATA = null;
   var cur = { file: null, topic: null };
@@ -29,8 +32,22 @@
     return (DATA[file] && DATA[file][topic]) || null;
   }
 
-  // ---------- panel ----------
-  var panel, bodyEl, selEl, edText, edStatus, cgText, cgStatus, titleEl;
+  function sendReport(report, statusEl, textEl) {
+    if (!window.examSync || !window.examSync.sendReport) {
+      statusEl.textContent = 'Sending is not available right now.';
+      return;
+    }
+    statusEl.textContent = 'Sending\u2026';
+    window.examSync.sendReport(report).then(function () {
+      statusEl.textContent = 'Sent.';
+      textEl.value = '';
+    }).catch(function () {
+      statusEl.textContent = 'Could not send \u2014 check connection and try again.';
+    });
+  }
+
+  // ---------- supporting info panel (Edison channel only) ----------
+  var panel, bodyEl, selEl, edText, edStatus, titleEl;
 
   function buildPanel() {
     if (panel) return;
@@ -64,13 +81,6 @@
         '<button id="sup-ed-send" type="button">Send to Edison</button>' +
         '<p id="sup-ed-status" role="status"></p>' +
       '</div>' +
-      '<div class="sup-channel">' +
-        '<h4>Comment to the Cognitive Psychology Bot</h4>' +
-        '<p class="sup-bot-note">Separate channel. This goes to the Cognitive Psychology Bot chat &#8212; not to Edison.</p>' +
-        '<textarea id="sup-cg-comment" class="note-area" rows="3" placeholder="Comment for the Cognitive Psychology Bot&#8230;"></textarea>' +
-        '<button id="sup-cg-send" type="button">Send to Cognitive Psychology Bot</button>' +
-        '<p id="sup-cg-status" role="status"></p>' +
-      '</div>' +
       '<p><button id="sup-close" type="button">Close</button></p>';
     var main = document.querySelector('main') || document.body;
     main.appendChild(panel);
@@ -80,39 +90,24 @@
     selEl = panel.querySelector('#sup-section');
     edText = panel.querySelector('#sup-ed-comment');
     edStatus = panel.querySelector('#sup-ed-status');
-    cgText = panel.querySelector('#sup-cg-comment');
-    cgStatus = panel.querySelector('#sup-cg-status');
 
     panel.querySelector('#sup-close').addEventListener('click', function () { panel.hidden = true; });
-    panel.querySelector('#sup-ed-send').addEventListener('click', function () { send('supporting-info'); });
-    panel.querySelector('#sup-cg-send').addEventListener('click', function () { send('cogpsych'); });
+    panel.querySelector('#sup-ed-send').addEventListener('click', sendToEdison);
   }
 
-  function send(type) {
-    var isEd = type === 'supporting-info';
-    var text = (isEd ? edText : cgText).value.trim();
-    var status = isEd ? edStatus : cgStatus;
-    if (!text) { status.textContent = 'Write the comment first.'; return; }
-    if (!window.examSync || !window.examSync.sendReport) {
-      status.textContent = 'Sending is not available right now.';
-      return;
-    }
-    var item = { topic: cur.topic, section: isEd ? selEl.value : 'General', comment: text };
+  function sendToEdison() {
+    var text = edText.value.trim();
+    if (!text) { edStatus.textContent = 'Write the comment first.'; return; }
+    var item = { topic: cur.topic, section: selEl.value, comment: text };
     var report = {
-      id: (isEd ? 'si' : 'cp') + Date.now(),
+      id: 'si' + Date.now(),
       ts: new Date().toISOString(),
       page: 'supporting-info',
-      type: type,
+      type: 'supporting-info',
       file: cur.file,
       groups: [{ title: cur.file + ' \u2014 ' + cur.topic + ' (supporting info)', items: [item] }]
     };
-    status.textContent = 'Sending\u2026';
-    window.examSync.sendReport(report).then(function () {
-      status.textContent = 'Sent.';
-      (isEd ? edText : cgText).value = '';
-    }).catch(function () {
-      status.textContent = 'Could not send \u2014 check connection and try again.';
-    });
+    sendReport(report, edStatus, edText);
   }
 
   function renderSections(e) {
@@ -134,13 +129,12 @@
       titleEl.textContent = topic || '';
       bodyEl.innerHTML = renderSections(entryFor(file, topic) || {});
       edStatus.textContent = '';
-      cgStatus.textContent = '';
       panel.hidden = false;
       panel.scrollIntoView({ block: 'nearest' });
     });
   };
 
-  // ---------- exam page: button beside Quality / Further research ----------
+  // ---------- exam page ----------
   function examFile() {
     var m = /[?&]exam=([^&]+)/.exec(location.search || '');
     return m ? decodeURIComponent(m[1]) : null;
@@ -151,6 +145,52 @@
     var t = tb.textContent.replace(/^Topic:\s*/, '');
     var cut = t.indexOf(' \u00B7 Chapter');
     return (cut >= 0 ? t.slice(0, cut) : t).trim() || null;
+  }
+  function examQuestion() {
+    var q = document.getElementById('question-text');
+    return q ? q.textContent : '';
+  }
+
+  // Cognitive Psychology Bot channel: its own button + panel on the exam
+  // page, a peer of Quality review / Further research at question level.
+  var cgPanel, cgQ, cgText, cgStatus;
+
+  function buildCogPanel(anchorPanel) {
+    if (cgPanel) return;
+    cgPanel = document.createElement('section');
+    cgPanel.id = 'cogpsych-panel';
+    cgPanel.className = 'note-card';
+    cgPanel.hidden = true;
+    cgPanel.innerHTML =
+      '<h3>&#129504; Comment to the Cognitive Psychology Bot &#8212; this question</h3>' +
+      '<p class="sup-bot-note">Separate channel. This goes to the Cognitive Psychology Bot chat &#8212; not to Edison.</p>' +
+      '<p id="cogpsych-q" class="np-q"></p>' +
+      '<textarea id="cogpsych-comment" class="note-area" rows="3" placeholder="Comment for the Cognitive Psychology Bot&#8230;"></textarea>' +
+      '<button id="cogpsych-send" type="button">Send to Cognitive Psychology Bot</button>' +
+      '<button id="cogpsych-close" type="button">Close</button>' +
+      '<p id="cogpsych-status" role="status"></p>';
+    anchorPanel.parentNode.insertBefore(cgPanel, anchorPanel.nextSibling);
+    cgQ = cgPanel.querySelector('#cogpsych-q');
+    cgText = cgPanel.querySelector('#cogpsych-comment');
+    cgStatus = cgPanel.querySelector('#cogpsych-status');
+    cgPanel.querySelector('#cogpsych-close').addEventListener('click', function () { cgPanel.hidden = true; });
+    cgPanel.querySelector('#cogpsych-send').addEventListener('click', sendToCogBot);
+  }
+
+  function sendToCogBot() {
+    var text = cgText.value.trim();
+    if (!text) { cgStatus.textContent = 'Write the comment first.'; return; }
+    var f = examFile(), t = examTopic();
+    var item = { topic: t, section: 'General', comment: text, question: examQuestion() };
+    var report = {
+      id: 'cp' + Date.now(),
+      ts: new Date().toISOString(),
+      page: 'supporting-info',
+      type: 'cogpsych',
+      file: f,
+      groups: [{ title: f + ' \u2014 ' + t + ' (cogpsych comment)', items: [item] }]
+    };
+    sendReport(report, cgStatus, cgText);
   }
 
   function wireExam() {
@@ -166,11 +206,28 @@
       var f = examFile(), t = examTopic();
       if (f && t) window.openSupporting(f, t);
     });
+
+    var cgBtn = document.createElement('button');
+    cgBtn.id = 'cogpsych-btn';
+    cgBtn.type = 'button';
+    cgBtn.innerHTML = '&#129504; Cognitive Psychology Bot';
+    btn.parentNode.insertBefore(cgBtn, btn.nextSibling);
+    var rp = document.getElementById('research-panel');
+    buildCogPanel(rp || anchor);
+    cgBtn.addEventListener('click', function () {
+      cgQ.textContent = examQuestion();
+      cgStatus.textContent = '';
+      cgPanel.hidden = false;
+      cgPanel.scrollIntoView({ block: 'nearest' });
+    });
+
     load(function () {
-      setInterval(function () {
+      function checkBtn() {
         var f = examFile(), t = examTopic();
         btn.hidden = !(f && t && entryFor(f, t));
-      }, 750);
+      }
+      checkBtn();
+      setInterval(checkBtn, 300);
     });
     return true;
   }
@@ -183,6 +240,11 @@
       var mo = new MutationObserver(function () { decorate(box); });
       mo.observe(box, { childList: true, subtree: true });
       decorate(box);
+      var ticks = 0;
+      var iv = setInterval(function () {
+        decorate(box);
+        if (++ticks >= 8) clearInterval(iv);
+      }, 400);
     });
     return true;
   }
