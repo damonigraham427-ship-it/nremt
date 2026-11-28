@@ -127,15 +127,15 @@
    "topic_n": 38
   },
   {
-   "answer": 3,
+   "answer": 2,
    "choices": [
-    "direct contact",
-    "airborne transmission",
-    "foodborne transmission",
-    "vector-borne transmission"
+    "Mouse → hiker → deer tick",
+    "Hiker → deer tick → mouse",
+    "Mouse → deer tick → hiker",
+    "Deer tick → mouse → hiker"
    ],
-   "explanation": "The tick carried the organism from another host and delivered it when it fed — that is vector-borne transmission. Nothing passed through the air, by touch, or through food or water in this story.",
-   "question": "A hiker finds a deer tick attached to his leg after a weekend in the woods. A week later he develops a bull's-eye rash, fever, and aching joints. By what route did the organism most likely reach him?",
+   "explanation": "Follow the stem in order: the mouse carries the bacterium first (it is the reservoir), the larval tick picks it up while feeding on the mouse, and the molted nymph delivers it to the hiker. The tick is the middle link — a living carrier that moves a pathogen from a reservoir to a new host — which is what makes this vector-borne transmission. The other sequences break the order the stem lays out: the tick cannot pass on what it has not yet picked up, and the hiker is the end of this chain, not a link passing the bacterium onward.",
+   "question": "Lyme disease follows a chain. White-footed mice carry the bacterium Borrelia burgdorferi in their blood without becoming ill. Larval deer ticks feed on the mice and pick up the bacterium, then molt into nymphs. The following spring, a nymph no bigger than a poppy seed bites a hiker, who develops a bull's-eye rash weeks later. Which sequence correctly maps the bacterium's journey to the hiker?",
    "source": "Flashcard Slides — Set 7",
    "topic": "vector-borne transmission",
    "topic_n": 36
@@ -183,15 +183,15 @@
    "topic_n": 36
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "chronic disease",
-    "infectious disease",
-    "autoimmune disorder",
-    "genetic disorder"
+    "The virus sat dormant on his skin and only became active when he touched his face",
+    "Nothing at all — an infectious disease only begins at the moment symptoms appear",
+    "The virus was invading his cells and multiplying, and the disease process was well underway before any symptoms appeared",
+    "His immune system had already destroyed the virus, so the later fever and rash must be an unrelated illness"
    ],
-   "explanation": "Each resident's illness is caused by a harmful organism — the virus — growing and spreading within the body. An autoimmune disorder is the body attacking itself, and chronic or genetic conditions are not caused by an invading organism.",
-   "question": "By the end of one shift, three residents of the same nursing home have developed the same picture: sudden vomiting, watery diarrhea, and cramps, all traced to the same stomach virus spreading through the unit. What does each resident have?",
+   "explanation": "That silent stretch is the incubation period, and it is not empty time: the measles virus was invading cells, copying itself, and spreading — the defining process of an infectious disease, an organism growing and spreading within the body. Symptoms are the late announcement, not the start. The virus was not destroyed (he went on to develop measles), it was never just sitting on his skin, and the illness clearly began before he felt it.",
+   "question": "A crew transports a man with measles. An EMT who was exposed feels completely fine for ten days — then develops fever, a cough, and the rash. During those ten silent days, what was actually happening in his body?",
    "source": "Flashcard Slides — Set 7",
    "topic": "infectious disease",
    "topic_n": 37
@@ -239,15 +239,15 @@
    "topic_n": 37
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "cumulative stress reaction",
-    "burnout",
-    "acute stress reaction",
-    "compassion fatigue"
+    "A complete inability to feel emotion, at work and at home alike",
+    "A sudden onset of symptoms over a single weekend of shifts",
+    "A collapse in his sense of personal accomplishment — he no longer believes his work is competent or worthwhile",
+    "Nightmares and a startle response tied to one specific call"
    ],
-   "explanation": "Exhaustion plus cynicism plus slipping performance, built up over years of job stress, is burnout. Compassion fatigue is the gradual loss of empathy itself; this medic's drained energy and declining work point to burnout.",
-   "question": "A medic with 12 years on the job has changed over the last couple of years. He is drained all the time, talks about patients with open cynicism, and his assessments have started slipping — things he used to catch, he now misses. What is this pattern called?",
+   "explanation": "Burnout, in the classic three-part description, is emotional exhaustion plus depersonalization (the cynicism both medics share) plus a reduced sense of personal accomplishment. Medic A shows the first two; Medic B adds the third — he has lost faith in his own competence — and that is what completes the picture. Nightmares and startle tied to one call point toward a trauma reaction instead, burnout builds gradually rather than over one weekend, and total emotional numbness everywhere is broader than what defines this syndrome.",
+   "question": "Two medics work at the same station through the same brutal year. Medic A is exhausted and has grown cynical about patients, but he still trusts his skills and takes pride in a good save. Medic B is just as exhausted and cynical — and on top of that he has stopped believing he is any good at the job, second-guessing every assessment and saying, 'I'm just not the clinician I used to be.' Which added feature in Medic B completes the classic three-part picture psychologists use to define burnout?",
    "source": "Flashcard Slides — Set 7",
    "topic": "burnout",
    "topic_n": 38

@@ -367,13 +367,13 @@
   {
    "answer": 3,
    "choices": [
-    "organ donor registration card",
     "do not resuscitate order",
     "durable power of attorney for health care",
+    "organ donor registration card",
     "advance directive"
    ],
-   "explanation": "That description matches a living will, a form of advance directive specifying future treatment.",
-   "question": "During transport of an incapacitated stroke patient, a daughter says, 'Mom signed papers years ago saying no ventilator if she couldn't recover.' You should ask for and transport which type of document?",
+   "explanation": "The deciding feature is whose wishes the paper carries. The first document states the patient's own treatment choices, made by her in advance for a time when she cannot decide — that is an advance directive. The second paper does not state any wishes at all; it appoints her sister to decide, which is a durable power of attorney for health care. A do not resuscitate order is a physician's order about one intervention, not the patient's own written statement of wishes.",
+   "question": "An unresponsive patient arrives with two different papers her family kept in a folder. One is a signed statement, written by the patient herself while she was well, spelling out which treatments she does and does not want if she can no longer speak for herself. The other names her sister as the person to make medical decisions for her. Which paper is the one that carries the patient's own treatment wishes?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "advance directive",
    "topic_n": 1
@@ -1461,25 +1461,25 @@
    "choices": [
     "incidental damages",
     "punitive damages",
-    "compensatory damages",
-    "general damages"
+    "general damages",
+    "compensatory damages"
    ],
-   "explanation": "The definition fits exactly: damages awarded when conduct was intentional or a willful and wanton disregard for the safety of the public and the rights of others.",
-   "question": "A jury awards a patient money for his actual medical bills, then adds a second, larger amount because the defendant's conduct was intentional and showed a willful and wanton disregard for public safety. What is the second amount called?",
+   "explanation": "Follow what the money is for. His actual losses were already repaid in full, so this second amount cannot be compensatory — compensation is measured by the plaintiff's loss, and there was barely any loss left to measure. This amount is measured by the defendant's conduct instead: it exists to punish deliberate, willful misconduct and deter others from copying it. Damages awarded for that purpose, beyond making the patient whole, are punitive damages.",
+   "question": "An ambulance company is caught deliberately falsifying its vehicle inspection records. By luck, the patient in the case had small out-of-pocket losses, and the jury repays those in full. Then, even though there is almost nothing left of his losses to repay, the jury adds a much larger amount — sized to the company's deliberate misconduct, not to anything the patient spent or lost. That added amount is:",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "punitive damages",
    "topic_n": 44
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "protocol compliance",
-    "standard of care",
-    "incident command",
-    "applied ethics"
+    "applied ethics",
+    "moral reasoning",
+    "professional etiquette",
+    "quality improvement"
    ],
-   "explanation": "Triage decision-making applies ethical principles such as justice and beneficence in real professional practice.",
-   "question": "During a mass-casualty incident, a crew leader assigns the only ventilator to the patient most likely to survive instead of the first patient found. Which concept describes using ethical principles to make this professional decision?",
+   "explanation": "The deciding feature is where the principle went: it left the classroom and governed her actual conduct with a real patient. Taking a principle like fairness and incorporating it into professional behavior — especially when it costs effort and runs against her own impulse — is applied ethics. Professional etiquette is only about manners and courtesy as custom; her courtesy here was not custom, it was a principle deliberately put into practice, which is a deeper thing.",
+   "question": "An EMT is assigned a frequent caller — a homeless man who is often intoxicated and sometimes rude to crews. She catches herself wanting to rush through his assessment, and deliberately slows down and gives him the same full assessment and the same courtesy she would give any other patient, because treating people fairly is something she is obligated to practice on the job, not just agree with in the classroom. Her conduct is best described as:",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "applied ethics",
    "topic_n": 25
@@ -1583,15 +1583,15 @@
    "topic_n": 8
   },
   {
-   "answer": 2,
+   "answer": 1,
    "choices": [
-    "incompetent",
-    "treated under implied consent",
+    "mentally incapacitated",
     "competent",
-    "mentally incapacitated"
+    "treated under implied consent",
+    "incompetent"
    ],
-   "explanation": "Competence is the ability to make rational decisions about personal well-being, not agreement with the provider's recommendation.",
-   "question": "An EMT wants to override a patient's refusal because the patient chose the option the crew considers unwise. The patient is oriented, understands the risks, and gives consistent reasons. What is the patient's status?",
+   "explanation": "Competence is judged at the moment of the decision, not stamped on a patient for the whole call. Before glucose he could not understand or explain anything, so his refusal carried no weight. Afterward he demonstrates every working part of the assessment: he is oriented, he understands the risks, he can explain them back, and his reasoning is consistent. A patient who meets those tests is competent, and his refusal must be honored even though the crew disagrees with it — disagreement was never the test.",
+   "question": "A diabetic man is found confused and combative. He refuses transport but cannot tell you where he is or what could happen if he stays home. After oral glucose, he is alert and calm. He repeats back, in his own words, that his blood sugar could crash again and that he could die, gives steady reasons for staying home, and still refuses. How should you classify him now?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "competent",
    "topic_n": 21
@@ -2943,13 +2943,13 @@
   {
    "answer": 2,
    "choices": [
+    "depositions",
     "motions to compel",
-    "requests for admission",
     "interrogatories",
-    "depositions"
+    "subpoenas"
    ],
-   "explanation": "Interrogatories are the written-question tool of discovery, unlike depositions, which are oral questions.",
-   "question": "During discovery, the defense sends your patient-plaintiff 25 written questions asking about prior injuries, other treating doctors, and each item of damages claimed. She must answer in writing under oath. What discovery tool is this?",
+   "explanation": "Two working parts decide it: the questions are written rather than spoken, and they can be sent only to a party in the case — never to an outside witness like the bystander. Written questions exchanged between the parties and answered in writing under oath are interrogatories. The bystander's out-loud questioning is the contrast case: spoken testimony taken in person is a deposition, which is exactly the tool that can reach non-parties.",
+   "question": "A bystander who saw a crash can be forced to answer a lawyer's questions out loud under oath. But the written question sets in the same case travel only between the two sides themselves — the plaintiff's set goes to the defendant, the defendant's set goes to the plaintiff — and each side must answer the other's set in writing, signed under oath. Those written sets exchanged only between the parties are called:",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "interrogatories",
    "topic_n": 42
@@ -4089,15 +4089,15 @@
    "topic_n": 11
   },
   {
-   "answer": 0,
+   "answer": 3,
    "choices": [
-    "negligence",
     "abandonment",
+    "kidnapping",
     "battery",
-    "kidnapping"
+    "negligence"
    ],
-   "explanation": "Failing to perform the basic assessment and care that similarly trained providers would perform is negligence.",
-   "question": "Two EMTs respond to a patient slumped and unresponsive against a car. They stand nearby for many minutes without a primary assessment, vital signs, or oxygen, and the patient dies. A review finds they did not do what any EMT would be expected to do. What is this?",
+   "explanation": "A bad outcome alone is not the deciding feature — the first patient died too. What separates the second EMT is the breach: he failed to provide the care a person with similar training would have provided, skipping the basic assessment that would have caught the bleeding. Failing to meet that standard of care is negligence. It is not abandonment, because he never took charge of the patient and then left him; the failure happened in the care itself, not in walking away from it.",
+   "question": "Two crews run similar chest-pain calls on the same night. The first EMT works the full protocol — assessment, aspirin, ECG, rapid transport — but the patient dies anyway. The second EMT decides his patient 'looks fine,' skips the primary assessment entirely, takes no vital signs, and misses the internal bleeding that kills the man an hour later. Only the second EMT has exposed himself to a claim of:",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "negligence",
    "topic_n": 11
@@ -4999,15 +4999,15 @@
    "topic_n": 54
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "implied consent",
+    "in loco parentis",
     "emancipation",
-    "respondeat superior",
-    "in loco parentis"
+    "implied consent",
+    "respondeat superior"
    ],
-   "explanation": "In loco parentis is the legal responsibility of a person or organization to take on some parental functions.",
-   "question": "An EMT asks who can make decisions for an injured student at school when no parent is present. The principal says the school stands in place of the parent during school hours. What is that called?",
+   "explanation": "The working parts give it away: the authority existed only while the child was in the school's custody, it let a non-parent consent to care, and it ended the moment the actual parent resumed deciding. That borrowed, temporary parental role is in loco parentis. It is not implied consent, which is the law's assumption that an unconscious or emergency patient would agree to treatment — this patient was awake, and a real person actually consented on her behalf.",
+   "question": "A 12-year-old breaks her wrist at school, and her parents cannot be reached. The principal signs consent for treatment and transport. En route, the girl's mother reaches the hospital, takes over all decisions, and the principal's authority simply ends. The principal's temporary authority to consent while the child was in the school's care rested on:",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "in loco parentis",
    "topic_n": 17

@@ -365,15 +365,15 @@
    "topic_n": 8
   },
   {
-   "answer": 3,
+   "answer": 1,
    "choices": [
-    "foodborne transmission",
-    "airborne transmission",
-    "indirect contact",
-    "direct contact"
+    "Drainage carries a heavier dose of pathogen to broken skin than it does to unbroken skin",
+    "The paper cut breaks the skin barrier, giving the pathogen a way past the body's first line of defense and into her tissue",
+    "An open cut draws pathogens inward the way a wick draws up fluid",
+    "Pain from the cut temporarily shuts down the immune response in that hand"
    ],
-   "explanation": "The organism passed by physical contact with the infected person, with no object in between, which is direct contact. Indirect contact would require a contaminated object to carry the organism to you.",
-   "question": "While helping lift a patient, your bare forearm, which has a fresh scrape, presses against the patient's draining, infected leg wound. This is an example of disease spread by:",
+   "explanation": "Both EMTs were exposed by direct contact — skin touching the patient's drainage with nothing in between. What changes the risk is the portal of entry. Intact skin is a barrier most pathogens cannot cross, which is why washing right after the call protects the first EMT. The paper cut opens that barrier, so the very same drainage can reach tissue and blood. The dose in the drainage does not change from one hand to the other, and a cut does not wick pathogens inward or switch off the hand's immune defenses.",
+   "question": "During a lift, two EMTs each get a patient's infected wound drainage on a bare hand. The first EMT's skin is intact, and she washes as soon as the call ends. The second EMT has a fresh paper cut across one finger. The contact, the patient, and the drainage are identical — so why is the second EMT's risk of infection clearly higher?",
    "source": "Flashcard Slides — Set 2",
    "topic": "direct contact",
    "topic_n": 9
@@ -477,15 +477,15 @@
    "topic_n": 10
   },
   {
-   "answer": 0,
+   "answer": 1,
    "choices": [
-    "infection control",
-    "exposure management",
-    "ambulance decontamination",
-    "standard precautions"
+    "Neither officer — the plan is written by NHTSA for every EMS service",
+    "The second officer — it is the employer's OSHA-required plan for protecting workers from bloodborne exposure",
+    "Both officers — the two binders are really the same document",
+    "The first officer — it is the medical director's book of treatment protocols"
    ],
-   "explanation": "Infection control is the whole set of procedures used to reduce transmission of infection among patients and health care personnel. Decontamination is only the cleaning piece of it, and standard precautions are the treat-every-patient-as-infectious rule behind the gloves and handwashing.",
-   "question": "Between patients, a crew wipes down the cot and rails, changes gloves, bags the trash, and washes hands before the next call. Taken together, these steps are the department's procedures for:",
+   "explanation": "The second officer. Under OSHA's Bloodborne Pathogens standard (29 CFR 1910.1030), each employer must keep a written Exposure Control Plan: which jobs and tasks involve exposure, the methods used to reduce it, and the procedure for evaluating an exposure incident, reviewed at least annually. That plan is one backbone of a service's infection control program. The medical director's protocols govern patient care, not worker protection, and NHTSA sets EMS education standards and scope of practice — it writes no employer's safety plan. Keeping the owners straight is the point: OSHA sets what employers must do to protect crews; NHTSA sets what EMTs are taught.",
+   "question": "Two officers disagree about a binder in the station office. The first says the Exposure Control Plan is the book of patient-care protocols the medical director signs. The second says it is the employer's own written plan — the one OSHA's Bloodborne Pathogens standard requires — listing which jobs involve exposure to blood, how the service will reduce that exposure, and how an exposure incident gets investigated afterward. Which officer has the plan right?",
    "source": "Flashcard Slides — Set 2",
    "topic": "infection control",
    "topic_n": 11
@@ -533,15 +533,15 @@
    "topic_n": 11
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "eustress",
-    "cumulative stress reactions",
-    "acute stress reaction",
-    "posttraumatic stress disorder"
+    "Her stress response stays switched on shift after shift and never fully resets, so the strain piles up instead of clearing",
+    "The steady pressure is sharpening her focus and lifting her performance",
+    "A single overwhelming surge of stress hormones overloaded her coping during one call",
+    "One traumatic memory keeps re-triggering her alarm system long after the event"
    ],
-   "explanation": "Prolonged, excessive stress built up from many incidents over time produces cumulative stress reactions. Posttraumatic stress disorder ties to a specific traumatic incident, and an acute stress reaction happens during a single event.",
-   "question": "An EMT tells his chief, 'There was never one terrible call. It is just three years of bad calls stacking up, and lately I am exhausted all the time.' His stress picture best fits:",
+   "explanation": "This is the engine of a cumulative stress reaction. The stress system is built to fire, then stand down and recover. When the demand never lets up, it stays partly switched on, recovery never completes, and the wear — broken sleep, rising blood pressure, irritability, constant exhaustion — accumulates over months and years. A memory that keeps re-triggering the alarm points to posttraumatic stress disorder, a single overwhelming surge describes an acute stress reaction during one event, and pressure that sharpens focus and performance describes eustress, the helpful form of stress.",
+   "question": "Over two years of short staffing and relentless call volume, a once-steady EMT has slowly worn down. She sleeps poorly, her blood pressure is creeping up, she snaps at her crew, and she is tired all the time — yet there is no single call she can point to as the cause. What is happening in her stress system that sets this picture apart from a reaction to one bad event?",
    "source": "Flashcard Slides — Set 2",
    "topic": "cumulative stress reactions",
    "topic_n": 12

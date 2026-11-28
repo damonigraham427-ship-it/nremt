@@ -71,15 +71,15 @@
    "topic_n": 46
   },
   {
-   "answer": 1,
+   "answer": 3,
    "choices": [
-    "putting on a new pair of gloves",
-    "hand washing",
-    "changing into a fresh uniform",
-    "disinfecting the stretcher"
+    "C. difficile spreads only through the air, so how he cleans his hands after the call does not matter",
+    "The gel works, but too slowly — he should glove up over it and clean his hands at the end of the shift instead",
+    "Alcohol gel does kill C. difficile spores just as well as soap; he only needs the sink when his hands are visibly soiled",
+    "C. difficile surrounds itself in a hardy spore with no fatty outer envelope for alcohol to dissolve, so the gel leaves the spores alive on his hands; soap, water, and friction physically wash them off — he needs hand washing at the sink"
    ],
-   "explanation": "Gloves can leak or tear and hands are contaminated during glove removal, so hand washing is required after every patient contact.",
-   "question": "After removing your gloves following a call with a patient who has influenza, your hands look clean, so you head straight to the next call. What should you have done first?",
+   "explanation": "Alcohol hand rubs work by dissolving the fatty envelope and denaturing the proteins of most bacteria and viruses. C. difficile escapes that chemistry by forming spores — dormant shells with no envelope for alcohol to dissolve — so gel can leave live spores sitting on the skin. Soap, running water, and friction do not need to kill the spores; they lift them off the hands and rinse them away. That is why spore-forming organisms, like visibly soiled hands, send you to the sink instead of the dispenser.",
+   "question": "Your crew has just transported a patient whose severe watery diarrhea is caused by Clostridioides difficile. At the hospital, your partner reaches for the alcohol gel dispenser and says, 'This kills everything — faster than the sink.' Why is he wrong about this particular organism?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "hand washing",
    "topic_n": 46
@@ -365,15 +365,15 @@
    "topic_n": 46
   },
   {
-   "answer": 3,
+   "answer": 1,
    "choices": [
-    "ambulance decontamination",
-    "infection control",
-    "standard precautions",
-    "sharps safety"
+    "HIV — it infects about 1 in 3 people after a single needlestick, which is why no vaccine is offered for it",
+    "Hepatitis B — it can survive for days in dried blood and infects up to about 1 in 3 unvaccinated people stuck by an infected needle, which is why OSHA's bloodborne pathogens standard requires employers to offer the vaccine free",
+    "Hepatitis C — it is the most contagious of the three through blood, and the free vaccine prevents it",
+    "Hepatitis B — but the risk is small, because the virus dies as soon as the blood on the needle dries"
    ],
-   "explanation": "Careful handling and proper disposal of needles is sharps safety, and it failed the moment the used needle was left loose on the stretcher. Careless sharps handling is the usual route for bloodborne infections in health care settings.",
-   "question": "While stripping the stretcher after a call, your partner is stuck by a used needle that was dropped on the mattress instead of being put in the sharps container. What practice failed here?",
+   "explanation": "The risk from one stick is not equal across the three bloodborne viruses: hepatitis B infects up to roughly 30 percent of unvaccinated people stuck by a needle from an infectious patient, hepatitis C about 2 percent, and HIV about 0.3 percent. Hepatitis B also stays infectious in dried blood for at least a week, so a carelessly handled sharp stays dangerous long after the call ends. That combination is why OSHA's bloodborne pathogens standard (29 CFR 1910.1030) makes the employer offer the hepatitis B vaccine free, and why sharps discipline — immediate disposal, no loose needles — is the real prevention.",
+   "question": "While cleaning up after a call, an EMT is stuck in the thumb by a used hollow-bore needle that had drawn blood from a patient with hepatitis B. The EMT never finished the hepatitis B vaccine series he was offered when he was hired. His supervisor starts the exposure report. Which pairing of virus and risk is correct?",
    "source": "Flashcard Slides — Set 9",
    "topic": "sharps safety",
    "topic_n": 47

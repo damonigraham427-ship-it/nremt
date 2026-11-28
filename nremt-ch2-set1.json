@@ -253,15 +253,15 @@
    "topic_n": 6
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "cumulative stress reaction",
-    "posttraumatic stress disorder",
-    "compassion fatigue",
-    "acute stress reaction"
+    "Amygdala firing too readily + prefrontal cortex brake firing too weakly",
+    "Amygdala firing too weakly + prefrontal cortex brake firing too strongly",
+    "Hippocampus firing too readily + amygdala firing too weakly",
+    "Prefrontal cortex firing too strongly + hippocampus firing too weakly"
    ],
-   "explanation": "His symptoms surfaced long after the event and are tied to that one incident, which points to posttraumatic stress disorder. An acute stress reaction happens during or right after the event, not a year later, and cumulative stress builds from many incidents rather than one.",
-   "question": "A paramedic works a house fire where a child dies. At his one-month wellness check he says he is doing fine. A year later he is having nightmares about the call, avoids the street where it happened, and has started drinking to fall asleep. His presentation best fits which reaction?",
+   "explanation": "This is the circuitry under posttraumatic stress disorder. The amygdala is the brain's threat detector; after trauma it becomes hyperreactive and fires on cues that merely resemble the event — a tone pitch, a smell, a street — which is why his heart is pounding before he knows why. The medial prefrontal cortex is the brake that should appraise that alarm and calm it down, and in PTSD it under-fires, so the alarm runs unchecked and he stays vigilant. The hippocampus has a different job — stamping a memory with its time and place; when it falters, memories come back feeling present instead of past, which drives flashbacks more than this instant startle.",
+   "question": "Nine months after working a fatal wreck, an EMT still braces whenever the station tones hit the same pitch as that night — his heart is pounding before he even realizes why. On calls he scans the room constantly and cannot settle. Which pairing of brain changes best explains why his alarm fires before he can think his way out of it?",
    "source": "Flashcard Slides — Set 1",
    "topic": "posttraumatic stress disorder",
    "topic_n": 1
@@ -309,15 +309,15 @@
    "topic_n": 1
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "posttraumatic stress disorder",
-    "acute stress reaction",
-    "burnout",
-    "compassion fatigue"
+    "Medic B — his capacity to empathize has worn away from years of absorbing patients' suffering",
+    "Neither medic — both pictures are just ordinary tiredness that a few days off will fix",
+    "Both medics equally — exhaustion and numbness are two names for the same condition",
+    "Medic A — her exhaustion and cynicism about the job have drained her"
    ],
-   "explanation": "What is draining away is specifically her compassion, and it has lessened gradually over years of caregiving, which is compassion fatigue. Burnout centers on exhaustion and cynicism from overall job stress, and posttraumatic stress disorder ties back to a specific traumatic incident.",
-   "question": "A medic with 15 years on the job tells her partner, 'Ten years ago I felt every call. Now a patient can cry in front of me and I feel nothing. It just crept up on me.' This gradual change is best described as:",
+   "explanation": "Medic B. What has worn down in him is specifically his compassion — the ability to feel with suffering patients — and it faded gradually over years of caregiving exposure, which is the shape of compassion fatigue. Medic A's picture centers on exhaustion and cynicism driven by workload and scheduling, which is burnout; notably her empathy is still intact, since she still tears up at the bedside. The two conditions can travel together, but they are not the same thing, and once either has set in, a weekend off does not simply fix it.",
+   "question": "Two medics describe their last year. Medic A says the schedule is crushing her — she is exhausted, cynical about management, and dreads the overtime — but she still tears up at a child's bedside. Medic B says his hours are fine, but after years of watching patients suffer and die, he has gone numb: families cry in front of him and he feels nothing at all. Which medic's picture fits compassion fatigue?",
    "source": "Flashcard Slides — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
@@ -477,15 +477,15 @@
    "topic_n": 4
   },
   {
-   "answer": 0,
+   "answer": 3,
    "choices": [
-    "foodborne transmission",
-    "airborne transmission",
-    "vector-borne transmission",
-    "direct contact"
+    "Guests passed the illness hand to hand as they served themselves from the shared trays",
+    "Cooking the chicken earlier drove bacteria into the air, and guests breathed them in while eating",
+    "The mayonnaise turned the salad into a chemical poison as soon as it warmed up",
+    "While the sandwiches sat warm, bacteria multiplied in the food and released a toxin, so people were poisoned by the toxin itself rather than by a growing infection"
    ],
-   "explanation": "The illness tracked to one shared food item, which points to a contaminated food source. Airborne spread would not have spared the residents who skipped the dish but shared the same building air, and no contact or insect explains the pattern.",
-   "question": "A nursing home serves a catered lunch. About a day later, 14 residents who ate the potato salad develop vomiting and diarrhea, while residents who skipped it stay well. The route by which this illness most likely spread is:",
+   "explanation": "This is foodborne transmission, but the cargo matters: the route carried a preformed toxin, not just live bacteria. Food sitting warm for hours lets bacteria such as Staphylococcus aureus multiply and release a toxin into the food. Because the toxin is already made when the food is eaten, illness hits within a few hours and leans heavily on vomiting. A growing infection swallowed with food usually takes much longer to show up, breathing food in is not the route here, and hand-to-hand spread does not explain dozens of people falling ill at the same time from the same dish.",
+   "question": "At a church picnic, trays of chicken salad sandwiches are made in the morning and left sitting out, covered, for about five hours before anyone eats. The chicken was fully cooked when the salad was mixed. Within about three hours of the meal, dozens of guests are vomiting and cramping. What best explains how this food made people sick so fast?",
    "source": "Flashcard Slides — Set 1",
    "topic": "foodborne transmission",
    "topic_n": 5
@@ -533,15 +533,15 @@
    "topic_n": 5
   },
   {
-   "answer": 0,
+   "answer": 3,
    "choices": [
-    "wellness",
-    "resilience",
-    "critical incident stress management",
-    "eustress"
+    "Toughness works until a critical incident uses up a provider's resilience, and the routine is how the department refills it afterward",
+    "The posted routine is the department's critical incident stress management program under a shorter name",
+    "OSHA requires every employer to post a daily health routine for its crews",
+    "Those daily habits are the active work of building and keeping health across a whole career, and that ongoing pursuit is what wellness means"
    ],
-   "explanation": "Wellness is the active, ongoing pursuit of good health through daily habits like sleep, exercise, nutrition, and screening. Resilience is the capacity to bounce back after a bad event, and critical incident stress management is a response process used after incidents, not a daily habit.",
-   "question": "A medic makes a standing plan for her career: she guards her sleep, exercises on her days off, eats real meals on shift, and keeps up with her annual physicals and vaccinations. She is actively practicing:",
+   "explanation": "Wellness is not a reaction to a bad call; it is the active, ongoing pursuit of good health through daily habits — sleep, exercise, nutrition, and screening — kept up across a whole career. Resilience is a different idea: the capacity to bounce back after a hard event, not a daily routine. Critical incident stress management is a structured process a department runs after incidents, not a set of personal health habits. And no OSHA rule orders employers to post a daily health routine — this department is choosing prevention over repair.",
+   "question": "A rookie laughs at the routine posted in the station — sleep a full night, train on shift, eat real food, keep your annual physical current — and asks why the department calls that 'wellness' instead of just telling crews to toughen up. Which answer is most accurate?",
    "source": "Flashcard Slides — Set 1",
    "topic": "wellness",
    "topic_n": 6

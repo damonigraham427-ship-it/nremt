@@ -31,13 +31,13 @@
   {
    "answer": 3,
    "choices": [
-    "organ donor registration card",
     "do not resuscitate order",
     "durable power of attorney for health care",
+    "organ donor registration card",
     "advance directive"
    ],
-   "explanation": "That description matches a living will, a form of advance directive specifying future treatment.",
-   "question": "During transport of an incapacitated stroke patient, a daughter says, 'Mom signed papers years ago saying no ventilator if she couldn't recover.' You should ask for and transport which type of document?",
+   "explanation": "The deciding feature is whose wishes the paper carries. The first document states the patient's own treatment choices, made by her in advance for a time when she cannot decide — that is an advance directive. The second paper does not state any wishes at all; it appoints her sister to decide, which is a durable power of attorney for health care. A do not resuscitate order is a physician's order about one intervention, not the patient's own written statement of wishes.",
+   "question": "An unresponsive patient arrives with two different papers her family kept in a folder. One is a signed statement, written by the patient herself while she was well, spelling out which treatments she does and does not want if she can no longer speak for herself. The other names her sister as the person to make medical decisions for her. Which paper is the one that carries the patient's own treatment wishes?",
    "source": "Quiz-Style Slides — Set 1",
    "topic": "advance directive",
    "topic_n": 1

@@ -17,13 +17,13 @@
   {
    "answer": 0,
    "choices": [
-    "The human resources department",
-    "The medical director's office",
-    "The dispatch center",
-    "The state licensing board"
+    "The medication error goes to medical direction; the pay complaint and the promotion question go to the human resources department",
+    "The medication error goes to the human resources department; the pay complaint and the promotion question go to medical direction",
+    "All three matters go to medical direction, because they all grew out of patient care",
+    "All three matters go to the human resources department, because they all involve the same employee"
    ],
-   "explanation": "Well-being support, career progression, and compensation all sit in the human resources department.",
-   "question": "An EMT is burned out and asks about the employee assistance counseling benefit, how promotions work, and how pay steps are set. Which department handles all of that?",
+   "explanation": "Patient-care decisions, including a medication given outside protocol, belong to medical direction. Pay and career progression — two of the human resources department's three areas, along with EMT well-being — belong to human resources. The fact that one employee raised all three does not pull them into a single office; each matter follows the kind of problem it is.",
+   "question": "During a chart review, a medical director finds that an EMT gave a medication outside protocol. That same week, the EMT files a complaint that his overtime pay was figured wrong and asks how to be considered for a field training officer opening. Which pairing sends each matter to the right office?",
    "source": "Quiz-Style Slides — Set 6",
    "topic": "human resources department",
    "topic_n": 28
@@ -73,13 +73,13 @@
   {
    "answer": 1,
    "choices": [
-    "The state office of EMS",
-    "The individual EMT",
-    "His medical director",
-    "His partner"
+    "Because email reminders transfer responsibility only when the EMT replies to them",
+    "Because the credential belongs to the individual EMT, and getting the continuing education to keep it current is that EMT's own responsibility — offering courses and reminders does not transfer the duty to the agency",
+    "Because the state office of EMS renews the card automatically whenever an agency offers the courses",
+    "Because an agency is never permitted to schedule continuing education for its own EMTs"
    ],
-   "explanation": "The duty to obtain continuing education sits with the EMT personally, even when others offer the classes.",
-   "question": "An EMT blames the state bureau because nobody scheduled his refresher before his card lapsed. Who was responsible for obtaining that education?",
+   "explanation": "Continuing education is the individual EMT's own responsibility to obtain. His agency did more than it had to — it offered the courses and sent reminders — but providing the opportunity is not the same as carrying the duty. The card lapsed because the credential, and the obligation to maintain it, belong to the EMT himself.",
+   "question": "Two EMTs work for the same agency, which offers every refresher course in-house and emails renewal reminders. One EMT attends and renews on time. The other skips the courses, lets his card lapse, and argues the reminders prove keeping him current was the agency's job. A hearing officer rejects his argument. Why?",
    "source": "Quiz-Style Slides — Set 6",
    "topic": "Continuing education",
    "topic_n": 29
@@ -101,27 +101,27 @@
   {
    "answer": 2,
    "choices": [
-    "The first national EMT curriculum",
-    "The Freedom House training manual",
-    "Accidental Death and Disability: The Neglected Disease of Modern Society",
-    "The EMS Systems Act of 1973"
+    "That combat wounds are naturally less deadly than highway crash injuries",
+    "That hospitals were the weakest link and should be rebuilt before ambulances were improved",
+    "That an organized system of trained attendants, equipped transport, and coordinated care saves lives — and that civilians were dying because no such system existed for them",
+    "That military medics should be hired to replace civilian ambulance attendants"
    ],
-   "explanation": "The white paper used the 1965 injury and death figures to show prehospital care was a neglected public problem.",
-   "question": "Before 1966, a crash victim might get a ride with no trained care, and a report that year documented 107,000 accidental deaths in 1965. What document was it?",
+   "explanation": "The report's argument was that the gap was the system, not the injuries: where care was organized — trained people, equipped transport, coordination — patients lived. Civilian ambulance care had none of that structure, which is why the report called for building the same kind of system at home. It never proposed replacing civilian attendants with soldiers, and it indicted prehospital care, not the hospitals, as the missing piece.",
+   "question": "In making its case, the 1966 white paper pointed to wounded soldiers in Vietnam, who were reached by trained medics, moved fast, and treated inside an organized system — and survived at rates civilian crash victims back home did not match. What was the comparison meant to prove?",
    "source": "Quiz-Style Slides — Set 6",
    "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
    "topic_n": 30
   },
   {
-   "answer": 0,
+   "answer": 1,
    "choices": [
-    "Accidental Death and Disability: The Neglected Disease of Modern Society",
-    "The Highway Safety Act",
-    "The National EMS Agenda for the Future",
-    "The KKK-A-1822 federal ambulance standard"
+    "The report was written in 1973 by the U.S. Department of Transportation",
+    "The report came from the National Academy of Sciences / National Research Council — the medical and scientific establishment — not from the ambulance industry",
+    "Funeral homes never operated ambulance services in the United States",
+    "The report praised ambulance services as well trained and well equipped"
    ],
-   "explanation": "That National Academy of Sciences / National Research Council white paper is the origin point the textbook uses for modern EMS.",
-   "question": "An instructor asks which single 1966 publication started modern EMS reform. What do you name?",
+   "explanation": "The authority behind the report was that it came from outside the industry it criticized: the National Academy of Sciences / National Research Council, through its Committees on Trauma and Shock. Funeral homes really did run many ambulance services then, and the report condemned — it did not praise — the state of that care, in 1966, not 1973.",
+   "question": "A classmate tells the class the 1966 report was the ambulance industry's own self-study, written by the funeral-home operators who ran most ambulance services at the time. What is wrong with that account?",
    "source": "Quiz-Style Slides — Set 6",
    "topic": "Accidental Death and Disability: The Neglected Disease of Modern Society",
    "topic_n": 30
@@ -409,13 +409,13 @@
   {
    "answer": 2,
    "choices": [
+    "A skill-based slip, because his hands fumbled a familiar task",
     "An equipment failure",
-    "A rule-based failure, because she knowingly broke a rule",
     "A knowledge-based failure",
-    "A skill-based slip, because her hands fumbled a familiar task"
+    "A rule-based failure, because he knowingly broke a rule"
    ],
-   "explanation": "A knowledge-based failure happens when the provider does not know the pertinent information, here the dose range. She did not knowingly break a rule, and nothing about her hands or the equipment caused the error.",
-   "question": "A new EMT draws up the wrong dose of a medication because she genuinely did not know the correct dose range. She was not rushing, and she believed she was following the protocol correctly. Reviewers classify this error as:",
+   "explanation": "The oximeter worked exactly as designed — carbon monoxide fools it — and the EMT broke no rule on purpose and fumbled no skill. The gap was in what he knew: he had never learned how carbon monoxide affects oximeter readings, so he reasoned from a number he trusted. An error that comes from not knowing the pertinent information is a knowledge-based failure.",
+   "question": "An EMT treats a patient found in a closed garage with a generator running. The pulse oximeter reads 99%, so the EMT decides the patient does not need oxygen and works at an unhurried pace — unaware that carbon monoxide tricks the oximeter into showing a normal reading, something he was never taught. The patient gets worse. Reviewers classify the error as:",
    "source": "Flashcard Slides — Set 6",
    "topic": "Knowledge-based failure",
    "topic_n": 31
@@ -435,15 +435,15 @@
    "topic_n": 32
   },
   {
-   "answer": 1,
+   "answer": 3,
    "choices": [
-    "The receiving hospital",
-    "The state office of EMS",
-    "His agency's human resources department",
-    "The National Registry of EMTs"
+    "Her EMT course's sponsoring hospital",
+    "The county health department",
+    "The National Registry of EMTs",
+    "The state office of EMS"
    ],
-   "explanation": "The state office of EMS is the state-level office that regulates the standards for prehospital care and the individuals who provide it, including discipline of a state credential. The National Registry certifies, but it does not suspend a state credential.",
-   "question": "An EMT is accused of practicing outside his scope, and the state-issued credential he practices under is now under review for possible suspension. Which body has the authority to suspend it?",
+   "explanation": "The National Registry certifies that she passed the national exam — she already holds that card. The credential to actually practice in a state is issued by the state office of EMS, the state-level office that regulates the standards for prehospital care and the individuals who provide it. Until it issues hers, she cannot legally work, no matter what her Registry card says.",
+   "question": "Two friends pass the same national EMT exam on the same day. One starts running calls the next week. The other has her Registry card in hand but is told she still cannot work a shift, because the credential that lets her practice in her state has not been issued yet. Which body issues that credential?",
    "source": "Flashcard Slides — Set 6",
    "topic": "State office of EMS",
    "topic_n": 32
@@ -465,13 +465,13 @@
   {
    "answer": 0,
    "choices": [
-    "Proof of immunization against certain communicable diseases",
-    "A commercial driver's license",
-    "Sixty college credits",
-    "Two years of volunteer service"
+    "Because proof of immunization against certain communicable diseases is one of the criteria for becoming licensed and employed as an EMT, and a memory of being vaccinated is not proof — he needs records or a titer showing immunity",
+    "Because the National Registry of EMTs sets the hiring paperwork for every EMS agency",
+    "Because every childhood vaccine expires by adulthood and must be repeated before an EMT can work",
+    "Because an EMT can only be exposed to hepatitis B, so only that one record matters"
    ],
-   "explanation": "Proof of immunization is one of the criteria a person must meet to become licensed and employed as an EMT. College credits, a commercial license, and volunteer years are not part of those requirements.",
-   "question": "A candidate has passed her EMT course, her national exam, and her background check, and an agency is ready to hire her. One required item is still missing from her file, and it legally blocks the hire until she provides it. Which item is it?",
+   "explanation": "Immunization is not a formality: proof of immunization against certain communicable diseases is one of the stated criteria for EMT licensure and employment. 'Proof' means documentation — a vaccination record or a positive titer — not a recollection. The National Registry certifies exam passage; it does not set agency hiring criteria, and EMTs face more communicable diseases than hepatitis B alone.",
+   "question": "An agency is ready to hire two EMT candidates who both passed the course and the national exam. The first hands over a complete vaccination record and starts. The second says he was 'definitely vaccinated as a kid' but has no records and no lab work, and asks to start shifts while he looks for the paperwork. Why must the agency hold him back?",
    "source": "Flashcard Slides — Set 6",
    "topic": "EMT licensure/employment requirements",
    "topic_n": 33

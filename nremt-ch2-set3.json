@@ -59,13 +59,13 @@
   {
    "answer": 2,
    "choices": [
-    "distress",
-    "resilience",
-    "eustress",
-    "cumulative stress reaction"
+    "His stress response converted into burnout, a condition that develops over the course of a single shift",
+    "He was never having a stress response at all, and the second half of the shift is simply his normal personality",
+    "Arousal helps performance only up to a point; pushed past that point, the beneficial stress response tips over into distress",
+    "The first half of the shift was a delayed stress reaction, and it caught up with him all at once"
    ],
-   "explanation": "His stress response produced preparation and better performance, a beneficial outcome, so it is eustress rather than distress.",
-   "question": "A new EMT is nervous before his first solo shift. Instead of dreading it, he uses the nerves to double-check his gear, review protocols, and arrive early. What type of stress response is he showing?",
+   "explanation": "Nothing about the stressor changed except dose and duration: the same arousal that sharpened him early on kept climbing with no recovery, and past its useful peak it degrades performance instead of feeding it — that is the beneficial response (eustress) tipping into the harmful one (distress). Burnout is out: it builds over months to years of chronic stress, not one shift. A delayed stress reaction is a reaction that surfaces after a specific traumatic event, not a within-shift slide.",
+   "question": "An EMT starts a busy shift keyed up in a good way — alert, quick, and enjoying the pace. By hour ten, after back-to-back critical calls with no break, that same wired feeling has curdled: he is snapping at his partner, fumbling equipment he knows cold, and dreading the next tone. What best explains the change?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
@@ -73,13 +73,13 @@
   {
    "answer": 0,
    "choices": [
-    "eustress",
-    "delayed stress reaction",
-    "distress",
-    "burnout"
+    "Hypothalamus → pituitary gland → adrenal glands → cortisol",
+    "Hypothalamus → pituitary gland → adrenal glands → adrenaline",
+    "Hypothalamus → adrenal glands → pituitary gland → cortisol",
+    "Adrenal glands → pituitary gland → hypothalamus → cortisol"
    ],
-   "explanation": "The pressure acted as a benefit, sharpening her work; a beneficial response to a stressor is eustress.",
-   "question": "During a multi-casualty drill, a paramedic notices she feels energized and clear-headed under the time pressure, and her triage times are her fastest ever. What term describes this positive stress response?",
+   "explanation": "The chain starts in the brain, so the hypothalamus fires first; it signals the pituitary, whose hormone (ACTH) travels in the blood to the adrenal glands, and the adrenal cortex answers with cortisol — the stress hormone this gland-to-gland chain exists to release. Adrenaline is the near miss: the adrenals do release it, but on a direct nerve signal, not as the end of the pituitary-driven hormone chain. The reversed and skipped-step chains break the one-signal-to-the-next order the stem describes.",
+   "question": "The surge that can sharpen a provider on a call runs on a hormone chain: the brain's alarm center starts it, one gland signals the next, and it ends at the adrenal glands, which release the body's main stress hormone into the blood. Which chain shows that pathway in the right order?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
@@ -253,15 +253,15 @@
    "topic_n": 18
   },
   {
-   "answer": 0,
+   "answer": 1,
    "choices": [
-    "communicable disease",
-    "noninfectious condition",
-    "vector-borne disease",
-    "foodborne illness"
+    "Documenting the possible exposure in the run report after the call is over",
+    "Hand hygiene and disinfecting the stretcher and equipment between patients",
+    "Asking the patient to hold his breath while you load him into the ambulance",
+    "Putting on a mask only after the patient has already coughed in the unit"
    ],
-   "explanation": "A communicable disease can be spread from one person to another, which is why the exposed classmates are at risk. Nothing in this event involves an insect carrier or a food source.",
-   "question": "A child with chickenpox attends school for two days before the rash appears. The school sends notices home because several classmates are now likely to develop it too. Chickenpox can move through the classroom this way because it is a:",
+   "explanation": "The travel link is the organism's ride from one host to the next — on hands, gloves, a stretcher rail, a blood pressure cuff. Washing hands and disinfecting equipment between patients cuts that ride, which is why it stops spread even though the organism and the carrier are unchanged. Documentation happens after the trip is over and breaks nothing; a mask put on after the cough is protection that starts after the travel already happened; and a patient cannot hold his breath through a call.",
+   "question": "A communicable disease travels along a chain: the organism leaves the person or place it lives in, moves by some route, and enters a new host. Your crew cannot change the organism, and you cannot change the patient who is carrying it. Which crew action breaks the chain at the travel link?",
    "source": "Flashcard Slides — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
@@ -311,27 +311,27 @@
   {
    "answer": 3,
    "choices": [
-    "acute stress reaction",
-    "cumulative stress reaction",
-    "distress",
-    "eustress"
+    "The first EMT's alarm system never actually fired, which is why she stayed calm and effective",
+    "Only the second EMT released stress hormones; the first one's body skipped the stress response entirely",
+    "The difference is physical fitness, because the stress response is purely physical and thinking plays no part in it",
+    "The appraisal step — how the thinking brain reads the alarm — decides whether arousal becomes a helpful challenge response or a harmful threat response"
    ],
-   "explanation": "Her stress response helped rather than harmed her performance, which makes it eustress, a beneficial response to a stressor. Distress is the harmful version, and her reaction is tied neither to one traumatic moment nor to a long buildup.",
-   "question": "Before her first shift as the lead EMT, a new provider feels keyed up and nervous, but the pressure makes her double-check her gear, review her protocols, and perform better than she expected. Her response to the stressor is best described as:",
+   "explanation": "Both bodies fired the same alarm — both felt the surge — so the difference cannot be whether stress hormones were released; it has to be what happened next. The brain's appraisal of the alarm is the fork in the road: read as a challenge the arousal can handle, it becomes the beneficial response; read as a threat, it becomes the harmful one. That is why the same call can leave one provider sharper and the other rattled, and why appraisal — not fitness or a missing alarm — is the mechanism.",
+   "question": "Two EMTs draw the same tough assignment. The first feels the surge, sizes the job up as a challenge she can handle, and settles into sharp, focused work. The second reads the same surge as a threat, fixates on everything that could go wrong, and tightens up until his performance suffers. What best explains why the same body alarm produced two different outcomes?",
    "source": "Flashcard Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "wellness",
-    "eustress",
-    "distress",
-    "resilience"
+    "Arousal read as readiness feeds the beneficial stress response; fighting to force calm works against the same chemistry instead of using it",
+    "High arousal always improves performance, so the officer should add even more pressure to the drill",
+    "The buzz means the rookie is having an acute stress reaction and should be pulled from the drill",
+    "Calming down is impossible for a new provider, so officers should never address a rookie's nerves at all"
    ],
-   "explanation": "His stress response was beneficial: it sharpened his focus and performance, which is eustress. His partner's harmful response to the very same call is distress; one stressor can produce either.",
-   "question": "The tones drop for a working structure fire. One EMT feels a surge of energy, focuses fast, and later calls it the best call of his month. His partner, on the same call, feels overwhelmed, develops a pounding headache, and dreads going back. The first EMT's response is best described as:",
+   "explanation": "The rookie's arousal is not the problem — arousal is the raw fuel of the beneficial stress response, and reading it as readiness ('this is my body getting ready') points it toward performance, while struggling to suppress it adds a second fight on top of the first. The buzz alone is not an acute stress reaction, which is a response to a traumatic event, not pre-drill nerves. And arousal does not help without limit — past its peak it tips into distress — so piling on more pressure would be the wrong move.",
+   "question": "A training officer watches a rookie get wired before a full-scale drill — hands buzzing, talking fast, clearly amped up. Instead of telling her to calm down, the officer says, 'Good — that buzz is your body getting ready. Use it.' Why is that coaching sound?",
    "source": "Flashcard Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
@@ -365,15 +365,15 @@
    "topic_n": 14
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "colonized",
-    "immune",
-    "infectious",
-    "a vector"
+    "Memory cells that recognize the virus and launch a rapid, stronger antibody response",
+    "A small amount of live virus stored in her blood, keeping her mildly infected ever since",
+    "Antibodies that stay at full strength in her blood for life without ever fading",
+    "A thicker skin barrier that keeps the virus from entering her body in the first place"
    ],
-   "explanation": "His body can protect itself from acquiring the disease, which means he is immune. He was still exposed to the virus on that call; immunity is why the exposure never became an illness.",
-   "question": "A firefighter who was vaccinated against chickenpox as a child transports a patient with an active chickenpox rash and stays well, while an unvaccinated rookie on the same call develops the disease two weeks later. The vaccine left the firefighter:",
+   "explanation": "Speed is the clue in the stem: a first encounter is slow because the immune system has to learn the virus from scratch. The vaccine ran that lesson in advance and left memory cells behind; on the real exposure they recognize the virus and produce antibodies fast and in force, ending the infection before symptoms start. Antibodies themselves fade over time — it is the memory cells, not a lifetime stockpile of antibody, that persist — and no live virus sits stored in her blood.",
+   "question": "Years after her chickenpox vaccination, an EMT is exposed to the virus on a call. Her body shuts the virus down before she ever feels sick — and handles it noticeably faster than it could have the very first time it met that virus. What did the vaccine leave behind that makes the second response faster?",
    "source": "Flashcard Slides — Set 3",
    "topic": "immune",
    "topic_n": 15
@@ -477,15 +477,15 @@
    "topic_n": 16
   },
   {
-   "answer": 1,
+   "answer": 3,
    "choices": [
-    "airborne pathogens",
-    "bloodborne pathogens",
-    "foodborne pathogens",
-    "vector-borne pathogens"
+    "Hepatitis C has a vaccine but hepatitis B does not, which is why OSHA requires employers to offer the hepatitis C vaccine free",
+    "All three viruses attack the liver, and all three can be prevented with vaccines",
+    "HIV attacks the liver the way the hepatitis viruses do, while hepatitis B attacks the immune system",
+    "Hepatitis B and hepatitis C attack the liver and travel in blood; HIV attacks the immune system's CD4 cells and also travels in blood — and of the three, only hepatitis B has a vaccine"
    ],
-   "explanation": "The hazard in a needlestick is the group of microorganisms carried in human blood, including hepatitis B and the human immunodeficiency virus. The exposure plan, the testing, and the follow-up are all built around those bloodborne pathogens.",
-   "question": "An EMT is stuck by a used needle hidden in soiled linen. The department's exposure plan treats this as a high-priority event mainly because of the risk from:",
+   "explanation": "The three share a route — blood — but not a target. The hepatitis viruses live in the liver; HIV lives in the immune system itself, destroying the CD4 helper cells that coordinate the body's defenses. The vaccine fact follows the same split: a hepatitis B vaccine exists (it is the one OSHA requires employers to offer free), while there is no vaccine for hepatitis C or HIV — hepatitis C's protection is avoidance, and its treatment is a cure, not a vaccine. Swapping the targets or the vaccine between them is exactly the error the plan exists to prevent.",
+   "question": "OSHA's Bloodborne Pathogens standard (29 CFR 1910.1030) requires every employer to keep a written Exposure Control Plan for the hazards that ride in human blood. Three of those hazards sit side by side in the plan. Which statement about them is correct?",
    "source": "Flashcard Slides — Set 3",
    "topic": "bloodborne pathogens",
    "topic_n": 17

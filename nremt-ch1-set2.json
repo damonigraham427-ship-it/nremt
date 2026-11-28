@@ -71,15 +71,15 @@
    "topic_n": 8
   },
   {
-   "answer": 0,
+   "answer": 3,
    "choices": [
-    "Primary service area",
-    "Certification area",
     "Public health region",
-    "Credentialing district"
+    "Credentialing district",
+    "Mutual aid area",
+    "Primary service area"
    ],
-   "explanation": "The township is the designated area where that agency owes service, which makes it the agency's primary service area.",
-   "question": "Before signing a contract, a town tells an EMS agency it must provide prehospital care and transport for every address in the township. What is the township for that agency?",
+   "explanation": "What makes the zone the winner's primary service area is the obligation: it is the designated area where that agency owes prehospital care and transport for every address. The loser can still drive transfers through the same streets, but with no duty to respond, the area is not its primary service area. Mutual aid is help lent between agencies on request, not an assigned zone of responsibility.",
+   "question": "Two ambulance services bid for a county contract. The winner must answer every 911 call in the eastern half of the county. The loser may still run hospital transfers there, but it has no duty to respond to emergencies there. For the winning service, the eastern half of the county is its:",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "primary service area",
    "topic_n": 8
@@ -113,15 +113,15 @@
    "topic_n": 9
   },
   {
-   "answer": 3,
+   "answer": 1,
    "choices": [
-    "Credentialing",
-    "Certification",
-    "Continuing education",
-    "Licensure"
+    "He is covered, because his employer can keep him working until his credentialing file is reviewed again",
+    "He is practicing without licensure — national certification never substitutes for the state's permission, so he must stop until the state renews it",
+    "His national certification gives him a grace period to keep working while the state renewal is processed",
+    "Only his medical director can decide whether he keeps working, since the state is not involved after the first license"
    ],
-   "explanation": "Certification shows she met a standard; licensure is the state's actual permission to work, and that is what she is still missing.",
-   "question": "An EMT holds national certification but is stopped from working because the state has not yet approved her application to practice. What is she still missing?",
+   "explanation": "The stem gives two facts: the state's permission has expired, and only his certification is current. Certification shows he once met a standard; licensure is the state's actual permission to perform a regulated act, and without it he has no legal authority to treat patients, no matter what his employer or medical director says. There is no certification grace period that replaces the state's permission.",
+   "question": "An EMT's state permission to practice expired last month. His national certification is still current and his chief has not noticed, so he keeps running calls. Which statement about his situation is true?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "licensure",
    "topic_n": 9
@@ -239,15 +239,15 @@
    "topic_n": 12
   },
   {
-   "answer": 2,
+   "answer": 0,
    "choices": [
-    "Certification",
-    "Accreditation",
     "Credentialing",
-    "Reciprocity"
+    "Reciprocity",
+    "Certification",
+    "Accreditation"
    ],
-   "explanation": "State licensure grants permission to practice, but the agency must still verify her qualifications to work there through credentialing.",
-   "question": "An EMT is licensed by the state, but a new employer still will not schedule her until it finishes checking her qualifications and competency paperwork. What employer process is still pending?",
+   "explanation": "Work through what is NOT missing: her state permission is current, so licensure is satisfied, and she passed her exam long ago, so certification is done. What remains is the employer's own ongoing determination that she is qualified to work in that system — her CPR card and skills verification are part of her credentialing file. Accreditation reviews programs and institutions, and reciprocity is one state recognizing another's license; neither is an employer pulling a medic over an incomplete file.",
+   "question": "An EMT's state permission to practice is fully current, and she passed her national exam years ago. But she let her CPR card expire and never finished her agency's annual skills check, so her supervisor pulls her off the schedule until her file is complete again. Which process is the supervisor enforcing?",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "credentialing",
    "topic_n": 12

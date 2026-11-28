@@ -211,15 +211,15 @@
    "topic_n": 35
   },
   {
-   "answer": 0,
+   "answer": 1,
    "choices": [
-    "hepatitis",
-    "cirrhosis",
-    "gastroenteritis",
-    "tuberculosis"
+    "Myoglobin, a protein released from damaged muscle",
+    "Bilirubin, a breakdown product of worn-out red blood cells that a healthy liver removes",
+    "Melanin, the pigment that darkens skin after sun exposure",
+    "Glucose, spilled into the urine when blood sugar runs high"
    ],
-   "explanation": "Yellowed skin and eyes, dark urine, nausea, and appetite loss are the classic picture of an inflamed liver. Cirrhosis is long-term scarring, not an acute illness spreading through a shelter, and gastroenteritis centers on vomiting and diarrhea without jaundice.",
-   "question": "You are called to a homeless shelter where several residents have been sick for days. Your patient has yellowed eyes and skin, dark urine, nausea, and no appetite, and he says he feels feverish and wiped out. What condition do these findings most likely point to?",
+   "explanation": "The liver normally clears bilirubin, the yellow pigment left over when old red blood cells are broken down. When hepatitis inflames the liver, bilirubin backs up into the blood, settles into the skin and the whites of the eyes as jaundice, and the excess leaving through the kidneys darkens the urine — one backup explaining both findings. Myoglobin can also darken urine, but it comes from crushed or damaged muscle, and this patient's picture is an inflamed liver, not a muscle injury.",
+   "question": "Your shelter patient's eyes and skin have yellowed and his urine has turned unusually dark, and the hospital confirms a viral infection has inflamed his liver. The yellow color and the dark urine come from the same backup. What substance is building up in his blood because his inflamed liver cannot clear it the normal way?",
    "source": "Flashcard Slides — Set 6",
    "topic": "hepatitis",
    "topic_n": 31
@@ -267,15 +267,15 @@
    "topic_n": 31
   },
   {
-   "answer": 2,
+   "answer": 0,
    "choices": [
-    "denial",
-    "eustress",
-    "resilience",
-    "wellness"
+    "Both medics' stress systems switched on; the one who recovered is the one whose arousal later settled back to baseline — that capacity to bounce back after activation is resilience.",
+    "The medic who recovered felt no stress reaction that night; recovery means the body's alarm never switches on.",
+    "The medic who recovered avoided thinking or talking about the call, which kept the memory from taking hold.",
+    "The difference is willpower; the stress response is a choice, not body chemistry."
    ],
-   "explanation": "Bouncing back to normal function after a hard call is resilience — the capacity to cope with distress and recover from it. Wellness is the broader pursuit of good health, and eustress is a helpful response in the moment, not recovery afterward.",
-   "question": "Two EMTs work the same fatal wreck. Over the next few weeks, one talks with the crew, keeps her sleep and exercise routine, and is back to her normal self. The other is still struggling months later. What is the first EMT demonstrating?",
+   "explanation": "Resilience is not the absence of a stress reaction — both medics' alarms fired that night, exactly as they should. It is the recovery half of the cycle: stress hormones and arousal rise for the event and then settle back to baseline. Avoidance is actually a risk pattern for lasting symptoms, not a recovery strategy, and the whole response is driven by the body's stress chemistry — the HPA axis and the adrenaline system — not by deciding to be tough.",
+   "question": "Two medics work the same fatal call, and that night both are wired — hearts pounding, sleep broken. A month later one is back to his normal baseline while the other still feels wired and worn down. Which statement best captures the difference that research on stress recovery describes?",
    "source": "Flashcard Slides — Set 6",
    "topic": "resilience",
    "topic_n": 32
@@ -323,15 +323,15 @@
    "topic_n": 32
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "critical incident stress debriefing",
-    "critical incident stress management",
-    "a defusing",
-    "an employee assistance program"
+    "It works because the one formal group session prevents PTSD, and the defusings and check-ins around it are just scheduling extras.",
+    "It replaces professional mental-health care, so responders with lasting symptoms are treated inside the program instead of being referred out.",
+    "It intervenes early and in layers — a defusing within hours, a structured debriefing a day or two later, and follow-up afterward — so responders process the event, learn that their reactions are normal, and get referred for more help if they need it; that layered system is critical incident stress management, not any single session.",
+    "It works by keeping responders away from each other until symptoms fade, so nobody reinforces anyone else's stress."
    ],
-   "explanation": "Defusings, the formal group session, and follow-up are separate pieces; the whole system that organizes them is critical incident stress management. The debriefing is only the one formal session inside that larger process.",
-   "question": "After a line-of-duty death, your department brings in a trained peer team. There is a short defusing that night, a formal group session two days later, and follow-up check-ins with the crew over the next few weeks. What is this whole organized process called?",
+   "explanation": "Critical incident stress management is a system, not a session, and its pieces are timed on purpose: a defusing within hours, a structured debriefing about 24 to 72 hours later, then follow-up. Working through the event early with trained peers helps responders process it and normalizes the stress reaction, and the follow-up pieces spot the few who need professional help — which the program refers out for, never replaces. No single session, including the debriefing, prevents PTSD by itself.",
+   "question": "A rookie asks why your department bothers with a whole organized peer-support program after a bad call instead of just giving everyone a day off. Which explanation best describes how that program is supposed to work?",
    "source": "Flashcard Slides — Set 6",
    "topic": "critical incident stress management",
    "topic_n": 33
@@ -379,29 +379,29 @@
    "topic_n": 33
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "Centers for Disease Control and Prevention",
-    "National Institute for Occupational Safety and Health",
-    "Food and Drug Administration",
-    "Occupational Safety and Health Administration"
+    "OSHA writes workplace safety standards that carry the force of law, so it can inspect a workplace and cite and fine the employer; CDC publishes infection-control guidance and recommendations but has no power to enforce them.",
+    "OSHA's name is an error; citations for infection-control problems are actually issued by CDC.",
+    "OSHA and CDC split enforcement between them, and either agency could have issued this citation.",
+    "OSHA only covers construction and manufacturing sites, so the citation must really have come from the state health department."
    ],
-   "explanation": "OSHA is the federal agency that writes and enforces workplace safety rules — it inspects and issues citations. The CDC and NIOSH study health problems and publish recommendations, but neither one can fine your service.",
-   "question": "An inspector finds used needles being recapped at your station and no written exposure control plan. A few weeks later your service receives a citation and a fine. Which agency issued it?",
+   "explanation": "A citation with a fine means a legal standard was violated — that is OSHA's enforcement role, and the written exposure control plan requirement sits in OSHA's Bloodborne Pathogens standard (29 CFR 1910.1030). CDC's infection-control guidance shapes what a good plan contains, but guidance is advice: CDC cannot inspect your station, cite your service, or fine it. Only OSHA does that, because its standards are law and CDC's publications are recommendations.",
+   "question": "Your service receives a citation and a fine over recapped needles and a missing exposure control plan. A coworker is confused: 'I thought infection control was CDC's thing — why is OSHA's name on this?' Which reply is correct?",
    "source": "Flashcard Slides — Set 6",
    "topic": "Occupational Safety and Health Administration",
    "topic_n": 34
   },
   {
-   "answer": 0,
+   "answer": 2,
    "choices": [
-    "Occupational Safety and Health Administration",
-    "Environmental Protection Agency",
-    "Centers for Disease Control and Prevention",
-    "National Institute for Occupational Safety and Health"
+    "He cannot decline at all; the standard requires every EMT with exposure risk to complete the vaccine series.",
+    "He can decline with a verbal no and no paperwork, and the employer never has to raise the offer again.",
+    "He may decline, but only by signing the standard's declination form — and if he changes his mind later while still at risk, the employer must offer the series free again.",
+    "He is right — the free offer is made once, when the standard's training is first given, and it expires if he declines."
    ],
-   "explanation": "The free hepatitis B vaccine offer comes from OSHA's bloodborne pathogens standard — a regulation your employer must follow. The CDC recommends the vaccine, but a recommendation carries no legal force and no citation.",
-   "question": "Your service is legally required to offer you a certain vaccine free of charge because of your exposure risk on the job. Which agency's rules create that legal requirement?",
+   "explanation": "Under OSHA's Bloodborne Pathogens standard (29 CFR 1910.1030), the vaccine is the employer's standing duty, not a one-time offer: it must be offered free, after training and within 10 working days of assignment to duties with exposure risk. An employee who declines signs a declination form so the refusal is documented — but the door stays open, and if he asks later while still exposed, the employer must offer the series free again. The standard requires the offer; it cannot force the vaccination itself.",
+   "question": "OSHA's Bloodborne Pathogens standard requires your employer to offer the hepatitis B vaccine series free to EMTs whose work exposes them to blood. A new EMT says, 'If I turn it down now, I've lost my chance to get it free.' Which response is correct?",
    "source": "Flashcard Slides — Set 6",
    "topic": "Occupational Safety and Health Administration",
    "topic_n": 34
@@ -435,29 +435,29 @@
    "topic_n": 34
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "Food and Drug Administration",
-    "Centers for Disease Control and Prevention",
-    "Federal Emergency Management Agency",
-    "Occupational Safety and Health Administration"
+    "Clinicians report cases to their state health department; states share their data with CDC; CDC coordinates laboratory testing and outbreak specialists and issues national guidance.",
+    "CDC orders each state health department to hand over its case data; CDC labs test the samples; CDC fines any state that is slow to comply.",
+    "Hospitals report cases straight to CDC, bypassing the states; CDC then directs each state's response on scene.",
+    "CDC waits until the outbreak is over, then collects the final case counts from the states and publishes the totals."
    ],
-   "explanation": "Tracking disease across states, investigating outbreaks, and publishing public health guidance is the CDC's core job. OSHA covers workplace safety, FEMA coordinates disaster response, and the FDA regulates drugs and food.",
-   "question": "A strange lung injury starts showing up in patients in several states. One federal agency pulls the case reports together, runs the investigation, and issues the public alerts and treatment guidance. Which agency is that?",
+   "explanation": "Public health authority sits with the states, so CDC cannot command state health departments or fine them — that enforcement style belongs to OSHA, not CDC. CDC's power in an outbreak is coordination: states investigate their own cases and share the data, and CDC adds national laboratory capacity, Epidemic Intelligence Service outbreak specialists, and guidance that pulls the separate state pieces into one national picture while the event is still unfolding.",
+   "question": "CDC is coordinating the investigation of an illness that is appearing in several states at once. Which sequence correctly shows how that national investigation actually runs?",
    "source": "Flashcard Slides — Set 6",
    "topic": "Centers for Disease Control and Prevention",
    "topic_n": 35
   },
   {
-   "answer": 3,
+   "answer": 2,
    "choices": [
-    "Occupational Safety and Health Administration",
-    "Federal Emergency Management Agency",
-    "National Institutes of Health",
-    "Centers for Disease Control and Prevention"
+    "The National EMS Education Standards",
+    "The Federal Register",
+    "The Morbidity and Mortality Weekly Report (MMWR)",
+    "The New England Journal of Medicine"
    ],
-   "explanation": "Case counts, outbreak data, and vaccine recommendations are published by the CDC. OSHA publishes enforceable workplace rules instead, and the NIH funds and conducts research rather than issuing field guidance.",
-   "question": "Your medical director is updating the service's protocols and wants current case counts for a spreading illness plus the latest vaccine recommendations. Which agency's publications does she go to?",
+   "explanation": "CDC publishes the MMWR every week, and it is where outbreak investigations are first officially reported and where adopted vaccine recommendations — developed by CDC's Advisory Committee on Immunization Practices — are published. The Federal Register is the government's regulatory journal, where OSHA standards appear, not CDC guidance; the National EMS Education Standards come from NHTSA, not CDC; and the New England Journal of Medicine is a private medical journal that no agency owns.",
+   "question": "Your medical director wants two things from CDC in one place: the first official reports on a newly recognized outbreak, and the current adopted vaccine recommendations. Which CDC publication carries both?",
    "source": "Flashcard Slides — Set 6",
    "topic": "Centers for Disease Control and Prevention",
    "topic_n": 35

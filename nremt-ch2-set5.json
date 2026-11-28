@@ -225,15 +225,29 @@
    "topic_n": 30
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "burnout syndrome",
-    "fight-or-flight response",
+    "alarm stage",
     "cumulative stress reaction",
-    "general adaptation syndrome"
+    "resistance stage",
+    "exhaustion stage"
    ],
-   "explanation": "Alarm, then reaction and resistance, then exhaustion from prolonged stress is the general adaptation syndrome.",
-   "question": "A paramedic describes her career: emergency calls once spiked her heart rate every time, then she adapted and handled them calmly, but years of chronic short staffing have left her drained and constantly fatigued. She is describing what?",
+   "explanation": "The alarm stage is the body's first response to a stressor: the sympathetic nervous system and the HPA axis fire together, releasing epinephrine, norepinephrine, and cortisol, which raise the heart rate, sharpen attention, and mobilize fuel. Resistance is the later stage of sustained output while the person copes, and exhaustion comes only after prolonged stress wears the body down. A cumulative stress reaction describes stressors piling up, not a stage in Selye's model.",
+   "question": "The tones drop for a working cardiac arrest. In the first minutes of the call, a new EMT's heart is pounding, her breathing is quick, her senses feel sharpened, and her hands tremble slightly as adrenaline and cortisol surge. In Hans Selye's staged model of the body's stress response, this immediate surge is the:",
+   "source": "Quiz-Style Slides — Set 5",
+   "topic": "general adaptation syndrome",
+   "topic_n": 30
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "cumulative stress reaction",
+    "exhaustion stage",
+    "resistance stage",
+    "alarm stage"
+   ],
+   "explanation": "In the resistance stage the body sustains its stress output — the HPA axis keeps cortisol and related hormones elevated — and outwardly adapts, so the person still performs well. The cost is paid internally, in things like rising blood pressure and poor sleep. The alarm stage was the first surge months earlier; exhaustion comes later, when the body's reserves fail and illness and breakdown appear, which has not happened here because she is still functioning.",
+   "question": "A paramedic has worked short-staffed for eight months. On calls she is steady and effective, and coworkers say she has gotten used to the pace. But her resting blood pressure has crept up, she sleeps lightly, and her stress hormones stay switched on so her body can keep performing at that level. In Hans Selye's staged model, she is most likely in the stage of:",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30
@@ -241,27 +255,13 @@
   {
    "answer": 1,
    "choices": [
-    "delayed stress reaction",
-    "general adaptation syndrome",
-    "fight-or-flight response",
-    "compassion fatigue"
+    "The door is actually cover, so the crew should stay behind it and begin care",
+    "The door gives concealment only — it can block the shooter's view, but it will not stop a bullet",
+    "The only problem is staging distance; what the crew hides behind does not matter",
+    "Any metal part of the ambulance, including the door, stops handgun and rifle rounds"
    ],
-   "explanation": "The staged progression from alarm through resistance to exhaustion is the body's general adaptation syndrome.",
-   "question": "A firefighter-paramedic on months of mandatory overtime first feels keyed up on every call, then seems to cope, then develops constant fatigue, insomnia, and frequent colds as his body wears down. This progression is an example of what?",
-   "source": "Quiz-Style Slides — Set 5",
-   "topic": "general adaptation syndrome",
-   "topic_n": 30
-  },
-  {
-   "answer": 3,
-   "choices": [
-    "cover",
-    "vehicle stabilization",
-    "staging distance",
-    "concealment"
-   ],
-   "explanation": "Concealment is the use of objects to limit a person's ability to see you. It hides you but offers no ballistic protection; that is the difference from cover, which must be an impenetrable barrier.",
-   "question": "Police are still clearing a shooting scene. Your crew stages behind a large dumpster where the suspect cannot see the ambulance. The dumpster would not stop a bullet, but it keeps you out of the suspect's view. This is an example of:",
+   "explanation": "Concealment hides you from the shooter's view but offers no ballistic protection, and a thin vehicle door is concealment at best. Cover has to be a barrier a bullet cannot penetrate, such as an engine block or a thick concrete wall. Treating concealment as if it were cover leaves the crew exposed while they believe they are protected.",
+   "question": "At a shooting scene, your partner crouches behind the open door of the ambulance and says, \"If he fires this way, this door will stop the rounds before they reach us.\" What is the error in your partner's thinking?",
    "source": "Flashcard Slides — Set 5",
    "topic": "concealment",
    "topic_n": 25
@@ -309,15 +309,15 @@
    "topic_n": 25
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "indirect contact",
-    "foodborne transmission",
+    "airborne transmission",
     "direct contact",
-    "airborne transmission"
+    "foodborne transmission",
+    "indirect contact"
    ],
-   "explanation": "The organism traveled in droplets and dust suspended in the room air and was inhaled later, which is airborne transmission. No contact with the patient or with a shared object was needed.",
-   "question": "A patient with measles spends an hour in a clinic waiting room, then leaves. An hour later, a person who never met him sits in the same room, breathes the air, and develops measles days afterward. This illness spread by:",
+   "explanation": "Wiping surfaces and changing sheets deals with contaminated objects, which is the indirect contact route. Measles also travels on tiny particles that stay suspended in the air after the patient is gone, so the next person can inhale them without touching anything. That is airborne transmission, and moving air through the compartment is the control that addresses it.",
+   "question": "You transport a patient with measles. After the call, your partner disinfects every surface in the patient compartment and changes the stretcher sheets, then asks why the supervisor still wants the compartment aired out with the exhaust fan running before the next patient is loaded. The route of transmission the supervisor is still concerned about is:",
    "source": "Flashcard Slides — Set 5",
    "topic": "airborne transmission",
    "topic_n": 26
@@ -421,15 +421,15 @@
    "topic_n": 27
   },
   {
-   "answer": 0,
+   "answer": 2,
    "choices": [
-    "acute stress reactions",
-    "compassion fatigue",
-    "burnout",
-    "delayed stress reactions"
+    "Compassion fatigue, because feeling detached means she has stopped caring about the patient",
+    "Early burnout, because physical symptoms like a pounding heart only come from months of overload",
+    "An acute stress reaction — her threat system has fired during the event itself, driving a surge of stress chemistry that is expected and usually settles",
+    "A delayed stress reaction, because numbness and detachment only appear after an event is over"
    ],
-   "explanation": "Stress responses that occur during the stressful situation are acute stress reactions. Burnout and compassion fatigue build over months or years of work, and delayed reactions appear only after the event has passed.",
-   "question": "Halfway through a pediatric arrest, you notice your partner's hands are shaking, her heart is pounding, and she has to consciously slow her breathing to keep working. These responses, happening in the middle of the event, are:",
+   "explanation": "These responses are happening in the middle of the event, which is what makes them an acute stress reaction: the brain's threat detector fires before conscious appraisal, pushing epinephrine and norepinephrine up — pounding heart, trembling, a numb or detached feeling. Delayed stress reactions appear only after the event has passed, while burnout and compassion fatigue build over months to years of accumulated work, not during a single call.",
+   "question": "Halfway through a house fire call with a trapped occupant, you notice your partner's hands trembling and her heart pounding. She tells you she feels numb and strangely detached, even though she is still doing her job. Her state during this call is best understood as:",
    "source": "Flashcard Slides — Set 5",
    "topic": "acute stress reactions",
    "topic_n": 28
@@ -477,15 +477,15 @@
    "topic_n": 28
   },
   {
-   "answer": 2,
+   "answer": 3,
    "choices": [
     "vector-borne transmission",
     "direct contact",
-    "indirect contact",
-    "airborne transmission"
+    "airborne transmission",
+    "indirect contact"
    ],
-   "explanation": "The organism reached the second patient through a contaminated object, the cuff, which is indirect contact. Direct contact would have required the two patients to touch each other.",
-   "question": "A blood pressure cuff is used on a patient with a MRSA skin infection, then placed, without being disinfected, on the next patient's arm, who later develops the same infection at that spot. The second patient most likely acquired it by:",
+   "explanation": "The meter acted as a fomite — a contaminated object carrying the virus in blood from one resident to the next. Passing an organism from person to person through a shared object is indirect contact. It is not direct contact, because the residents never touched each other, and nothing in this case traveled through the air or by an insect.",
+   "question": "Investigators are tracing a cluster of hepatitis B infections among residents of an assisted-living facility. The residents had no contact with each other and shared no needles. The one item used on resident after resident was a blood glucose meter, wiped off only when it looked dirty. The virus most likely reached these residents by:",
    "source": "Flashcard Slides — Set 5",
    "topic": "indirect contact",
    "topic_n": 29
@@ -535,13 +535,13 @@
   {
    "answer": 2,
    "choices": [
-    "burnout",
-    "eustress",
-    "general adaptation syndrome",
-    "cumulative stress reactions"
+    "cumulative stress reactions",
+    "fight-or-flight response",
+    "allostatic load",
+    "eustress"
    ],
-   "explanation": "The general adaptation syndrome is the body's staged response to stress: an alarm response, then a stage of reaction and resistance, then recovery or, if the stress is prolonged, exhaustion. Cumulative stress reactions describe stressors piling up, not the body's stage-by-stage response to them.",
-   "question": "A medic looks back over his career: as a rookie, every tone drop spiked his heart rate; for years he adapted and handled the pace well; lately, after years of unrelenting overtime, he is exhausted, run down, and catches every cold that goes around. This whole staged response of the body to stress over time is known as:",
+   "explanation": "Allostatic load is the accumulated physiological cost of chronic stress-system activation — the wear that builds when cortisol and sympathetic output stay switched on for years. It is the mechanism behind the exhaustion stage of Selye's general adaptation syndrome: blood pressure that no longer recovers, a suppressed immune system, and slower healing. Cumulative stress reactions describe stressful events piling up; allostatic load is what that pile-up does to the body itself.",
+   "question": "After years of mandatory overtime and broken sleep, a veteran medic's body no longer settles back down between calls. His blood pressure stays up, he catches every infection going around the station, and small injuries take noticeably longer to heal. The accumulated wear and tear on his body from years of his stress systems being switched on is best described as:",
    "source": "Flashcard Slides — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30

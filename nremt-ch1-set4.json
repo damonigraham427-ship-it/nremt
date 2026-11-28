@@ -200,12 +200,12 @@
    "answer": 0,
    "choices": [
     "Public safety access point",
-    "Evidence-based dispatch center",
-    "Emergency medical responder station",
-    "Mobile integrated health hub"
+    "Secondary prevention center",
+    "Emergency operations center",
+    "Medical control center"
    ],
-   "explanation": "It is the single point that receives and manages public safety requests: the public safety access point.",
-   "question": "Every 911 call in the county goes first to one center, where staff sort the call and route it to the right agency. What is that center known as?",
+   "explanation": "The public safety access point is the staffed center that first receives 911 calls and manages requests for police, fire, and ambulance service — which is why the caller's number and location data land on its screens even when the caller says nothing. An emergency operations center coordinates large incidents rather than answering routine 911 calls, and medical control is physician oversight of field care, not a call-answering center.",
+   "question": "A caller dials 911 and, panicking, hangs up without saying a word. The call-taker's screen still shows the caller's phone number and location, and help is sent to that address. The center where that call — and its location information — first landed is known as a:",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "public safety access point",
    "topic_n": 22
@@ -257,11 +257,11 @@
    "choices": [
     "Community paramedicine",
     "Secondary prevention",
-    "Public health",
-    "Mobile integrated health care"
+    "Mobile integrated health care",
+    "Public health"
    ],
-   "explanation": "Community paramedicine is the expanded role itself: experienced paramedics with advanced training providing extra services like health evaluations and chronic illness monitoring. Mobile integrated health care is the broader umbrella term for delivering care in the community.",
-   "question": "A veteran paramedic who completed extra training makes scheduled home visits to enrolled patients. She checks chronic illnesses, reviews medications, evaluates their health, and advocates for their needs with their doctors. The visits are planned ahead, not 911 responses. This expanded paramedic role is called:",
+   "explanation": "The visit works because of the mechanism: in heart failure, a rapid weight gain is fluid building up days before a crisis, and catching it early lets a medication change prevent the emergency. The role doing that catching — an experienced, specially trained paramedic making planned home visits to manage a patient's known chronic illness — is community paramedicine. It is not secondary prevention, which means screening people to detect a disease they do not yet know they have; this patient's disease is diagnosed and being actively managed. Mobile integrated health care is the broader system umbrella, not the name of this paramedic's expanded role.",
+   "question": "A specially trained paramedic visits an enrolled heart-failure patient at home twice a week. The man was hospitalized twice last year. Today his scale shows a 4-pound gain since Tuesday and his ankles are newly swollen, so she calls his cardiologist, who raises his water pill dose over the phone. No ambulance is needed. This kind of scheduled, in-home management of a known chronic illness is:",
    "source": "Flashcard Slides — Set 4",
    "topic": "community paramedicine",
    "topic_n": 18
@@ -365,15 +365,15 @@
    "topic_n": 20
   },
   {
-   "answer": 2,
+   "answer": 1,
    "choices": [
-    "Secondary prevention",
     "Credentialing",
     "Evidence-based medicine",
+    "Secondary prevention",
     "Community paramedicine"
    ],
-   "explanation": "Evidence-based medicine bases decisions on well-conducted research and the strength of the evidence. A maker's lab claim, with no patient outcome studies behind it, is exactly what that approach refuses to accept on its own.",
-   "question": "A sales representative tells your agency his new device “works in the lab every time” and urges you to change your protocol, but he has no studies of actual patients. Your medical director says the agency will decide only after reviewing well-conducted research on whether patients actually do better with it. The medical director is applying:",
+   "explanation": "The partner is refusing to credit an intervention when something else changed at the same time. Four patients improving proves nothing about the technique, because the earlier medication is a confounder — a second possible cause tangled up with the first. Evidence-based medicine is the approach that demands a fair, controlled comparison before an intervention gets credit for an outcome, instead of relying on habit, opinion, or a handful of cases that seemed to go well.",
+   "question": "After a call, an EMT insists a new lifting technique is what eased his patients' pain, because his last four patients all said they felt better. His partner points out that all four also got their pain medication earlier than usual, so the technique may deserve none of the credit. The partner is making the core move of:",
    "source": "Flashcard Slides — Set 4",
    "topic": "evidence-based medicine",
    "topic_n": 20

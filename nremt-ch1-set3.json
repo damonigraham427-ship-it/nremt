@@ -15,15 +15,15 @@
    "topic_n": 13
   },
   {
-   "answer": 0,
+   "answer": 3,
    "choices": [
-    "Advanced EMT",
-    "Emergency medical technician",
-    "Paramedic",
-    "Emergency medical responder"
+    "Interpret the rhythm herself and direct her EMT partner to give the cardiac medications under her orders",
+    "Place the endotracheal tube herself, because a delayed paramedic makes it an emergency exception to her scope",
+    "Hold off on the IV and the medications she is authorized to give until the paramedic arrives to supervise her",
+    "Manage the airway with the skills her level authorizes and request a paramedic intercept for the intubation and rhythm interpretation"
    ],
-   "explanation": "That added IV and medication role identifies the advanced EMT.",
-   "question": "A crew member who has moved one step beyond basic EMT training is authorized to place an IV and administer a limited set of emergency drugs. What is this provider level called?",
+   "explanation": "The AEMT level adds IV therapy and certain emergency medications to the EMT level, but endotracheal intubation and rhythm interpretation stay at the paramedic level — and a long paramedic response does not expand anyone's scope. She should work to the top of her own level, not below it (choice D wastes skills she is authorized to use) and not above it (choices A and C), and bring the paramedic-level skills to the patient with an intercept request.",
+   "question": "An AEMT is first on scene with an EMT partner at a serious crash. She starts an IV and gives a medication from the list her level is authorized for. The patient then clearly needs an endotracheal tube placed and his heart rhythm interpreted, and the paramedic unit is still several minutes away. What should she do?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "advanced EMT",
    "topic_n": 13
@@ -31,13 +31,13 @@
   {
    "answer": 3,
    "choices": [
-    "Emergency medical responder",
-    "Paramedic",
-    "Emergency medical dispatcher",
-    "Advanced EMT"
+    "I place endotracheal tubes, interpret cardiac rhythms, and give the full range of cardiac medications",
+    "I am usually first on scene and provide CPR, bleeding control, and basic first aid until the ambulance arrives",
+    "I take vital signs, give oxygen, ventilate with a bag-mask device, and help patients take their own prescribed medications",
+    "I start IV lines, give a limited set of emergency medications, and can place a supraglottic airway device"
    ],
-   "explanation": "The advanced EMT sits between EMT and paramedic, with IV and select medication skills.",
-   "question": "During a call, the provider giving IV fluids and an approved emergency medication is working above the EMT level but below the paramedic level. Which provider level is this?",
+   "explanation": "The Advanced EMT sits one step above the EMT: IV access, a limited medication list, and advanced airway adjuncts such as a supraglottic airway — but not the endotracheal tube or rhythm interpretation, which mark the paramedic in the first choice. The third choice is the emergency medical responder, and the fourth is the EMT's basic life support skill set, with no IV or medication administration of its own.",
+   "question": "Four providers each describe the most advanced care they are trained and authorized to give. Which one is describing the Advanced EMT level?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "advanced EMT",
    "topic_n": 13
@@ -120,8 +120,8 @@
     "Emergency medical dispatch",
     "Advanced life support"
    ],
-   "explanation": "Care that moves past basic life support into advanced procedures is ALS.",
-   "question": "A critically ill patient receives advanced procedures in the field that some EMTs are now trained to help provide, rather than basic care alone. What is this level of care?",
+   "explanation": "Pantridge's mobile coronary care unit was the founding move of advanced life support: bringing hospital-level interventions — advanced airway, IV access, cardiac drugs, defibrillation — to the patient instead of waiting for the patient to reach them. Basic life support is the noninvasive care (CPR, basic airway, oxygen) that Pantridge's model built on top of; emergency medical dispatch happens by phone before crews arrive, and emergency medical services names the whole system rather than a level of care.",
+   "question": "In the 1960s, many heart attack patients died in the first hour or two, often before they ever reached a hospital. In Belfast, Dr. Frank Pantridge put a defibrillator and trained staff into an ambulance so hospital-level coronary care could start at the patient's side instead of at the hospital door. Taking that kind of care — advanced airway management, IV lines, and cardiac medications — out into the field is the idea behind which level of care?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "advanced life support",
    "topic_n": 15
@@ -155,15 +155,15 @@
    "topic_n": 16
   },
   {
-   "answer": 2,
+   "answer": 1,
    "choices": [
-    "Emergency medical services",
-    "Emergency medical technician",
+    "Continuous quality improvement",
     "Emergency medical dispatch",
-    "Advanced life support"
+    "Online medical direction",
+    "Public safety access point"
    ],
-   "explanation": "That unit-selection plus prearrival-instruction role is emergency medical dispatch.",
-   "question": "Before any crew arrives, dispatch matches the call to the right response units and keeps giving the caller vital instructions by phone. What is this called?",
+   "explanation": "Emergency medical dispatch is the system that lets a call-taker do two jobs at once: select the appropriate units for a call and give the caller vital instructions until crews arrive — here, driven by a structured interrogation protocol. A public safety access point is the center itself, the place where 911 calls are answered, not the dispatch method; both centers in the stem are access points, but only the second is practicing EMD. Online medical direction is a physician directing field providers, and quality improvement reviews care afterward.",
+   "question": "Two 911 centers answer the same kinds of calls. At the first, call-takers write down the address and send an ambulance. At the second, call-takers work from a structured medical protocol: they question the caller with set questions, choose the response the answers call for, and coach the caller through care until the crew arrives. The second center is using:",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "emergency medical dispatch",
    "topic_n": 16
@@ -421,15 +421,15 @@
    "topic_n": 16
   },
   {
-   "answer": 0,
+   "answer": 2,
    "choices": [
-    "Emergency medical dispatch",
     "On-line medical control",
     "Emergency medical services",
+    "Emergency medical dispatch",
     "Advanced life support"
    ],
-   "explanation": "EMD is the dispatch system that selects the appropriate units for a call and gives callers vital instructions, like CPR coaching, until crews arrive. EMS is the whole response system, and medical control is physician direction of field care.",
-   "question": "A caller reports that her husband has collapsed. The call-taker sends the closest ambulance and fire unit, then talks her through CPR over the phone until crews arrive. Which system makes both of those things happen?",
+   "explanation": "The second call is emergency medical dispatch: the call-taker selected the unit to send and coached a layperson through care — here, AED use — before any crew arrived. The first call is the contrast: on-line medical control is a physician giving direct orders to a trained provider in the field, which is why that choice tempts, but no physician and no provider are on the second call. Emergency medical services is the whole response system, and advanced life support is a level of field care, not a dispatch function.",
+   "question": "Two phone calls happen on the same shift. In the first, an EMT on scene radios a physician, who listens to her report and gives her a direct order for a medication. In the second, a call-taker sends the closest unit to a collapsed office worker and talks a security guard through switching on the AED by the elevator and placing its pads while help is still minutes out. Which system is at work in the second call?",
    "source": "Flashcard Slides — Set 3",
    "topic": "emergency medical dispatch",
    "topic_n": 16

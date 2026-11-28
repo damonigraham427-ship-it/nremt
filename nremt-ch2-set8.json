@@ -155,15 +155,15 @@
    "topic_n": 42
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "prescription glasses",
-    "eye protection",
-    "a surgical mask",
-    "sunglasses"
+    "The eye splash — the surface of the eye is a mucous membrane with its own blood supply, so bloodborne viruses can enter the body there; intact skin covered by a glove is a barrier, not an entry route",
+    "Both contacts count the same, because any touch of blood anywhere on the body is an exposure",
+    "The hand contact — skin absorbs bloodborne viruses from the surface faster than the eye does",
+    "Neither contact counts, because an exposure requires a needle or visibly broken skin"
    ],
-   "explanation": "Proper rated protection, such as goggles or a face shield, covers the sides regular glasses leave open.",
-   "question": "At a crash scene, blood and fluids may splash while you control bleeding and clear an airway. What should you put on to protect your eyes, instead of relying on regular glasses?",
+   "explanation": "Bloodborne viruses such as hepatitis B, hepatitis C, and HIV enter the body through mucous membranes and broken skin — not through intact skin. The conjunctiva covering the eye is a mucous membrane, which is why a splash to the eye is a true exposure that needs flushing, reporting, and follow-up, and why rated eye protection goes on before the splash risk starts rather than after. Blood on an intact gloved hand is contamination to wash off, not an exposure.",
+   "question": "During a messy call, a drop of the patient's blood lands on one EMT's gloved hand, and a second drop lands in his partner's unprotected eye. Only one of these two contacts gets written up as a bloodborne pathogen exposure. Which one, and why?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "eye protection",
    "topic_n": 42
@@ -253,15 +253,15 @@
    "topic_n": 44
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
+    "critical incident stress debriefing",
     "critical incident stress management",
-    "a defusing",
     "an employee assistance program",
-    "critical incident stress debriefing"
+    "a defusing"
    ],
-   "explanation": "The formal, structured group session held a day or more after the incident is the debriefing. A defusing is the short, informal session held within hours, and critical incident stress management is the whole program the debriefing belongs to.",
-   "question": "Thirty-six hours after a fatal shooting call, the responders involved sit down for a formal, structured group session led by a trained peer-and-mental-health team. They talk through the incident and their reactions to it. This session is separate from the operational critique of the call. What is this session called?",
+   "explanation": "What the crew needed was the critical incident stress debriefing: a formal, structured group session, usually held 24 to 72 hours after the incident and led by a trained peer-and-mental-health team, where responders talk through the incident and their reactions under ground rules of confidentiality. It is deliberately kept separate from any critique of tactics or performance — the captain's meeting was an operational review wearing the wrong name. A defusing is the short, informal session held within hours of the call, an employee assistance program is an ongoing counseling resource rather than a single session, and critical incident stress management is the name of the whole program the debriefing sits inside.",
+   "question": "After a fatal apartment fire, a captain holds a meeting the next evening and calls it the crew's debriefing. He replays the radio traffic, points out where the search was slow, and assigns corrective training. Nobody is asked about their reactions to the call, and no peer-support or mental-health team member is in the room. Why does this meeting fail to be the session the crew actually needed?",
    "source": "Flashcard Slides — Set 8",
    "topic": "critical incident stress debriefing",
    "topic_n": 39
@@ -309,15 +309,15 @@
    "topic_n": 39
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
     "bacterial pneumonia",
-    "tuberculosis",
     "bronchitis",
+    "tuberculosis",
     "influenza"
    ],
-   "explanation": "Three weeks of cough, night sweats, weight loss, and coughing blood is the classic picture of tuberculosis, an airborne bacterial disease. The crew needs a fit-tested respirator and the patient needs a mask, because it spreads through the air when he coughs.",
-   "question": "A patient at a homeless shelter has been coughing for three weeks. He has lost weight, soaks his sheets with night sweats, and today he coughed up blood. Which disease is most likely?",
+   "explanation": "Tuberculosis is caused by a slow-growing airborne bacterium — identified by Robert Koch in 1882 — whose waxy coat lets it survive inside tiny dried droplet nuclei floating in shared air. Because it grows slowly, the illness builds over weeks rather than days, which rules out influenza and ordinary pneumonia, both of which peak fast. The immune system's long fight against it produces the drenching night sweats and the weight loss, and as the infection hollows out a cavity in the lung it can erode a small blood vessel, which is where the blood-streaked sputum comes from. Bronchitis inflames the airways but does not cavitate lung tissue or waste the body this way. The same airborne biology is why the crew wears a fit-tested respirator and the patient wears a mask.",
+   "question": "A shelter resident has been coughing for six weeks. He tells you he soaks his pillow with sweat most nights, has lost about 12 pounds without trying, and this morning coughed up blood-streaked sputum. At the hospital, imaging shows a hollowed-out cavity in the upper part of one lung. Which disease's biology explains this whole picture?",
    "source": "Flashcard Slides — Set 8",
    "topic": "tuberculosis",
    "topic_n": 40
@@ -477,15 +477,15 @@
    "topic_n": 42
   },
   {
-   "answer": 0,
+   "answer": 2,
    "choices": [
-    "quid pro quo",
-    "retaliation",
-    "workplace discrimination",
-    "hostile work environment"
+    "The exchange type only applies when the victim is still on probation, and she has finished hers",
+    "The exchange type requires physical touching, and the paramedic never touched her",
+    "The exchange type requires a supervisor who controls a tangible job benefit — a shift, an evaluation, a promotion — to trade; a peer controls none of those levers",
+    "The exchange type only counts once the victim's schedule has actually been changed for the worse"
    ],
-   "explanation": "A job benefit offered in exchange for a date — with a worse shift threatened if she refuses — is quid pro quo: something given for something in return. A hostile work environment is built from ongoing offensive behavior rather than a single bargain like this.",
-   "question": "A captain tells an EMT he can put her on the day shift she wants if she goes out with him — and that if she refuses, she can expect to stay on nights. What type of sexual harassment is this?",
+   "explanation": "Quid pro quo means something for something: a trade. The trade can only exist when the person making the sexual demand holds a job benefit the victim wants — scheduling, evaluations, promotions — and can grant or withhold it. A peer can create a hostile work environment and can be disciplined for it, but with no benefit under his control there is nothing to exchange, so the bargain form of harassment is not what happened here. Probation status, physical touching, and an already-changed schedule are not elements of it.",
+   "question": "A senior paramedic who has no authority over schedules, evaluations, or promotions keeps propositioning a new EMT and warns her he will 'make her shifts miserable' if she keeps refusing. When she reports it, the captain says it is serious misconduct but not the exchange type of harassment. What fact is the captain's distinction built on?",
    "source": "Flashcard Slides — Set 8",
    "topic": "quid pro quo",
    "topic_n": 43

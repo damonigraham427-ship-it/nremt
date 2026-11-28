@@ -99,15 +99,15 @@
    "topic_n": 21
   },
   {
-   "answer": 2,
+   "answer": 1,
    "choices": [
-    "incompetent",
-    "treated under implied consent",
+    "mentally incapacitated",
     "competent",
-    "mentally incapacitated"
+    "treated under implied consent",
+    "incompetent"
    ],
-   "explanation": "Competence is the ability to make rational decisions about personal well-being, not agreement with the provider's recommendation.",
-   "question": "An EMT wants to override a patient's refusal because the patient chose the option the crew considers unwise. The patient is oriented, understands the risks, and gives consistent reasons. What is the patient's status?",
+   "explanation": "Competence is judged at the moment of the decision, not stamped on a patient for the whole call. Before glucose he could not understand or explain anything, so his refusal carried no weight. Afterward he demonstrates every working part of the assessment: he is oriented, he understands the risks, he can explain them back, and his reasoning is consistent. A patient who meets those tests is competent, and his refusal must be honored even though the crew disagrees with it — disagreement was never the test.",
+   "question": "A diabetic man is found confused and combative. He refuses transport but cannot tell you where he is or what could happen if he stays home. After oral glucose, he is alert and calm. He repeats back, in his own words, that his blood sugar could crash again and that he could die, gives steady reasons for staying home, and still refuses. How should you classify him now?",
    "source": "Quiz-Style Slides — Set 4",
    "topic": "competent",
    "topic_n": 21

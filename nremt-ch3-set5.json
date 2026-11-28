@@ -29,15 +29,15 @@
    "topic_n": 25
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "protocol compliance",
-    "standard of care",
-    "incident command",
-    "applied ethics"
+    "applied ethics",
+    "moral reasoning",
+    "professional etiquette",
+    "quality improvement"
    ],
-   "explanation": "Triage decision-making applies ethical principles such as justice and beneficence in real professional practice.",
-   "question": "During a mass-casualty incident, a crew leader assigns the only ventilator to the patient most likely to survive instead of the first patient found. Which concept describes using ethical principles to make this professional decision?",
+   "explanation": "The deciding feature is where the principle went: it left the classroom and governed her actual conduct with a real patient. Taking a principle like fairness and incorporating it into professional behavior — especially when it costs effort and runs against her own impulse — is applied ethics. Professional etiquette is only about manners and courtesy as custom; her courtesy here was not custom, it was a principle deliberately put into practice, which is a deeper thing.",
+   "question": "An EMT is assigned a frequent caller — a homeless man who is often intoxicated and sometimes rude to crews. She catches herself wanting to rush through his assessment, and deliberately slows down and gives him the same full assessment and the same courtesy she would give any other patient, because treating people fairly is something she is obligated to practice on the job, not just agree with in the classroom. Her conduct is best described as:",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "applied ethics",
    "topic_n": 25

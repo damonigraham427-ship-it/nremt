@@ -73,13 +73,13 @@
   {
    "answer": 2,
    "choices": [
-    "National EMS Education Standards",
     "National EMS Core Content",
+    "National EMS Education Standards",
     "National EMS Scope of Practice Model",
     "National EMS Research Agenda"
    ],
-   "explanation": "The model is the national reference for dividing skills among EMR, EMT, AEMT, and paramedic.",
-   "question": "Two agencies disagree about which provider level should perform a certain airway skill, so they check the national model that sorts skills by level. What document should they check?",
+   "explanation": "Assigning skills to provider levels is the Scope of Practice Model's one job. The other documents in that national system do different work: the Core Content defines the body of knowledge EMS practice is built on, the Education Standards spell out what courses must teach, and the Research Agenda sets priorities for EMS research. None of those three decides who may perform a skill.",
+   "question": "In the early 2000s, NHTSA's EMS Education Agenda for the Future laid out a system of national documents, each with its own job. One of them was written to draw the lines between the four provider levels — EMR, EMT, AEMT, and paramedic — by listing the skills each level may perform. Which document is that?",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "National EMS Scope of Practice Model",
    "topic_n": 24
@@ -281,15 +281,15 @@
    "topic_n": 23
   },
   {
-   "answer": 2,
+   "answer": 0,
    "choices": [
-    "Secondary prevention",
-    "Quality control",
     "Primary prevention",
-    "Tertiary prevention"
+    "Secondary prevention",
+    "Tertiary prevention",
+    "Quality control"
    ],
-   "explanation": "Smoke alarms and helmets are meant to keep an injury or illness from ever occurring, which is primary prevention. The blood pressure booth is the secondary one, because it looks for a problem that already exists.",
-   "question": "At a county fair, your agency runs two booths. One hands out free smoke alarms and bicycle helmets to families. The other offers blood pressure checks to find people who already have hypertension so they can start treatment early. The first booth is an example of:",
+   "explanation": "The vaccine works before any illness exists: it builds immunity in a healthy provider so hepatitis B never takes hold, which means acting to keep a disease from ever occurring — primary prevention. Secondary prevention would be finding a problem early, such as testing a provider after a needle stick. Tertiary prevention is treatment and rehabilitation after a disease has already caused harm. Quality control concerns reviewing care that was given, not preventing disease.",
+   "question": "Federal OSHA rules require your agency to offer every new EMT the hepatitis B vaccine series, free, within her first days in a job where she can be exposed to patients' blood — so her body builds its protection before the virus ever gets a chance. Offering the vaccine this way is an example of:",
    "source": "Flashcard Slides — Set 5",
    "topic": "primary prevention",
    "topic_n": 23
@@ -309,29 +309,29 @@
    "topic_n": 23
   },
   {
-   "answer": 0,
+   "answer": 2,
    "choices": [
-    "The National EMS Scope of Practice Model",
+    "The National EMS Education Standards",
     "The Americans With Disabilities Act",
-    "The National EMS Agenda for the Future",
-    "The National EMS Education Standards"
+    "The National EMS Scope of Practice Model",
+    "The National EMS Agenda for the Future"
    ],
-   "explanation": "The Scope of Practice Model, created by NHTSA, outlines the skills performed by the various EMS provider levels, which is exactly the question in dispute. The Education Standards cover what courses teach, not who may perform a skill.",
-   "question": "Two agencies are arguing over a skill: the EMTs say starting an IV belongs at their level, and the AEMTs say it belongs at theirs. Both sides agree to settle it with the national document that lists which skills are performed by which provider level. Which document do they open?",
+   "explanation": "The vision document the speaker described first is the National EMS Agenda for the Future — it describes where EMS should head, but it assigns no skills to anyone. The document that actually divides skills among the four provider levels is the Scope of Practice Model. The Education Standards govern what courses teach, and the Americans With Disabilities Act is a civil-rights law, not an EMS practice document.",
+   "question": "A conference speaker holds up two NHTSA-era documents. The first, from the 1990s, paints a vision of what EMS should become over the coming generation. The second does the concrete, present-day work of assigning each skill to the level that may perform it — EMR, EMT, AEMT, or paramedic. The second document is:",
    "source": "Flashcard Slides — Set 5",
    "topic": "National EMS Scope of Practice Model",
    "topic_n": 24
   },
   {
-   "answer": 1,
+   "answer": 3,
    "choices": [
     "The National EMS Education Standards, which spell out what a course must teach",
-    "The National EMS Scope of Practice Model",
     "The agency's own protocol book",
-    "The Americans With Disabilities Act"
+    "The Americans With Disabilities Act",
+    "The National EMS Scope of Practice Model"
    ],
-   "explanation": "Assigning skills to provider levels is the Scope of Practice Model's job. The Education Standards answer a different question, what students must be taught, and a local protocol book only reflects one agency's rules.",
-   "question": "A state EMS board is deciding whether a skill belongs at the EMT level or the AEMT level. It wants the national document that assigns skills to each of the four provider levels, the model states adapt when they set their own scopes. Which document is that?",
+   "explanation": "What a course must teach and what a provider may do are two different questions with two different documents. The Education Standards answer the dean's first question — course content. The Scope of Practice Model answers the second, because it is the document that assigns skills to each provider level. A local protocol book only reflects one agency's rules inside that scope, and the Americans With Disabilities Act covers disability rights, not clinical skills.",
+   "question": "A college is starting an AEMT program, and the dean asks two different questions. First: what must the course teach? Second: once they graduate, which skills will those AEMTs actually be allowed to perform? The second question is answered by:",
    "source": "Flashcard Slides — Set 5",
    "topic": "National EMS Scope of Practice Model",
    "topic_n": 24
@@ -421,15 +421,15 @@
    "topic_n": 26
   },
   {
-   "answer": 3,
+   "answer": 2,
    "choices": [
-    "Benchmarking",
     "Credentialing",
-    "Continuous quality improvement",
-    "Quality control"
+    "Benchmarking",
+    "Quality control",
+    "Continuous quality improvement"
    ],
-   "explanation": "Quality control is the medical director's oversight of care on each individual call, checking that standards were met on that call. The year-long, system-wide data study is the CQI side of the pair.",
-   "question": "Two reviews happen in the same week. In one, the medical director personally reviews one EMT's patient care report from a single call to check that the required care standard was met. In the other, a committee studies a full year of data from every crew in the system. The single-call review is an example of:",
+   "explanation": "Quality control is oversight of the care given on individual calls: the medical director reviews a specific provider's reports, checks them against the standard, and corrects that provider. Continuous quality improvement — the label he used — is the system-wide side, collecting data from all crews over time to improve the whole system. Nothing in his description compares the agency with outside systems (benchmarking) or verifies a provider's qualifications to practice (credentialing).",
+   "question": "At a staff meeting, the medical director describes his month: 'I personally reviewed the patient care reports from one EMT's calls, checked each one against our protocols, and sat down with him about the two calls where his care fell short.' He calls this the department's continuous quality improvement. His label is wrong — the activity he described is actually an example of:",
    "source": "Flashcard Slides — Set 5",
    "topic": "quality control",
    "topic_n": 26
@@ -465,13 +465,13 @@
   {
    "answer": 3,
    "choices": [
+    "Emergency medical dispatcher",
     "Emergency medical responder",
     "Medical director",
-    "Emergency medical dispatcher",
     "Paramedic"
    ],
-   "explanation": "Intubation, emergency pharmacology, and cardiac monitoring are the paramedic's extensive ALS skill set. The AEMT covers only some advanced skills, and the EMR, dispatcher, and medical director do not perform this field care.",
-   "question": "On a critical call, the patient needs endotracheal intubation, IV cardiac medications, and cardiac rhythm interpretation. Your crew has an EMT and an AEMT. Which additional provider level must respond to perform all of these?",
+   "explanation": "Endotracheal intubation, IV cardiac pharmacology, and rhythm interpretation together are the paramedic's advanced life support skill set — no lower level carries all three, which is why the intercept has to bring that level to the patient. An emergency medical responder provides basic first-response care only. The medical director and the emergency medical dispatcher direct care from off scene; neither rides the intercept to perform these skills.",
+   "question": "Your BLS crew is 35 minutes from the hospital with a man your AED shocked back to a weak pulse. His blood pressure is falling, his breathing is too slow to support him, and keeping his airway open is getting harder. He needs an advanced airway placed into the trachea, IV cardiac medications, and someone who can read the cardiac monitor and act on it during the rest of the transport. You request an intercept with the closest ALS unit. That unit must be staffed at which provider level?",
    "source": "Flashcard Slides — Set 5",
    "topic": "paramedic",
    "topic_n": 27

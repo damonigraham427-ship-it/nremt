@@ -43,29 +43,29 @@
    "topic_n": 10
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "prescription glasses",
-    "eye protection",
-    "a surgical mask",
-    "sunglasses"
+    "The eye splash — the surface of the eye is a mucous membrane with its own blood supply, so bloodborne viruses can enter the body there; intact skin covered by a glove is a barrier, not an entry route",
+    "Both contacts count the same, because any touch of blood anywhere on the body is an exposure",
+    "The hand contact — skin absorbs bloodborne viruses from the surface faster than the eye does",
+    "Neither contact counts, because an exposure requires a needle or visibly broken skin"
    ],
-   "explanation": "Proper rated protection, such as goggles or a face shield, covers the sides regular glasses leave open.",
-   "question": "At a crash scene, blood and fluids may splash while you control bleeding and clear an airway. What should you put on to protect your eyes, instead of relying on regular glasses?",
+   "explanation": "Bloodborne viruses such as hepatitis B, hepatitis C, and HIV enter the body through mucous membranes and broken skin — not through intact skin. The conjunctiva covering the eye is a mucous membrane, which is why a splash to the eye is a true exposure that needs flushing, reporting, and follow-up, and why rated eye protection goes on before the splash risk starts rather than after. Blood on an intact gloved hand is contamination to wash off, not an exposure.",
+   "question": "During a messy call, a drop of the patient's blood lands on one EMT's gloved hand, and a second drop lands in his partner's unprotected eye. Only one of these two contacts gets written up as a bloodborne pathogen exposure. Which one, and why?",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "eye protection",
    "topic_n": 42
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
     "bacterial pneumonia",
-    "tuberculosis",
     "bronchitis",
+    "tuberculosis",
     "influenza"
    ],
-   "explanation": "Three weeks of cough, night sweats, weight loss, and coughing blood is the classic picture of tuberculosis, an airborne bacterial disease. The crew needs a fit-tested respirator and the patient needs a mask, because it spreads through the air when he coughs.",
-   "question": "A patient at a homeless shelter has been coughing for three weeks. He has lost weight, soaks his sheets with night sweats, and today he coughed up blood. Which disease is most likely?",
+   "explanation": "Tuberculosis is caused by a slow-growing airborne bacterium — identified by Robert Koch in 1882 — whose waxy coat lets it survive inside tiny dried droplet nuclei floating in shared air. Because it grows slowly, the illness builds over weeks rather than days, which rules out influenza and ordinary pneumonia, both of which peak fast. The immune system's long fight against it produces the drenching night sweats and the weight loss, and as the infection hollows out a cavity in the lung it can erode a small blood vessel, which is where the blood-streaked sputum comes from. Bronchitis inflames the airways but does not cavitate lung tissue or waste the body this way. The same airborne biology is why the crew wears a fit-tested respirator and the patient wears a mask.",
+   "question": "A shelter resident has been coughing for six weeks. He tells you he soaks his pillow with sweat most nights, has lost about 12 pounds without trying, and this morning coughed up blood-streaked sputum. At the hospital, imaging shows a hollowed-out cavity in the upper part of one lung. Which disease's biology explains this whole picture?",
    "source": "Flashcard Slides — Set 8",
    "topic": "tuberculosis",
    "topic_n": 40
@@ -73,13 +73,13 @@
   {
    "answer": 0,
    "choices": [
-    "eustress",
-    "delayed stress reaction",
-    "distress",
-    "burnout"
+    "Hypothalamus → pituitary gland → adrenal glands → cortisol",
+    "Hypothalamus → pituitary gland → adrenal glands → adrenaline",
+    "Hypothalamus → adrenal glands → pituitary gland → cortisol",
+    "Adrenal glands → pituitary gland → hypothalamus → cortisol"
    ],
-   "explanation": "The pressure acted as a benefit, sharpening her work; a beneficial response to a stressor is eustress.",
-   "question": "During a multi-casualty drill, a paramedic notices she feels energized and clear-headed under the time pressure, and her triage times are her fastest ever. What term describes this positive stress response?",
+   "explanation": "The chain starts in the brain, so the hypothalamus fires first; it signals the pituitary, whose hormone (ACTH) travels in the blood to the adrenal glands, and the adrenal cortex answers with cortisol — the stress hormone this gland-to-gland chain exists to release. Adrenaline is the near miss: the adrenals do release it, but on a direct nerve signal, not as the end of the pituitary-driven hormone chain. The reversed and skipped-step chains break the one-signal-to-the-next order the stem describes.",
+   "question": "The surge that can sharpen a provider on a call runs on a hormone chain: the brain's alarm center starts it, one gland signals the next, and it ends at the adrenal glands, which release the body's main stress hormone into the blood. Which chain shows that pathway in the right order?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
@@ -99,15 +99,15 @@
    "topic_n": 48
   },
   {
-   "answer": 1,
+   "answer": 3,
    "choices": [
-    "putting on a new pair of gloves",
-    "hand washing",
-    "changing into a fresh uniform",
-    "disinfecting the stretcher"
+    "C. difficile spreads only through the air, so how he cleans his hands after the call does not matter",
+    "The gel works, but too slowly — he should glove up over it and clean his hands at the end of the shift instead",
+    "Alcohol gel does kill C. difficile spores just as well as soap; he only needs the sink when his hands are visibly soiled",
+    "C. difficile surrounds itself in a hardy spore with no fatty outer envelope for alcohol to dissolve, so the gel leaves the spores alive on his hands; soap, water, and friction physically wash them off — he needs hand washing at the sink"
    ],
-   "explanation": "Gloves can leak or tear and hands are contaminated during glove removal, so hand washing is required after every patient contact.",
-   "question": "After removing your gloves following a call with a patient who has influenza, your hands look clean, so you head straight to the next call. What should you have done first?",
+   "explanation": "Alcohol hand rubs work by dissolving the fatty envelope and denaturing the proteins of most bacteria and viruses. C. difficile escapes that chemistry by forming spores — dormant shells with no envelope for alcohol to dissolve — so gel can leave live spores sitting on the skin. Soap, running water, and friction do not need to kill the spores; they lift them off the hands and rinse them away. That is why spore-forming organisms, like visibly soiled hands, send you to the sink instead of the dispenser.",
+   "question": "Your crew has just transported a patient whose severe watery diarrhea is caused by Clostridioides difficile. At the hospital, your partner reaches for the alcohol gel dispenser and says, 'This kills everything — faster than the sink.' Why is he wrong about this particular organism?",
    "source": "Quiz-Style Slides — Set 9",
    "topic": "hand washing",
    "topic_n": 46
@@ -297,13 +297,13 @@
   {
    "answer": 3,
    "choices": [
-    "acute stress reaction",
-    "cumulative stress reaction",
-    "distress",
-    "eustress"
+    "The first EMT's alarm system never actually fired, which is why she stayed calm and effective",
+    "Only the second EMT released stress hormones; the first one's body skipped the stress response entirely",
+    "The difference is physical fitness, because the stress response is purely physical and thinking plays no part in it",
+    "The appraisal step — how the thinking brain reads the alarm — decides whether arousal becomes a helpful challenge response or a harmful threat response"
    ],
-   "explanation": "Her stress response helped rather than harmed her performance, which makes it eustress, a beneficial response to a stressor. Distress is the harmful version, and her reaction is tied neither to one traumatic moment nor to a long buildup.",
-   "question": "Before her first shift as the lead EMT, a new provider feels keyed up and nervous, but the pressure makes her double-check her gear, review her protocols, and perform better than she expected. Her response to the stressor is best described as:",
+   "explanation": "Both bodies fired the same alarm — both felt the surge — so the difference cannot be whether stress hormones were released; it has to be what happened next. The brain's appraisal of the alarm is the fork in the road: read as a challenge the arousal can handle, it becomes the beneficial response; read as a threat, it becomes the harmful one. That is why the same call can leave one provider sharper and the other rattled, and why appraisal — not fitness or a missing alarm — is the mechanism.",
+   "question": "Two EMTs draw the same tough assignment. The first feels the surge, sizes the job up as a challenge she can handle, and settles into sharp, focused work. The second reads the same surge as a threat, fixates on everything that could go wrong, and tightens up until his performance suffers. What best explains why the same body alarm produced two different outcomes?",
    "source": "Flashcard Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
@@ -365,29 +365,29 @@
    "topic_n": 20
   },
   {
-   "answer": 0,
+   "answer": 3,
    "choices": [
-    "foodborne transmission",
-    "airborne transmission",
-    "vector-borne transmission",
-    "direct contact"
+    "Guests passed the illness hand to hand as they served themselves from the shared trays",
+    "Cooking the chicken earlier drove bacteria into the air, and guests breathed them in while eating",
+    "The mayonnaise turned the salad into a chemical poison as soon as it warmed up",
+    "While the sandwiches sat warm, bacteria multiplied in the food and released a toxin, so people were poisoned by the toxin itself rather than by a growing infection"
    ],
-   "explanation": "The illness tracked to one shared food item, which points to a contaminated food source. Airborne spread would not have spared the residents who skipped the dish but shared the same building air, and no contact or insect explains the pattern.",
-   "question": "A nursing home serves a catered lunch. About a day later, 14 residents who ate the potato salad develop vomiting and diarrhea, while residents who skipped it stay well. The route by which this illness most likely spread is:",
+   "explanation": "This is foodborne transmission, but the cargo matters: the route carried a preformed toxin, not just live bacteria. Food sitting warm for hours lets bacteria such as Staphylococcus aureus multiply and release a toxin into the food. Because the toxin is already made when the food is eaten, illness hits within a few hours and leans heavily on vomiting. A growing infection swallowed with food usually takes much longer to show up, breathing food in is not the route here, and hand-to-hand spread does not explain dozens of people falling ill at the same time from the same dish.",
+   "question": "At a church picnic, trays of chicken salad sandwiches are made in the morning and left sitting out, covered, for about five hours before anyone eats. The chicken was fully cooked when the salad was mixed. Within about three hours of the meal, dozens of guests are vomiting and cramping. What best explains how this food made people sick so fast?",
    "source": "Flashcard Slides — Set 1",
    "topic": "foodborne transmission",
    "topic_n": 5
   },
   {
-   "answer": 0,
+   "answer": 2,
    "choices": [
-    "acute stress reactions",
-    "compassion fatigue",
-    "burnout",
-    "delayed stress reactions"
+    "Compassion fatigue, because feeling detached means she has stopped caring about the patient",
+    "Early burnout, because physical symptoms like a pounding heart only come from months of overload",
+    "An acute stress reaction — her threat system has fired during the event itself, driving a surge of stress chemistry that is expected and usually settles",
+    "A delayed stress reaction, because numbness and detachment only appear after an event is over"
    ],
-   "explanation": "Stress responses that occur during the stressful situation are acute stress reactions. Burnout and compassion fatigue build over months or years of work, and delayed reactions appear only after the event has passed.",
-   "question": "Halfway through a pediatric arrest, you notice your partner's hands are shaking, her heart is pounding, and she has to consciously slow her breathing to keep working. These responses, happening in the middle of the event, are:",
+   "explanation": "These responses are happening in the middle of the event, which is what makes them an acute stress reaction: the brain's threat detector fires before conscious appraisal, pushing epinephrine and norepinephrine up — pounding heart, trembling, a numb or detached feeling. Delayed stress reactions appear only after the event has passed, while burnout and compassion fatigue build over months to years of accumulated work, not during a single call.",
+   "question": "Halfway through a house fire call with a trapped occupant, you notice your partner's hands trembling and her heart pounding. She tells you she feels numb and strangely detached, even though she is still doing her job. Her state during this call is best understood as:",
    "source": "Flashcard Slides — Set 5",
    "topic": "acute stress reactions",
    "topic_n": 28
@@ -395,13 +395,13 @@
   {
    "answer": 2,
    "choices": [
-    "distress",
-    "resilience",
-    "eustress",
-    "cumulative stress reaction"
+    "His stress response converted into burnout, a condition that develops over the course of a single shift",
+    "He was never having a stress response at all, and the second half of the shift is simply his normal personality",
+    "Arousal helps performance only up to a point; pushed past that point, the beneficial stress response tips over into distress",
+    "The first half of the shift was a delayed stress reaction, and it caught up with him all at once"
    ],
-   "explanation": "His stress response produced preparation and better performance, a beneficial outcome, so it is eustress rather than distress.",
-   "question": "A new EMT is nervous before his first solo shift. Instead of dreading it, he uses the nerves to double-check his gear, review protocols, and arrive early. What type of stress response is he showing?",
+   "explanation": "Nothing about the stressor changed except dose and duration: the same arousal that sharpened him early on kept climbing with no recovery, and past its useful peak it degrades performance instead of feeding it — that is the beneficial response (eustress) tipping into the harmful one (distress). Burnout is out: it builds over months to years of chronic stress, not one shift. A delayed stress reaction is a reaction that surfaces after a specific traumatic event, not a within-shift slide.",
+   "question": "An EMT starts a busy shift keyed up in a good way — alert, quick, and enjoying the pace. By hour ten, after back-to-back critical calls with no break, that same wired feeling has curdled: he is snapping at his partner, fumbling equipment he knows cold, and dreading the next tone. What best explains the change?",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
@@ -421,15 +421,15 @@
    "topic_n": 19
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "Centers for Disease Control and Prevention",
-    "National Institute for Occupational Safety and Health",
-    "Food and Drug Administration",
-    "Occupational Safety and Health Administration"
+    "OSHA writes workplace safety standards that carry the force of law, so it can inspect a workplace and cite and fine the employer; CDC publishes infection-control guidance and recommendations but has no power to enforce them.",
+    "OSHA's name is an error; citations for infection-control problems are actually issued by CDC.",
+    "OSHA and CDC split enforcement between them, and either agency could have issued this citation.",
+    "OSHA only covers construction and manufacturing sites, so the citation must really have come from the state health department."
    ],
-   "explanation": "OSHA is the federal agency that writes and enforces workplace safety rules — it inspects and issues citations. The CDC and NIOSH study health problems and publish recommendations, but neither one can fine your service.",
-   "question": "An inspector finds used needles being recapped at your station and no written exposure control plan. A few weeks later your service receives a citation and a fine. Which agency issued it?",
+   "explanation": "A citation with a fine means a legal standard was violated — that is OSHA's enforcement role, and the written exposure control plan requirement sits in OSHA's Bloodborne Pathogens standard (29 CFR 1910.1030). CDC's infection-control guidance shapes what a good plan contains, but guidance is advice: CDC cannot inspect your station, cite your service, or fine it. Only OSHA does that, because its standards are law and CDC's publications are recommendations.",
+   "question": "Your service receives a citation and a fine over recapped needles and a missing exposure control plan. A coworker is confused: 'I thought infection control was CDC's thing — why is OSHA's name on this?' Which reply is correct?",
    "source": "Flashcard Slides — Set 6",
    "topic": "Occupational Safety and Health Administration",
    "topic_n": 34
@@ -449,15 +449,15 @@
    "topic_n": 36
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "eustress",
-    "cumulative stress reactions",
-    "acute stress reaction",
-    "posttraumatic stress disorder"
+    "Her stress response stays switched on shift after shift and never fully resets, so the strain piles up instead of clearing",
+    "The steady pressure is sharpening her focus and lifting her performance",
+    "A single overwhelming surge of stress hormones overloaded her coping during one call",
+    "One traumatic memory keeps re-triggering her alarm system long after the event"
    ],
-   "explanation": "Prolonged, excessive stress built up from many incidents over time produces cumulative stress reactions. Posttraumatic stress disorder ties to a specific traumatic incident, and an acute stress reaction happens during a single event.",
-   "question": "An EMT tells his chief, 'There was never one terrible call. It is just three years of bad calls stacking up, and lately I am exhausted all the time.' His stress picture best fits:",
+   "explanation": "This is the engine of a cumulative stress reaction. The stress system is built to fire, then stand down and recover. When the demand never lets up, it stays partly switched on, recovery never completes, and the wear — broken sleep, rising blood pressure, irritability, constant exhaustion — accumulates over months and years. A memory that keeps re-triggering the alarm points to posttraumatic stress disorder, a single overwhelming surge describes an acute stress reaction during one event, and pressure that sharpens focus and performance describes eustress, the helpful form of stress.",
+   "question": "Over two years of short staffing and relentless call volume, a once-steady EMT has slowly worn down. She sleeps poorly, her blood pressure is creeping up, she snaps at her crew, and she is tired all the time — yet there is no single call she can point to as the cause. What is happening in her stress system that sets this picture apart from a reaction to one bad event?",
    "source": "Flashcard Slides — Set 2",
    "topic": "cumulative stress reactions",
    "topic_n": 12
@@ -547,15 +547,15 @@
    "topic_n": 23
   },
   {
-   "answer": 0,
+   "answer": 2,
    "choices": [
-    "Occupational Safety and Health Administration",
-    "Environmental Protection Agency",
-    "Centers for Disease Control and Prevention",
-    "National Institute for Occupational Safety and Health"
+    "He cannot decline at all; the standard requires every EMT with exposure risk to complete the vaccine series.",
+    "He can decline with a verbal no and no paperwork, and the employer never has to raise the offer again.",
+    "He may decline, but only by signing the standard's declination form — and if he changes his mind later while still at risk, the employer must offer the series free again.",
+    "He is right — the free offer is made once, when the standard's training is first given, and it expires if he declines."
    ],
-   "explanation": "The free hepatitis B vaccine offer comes from OSHA's bloodborne pathogens standard — a regulation your employer must follow. The CDC recommends the vaccine, but a recommendation carries no legal force and no citation.",
-   "question": "Your service is legally required to offer you a certain vaccine free of charge because of your exposure risk on the job. Which agency's rules create that legal requirement?",
+   "explanation": "Under OSHA's Bloodborne Pathogens standard (29 CFR 1910.1030), the vaccine is the employer's standing duty, not a one-time offer: it must be offered free, after training and within 10 working days of assignment to duties with exposure risk. An employee who declines signs a declination form so the refusal is documented — but the door stays open, and if he asks later while still exposed, the employer must offer the series free again. The standard requires the offer; it cannot force the vaccination itself.",
+   "question": "OSHA's Bloodborne Pathogens standard requires your employer to offer the hepatitis B vaccine series free to EMTs whose work exposes them to blood. A new EMT says, 'If I turn it down now, I've lost my chance to get it free.' Which response is correct?",
    "source": "Flashcard Slides — Set 6",
    "topic": "Occupational Safety and Health Administration",
    "topic_n": 34
@@ -813,15 +813,15 @@
    "topic_n": 39
   },
   {
-   "answer": 0,
+   "answer": 3,
    "choices": [
-    "wellness",
-    "resilience",
-    "critical incident stress management",
-    "eustress"
+    "Toughness works until a critical incident uses up a provider's resilience, and the routine is how the department refills it afterward",
+    "The posted routine is the department's critical incident stress management program under a shorter name",
+    "OSHA requires every employer to post a daily health routine for its crews",
+    "Those daily habits are the active work of building and keeping health across a whole career, and that ongoing pursuit is what wellness means"
    ],
-   "explanation": "Wellness is the active, ongoing pursuit of good health through daily habits like sleep, exercise, nutrition, and screening. Resilience is the capacity to bounce back after a bad event, and critical incident stress management is a response process used after incidents, not a daily habit.",
-   "question": "A medic makes a standing plan for her career: she guards her sleep, exercises on her days off, eats real meals on shift, and keeps up with her annual physicals and vaccinations. She is actively practicing:",
+   "explanation": "Wellness is not a reaction to a bad call; it is the active, ongoing pursuit of good health through daily habits — sleep, exercise, nutrition, and screening — kept up across a whole career. Resilience is a different idea: the capacity to bounce back after a hard event, not a daily routine. Critical incident stress management is a structured process a department runs after incidents, not a set of personal health habits. And no OSHA rule orders employers to post a daily health routine — this department is choosing prevention over repair.",
+   "question": "A rookie laughs at the routine posted in the station — sleep a full night, train on shift, eat real food, keep your annual physical current — and asks why the department calls that 'wellness' instead of just telling crews to toughen up. Which answer is most accurate?",
    "source": "Flashcard Slides — Set 1",
    "topic": "wellness",
    "topic_n": 6
@@ -953,15 +953,15 @@
    "topic_n": 42
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "critical incident stress debriefing",
-    "critical incident stress management",
-    "a defusing",
-    "an employee assistance program"
+    "It works because the one formal group session prevents PTSD, and the defusings and check-ins around it are just scheduling extras.",
+    "It replaces professional mental-health care, so responders with lasting symptoms are treated inside the program instead of being referred out.",
+    "It intervenes early and in layers — a defusing within hours, a structured debriefing a day or two later, and follow-up afterward — so responders process the event, learn that their reactions are normal, and get referred for more help if they need it; that layered system is critical incident stress management, not any single session.",
+    "It works by keeping responders away from each other until symptoms fade, so nobody reinforces anyone else's stress."
    ],
-   "explanation": "Defusings, the formal group session, and follow-up are separate pieces; the whole system that organizes them is critical incident stress management. The debriefing is only the one formal session inside that larger process.",
-   "question": "After a line-of-duty death, your department brings in a trained peer team. There is a short defusing that night, a formal group session two days later, and follow-up check-ins with the crew over the next few weeks. What is this whole organized process called?",
+   "explanation": "Critical incident stress management is a system, not a session, and its pieces are timed on purpose: a defusing within hours, a structured debriefing about 24 to 72 hours later, then follow-up. Working through the event early with trained peers helps responders process it and normalizes the stress reaction, and the follow-up pieces spot the few who need professional help — which the program refers out for, never replaces. No single session, including the debriefing, prevents PTSD by itself.",
+   "question": "A rookie asks why your department bothers with a whole organized peer-support program after a bad call instead of just giving everyone a day off. Which explanation best describes how that program is supposed to work?",
    "source": "Flashcard Slides — Set 6",
    "topic": "critical incident stress management",
    "topic_n": 33
@@ -1051,15 +1051,15 @@
    "topic_n": 5
   },
   {
-   "answer": 1,
+   "answer": 3,
    "choices": [
-    "airborne pathogens",
-    "bloodborne pathogens",
-    "foodborne pathogens",
-    "vector-borne pathogens"
+    "Hepatitis C has a vaccine but hepatitis B does not, which is why OSHA requires employers to offer the hepatitis C vaccine free",
+    "All three viruses attack the liver, and all three can be prevented with vaccines",
+    "HIV attacks the liver the way the hepatitis viruses do, while hepatitis B attacks the immune system",
+    "Hepatitis B and hepatitis C attack the liver and travel in blood; HIV attacks the immune system's CD4 cells and also travels in blood — and of the three, only hepatitis B has a vaccine"
    ],
-   "explanation": "The hazard in a needlestick is the group of microorganisms carried in human blood, including hepatitis B and the human immunodeficiency virus. The exposure plan, the testing, and the follow-up are all built around those bloodborne pathogens.",
-   "question": "An EMT is stuck by a used needle hidden in soiled linen. The department's exposure plan treats this as a high-priority event mainly because of the risk from:",
+   "explanation": "The three share a route — blood — but not a target. The hepatitis viruses live in the liver; HIV lives in the immune system itself, destroying the CD4 helper cells that coordinate the body's defenses. The vaccine fact follows the same split: a hepatitis B vaccine exists (it is the one OSHA requires employers to offer free), while there is no vaccine for hepatitis C or HIV — hepatitis C's protection is avoidance, and its treatment is a cure, not a vaccine. Swapping the targets or the vaccine between them is exactly the error the plan exists to prevent.",
+   "question": "OSHA's Bloodborne Pathogens standard (29 CFR 1910.1030) requires every employer to keep a written Exposure Control Plan for the hazards that ride in human blood. Three of those hazards sit side by side in the plan. Which statement about them is correct?",
    "source": "Flashcard Slides — Set 3",
    "topic": "bloodborne pathogens",
    "topic_n": 17
@@ -1107,15 +1107,15 @@
    "topic_n": 19
   },
   {
-   "answer": 0,
+   "answer": 2,
    "choices": [
-    "quid pro quo",
-    "retaliation",
-    "workplace discrimination",
-    "hostile work environment"
+    "The exchange type only applies when the victim is still on probation, and she has finished hers",
+    "The exchange type requires physical touching, and the paramedic never touched her",
+    "The exchange type requires a supervisor who controls a tangible job benefit — a shift, an evaluation, a promotion — to trade; a peer controls none of those levers",
+    "The exchange type only counts once the victim's schedule has actually been changed for the worse"
    ],
-   "explanation": "A job benefit offered in exchange for a date — with a worse shift threatened if she refuses — is quid pro quo: something given for something in return. A hostile work environment is built from ongoing offensive behavior rather than a single bargain like this.",
-   "question": "A captain tells an EMT he can put her on the day shift she wants if she goes out with him — and that if she refuses, she can expect to stay on nights. What type of sexual harassment is this?",
+   "explanation": "Quid pro quo means something for something: a trade. The trade can only exist when the person making the sexual demand holds a job benefit the victim wants — scheduling, evaluations, promotions — and can grant or withhold it. A peer can create a hostile work environment and can be disciplined for it, but with no benefit under his control there is nothing to exchange, so the bargain form of harassment is not what happened here. Probation status, physical touching, and an already-changed schedule are not elements of it.",
+   "question": "A senior paramedic who has no authority over schedules, evaluations, or promotions keeps propositioning a new EMT and warns her he will 'make her shifts miserable' if she keeps refusing. When she reports it, the captain says it is serious misconduct but not the exchange type of harassment. What fact is the captain's distinction built on?",
    "source": "Flashcard Slides — Set 8",
    "topic": "quid pro quo",
    "topic_n": 43
@@ -1123,13 +1123,13 @@
   {
    "answer": 2,
    "choices": [
-    "burnout",
-    "eustress",
-    "general adaptation syndrome",
-    "cumulative stress reactions"
+    "cumulative stress reactions",
+    "fight-or-flight response",
+    "allostatic load",
+    "eustress"
    ],
-   "explanation": "The general adaptation syndrome is the body's staged response to stress: an alarm response, then a stage of reaction and resistance, then recovery or, if the stress is prolonged, exhaustion. Cumulative stress reactions describe stressors piling up, not the body's stage-by-stage response to them.",
-   "question": "A medic looks back over his career: as a rookie, every tone drop spiked his heart rate; for years he adapted and handled the pace well; lately, after years of unrelenting overtime, he is exhausted, run down, and catches every cold that goes around. This whole staged response of the body to stress over time is known as:",
+   "explanation": "Allostatic load is the accumulated physiological cost of chronic stress-system activation — the wear that builds when cortisol and sympathetic output stay switched on for years. It is the mechanism behind the exhaustion stage of Selye's general adaptation syndrome: blood pressure that no longer recovers, a suppressed immune system, and slower healing. Cumulative stress reactions describe stressful events piling up; allostatic load is what that pile-up does to the body itself.",
+   "question": "After years of mandatory overtime and broken sleep, a veteran medic's body no longer settles back down between calls. His blood pressure stays up, he catches every infection going around the station, and small injuries take noticeably longer to heal. The accumulated wear and tear on his body from years of his stress systems being switched on is best described as:",
    "source": "Flashcard Slides — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30
@@ -1177,15 +1177,15 @@
    "topic_n": 30
   },
   {
-   "answer": 3,
+   "answer": 2,
    "choices": [
-    "Occupational Safety and Health Administration",
-    "Federal Emergency Management Agency",
-    "National Institutes of Health",
-    "Centers for Disease Control and Prevention"
+    "The National EMS Education Standards",
+    "The Federal Register",
+    "The Morbidity and Mortality Weekly Report (MMWR)",
+    "The New England Journal of Medicine"
    ],
-   "explanation": "Case counts, outbreak data, and vaccine recommendations are published by the CDC. OSHA publishes enforceable workplace rules instead, and the NIH funds and conducts research rather than issuing field guidance.",
-   "question": "Your medical director is updating the service's protocols and wants current case counts for a spreading illness plus the latest vaccine recommendations. Which agency's publications does she go to?",
+   "explanation": "CDC publishes the MMWR every week, and it is where outbreak investigations are first officially reported and where adopted vaccine recommendations — developed by CDC's Advisory Committee on Immunization Practices — are published. The Federal Register is the government's regulatory journal, where OSHA standards appear, not CDC guidance; the National EMS Education Standards come from NHTSA, not CDC; and the New England Journal of Medicine is a private medical journal that no agency owns.",
+   "question": "Your medical director wants two things from CDC in one place: the first official reports on a newly recognized outbreak, and the current adopted vaccine recommendations. Which CDC publication carries both?",
    "source": "Flashcard Slides — Set 6",
    "topic": "Centers for Disease Control and Prevention",
    "topic_n": 35
@@ -1345,15 +1345,15 @@
    "topic_n": 4
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "staging",
-    "cover",
-    "concealment",
-    "a safe corridor"
+    "They block the shooter's view, so the shooter cannot aim at whoever is behind them",
+    "Their hard surfaces deflect every incoming round harmlessly off to the side",
+    "Their mass absorbs and dissipates the bullet's energy, so the round stops instead of passing through",
+    "They sit farther from the shooter, and distance by itself stops a round in flight"
    ],
-   "explanation": "Cover is the tactical use of an impenetrable barrier for protection. Concealment only hides you from view; a bush or a curtain would conceal you but stop nothing.",
-   "question": "Shots are fired as your crew approaches a scene. Your partner drops behind the ambulance's engine block, and you position yourself behind a thick concrete pillar. Both of you are relying on barriers that can actually stop a bullet. In tactical terms, you are using:",
+   "explanation": "That stopping power is exactly what makes a barrier cover: dense mass soaks up the bullet's kinetic energy and the round never reaches the person behind it. The fence and the door only hide you from view — that is concealment, and the demonstration shows rounds sail straight through it. Distance can hurt a shooter's accuracy, but it does not stop a round that arrives, and no barrier reliably deflects every round away.",
+   "question": "At a range demonstration, an instructor fires the same rifle round at four barriers: a wooden fence, a car door, a filled concrete-block wall, and an engine block. The round passes through the fence and the door but stops in the wall and the engine block. What makes the wall and the engine block protective when the fence and the door are not?",
    "source": "Flashcard Slides — Set 4",
    "topic": "cover",
    "topic_n": 22
@@ -1529,13 +1529,13 @@
   {
    "answer": 3,
    "choices": [
-    "acute stress reactions",
-    "cumulative stress reactions",
-    "eustress",
-    "delayed stress reactions"
+    "The slower shifts caused a brand-new stress injury that has nothing to do with the call",
+    "Stress reactions always begin exactly six months after an event, on a fixed schedule",
+    "He was never affected by the call, so these symptoms must be coming from stress at home",
+    "His avoidance had been keeping the trauma cues away; when the cues came back, the delayed reaction surfaced"
    ],
-   "explanation": "Reactions that occur after the stressful situation has passed, sometimes months later, are delayed stress reactions. Acute stress reactions happen during the event itself, and cumulative reactions come from stress piling up over time.",
-   "question": "An EMT passes her one-month wellness screen after a fatal fire with no symptoms at all. At her one-year check-in she reports new nightmares, irritability, and trouble sleeping that started months after the fire. Symptoms that first show up well after the stressful event are known as:",
+   "explanation": "This is a delayed stress reaction, and the delay has a mechanism: reminders — a street, a smell, a sound — are what reactivate the brain's threat circuitry, and his busy schedule plus avoidance had kept those reminders away. Once the schedule change forced the cues back into his days, the reaction they trigger finally showed itself. There is no fixed six-month timetable, the timing tracks the returning cues rather than the slower shifts themselves, and 'he seemed fine at first' is exactly how delayed reactions hide — it never meant the call left no mark.",
+   "question": "For six months after a fatal call, an EMT seems fine. He picks up extra shifts, stays busy, and quietly avoids the neighborhood where it happened. Then a schedule change puts him on slower shifts that run through that same neighborhood — and the nightmares, jumpiness, and broken sleep begin. What best explains the timing of his symptoms?",
    "source": "Flashcard Slides — Set 4",
    "topic": "delayed stress reactions",
    "topic_n": 21
@@ -1793,15 +1793,15 @@
    "topic_n": 48
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "indirect contact",
-    "foodborne transmission",
+    "airborne transmission",
     "direct contact",
-    "airborne transmission"
+    "foodborne transmission",
+    "indirect contact"
    ],
-   "explanation": "The organism traveled in droplets and dust suspended in the room air and was inhaled later, which is airborne transmission. No contact with the patient or with a shared object was needed.",
-   "question": "A patient with measles spends an hour in a clinic waiting room, then leaves. An hour later, a person who never met him sits in the same room, breathes the air, and develops measles days afterward. This illness spread by:",
+   "explanation": "Wiping surfaces and changing sheets deals with contaminated objects, which is the indirect contact route. Measles also travels on tiny particles that stay suspended in the air after the patient is gone, so the next person can inhale them without touching anything. That is airborne transmission, and moving air through the compartment is the control that addresses it.",
+   "question": "You transport a patient with measles. After the call, your partner disinfects every surface in the patient compartment and changes the stretcher sheets, then asks why the supervisor still wants the compartment aired out with the exhaust fan running before the next patient is loaded. The route of transmission the supervisor is still concerned about is:",
    "source": "Flashcard Slides — Set 5",
    "topic": "airborne transmission",
    "topic_n": 26
@@ -2059,15 +2059,15 @@
    "topic_n": 22
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "cumulative stress reaction",
-    "posttraumatic stress disorder",
-    "compassion fatigue",
-    "acute stress reaction"
+    "Amygdala firing too readily + prefrontal cortex brake firing too weakly",
+    "Amygdala firing too weakly + prefrontal cortex brake firing too strongly",
+    "Hippocampus firing too readily + amygdala firing too weakly",
+    "Prefrontal cortex firing too strongly + hippocampus firing too weakly"
    ],
-   "explanation": "His symptoms surfaced long after the event and are tied to that one incident, which points to posttraumatic stress disorder. An acute stress reaction happens during or right after the event, not a year later, and cumulative stress builds from many incidents rather than one.",
-   "question": "A paramedic works a house fire where a child dies. At his one-month wellness check he says he is doing fine. A year later he is having nightmares about the call, avoids the street where it happened, and has started drinking to fall asleep. His presentation best fits which reaction?",
+   "explanation": "This is the circuitry under posttraumatic stress disorder. The amygdala is the brain's threat detector; after trauma it becomes hyperreactive and fires on cues that merely resemble the event — a tone pitch, a smell, a street — which is why his heart is pounding before he knows why. The medial prefrontal cortex is the brake that should appraise that alarm and calm it down, and in PTSD it under-fires, so the alarm runs unchecked and he stays vigilant. The hippocampus has a different job — stamping a memory with its time and place; when it falters, memories come back feeling present instead of past, which drives flashbacks more than this instant startle.",
+   "question": "Nine months after working a fatal wreck, an EMT still braces whenever the station tones hit the same pitch as that night — his heart is pounding before he even realizes why. On calls he scans the room constantly and cannot settle. Which pairing of brain changes best explains why his alarm fires before he can think his way out of it?",
    "source": "Flashcard Slides — Set 1",
    "topic": "posttraumatic stress disorder",
    "topic_n": 1
@@ -2087,15 +2087,15 @@
    "topic_n": 1
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "cumulative stress reaction",
-    "burnout",
-    "acute stress reaction",
-    "compassion fatigue"
+    "A complete inability to feel emotion, at work and at home alike",
+    "A sudden onset of symptoms over a single weekend of shifts",
+    "A collapse in his sense of personal accomplishment — he no longer believes his work is competent or worthwhile",
+    "Nightmares and a startle response tied to one specific call"
    ],
-   "explanation": "Exhaustion plus cynicism plus slipping performance, built up over years of job stress, is burnout. Compassion fatigue is the gradual loss of empathy itself; this medic's drained energy and declining work point to burnout.",
-   "question": "A medic with 12 years on the job has changed over the last couple of years. He is drained all the time, talks about patients with open cynicism, and his assessments have started slipping — things he used to catch, he now misses. What is this pattern called?",
+   "explanation": "Burnout, in the classic three-part description, is emotional exhaustion plus depersonalization (the cynicism both medics share) plus a reduced sense of personal accomplishment. Medic A shows the first two; Medic B adds the third — he has lost faith in his own competence — and that is what completes the picture. Nightmares and startle tied to one call point toward a trauma reaction instead, burnout builds gradually rather than over one weekend, and total emotional numbness everywhere is broader than what defines this syndrome.",
+   "question": "Two medics work at the same station through the same brutal year. Medic A is exhausted and has grown cynical about patients, but he still trusts his skills and takes pride in a good save. Medic B is just as exhausted and cynical — and on top of that he has stopped believing he is any good at the job, second-guessing every assessment and saying, 'I'm just not the clinician I used to be.' Which added feature in Medic B completes the classic three-part picture psychologists use to define burnout?",
    "source": "Flashcard Slides — Set 7",
    "topic": "burnout",
    "topic_n": 38
@@ -2311,15 +2311,15 @@
    "topic_n": 26
   },
   {
-   "answer": 0,
+   "answer": 1,
    "choices": [
-    "communicable disease",
-    "noninfectious condition",
-    "vector-borne disease",
-    "foodborne illness"
+    "Documenting the possible exposure in the run report after the call is over",
+    "Hand hygiene and disinfecting the stretcher and equipment between patients",
+    "Asking the patient to hold his breath while you load him into the ambulance",
+    "Putting on a mask only after the patient has already coughed in the unit"
    ],
-   "explanation": "A communicable disease can be spread from one person to another, which is why the exposed classmates are at risk. Nothing in this event involves an insect carrier or a food source.",
-   "question": "A child with chickenpox attends school for two days before the rash appears. The school sends notices home because several classmates are now likely to develop it too. Chickenpox can move through the classroom this way because it is a:",
+   "explanation": "The travel link is the organism's ride from one host to the next — on hands, gloves, a stretcher rail, a blood pressure cuff. Washing hands and disinfecting equipment between patients cuts that ride, which is why it stops spread even though the organism and the carrier are unchanged. Documentation happens after the trip is over and breaks nothing; a mask put on after the cough is protection that starts after the travel already happened; and a patient cannot hold his breath through a call.",
+   "question": "A communicable disease travels along a chain: the organism leaves the person or place it lives in, moves by some route, and enters a new host. Your crew cannot change the organism, and you cannot change the patient who is carrying it. Which crew action breaks the chain at the travel link?",
    "source": "Flashcard Slides — Set 3",
    "topic": "communicable disease",
    "topic_n": 13
@@ -2759,15 +2759,15 @@
    "topic_n": 32
   },
   {
-   "answer": 3,
+   "answer": 2,
    "choices": [
-    "direct contact",
-    "airborne transmission",
-    "foodborne transmission",
-    "vector-borne transmission"
+    "Mouse → hiker → deer tick",
+    "Hiker → deer tick → mouse",
+    "Mouse → deer tick → hiker",
+    "Deer tick → mouse → hiker"
    ],
-   "explanation": "The tick carried the organism from another host and delivered it when it fed — that is vector-borne transmission. Nothing passed through the air, by touch, or through food or water in this story.",
-   "question": "A hiker finds a deer tick attached to his leg after a weekend in the woods. A week later he develops a bull's-eye rash, fever, and aching joints. By what route did the organism most likely reach him?",
+   "explanation": "Follow the stem in order: the mouse carries the bacterium first (it is the reservoir), the larval tick picks it up while feeding on the mouse, and the molted nymph delivers it to the hiker. The tick is the middle link — a living carrier that moves a pathogen from a reservoir to a new host — which is what makes this vector-borne transmission. The other sequences break the order the stem lays out: the tick cannot pass on what it has not yet picked up, and the hiker is the end of this chain, not a link passing the bacterium onward.",
+   "question": "Lyme disease follows a chain. White-footed mice carry the bacterium Borrelia burgdorferi in their blood without becoming ill. Larval deer ticks feed on the mice and pick up the bacterium, then molt into nymphs. The following spring, a nymph no bigger than a poppy seed bites a hiker, who develops a bull's-eye rash weeks later. Which sequence correctly maps the bacterium's journey to the hiker?",
    "source": "Flashcard Slides — Set 7",
    "topic": "vector-borne transmission",
    "topic_n": 36
@@ -2815,15 +2815,15 @@
    "topic_n": 6
   },
   {
-   "answer": 0,
+   "answer": 1,
    "choices": [
-    "hepatitis",
-    "cirrhosis",
-    "gastroenteritis",
-    "tuberculosis"
+    "Myoglobin, a protein released from damaged muscle",
+    "Bilirubin, a breakdown product of worn-out red blood cells that a healthy liver removes",
+    "Melanin, the pigment that darkens skin after sun exposure",
+    "Glucose, spilled into the urine when blood sugar runs high"
    ],
-   "explanation": "Yellowed skin and eyes, dark urine, nausea, and appetite loss are the classic picture of an inflamed liver. Cirrhosis is long-term scarring, not an acute illness spreading through a shelter, and gastroenteritis centers on vomiting and diarrhea without jaundice.",
-   "question": "You are called to a homeless shelter where several residents have been sick for days. Your patient has yellowed eyes and skin, dark urine, nausea, and no appetite, and he says he feels feverish and wiped out. What condition do these findings most likely point to?",
+   "explanation": "The liver normally clears bilirubin, the yellow pigment left over when old red blood cells are broken down. When hepatitis inflames the liver, bilirubin backs up into the blood, settles into the skin and the whites of the eyes as jaundice, and the excess leaving through the kidneys darkens the urine — one backup explaining both findings. Myoglobin can also darken urine, but it comes from crushed or damaged muscle, and this patient's picture is an inflamed liver, not a muscle injury.",
+   "question": "Your shelter patient's eyes and skin have yellowed and his urine has turned unusually dark, and the hospital confirms a viral infection has inflamed his liver. The yellow color and the dark urine come from the same backup. What substance is building up in his blood because his inflamed liver cannot clear it the normal way?",
    "source": "Flashcard Slides — Set 6",
    "topic": "hepatitis",
    "topic_n": 31
@@ -2927,15 +2927,15 @@
    "topic_n": 32
   },
   {
-   "answer": 0,
+   "answer": 1,
    "choices": [
-    "infection control",
-    "exposure management",
-    "ambulance decontamination",
-    "standard precautions"
+    "Neither officer — the plan is written by NHTSA for every EMS service",
+    "The second officer — it is the employer's OSHA-required plan for protecting workers from bloodborne exposure",
+    "Both officers — the two binders are really the same document",
+    "The first officer — it is the medical director's book of treatment protocols"
    ],
-   "explanation": "Infection control is the whole set of procedures used to reduce transmission of infection among patients and health care personnel. Decontamination is only the cleaning piece of it, and standard precautions are the treat-every-patient-as-infectious rule behind the gloves and handwashing.",
-   "question": "Between patients, a crew wipes down the cot and rails, changes gloves, bags the trash, and washes hands before the next call. Taken together, these steps are the department's procedures for:",
+   "explanation": "The second officer. Under OSHA's Bloodborne Pathogens standard (29 CFR 1910.1030), each employer must keep a written Exposure Control Plan: which jobs and tasks involve exposure, the methods used to reduce it, and the procedure for evaluating an exposure incident, reviewed at least annually. That plan is one backbone of a service's infection control program. The medical director's protocols govern patient care, not worker protection, and NHTSA sets EMS education standards and scope of practice — it writes no employer's safety plan. Keeping the owners straight is the point: OSHA sets what employers must do to protect crews; NHTSA sets what EMTs are taught.",
+   "question": "Two officers disagree about a binder in the station office. The first says the Exposure Control Plan is the book of patient-care protocols the medical director signs. The second says it is the employer's own written plan — the one OSHA's Bloodborne Pathogens standard requires — listing which jobs involve exposure to blood, how the service will reduce that exposure, and how an exposure incident gets investigated afterward. Which officer has the plan right?",
    "source": "Flashcard Slides — Set 2",
    "topic": "infection control",
    "topic_n": 11
@@ -3165,15 +3165,15 @@
    "topic_n": 42
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "infection control",
-    "standard precautions",
-    "personal protective equipment",
-    "transmission-based precautions"
+    "HIV and hepatitis B can be identified reliably just by looking at a patient's skin and eyes",
+    "Blood becomes infectious only after the infected person develops symptoms",
+    "Infectious people can look and feel completely healthy, so appearance and a patient's own report cannot tell you whose blood is risky",
+    "Only patients who already know their diagnosis are capable of transmitting a bloodborne infection"
    ],
-   "explanation": "Standard precautions are the protective measures applied to every patient on every call, treating all blood and body fluids as potential exposure risks. Transmission-based precautions are the extra layer added when a specific disease is known or suspected.",
-   "question": "A new EMT notices the crew gloves up and wears eye protection for every patient with any blood or body fluid, even patients who look perfectly healthy and say they have no diseases. This treat-every-patient-the-same approach is called:",
+   "explanation": "That approach is standard precautions, and asymptomatic carriage is the reason it exists: because a patient can carry and transmit HIV or hepatitis B while looking perfectly healthy — sometimes without knowing it themselves — there is no reliable way to sort 'safe' patients from risky ones at the door. So the protection is applied to everyone, every time. Neither virus announces itself in the skin or eyes, carriers who do not know their status can and do transmit, and blood is infectious long before symptoms ever appear.",
+   "question": "In the mid-1980s, during the early AIDS epidemic, the CDC began telling health care workers to treat blood from every patient as potentially infectious. HIV was the driver, but hepatitis B had already shown the same pattern: people could carry either virus in their blood — and pass it on — for years without feeling sick or knowing they were infected. What scientific fact makes this treat-every-patient-the-same approach necessary?",
    "source": "Flashcard Slides — Set 4",
    "topic": "standard precautions",
    "topic_n": 24
@@ -3193,15 +3193,15 @@
    "topic_n": 27
   },
   {
-   "answer": 3,
+   "answer": 1,
    "choices": [
-    "foodborne transmission",
-    "airborne transmission",
-    "indirect contact",
-    "direct contact"
+    "Drainage carries a heavier dose of pathogen to broken skin than it does to unbroken skin",
+    "The paper cut breaks the skin barrier, giving the pathogen a way past the body's first line of defense and into her tissue",
+    "An open cut draws pathogens inward the way a wick draws up fluid",
+    "Pain from the cut temporarily shuts down the immune response in that hand"
    ],
-   "explanation": "The organism passed by physical contact with the infected person, with no object in between, which is direct contact. Indirect contact would require a contaminated object to carry the organism to you.",
-   "question": "While helping lift a patient, your bare forearm, which has a fresh scrape, presses against the patient's draining, infected leg wound. This is an example of disease spread by:",
+   "explanation": "Both EMTs were exposed by direct contact — skin touching the patient's drainage with nothing in between. What changes the risk is the portal of entry. Intact skin is a barrier most pathogens cannot cross, which is why washing right after the call protects the first EMT. The paper cut opens that barrier, so the very same drainage can reach tissue and blood. The dose in the drainage does not change from one hand to the other, and a cut does not wick pathogens inward or switch off the hand's immune defenses.",
+   "question": "During a lift, two EMTs each get a patient's infected wound drainage on a bare hand. The first EMT's skin is intact, and she washes as soon as the call ends. The second EMT has a fresh paper cut across one finger. The contact, the patient, and the drainage are identical — so why is the second EMT's risk of infection clearly higher?",
    "source": "Flashcard Slides — Set 2",
    "topic": "direct contact",
    "topic_n": 9
@@ -3221,15 +3221,15 @@
    "topic_n": 26
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
+    "critical incident stress debriefing",
     "critical incident stress management",
-    "a defusing",
     "an employee assistance program",
-    "critical incident stress debriefing"
+    "a defusing"
    ],
-   "explanation": "The formal, structured group session held a day or more after the incident is the debriefing. A defusing is the short, informal session held within hours, and critical incident stress management is the whole program the debriefing belongs to.",
-   "question": "Thirty-six hours after a fatal shooting call, the responders involved sit down for a formal, structured group session led by a trained peer-and-mental-health team. They talk through the incident and their reactions to it. This session is separate from the operational critique of the call. What is this session called?",
+   "explanation": "What the crew needed was the critical incident stress debriefing: a formal, structured group session, usually held 24 to 72 hours after the incident and led by a trained peer-and-mental-health team, where responders talk through the incident and their reactions under ground rules of confidentiality. It is deliberately kept separate from any critique of tactics or performance — the captain's meeting was an operational review wearing the wrong name. A defusing is the short, informal session held within hours of the call, an employee assistance program is an ongoing counseling resource rather than a single session, and critical incident stress management is the name of the whole program the debriefing sits inside.",
+   "question": "After a fatal apartment fire, a captain holds a meeting the next evening and calls it the crew's debriefing. He replays the radio traffic, points out where the search was slow, and assigns corrective training. Nobody is asked about their reactions to the call, and no peer-support or mental-health team member is in the room. Why does this meeting fail to be the session the crew actually needed?",
    "source": "Flashcard Slides — Set 8",
    "topic": "critical incident stress debriefing",
    "topic_n": 39
@@ -3277,15 +3277,15 @@
    "topic_n": 3
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "burnout syndrome",
-    "fight-or-flight response",
+    "alarm stage",
     "cumulative stress reaction",
-    "general adaptation syndrome"
+    "resistance stage",
+    "exhaustion stage"
    ],
-   "explanation": "Alarm, then reaction and resistance, then exhaustion from prolonged stress is the general adaptation syndrome.",
-   "question": "A paramedic describes her career: emergency calls once spiked her heart rate every time, then she adapted and handled them calmly, but years of chronic short staffing have left her drained and constantly fatigued. She is describing what?",
+   "explanation": "The alarm stage is the body's first response to a stressor: the sympathetic nervous system and the HPA axis fire together, releasing epinephrine, norepinephrine, and cortisol, which raise the heart rate, sharpen attention, and mobilize fuel. Resistance is the later stage of sustained output while the person copes, and exhaustion comes only after prolonged stress wears the body down. A cumulative stress reaction describes stressors piling up, not a stage in Selye's model.",
+   "question": "The tones drop for a working cardiac arrest. In the first minutes of the call, a new EMT's heart is pounding, her breathing is quick, her senses feel sharpened, and her hands tremble slightly as adrenaline and cortisol surge. In Hans Selye's staged model of the body's stress response, this immediate surge is the:",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30
@@ -3319,15 +3319,15 @@
    "topic_n": 1
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "Food and Drug Administration",
-    "Centers for Disease Control and Prevention",
-    "Federal Emergency Management Agency",
-    "Occupational Safety and Health Administration"
+    "Clinicians report cases to their state health department; states share their data with CDC; CDC coordinates laboratory testing and outbreak specialists and issues national guidance.",
+    "CDC orders each state health department to hand over its case data; CDC labs test the samples; CDC fines any state that is slow to comply.",
+    "Hospitals report cases straight to CDC, bypassing the states; CDC then directs each state's response on scene.",
+    "CDC waits until the outbreak is over, then collects the final case counts from the states and publishes the totals."
    ],
-   "explanation": "Tracking disease across states, investigating outbreaks, and publishing public health guidance is the CDC's core job. OSHA covers workplace safety, FEMA coordinates disaster response, and the FDA regulates drugs and food.",
-   "question": "A strange lung injury starts showing up in patients in several states. One federal agency pulls the case reports together, runs the investigation, and issues the public alerts and treatment guidance. Which agency is that?",
+   "explanation": "Public health authority sits with the states, so CDC cannot command state health departments or fine them — that enforcement style belongs to OSHA, not CDC. CDC's power in an outbreak is coordination: states investigate their own cases and share the data, and CDC adds national laboratory capacity, Epidemic Intelligence Service outbreak specialists, and guidance that pulls the separate state pieces into one national picture while the event is still unfolding.",
+   "question": "CDC is coordinating the investigation of an illness that is appearing in several states at once. Which sequence correctly shows how that national investigation actually runs?",
    "source": "Flashcard Slides — Set 6",
    "topic": "Centers for Disease Control and Prevention",
    "topic_n": 35
@@ -3725,15 +3725,15 @@
    "topic_n": 33
   },
   {
-   "answer": 2,
+   "answer": 3,
    "choices": [
     "vector-borne transmission",
     "direct contact",
-    "indirect contact",
-    "airborne transmission"
+    "airborne transmission",
+    "indirect contact"
    ],
-   "explanation": "The organism reached the second patient through a contaminated object, the cuff, which is indirect contact. Direct contact would have required the two patients to touch each other.",
-   "question": "A blood pressure cuff is used on a patient with a MRSA skin infection, then placed, without being disinfected, on the next patient's arm, who later develops the same infection at that spot. The second patient most likely acquired it by:",
+   "explanation": "The meter acted as a fomite — a contaminated object carrying the virus in blood from one resident to the next. Passing an organism from person to person through a shared object is indirect contact. It is not direct contact, because the residents never touched each other, and nothing in this case traveled through the air or by an insect.",
+   "question": "Investigators are tracing a cluster of hepatitis B infections among residents of an assisted-living facility. The residents had no contact with each other and shared no needles. The one item used on resident after resident was a blood glucose meter, wiped off only when it looked dirty. The virus most likely reached these residents by:",
    "source": "Flashcard Slides — Set 5",
    "topic": "indirect contact",
    "topic_n": 29
@@ -4033,15 +4033,15 @@
    "topic_n": 22
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "wellness",
-    "eustress",
-    "distress",
-    "resilience"
+    "Arousal read as readiness feeds the beneficial stress response; fighting to force calm works against the same chemistry instead of using it",
+    "High arousal always improves performance, so the officer should add even more pressure to the drill",
+    "The buzz means the rookie is having an acute stress reaction and should be pulled from the drill",
+    "Calming down is impossible for a new provider, so officers should never address a rookie's nerves at all"
    ],
-   "explanation": "His stress response was beneficial: it sharpened his focus and performance, which is eustress. His partner's harmful response to the very same call is distress; one stressor can produce either.",
-   "question": "The tones drop for a working structure fire. One EMT feels a surge of energy, focuses fast, and later calls it the best call of his month. His partner, on the same call, feels overwhelmed, develops a pounding headache, and dreads going back. The first EMT's response is best described as:",
+   "explanation": "The rookie's arousal is not the problem — arousal is the raw fuel of the beneficial stress response, and reading it as readiness ('this is my body getting ready') points it toward performance, while struggling to suppress it adds a second fight on top of the first. The buzz alone is not an acute stress reaction, which is a response to a traumatic event, not pre-drill nerves. And arousal does not help without limit — past its peak it tips into distress — so piling on more pressure would be the wrong move.",
+   "question": "A training officer watches a rookie get wired before a full-scale drill — hands buzzing, talking fast, clearly amped up. Instead of telling her to calm down, the officer says, 'Good — that buzz is your body getting ready. Use it.' Why is that coaching sound?",
    "source": "Flashcard Slides — Set 3",
    "topic": "eustress",
    "topic_n": 14
@@ -4089,15 +4089,15 @@
    "topic_n": 12
   },
   {
-   "answer": 3,
+   "answer": 1,
    "choices": [
-    "cover",
-    "vehicle stabilization",
-    "staging distance",
-    "concealment"
+    "The door is actually cover, so the crew should stay behind it and begin care",
+    "The door gives concealment only — it can block the shooter's view, but it will not stop a bullet",
+    "The only problem is staging distance; what the crew hides behind does not matter",
+    "Any metal part of the ambulance, including the door, stops handgun and rifle rounds"
    ],
-   "explanation": "Concealment is the use of objects to limit a person's ability to see you. It hides you but offers no ballistic protection; that is the difference from cover, which must be an impenetrable barrier.",
-   "question": "Police are still clearing a shooting scene. Your crew stages behind a large dumpster where the suspect cannot see the ambulance. The dumpster would not stop a bullet, but it keeps you out of the suspect's view. This is an example of:",
+   "explanation": "Concealment hides you from the shooter's view but offers no ballistic protection, and a thin vehicle door is concealment at best. Cover has to be a barrier a bullet cannot penetrate, such as an engine block or a thick concrete wall. Treating concealment as if it were cover leaves the crew exposed while they believe they are protected.",
+   "question": "At a shooting scene, your partner crouches behind the open door of the ambulance and says, \"If he fires this way, this door will stop the rounds before they reach us.\" What is the error in your partner's thinking?",
    "source": "Flashcard Slides — Set 5",
    "topic": "concealment",
    "topic_n": 25
@@ -4131,15 +4131,15 @@
    "topic_n": 48
   },
   {
-   "answer": 3,
+   "answer": 1,
    "choices": [
-    "ambulance decontamination",
-    "infection control",
-    "standard precautions",
-    "sharps safety"
+    "HIV — it infects about 1 in 3 people after a single needlestick, which is why no vaccine is offered for it",
+    "Hepatitis B — it can survive for days in dried blood and infects up to about 1 in 3 unvaccinated people stuck by an infected needle, which is why OSHA's bloodborne pathogens standard requires employers to offer the vaccine free",
+    "Hepatitis C — it is the most contagious of the three through blood, and the free vaccine prevents it",
+    "Hepatitis B — but the risk is small, because the virus dies as soon as the blood on the needle dries"
    ],
-   "explanation": "Careful handling and proper disposal of needles is sharps safety, and it failed the moment the used needle was left loose on the stretcher. Careless sharps handling is the usual route for bloodborne infections in health care settings.",
-   "question": "While stripping the stretcher after a call, your partner is stuck by a used needle that was dropped on the mattress instead of being put in the sharps container. What practice failed here?",
+   "explanation": "The risk from one stick is not equal across the three bloodborne viruses: hepatitis B infects up to roughly 30 percent of unvaccinated people stuck by a needle from an infectious patient, hepatitis C about 2 percent, and HIV about 0.3 percent. Hepatitis B also stays infectious in dried blood for at least a week, so a carelessly handled sharp stays dangerous long after the call ends. That combination is why OSHA's bloodborne pathogens standard (29 CFR 1910.1030) makes the employer offer the hepatitis B vaccine free, and why sharps discipline — immediate disposal, no loose needles — is the real prevention.",
+   "question": "While cleaning up after a call, an EMT is stuck in the thumb by a used hollow-bore needle that had drawn blood from a patient with hepatitis B. The EMT never finished the hepatitis B vaccine series he was offered when he was hired. His supervisor starts the exposure report. Which pairing of virus and risk is correct?",
    "source": "Flashcard Slides — Set 9",
    "topic": "sharps safety",
    "topic_n": 47
@@ -4175,13 +4175,13 @@
   {
    "answer": 3,
    "choices": [
-    "transmission",
-    "infection",
-    "an exposure",
-    "contamination"
+    "The disinfectant itself becomes infectious the moment it touches a used surface",
+    "The only problem is the chemical smell, which can irritate the next patient's airway",
+    "It is not a problem — spraying any disinfectant removes the organisms instantly, whatever the label says",
+    "The organisms on the surface were never killed, so the bench is still contaminated and can pass them to the next patient"
    ],
-   "explanation": "Infectious organisms present on objects or surfaces is contamination. Nobody has been exposed yet, and no spread to a person or invasion of a body has occurred, which is exactly why the bench gets disinfected before anyone uses it.",
-   "question": "A used urinary catheter is left sitting on the squad bench overnight. By morning, bacteria from the patient are growing on the catheter and on the bench surface where it lay. The presence of these infectious organisms on the equipment and bench is called:",
+   "explanation": "Contamination means infectious organisms are present on an object or surface, and they stay present until something actually kills or removes them. Disinfectants kill by contact over time — that is what the two-minute wet time on the label is for. Wiping the bench dry in seconds cut the kill short, so living organisms remain on the surface, ready to reach the next patient. The disinfectant does not turn infectious, a quick spray does not sterilize anything instantly, and the smell is not the hazard — the surviving organisms are.",
+   "question": "Spot the mistake. After a call, an EMT sprays the squad bench with disinfectant and wipes it dry within seconds so the next patient can be loaded quickly. The product label says the surface must stay wet for two full minutes for the disinfectant to kill the organisms on it. Why is this bench still a problem for the next patient?",
    "source": "Flashcard Slides — Set 4",
    "topic": "contamination",
    "topic_n": 20
@@ -4257,15 +4257,15 @@
    "topic_n": 41
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "delayed stress reaction",
-    "general adaptation syndrome",
-    "fight-or-flight response",
-    "compassion fatigue"
+    "cumulative stress reaction",
+    "exhaustion stage",
+    "resistance stage",
+    "alarm stage"
    ],
-   "explanation": "The staged progression from alarm through resistance to exhaustion is the body's general adaptation syndrome.",
-   "question": "A firefighter-paramedic on months of mandatory overtime first feels keyed up on every call, then seems to cope, then develops constant fatigue, insomnia, and frequent colds as his body wears down. This progression is an example of what?",
+   "explanation": "In the resistance stage the body sustains its stress output — the HPA axis keeps cortisol and related hormones elevated — and outwardly adapts, so the person still performs well. The cost is paid internally, in things like rising blood pressure and poor sleep. The alarm stage was the first surge months earlier; exhaustion comes later, when the body's reserves fail and illness and breakdown appear, which has not happened here because she is still functioning.",
+   "question": "A paramedic has worked short-staffed for eight months. On calls she is steady and effective, and coworkers say she has gotten used to the pace. But her resting blood pressure has crept up, she sleeps lightly, and her stress hormones stay switched on so her body can keep performing at that level. In Hans Selye's staged model, she is most likely in the stage of:",
    "source": "Quiz-Style Slides — Set 5",
    "topic": "general adaptation syndrome",
    "topic_n": 30
@@ -4383,15 +4383,15 @@
    "topic_n": 33
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "posttraumatic stress disorder",
-    "acute stress reaction",
-    "burnout",
-    "compassion fatigue"
+    "Medic B — his capacity to empathize has worn away from years of absorbing patients' suffering",
+    "Neither medic — both pictures are just ordinary tiredness that a few days off will fix",
+    "Both medics equally — exhaustion and numbness are two names for the same condition",
+    "Medic A — her exhaustion and cynicism about the job have drained her"
    ],
-   "explanation": "What is draining away is specifically her compassion, and it has lessened gradually over years of caregiving, which is compassion fatigue. Burnout centers on exhaustion and cynicism from overall job stress, and posttraumatic stress disorder ties back to a specific traumatic incident.",
-   "question": "A medic with 15 years on the job tells her partner, 'Ten years ago I felt every call. Now a patient can cry in front of me and I feel nothing. It just crept up on me.' This gradual change is best described as:",
+   "explanation": "Medic B. What has worn down in him is specifically his compassion — the ability to feel with suffering patients — and it faded gradually over years of caregiving exposure, which is the shape of compassion fatigue. Medic A's picture centers on exhaustion and cynicism driven by workload and scheduling, which is burnout; notably her empathy is still intact, since she still tears up at the bedside. The two conditions can travel together, but they are not the same thing, and once either has set in, a weekend off does not simply fix it.",
+   "question": "Two medics describe their last year. Medic A says the schedule is crushing her — she is exhausted, cynical about management, and dreads the overtime — but she still tears up at a child's bedside. Medic B says his hours are fine, but after years of watching patients suffer and die, he has gone numb: families cry in front of him and he feels nothing at all. Which medic's picture fits compassion fatigue?",
    "source": "Flashcard Slides — Set 1",
    "topic": "compassion fatigue",
    "topic_n": 2
@@ -4509,15 +4509,15 @@
    "topic_n": 26
   },
   {
-   "answer": 1,
+   "answer": 0,
    "choices": [
-    "colonized",
-    "immune",
-    "infectious",
-    "a vector"
+    "Memory cells that recognize the virus and launch a rapid, stronger antibody response",
+    "A small amount of live virus stored in her blood, keeping her mildly infected ever since",
+    "Antibodies that stay at full strength in her blood for life without ever fading",
+    "A thicker skin barrier that keeps the virus from entering her body in the first place"
    ],
-   "explanation": "His body can protect itself from acquiring the disease, which means he is immune. He was still exposed to the virus on that call; immunity is why the exposure never became an illness.",
-   "question": "A firefighter who was vaccinated against chickenpox as a child transports a patient with an active chickenpox rash and stays well, while an unvaccinated rookie on the same call develops the disease two weeks later. The vaccine left the firefighter:",
+   "explanation": "Speed is the clue in the stem: a first encounter is slow because the immune system has to learn the virus from scratch. The vaccine ran that lesson in advance and left memory cells behind; on the real exposure they recognize the virus and produce antibodies fast and in force, ending the infection before symptoms start. Antibodies themselves fade over time — it is the memory cells, not a lifetime stockpile of antibody, that persist — and no live virus sits stored in her blood.",
+   "question": "Years after her chickenpox vaccination, an EMT is exposed to the virus on a call. Her body shuts the virus down before she ever feels sick — and handles it noticeably faster than it could have the very first time it met that virus. What did the vaccine leave behind that makes the second response faster?",
    "source": "Flashcard Slides — Set 3",
    "topic": "immune",
    "topic_n": 15
@@ -4621,15 +4621,15 @@
    "topic_n": 43
   },
   {
-   "answer": 2,
+   "answer": 0,
    "choices": [
-    "denial",
-    "eustress",
-    "resilience",
-    "wellness"
+    "Both medics' stress systems switched on; the one who recovered is the one whose arousal later settled back to baseline — that capacity to bounce back after activation is resilience.",
+    "The medic who recovered felt no stress reaction that night; recovery means the body's alarm never switches on.",
+    "The medic who recovered avoided thinking or talking about the call, which kept the memory from taking hold.",
+    "The difference is willpower; the stress response is a choice, not body chemistry."
    ],
-   "explanation": "Bouncing back to normal function after a hard call is resilience — the capacity to cope with distress and recover from it. Wellness is the broader pursuit of good health, and eustress is a helpful response in the moment, not recovery afterward.",
-   "question": "Two EMTs work the same fatal wreck. Over the next few weeks, one talks with the crew, keeps her sleep and exercise routine, and is back to her normal self. The other is still struggling months later. What is the first EMT demonstrating?",
+   "explanation": "Resilience is not the absence of a stress reaction — both medics' alarms fired that night, exactly as they should. It is the recovery half of the cycle: stress hormones and arousal rise for the event and then settle back to baseline. Avoidance is actually a risk pattern for lasting symptoms, not a recovery strategy, and the whole response is driven by the body's stress chemistry — the HPA axis and the adrenaline system — not by deciding to be tough.",
+   "question": "Two medics work the same fatal call, and that night both are wired — hearts pounding, sleep broken. A month later one is back to his normal baseline while the other still feels wired and worn down. Which statement best captures the difference that research on stress recovery describes?",
    "source": "Flashcard Slides — Set 6",
    "topic": "resilience",
    "topic_n": 32
@@ -4733,15 +4733,15 @@
    "topic_n": 45
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "chronic disease",
-    "infectious disease",
-    "autoimmune disorder",
-    "genetic disorder"
+    "The virus sat dormant on his skin and only became active when he touched his face",
+    "Nothing at all — an infectious disease only begins at the moment symptoms appear",
+    "The virus was invading his cells and multiplying, and the disease process was well underway before any symptoms appeared",
+    "His immune system had already destroyed the virus, so the later fever and rash must be an unrelated illness"
    ],
-   "explanation": "Each resident's illness is caused by a harmful organism — the virus — growing and spreading within the body. An autoimmune disorder is the body attacking itself, and chronic or genetic conditions are not caused by an invading organism.",
-   "question": "By the end of one shift, three residents of the same nursing home have developed the same picture: sudden vomiting, watery diarrhea, and cramps, all traced to the same stomach virus spreading through the unit. What does each resident have?",
+   "explanation": "That silent stretch is the incubation period, and it is not empty time: the measles virus was invading cells, copying itself, and spreading — the defining process of an infectious disease, an organism growing and spreading within the body. Symptoms are the late announcement, not the start. The virus was not destroyed (he went on to develop measles), it was never just sitting on his skin, and the illness clearly began before he felt it.",
+   "question": "A crew transports a man with measles. An EMT who was exposed feels completely fine for ten days — then develops fever, a cough, and the rash. During those ten silent days, what was actually happening in his body?",
    "source": "Flashcard Slides — Set 7",
    "topic": "infectious disease",
    "topic_n": 37

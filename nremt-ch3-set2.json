@@ -197,15 +197,15 @@
    "topic_n": 11
   },
   {
-   "answer": 0,
+   "answer": 3,
    "choices": [
-    "negligence",
     "abandonment",
+    "kidnapping",
     "battery",
-    "kidnapping"
+    "negligence"
    ],
-   "explanation": "Failing to perform the basic assessment and care that similarly trained providers would perform is negligence.",
-   "question": "Two EMTs respond to a patient slumped and unresponsive against a car. They stand nearby for many minutes without a primary assessment, vital signs, or oxygen, and the patient dies. A review finds they did not do what any EMT would be expected to do. What is this?",
+   "explanation": "A bad outcome alone is not the deciding feature — the first patient died too. What separates the second EMT is the breach: he failed to provide the care a person with similar training would have provided, skipping the basic assessment that would have caught the bleeding. Failing to meet that standard of care is negligence. It is not abandonment, because he never took charge of the patient and then left him; the failure happened in the care itself, not in walking away from it.",
+   "question": "Two crews run similar chest-pain calls on the same night. The first EMT works the full protocol — assessment, aspirin, ECG, rapid transport — but the patient dies anyway. The second EMT decides his patient 'looks fine,' skips the primary assessment entirely, takes no vital signs, and misses the internal bleeding that kills the man an hour later. Only the second EMT has exposed himself to a claim of:",
    "source": "Quiz-Style Slides — Set 2",
    "topic": "negligence",
    "topic_n": 11

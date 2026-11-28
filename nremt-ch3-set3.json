@@ -197,15 +197,15 @@
    "topic_n": 17
   },
   {
-   "answer": 3,
+   "answer": 0,
    "choices": [
-    "implied consent",
+    "in loco parentis",
     "emancipation",
-    "respondeat superior",
-    "in loco parentis"
+    "implied consent",
+    "respondeat superior"
    ],
-   "explanation": "In loco parentis is the legal responsibility of a person or organization to take on some parental functions.",
-   "question": "An EMT asks who can make decisions for an injured student at school when no parent is present. The principal says the school stands in place of the parent during school hours. What is that called?",
+   "explanation": "The working parts give it away: the authority existed only while the child was in the school's custody, it let a non-parent consent to care, and it ended the moment the actual parent resumed deciding. That borrowed, temporary parental role is in loco parentis. It is not implied consent, which is the law's assumption that an unconscious or emergency patient would agree to treatment — this patient was awake, and a real person actually consented on her behalf.",
+   "question": "A 12-year-old breaks her wrist at school, and her parents cannot be reached. The principal signs consent for treatment and transport. En route, the girl's mother reaches the hospital, takes over all decisions, and the principal's authority simply ends. The principal's temporary authority to consent while the child was in the school's care rested on:",
    "source": "Quiz-Style Slides — Set 3",
    "topic": "in loco parentis",
    "topic_n": 17

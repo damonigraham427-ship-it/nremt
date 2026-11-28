@@ -547,15 +547,15 @@
    "topic_n": 6
   },
   {
-   "answer": 0,
+   "answer": 2,
    "choices": [
-    "The medical director",
-    "The receiving hospital's administrator",
-    "The shift supervisor",
-    "The training officer"
+    "The receiving hospital extends its medical license to any crew that transports patients there",
+    "Her national certification is itself a license to practice medicine in the field",
+    "She practices under the medical director's delegated authority, through the protocols and standing orders he signed",
+    "Her agency's operating certificate gives each of its EMTs independent authority to treat"
    ],
-   "explanation": "EMTs practice under the medical director's authority: that physician authorizes and delegates field care, so a protocol change is not effective until the medical director approves it. Trainers and supervisors can support the change but cannot authorize it.",
-   "question": "Your agency wants to add a new medication to its EMT protocols. The training officer, the shift supervisor, and a local emergency physician all support the idea. Whose authorization must be in place before crews can actually use the medication?",
+   "explanation": "EMTs do not practice medicine independently. A physician medical director delegates his medical authority to them through written protocols and standing orders — that delegation is what makes field treatment legal. Certification only records that she passed an exam, a hospital's license covers its own facility, and an agency's operating certificate authorizes the service to run, not the EMT to practice medicine.",
+   "question": "During a quality review, a new EMT is asked how she can legally give medications and perform treatments in the field when she holds no medical license of her own. Which explanation is correct?",
    "source": "Flashcard Slides — Set 1",
    "topic": "medical director",
    "topic_n": 6

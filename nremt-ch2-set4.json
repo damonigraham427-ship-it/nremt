@@ -311,13 +311,13 @@
   {
    "answer": 3,
    "choices": [
-    "transmission",
-    "infection",
-    "an exposure",
-    "contamination"
+    "The disinfectant itself becomes infectious the moment it touches a used surface",
+    "The only problem is the chemical smell, which can irritate the next patient's airway",
+    "It is not a problem — spraying any disinfectant removes the organisms instantly, whatever the label says",
+    "The organisms on the surface were never killed, so the bench is still contaminated and can pass them to the next patient"
    ],
-   "explanation": "Infectious organisms present on objects or surfaces is contamination. Nobody has been exposed yet, and no spread to a person or invasion of a body has occurred, which is exactly why the bench gets disinfected before anyone uses it.",
-   "question": "A used urinary catheter is left sitting on the squad bench overnight. By morning, bacteria from the patient are growing on the catheter and on the bench surface where it lay. The presence of these infectious organisms on the equipment and bench is called:",
+   "explanation": "Contamination means infectious organisms are present on an object or surface, and they stay present until something actually kills or removes them. Disinfectants kill by contact over time — that is what the two-minute wet time on the label is for. Wiping the bench dry in seconds cut the kill short, so living organisms remain on the surface, ready to reach the next patient. The disinfectant does not turn infectious, a quick spray does not sterilize anything instantly, and the smell is not the hazard — the surviving organisms are.",
+   "question": "Spot the mistake. After a call, an EMT sprays the squad bench with disinfectant and wipes it dry within seconds so the next patient can be loaded quickly. The product label says the surface must stay wet for two full minutes for the disinfectant to kill the organisms on it. Why is this bench still a problem for the next patient?",
    "source": "Flashcard Slides — Set 4",
    "topic": "contamination",
    "topic_n": 20
@@ -367,13 +367,13 @@
   {
    "answer": 3,
    "choices": [
-    "acute stress reactions",
-    "cumulative stress reactions",
-    "eustress",
-    "delayed stress reactions"
+    "The slower shifts caused a brand-new stress injury that has nothing to do with the call",
+    "Stress reactions always begin exactly six months after an event, on a fixed schedule",
+    "He was never affected by the call, so these symptoms must be coming from stress at home",
+    "His avoidance had been keeping the trauma cues away; when the cues came back, the delayed reaction surfaced"
    ],
-   "explanation": "Reactions that occur after the stressful situation has passed, sometimes months later, are delayed stress reactions. Acute stress reactions happen during the event itself, and cumulative reactions come from stress piling up over time.",
-   "question": "An EMT passes her one-month wellness screen after a fatal fire with no symptoms at all. At her one-year check-in she reports new nightmares, irritability, and trouble sleeping that started months after the fire. Symptoms that first show up well after the stressful event are known as:",
+   "explanation": "This is a delayed stress reaction, and the delay has a mechanism: reminders — a street, a smell, a sound — are what reactivate the brain's threat circuitry, and his busy schedule plus avoidance had kept those reminders away. Once the schedule change forced the cues back into his days, the reaction they trigger finally showed itself. There is no fixed six-month timetable, the timing tracks the returning cues rather than the slower shifts themselves, and 'he seemed fine at first' is exactly how delayed reactions hide — it never meant the call left no mark.",
+   "question": "For six months after a fatal call, an EMT seems fine. He picks up extra shifts, stays busy, and quietly avoids the neighborhood where it happened. Then a schedule change puts him on slower shifts that run through that same neighborhood — and the nightmares, jumpiness, and broken sleep begin. What best explains the timing of his symptoms?",
    "source": "Flashcard Slides — Set 4",
    "topic": "delayed stress reactions",
    "topic_n": 21
@@ -421,15 +421,15 @@
    "topic_n": 21
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "staging",
-    "cover",
-    "concealment",
-    "a safe corridor"
+    "They block the shooter's view, so the shooter cannot aim at whoever is behind them",
+    "Their hard surfaces deflect every incoming round harmlessly off to the side",
+    "Their mass absorbs and dissipates the bullet's energy, so the round stops instead of passing through",
+    "They sit farther from the shooter, and distance by itself stops a round in flight"
    ],
-   "explanation": "Cover is the tactical use of an impenetrable barrier for protection. Concealment only hides you from view; a bush or a curtain would conceal you but stop nothing.",
-   "question": "Shots are fired as your crew approaches a scene. Your partner drops behind the ambulance's engine block, and you position yourself behind a thick concrete pillar. Both of you are relying on barriers that can actually stop a bullet. In tactical terms, you are using:",
+   "explanation": "That stopping power is exactly what makes a barrier cover: dense mass soaks up the bullet's kinetic energy and the round never reaches the person behind it. The fence and the door only hide you from view — that is concealment, and the demonstration shows rounds sail straight through it. Distance can hurt a shooter's accuracy, but it does not stop a round that arrives, and no barrier reliably deflects every round away.",
+   "question": "At a range demonstration, an instructor fires the same rifle round at four barriers: a wooden fence, a car door, a filled concrete-block wall, and an engine block. The round passes through the fence and the door but stops in the wall and the engine block. What makes the wall and the engine block protective when the fence and the door are not?",
    "source": "Flashcard Slides — Set 4",
    "topic": "cover",
    "topic_n": 22
@@ -533,15 +533,15 @@
    "topic_n": 23
   },
   {
-   "answer": 1,
+   "answer": 2,
    "choices": [
-    "infection control",
-    "standard precautions",
-    "personal protective equipment",
-    "transmission-based precautions"
+    "HIV and hepatitis B can be identified reliably just by looking at a patient's skin and eyes",
+    "Blood becomes infectious only after the infected person develops symptoms",
+    "Infectious people can look and feel completely healthy, so appearance and a patient's own report cannot tell you whose blood is risky",
+    "Only patients who already know their diagnosis are capable of transmitting a bloodborne infection"
    ],
-   "explanation": "Standard precautions are the protective measures applied to every patient on every call, treating all blood and body fluids as potential exposure risks. Transmission-based precautions are the extra layer added when a specific disease is known or suspected.",
-   "question": "A new EMT notices the crew gloves up and wears eye protection for every patient with any blood or body fluid, even patients who look perfectly healthy and say they have no diseases. This treat-every-patient-the-same approach is called:",
+   "explanation": "That approach is standard precautions, and asymptomatic carriage is the reason it exists: because a patient can carry and transmit HIV or hepatitis B while looking perfectly healthy — sometimes without knowing it themselves — there is no reliable way to sort 'safe' patients from risky ones at the door. So the protection is applied to everyone, every time. Neither virus announces itself in the skin or eyes, carriers who do not know their status can and do transmit, and blood is infectious long before symptoms ever appear.",
+   "question": "In the mid-1980s, during the early AIDS epidemic, the CDC began telling health care workers to treat blood from every patient as potentially infectious. HIV was the driver, but hepatitis B had already shown the same pattern: people could carry either virus in their blood — and pass it on — for years without feeling sick or knowing they were infected. What scientific fact makes this treat-every-patient-the-same approach necessary?",
    "source": "Flashcard Slides — Set 4",
    "topic": "standard precautions",
    "topic_n": 24

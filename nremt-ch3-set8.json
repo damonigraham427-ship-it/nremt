@@ -59,13 +59,13 @@
   {
    "answer": 2,
    "choices": [
+    "depositions",
     "motions to compel",
-    "requests for admission",
     "interrogatories",
-    "depositions"
+    "subpoenas"
    ],
-   "explanation": "Interrogatories are the written-question tool of discovery, unlike depositions, which are oral questions.",
-   "question": "During discovery, the defense sends your patient-plaintiff 25 written questions asking about prior injuries, other treating doctors, and each item of damages claimed. She must answer in writing under oath. What discovery tool is this?",
+   "explanation": "Two working parts decide it: the questions are written rather than spoken, and they can be sent only to a party in the case — never to an outside witness like the bystander. Written questions exchanged between the parties and answered in writing under oath are interrogatories. The bystander's out-loud questioning is the contrast case: spoken testimony taken in person is a deposition, which is exactly the tool that can reach non-parties.",
+   "question": "A bystander who saw a crash can be forced to answer a lawyer's questions out loud under oath. But the written question sets in the same case travel only between the two sides themselves — the plaintiff's set goes to the defendant, the defendant's set goes to the plaintiff — and each side must answer the other's set in writing, signed under oath. Those written sets exchanged only between the parties are called:",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "interrogatories",
    "topic_n": 42
@@ -159,11 +159,11 @@
    "choices": [
     "incidental damages",
     "punitive damages",
-    "compensatory damages",
-    "general damages"
+    "general damages",
+    "compensatory damages"
    ],
-   "explanation": "The definition fits exactly: damages awarded when conduct was intentional or a willful and wanton disregard for the safety of the public and the rights of others.",
-   "question": "A jury awards a patient money for his actual medical bills, then adds a second, larger amount because the defendant's conduct was intentional and showed a willful and wanton disregard for public safety. What is the second amount called?",
+   "explanation": "Follow what the money is for. His actual losses were already repaid in full, so this second amount cannot be compensatory — compensation is measured by the plaintiff's loss, and there was barely any loss left to measure. This amount is measured by the defendant's conduct instead: it exists to punish deliberate, willful misconduct and deter others from copying it. Damages awarded for that purpose, beyond making the patient whole, are punitive damages.",
+   "question": "An ambulance company is caught deliberately falsifying its vehicle inspection records. By luck, the patient in the case had small out-of-pocket losses, and the jury repays those in full. Then, even though there is almost nothing left of his losses to repay, the jury adds a much larger amount — sized to the company's deliberate misconduct, not to anything the patient spent or lost. That added amount is:",
    "source": "Quiz-Style Slides — Set 8",
    "topic": "punitive damages",
    "topic_n": 44
