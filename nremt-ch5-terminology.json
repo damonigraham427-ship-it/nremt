@@ -1,0 +1,578 @@
+{
+  "questions": [
+    {
+      "question": "A cardiologist is consulted for a patient with chest pain. The word part cardi(o)- in the specialist's title tells you this doctor's specialty involves the:",
+      "choices": [
+        "Heart",
+        "Lungs",
+        "Kidneys",
+        "Blood"
+      ],
+      "answer": 0,
+      "explanation": "The case study breaks down cardiologist as cardi (heart) plus -logist (specialist): a heart specialist.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A patient coughs up blood after a chest injury, a finding whose name contains the word part hem(o)-. That word part refers to:",
+      "choices": [
+        "Mucus",
+        "Blood",
+        "Air",
+        "Sweat"
+      ],
+      "answer": 1,
+      "explanation": "The case study states it directly: hemo means \"blood,\" as in hemoptysis, coughing up blood.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A hematology lab panel is ordered to check a patient's blood counts. Hemat(o)- is the combining form of the same root as hem(o)-, so hematology is the study of:",
+      "choices": [
+        "Urine",
+        "Bone",
+        "Blood",
+        "Bile"
+      ],
+      "answer": 2,
+      "explanation": "Hemat(o)- is the combining form of hem(o)-, which the case study defines as blood.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A patient's blood pressure reads 188/110 and is charted as hypertension. The prefix hyper- in that term means:",
+      "choices": [
+        "Low, below normal",
+        "Equal to normal",
+        "Around, surrounding",
+        "High, above normal"
+      ],
+      "answer": 3,
+      "explanation": "The case study notes state that the prefix hyper- means \"high,\" and combined with tension it refers to high blood pressure.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A bleeding patient's blood pressure falls to 84/50 and he is described as hypotensive. The prefix hypo- tells you his blood pressure is:",
+      "choices": [
+        "High",
+        "Low",
+        "Rapid",
+        "Absent"
+      ],
+      "answer": 1,
+      "explanation": "The case study uses hypo- to mean \"low,\" as in hypoxia, low oxygen; here it makes hypotension low blood pressure.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A paramedic starts an intravenous line for a patient who needs fluids. Knowing that intra- means \"inside,\" the line delivers fluid:",
+      "choices": [
+        "Under the skin",
+        "Into a muscle",
+        "Into a bone",
+        "Inside a vein"
+      ],
+      "answer": 3,
+      "explanation": "The case study explains that IV stands for intravenous, a fluid line placed inside a vein.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "An examiner documents weakness along the lateral side of a patient's arm. Based on latero-, the same word part in \"lateral,\" the affected structures lie:",
+      "choices": [
+        "Farther from the midline of the body",
+        "Closer to the midline of the body",
+        "Nearer to the head",
+        "Nearer to the feet"
+      ],
+      "answer": 0,
+      "explanation": "The flashcards define lateral as parts of the body that lie farther from the midline, also called outer structures.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A hospital report shows that a nephrologist was consulted about a patient's failing kidneys. The word part nephro- tells you this specialist treats the:",
+      "choices": [
+        "Heart",
+        "Lungs",
+        "Kidneys",
+        "Liver"
+      ],
+      "answer": 2,
+      "explanation": "The case study breaks down nephrologist as nephr (kidney) plus -logist (specialist): a kidney specialist.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A monitor shows supraventricular tachycardia. The prefix supra- tells you the abnormal electrical activity starts:",
+      "choices": [
+        "Below the ventricles",
+        "Inside the ventricles",
+        "Behind the ventricles",
+        "Above the ventricles"
+      ],
+      "answer": 3,
+      "explanation": "The case study explains supraventricular tachycardia as a rapid heart rate whose electrical activity starts above (supra-) the ventricles.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A resting patient's heart rate is 142 beats/min, charted as tachycardia. The prefix tachy- indicates the rate is:",
+      "choices": [
+        "Rapid",
+        "Slow",
+        "Irregular in rhythm only",
+        "Absent"
+      ],
+      "answer": 0,
+      "explanation": "The case study defines tachy- as rapid in its breakdown of supraventricular tachycardia, a rapid heart rate.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A patient's fingertips show a blue tint that is charted as cyanosis. The word part cyano- refers to the color:",
+      "choices": [
+        "Red",
+        "Yellow",
+        "Blue",
+        "Pale white"
+      ],
+      "answer": 2,
+      "explanation": "The case study breaks cyanosis down from cyan (blue) and -osis (condition): a blue skin color seen in hypoxia or poor perfusion.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "A lab report notes a low erythrocyte count. Knowing erythr/o- means \"red\" and -cyte means \"cell,\" erythrocytes are the:",
+      "choices": [
+        "White blood cells",
+        "Red blood cells",
+        "Platelets",
+        "Nerve cells"
+      ],
+      "answer": 1,
+      "explanation": "The case study states that erythrocytes are the red blood cells, from erythro (red) and -cyte (cell); a low count means few red blood cells.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Prefixes",
+      "topic_n": 1
+    },
+    {
+      "question": "Imaging reveals cardiomegaly in a patient with long-standing high blood pressure. The suffix -megaly tells you the heart is:",
+      "choices": [
+        "Enlarged",
+        "Hardened",
+        "Inflamed",
+        "Torn"
+      ],
+      "answer": 0,
+      "explanation": "The case study breaks down cardiomegaly as cardio (heart) plus -megaly (enlargement): an enlargement of the heart.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Suffixes",
+      "topic_n": 2
+    },
+    {
+      "question": "A blood smear is examined for abnormal erythrocytes. The suffix -cyte in \"erythrocyte\" means:",
+      "choices": [
+        "Enlargement",
+        "Cell",
+        "Condition",
+        "Measuring instrument"
+      ],
+      "answer": 1,
+      "explanation": "The case study gives -cyte as \"cell\" in its breakdown of erythrocyte, the red blood cell.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Suffixes",
+      "topic_n": 2
+    },
+    {
+      "question": "A patient with respiratory distress sits bolt upright, saying he can breathe more easily that way, and his chart notes dyspnea. In this context, dyspnea means:",
+      "choices": [
+        "Complete absence of breathing",
+        "Breathing that is too slow",
+        "Difficulty breathing",
+        "Pain when swallowing"
+      ],
+      "answer": 2,
+      "explanation": "In the case study the patient has respiratory distress and less dyspnea when placed in high-Fowler position on oxygen: dyspnea is difficulty breathing.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Conditions",
+      "topic_n": 3
+    },
+    {
+      "question": "After a hard coughing fit, a patient brings up blood from his airway. This finding is called:",
+      "choices": [
+        "Hematuria",
+        "Epistaxis",
+        "Melena",
+        "Hemoptysis"
+      ],
+      "answer": 3,
+      "explanation": "The case study defines hemoptysis as coughing up blood, from hemo, meaning blood.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Conditions",
+      "topic_n": 3
+    },
+    {
+      "question": "A patient has a long history of high blood pressure that is damaging his heart. This condition is called:",
+      "choices": [
+        "Hypotension",
+        "Hypertension",
+        "Tachycardia",
+        "Hypoxia"
+      ],
+      "answer": 1,
+      "explanation": "The case study states that hyper- (high) combined with tension refers to high blood pressure: hypertension.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Conditions",
+      "topic_n": 3
+    },
+    {
+      "question": "A trauma patient's blood pressure drops to 82/48 after blood loss. This low blood pressure is termed:",
+      "choices": [
+        "Hypertension",
+        "Hyperthermia",
+        "Bradycardia",
+        "Hypotension"
+      ],
+      "answer": 3,
+      "explanation": "Hypo- means low, as the case study shows with hypoxia; low blood pressure is hypotension, the opposite of hypertension.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Conditions",
+      "topic_n": 3
+    },
+    {
+      "question": "A pulse oximeter reads 88% and your partner says to start treating the patient's hypoxia. Hypoxia is:",
+      "choices": [
+        "Low oxygen",
+        "High blood pressure",
+        "A rapid heart rate",
+        "Blue discoloration of the skin"
+      ],
+      "answer": 0,
+      "explanation": "The case study defines hypoxia directly: low oxygen, using the prefix hypo-, meaning low.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Conditions",
+      "topic_n": 3
+    },
+    {
+      "question": "An adult patient's resting heart rate is 138 beats/min. This rapid heart rate is called:",
+      "choices": [
+        "Bradycardia",
+        "Asystole",
+        "Tachycardia",
+        "Fibrillation"
+      ],
+      "answer": 2,
+      "explanation": "Tachy- means rapid and cardi refers to the heart, so tachycardia is a rapid heart rate, as in the case study's supraventricular tachycardia at 130 beats/min.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Conditions",
+      "topic_n": 3
+    },
+    {
+      "question": "A patient has a laceration on the anterior surface of the abdomen. The anterior surface is the:",
+      "choices": [
+        "Back surface of the body",
+        "Outer side of the body",
+        "Bottom surface of the body",
+        "Front surface of the body"
+      ],
+      "answer": 3,
+      "explanation": "The flashcards define anterior as the front surface of the body, the side facing you in the standard anatomic position.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "A fracture near the wrist is documented as a distal forearm fracture. Distal means the injury is:",
+      "choices": [
+        "Farther from the trunk, nearer to the free end of the extremity",
+        "Closer to the trunk of the body",
+        "Closer to the midline of the body",
+        "Above the trunk of the body"
+      ],
+      "answer": 0,
+      "explanation": "The flashcards define distal as farther from the trunk or nearer to the free end of the extremity.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "On an exam you note that the diaphragm lies inferior to the lungs. Inferior means it is positioned:",
+      "choices": [
+        "Above the lungs, nearer to the head",
+        "In front of the lungs",
+        "Below the lungs, nearer to the feet",
+        "Behind the lungs"
+      ],
+      "answer": 2,
+      "explanation": "The flashcards define inferior as below a body part or nearer to the feet.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "A patient points to pain on the lateral side of the knee. The lateral side is the:",
+      "choices": [
+        "Inner side, closer to the midline",
+        "Outer side, farther from the midline",
+        "Front surface",
+        "Back surface"
+      ],
+      "answer": 1,
+      "explanation": "The flashcards define lateral as parts of the body that lie farther from the midline, also called outer structures.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "A laceration is found on the medial side of the thigh. The medial side is the:",
+      "choices": [
+        "Inner side, closer to the midline",
+        "Outer side, farther from the midline",
+        "Upper end of the limb",
+        "Lower end of the limb"
+      ],
+      "answer": 0,
+      "explanation": "The flashcards define medial as parts of the body that lie closer to the midline, also called inner structures.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "Before transport, you check the patient's back for hidden injuries. The back surface of the body is called the:",
+      "choices": [
+        "Anterior surface",
+        "Posterior surface",
+        "Superior surface",
+        "Inferior surface"
+      ],
+      "answer": 1,
+      "explanation": "The flashcards define posterior as the back surface of the body, the side away from you in the standard anatomic position.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "A shoulder injury involves the proximal end of the humerus. Proximal means that end is:",
+      "choices": [
+        "Farther from the trunk",
+        "Closer to the midline",
+        "Closer to the trunk",
+        "Nearer to the feet"
+      ],
+      "answer": 2,
+      "explanation": "The flashcards define proximal as closer to the trunk.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "In the anatomic position, the head is superior to the neck. Superior means the head is:",
+      "choices": [
+        "Below the neck, nearer to the feet",
+        "In front of the neck",
+        "Behind the neck",
+        "Above the neck, nearer to the head end of the body"
+      ],
+      "answer": 3,
+      "explanation": "The flashcards define superior as above a body part or nearer to the head.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "You notice a blue tint to the fingers of both of a patient's hands, charted as bilateral cyanosis. Bilateral means the finding appears:",
+      "choices": [
+        "On one side only",
+        "On both sides of the midline",
+        "Above the midline",
+        "Below the midline"
+      ],
+      "answer": 1,
+      "explanation": "The case study explains the patient has cyanosis bilaterally in his fingers, meaning both the right-sided and left-sided fingers; the flashcards define bilateral as appearing on both sides of the midline.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "A stroke patient reports weakness on one side of his body only. Weakness on one side is described as:",
+      "choices": [
+        "Bilateral",
+        "Medial",
+        "Distal",
+        "Unilateral"
+      ],
+      "answer": 3,
+      "explanation": "The Assessment in Action keys unilateral as the term for \"on one side,\" in contrast to bilateral, both sides.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "You arrive at a crash scene and find the patient lying face down on the ground. The patient is in the _____ position.",
+      "choices": [
+        "Prone",
+        "Supine",
+        "Fowler",
+        "Lateral"
+      ],
+      "answer": 0,
+      "explanation": "The Assessment in Action and the flashcards both key prone as lying face down.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "For a full examination, you place the patient lying face up on the stretcher. This position is called:",
+      "choices": [
+        "Prone",
+        "Fowler",
+        "Supine",
+        "Recovery"
+      ],
+      "answer": 2,
+      "explanation": "The flashcards define supine as lying face up, the opposite of prone, lying face down.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Anatomical directions",
+      "topic_n": 4
+    },
+    {
+      "question": "A patient's chart reads \"BP 156/94 mm Hg.\" The abbreviation BP stands for:",
+      "choices": [
+        "Breathing pattern",
+        "Body pulse",
+        "Blood platelet count",
+        "Blood pressure"
+      ],
+      "answer": 3,
+      "explanation": "The case study writes out \"blood pressure (BP)\" when giving the patient's vital signs.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Abbreviations",
+      "topic_n": 5
+    },
+    {
+      "question": "The monitor strip is annotated \"HR 130 and irregular.\" The abbreviation HR refers to the patient's:",
+      "choices": [
+        "Heart rate",
+        "Heart rhythm murmur",
+        "Blood pressure",
+        "Respiratory rate"
+      ],
+      "answer": 0,
+      "explanation": "The case study writes \"heart rate (HR)\" when reporting the patient's rate of 130 beats/min.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Abbreviations",
+      "topic_n": 5
+    },
+    {
+      "question": "A PCR lists HTN in the patient's past medical history. HTN means the patient has:",
+      "choices": [
+        "Hypotension",
+        "Diabetes",
+        "Hypertension",
+        "Tachycardia"
+      ],
+      "answer": 2,
+      "explanation": "The Assessment in Action and the case study both key HTN as the abbreviation for hypertension.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Abbreviations",
+      "topic_n": 5
+    },
+    {
+      "question": "A patient with abdominal pain points to the LLQ. The LLQ is the:",
+      "choices": [
+        "Left upper quadrant of the abdomen",
+        "Left lower quadrant of the abdomen",
+        "Right lower quadrant of the abdomen",
+        "Right upper quadrant of the abdomen"
+      ],
+      "answer": 1,
+      "explanation": "The flashcards define the quadrants as the four equal areas of the abdominal cavity divided at the umbilicus; LLQ names the left lower one.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Abbreviations",
+      "topic_n": 5
+    },
+    {
+      "question": "An abdominal exam documents tenderness in the LUQ. The LUQ is the:",
+      "choices": [
+        "Left upper quadrant of the abdomen",
+        "Left lower quadrant of the abdomen",
+        "Right upper quadrant of the abdomen",
+        "Right lower quadrant of the abdomen"
+      ],
+      "answer": 0,
+      "explanation": "Using the flashcards' definition of the abdominal quadrants, LUQ names the left upper quadrant.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Abbreviations",
+      "topic_n": 5
+    },
+    {
+      "question": "A chart notes RLQ pain in a patient being evaluated for appendicitis. The RLQ is the:",
+      "choices": [
+        "Right upper quadrant of the abdomen",
+        "Right lower quadrant of the abdomen",
+        "Left lower quadrant of the abdomen",
+        "Left upper quadrant of the abdomen"
+      ],
+      "answer": 1,
+      "explanation": "Using the flashcards' definition of the abdominal quadrants, RLQ names the right lower quadrant.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Abbreviations",
+      "topic_n": 5
+    },
+    {
+      "question": "A report documents RUQ tenderness after a fall. The RUQ is the:",
+      "choices": [
+        "Right lower quadrant of the abdomen",
+        "Left upper quadrant of the abdomen",
+        "Right upper quadrant of the abdomen",
+        "Left lower quadrant of the abdomen"
+      ],
+      "answer": 2,
+      "explanation": "Using the flashcards' definition of the abdominal quadrants, RUQ names the right upper quadrant.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Abbreviations",
+      "topic_n": 5
+    },
+    {
+      "question": "You treat a patient with oxygen at 12 L/min via an NRB. An NRB is a:",
+      "choices": [
+        "Nasal cannula",
+        "Nebulizer mask",
+        "Bag-valve mask",
+        "Nonrebreathing mask"
+      ],
+      "answer": 3,
+      "explanation": "The Assessment in Action scenario describes oxygen given at 12 L/min via a nonrebreathing mask, the device abbreviated NRB.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Abbreviations",
+      "topic_n": 5
+    },
+    {
+      "question": "After checking a patient's eyes, you chart PERRLA. PERRLA describes pupils that are:",
+      "choices": [
+        "Enlarged and fixed",
+        "Equal, round, and reactive to light and accommodation",
+        "Unequal in size",
+        "Nonreactive to light"
+      ],
+      "answer": 1,
+      "explanation": "The Assessment in Action scenario describes the patient's pupils with the exact phrase PERRLA stands for: equal, round, and reactive to light and accommodation.",
+      "source": "Terminology Homework — Chapter 5",
+      "topic": "Abbreviations",
+      "topic_n": 5
+    }
+  ]
+}

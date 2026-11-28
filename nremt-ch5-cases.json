@@ -1,0 +1,298 @@
+{
+ "questions": [
+  {
+   "question": "A chart describes a patient as having cardiomegaly. The word is built from cardi/o, meaning heart, and -megaly, meaning enlargement. What does the chart say about this patient?",
+   "choices": [
+    "His heart muscle is inflamed",
+    "His arteries are hardened",
+    "His heart is enlarged",
+    "His heart beats too fast"
+   ],
+   "answer": 2,
+   "explanation": "Cardi/o (heart) + -megaly (enlargement) = an enlarged heart. The parts of the word give the meaning.",
+   "source": "Case Study — Chapter 5",
+   "topic": "word roots",
+   "topic_n": 1
+  },
+  {
+   "question": "A 65-year-old with breathing problems is under the care of a pulmonologist. The name combines pulmon/o, meaning lung, with -logist, meaning a specialist. Which patients does this doctor treat?",
+   "choices": [
+    "Patients with heart disorders",
+    "Patients with kidney disorders",
+    "Patients with lung and breathing disorders",
+    "Patients with blood disorders"
+   ],
+   "answer": 2,
+   "explanation": "Pulmon/o (lung) + -logist (specialist) = a lung specialist.",
+   "source": "Case Study — Chapter 5",
+   "topic": "word roots",
+   "topic_n": 1
+  },
+  {
+   "question": "A patient's history lists arteriosclerosis. The word is built from arterio (artery), scler (hard), and -osis (condition). What is happening in this patient's body?",
+   "choices": [
+    "His arteries are hardening",
+    "His veins are inflamed",
+    "His red blood cells are low",
+    "His heart is enlarging"
+   ],
+   "answer": 0,
+   "explanation": "Arterio (artery) + scler (hard) + -osis (condition) = a hardening of the arteries.",
+   "source": "Case Study — Chapter 5",
+   "topic": "word roots",
+   "topic_n": 1
+  },
+  {
+   "question": "A lab report shows a low erythrocyte count. Erythr/o means red and -cyte means cell. What is low in this patient?",
+   "choices": [
+    "His platelets",
+    "His red blood cells",
+    "His white blood cells",
+    "His blood plasma"
+   ],
+   "answer": 1,
+   "explanation": "Erythr/o (red) + -cyte (cell) = red blood cells, so a low count means too few of them.",
+   "source": "Case Study — Chapter 5",
+   "topic": "word roots",
+   "topic_n": 1
+  },
+  {
+   "question": "Paperwork for a transfer includes a report from the patient's nephrologist. Nephr/o means kidney. That report is about the patient's:",
+   "choices": [
+    "Kidneys",
+    "Liver",
+    "Heart",
+    "Lungs"
+   ],
+   "answer": 0,
+   "explanation": "Nephr/o (kidney) + -logist (specialist) = a kidney specialist, so the report covers the kidneys.",
+   "source": "Case Study — Chapter 5",
+   "topic": "word roots",
+   "topic_n": 1
+  },
+  {
+   "question": "A patient rates his pain as 8 out of 10. Which root word means pain?",
+   "choices": [
+    "asthen",
+    "angi",
+    "centesis",
+    "alges"
+   ],
+   "answer": 3,
+   "explanation": "Alges is the root for pain. Angi refers to vessels, asthen to weakness, and centesis to a puncture.",
+   "source": "Assessment in Action — Chapter 5",
+   "topic": "word roots",
+   "topic_n": 1
+  },
+  {
+   "question": "A monitor shows a heart rhythm that starts above the ventricles and runs at 150 beats/min. Using supra- (above), tachy- (fast), and cardi (heart), the name of this rhythm is:",
+   "choices": [
+    "Supraventricular bradycardia",
+    "Ventricular tachycardia",
+    "Supraventricular tachycardia",
+    "Ventricular bradycardia"
+   ],
+   "answer": 2,
+   "explanation": "Above the ventricles (supraventricular) + a fast (tachy-) heart rate (cardia) = supraventricular tachycardia.",
+   "source": "Case Study — Chapter 5",
+   "topic": "prefixes",
+   "topic_n": 2
+  },
+  {
+   "question": "A pulse oximeter reads 88%, well below normal, so the patient's tissues are getting too little oxygen. The state is named with hypo-, meaning low. It is called:",
+   "choices": [
+    "Dyspnea",
+    "Hyperoxia",
+    "Cyanosis",
+    "Hypoxia"
+   ],
+   "answer": 3,
+   "explanation": "Hypo- (low) + oxygen = hypoxia, too little oxygen reaching the tissues.",
+   "source": "Case Study — Chapter 5",
+   "topic": "prefixes",
+   "topic_n": 2
+  },
+  {
+   "question": "A crash patient's blood pressure is 90/56, lower than normal. His history shows the opposite problem, hypertension. The prefixes hypo- and hyper- tell you his current pressure is ___ and his long-standing pressure problem is ___.",
+   "choices": [
+    "low; high",
+    "low; low",
+    "high; high",
+    "high; low"
+   ],
+   "answer": 0,
+   "explanation": "Hypo- means low and hyper- means high, so a low reading now is hypo- and the chronic problem, hypertension, is hyper-.",
+   "source": "Assessment in Action — Chapter 5",
+   "topic": "prefixes",
+   "topic_n": 2
+  },
+  {
+   "question": "A test records the heart's electrical activity as a printed tracing. With electro- (electrical), cardi/o (heart), and -gram (a record), that tracing is an:",
+   "choices": [
+    "Cardioversion",
+    "Electroencephalogram",
+    "Electrocardiogram",
+    "Echocardiogram"
+   ],
+   "answer": 2,
+   "explanation": "Electro (electrical) + cardi/o (heart) + -gram (record) = electrocardiogram, a record of the heart's electrical activity.",
+   "source": "Case Study — Chapter 5",
+   "topic": "suffixes",
+   "topic_n": 3
+  },
+  {
+   "question": "A patient coughs up blood after a chest injury. The term is built from hem/o (blood) and -ptysis (spitting). It is called:",
+   "choices": [
+    "Hematemesis",
+    "Epistaxis",
+    "Hematuria",
+    "Hemoptysis"
+   ],
+   "answer": 3,
+   "explanation": "Hem/o (blood) + -ptysis (spitting) = hemoptysis, coughing or spitting up blood. Vomiting blood is hematemesis.",
+   "source": "Case Study — Chapter 5",
+   "topic": "suffixes",
+   "topic_n": 3
+  },
+  {
+   "question": "A test bounces sound waves (echo-) off the heart and records how the valves move. With cardi/o (heart) and -gram (a record), this test is an:",
+   "choices": [
+    "Echocardiogram",
+    "Electrocardiogram",
+    "Electroencephalogram",
+    "Cardiogram catheterization"
+   ],
+   "answer": 0,
+   "explanation": "Echo (sound) + cardi/o (heart) + -gram (record) = echocardiogram, a sound-wave record of the heart.",
+   "source": "Case Study — Chapter 5",
+   "topic": "suffixes",
+   "topic_n": 3
+  },
+  {
+   "question": "After a motorcycle crash, a 17-year-old tells you he sees two of everything. The term is built from dipl- (double) and -opia (vision condition). He has:",
+   "choices": [
+    "Bioccular",
+    "Diplopia",
+    "Dioccular",
+    "Bioptic"
+   ],
+   "answer": 1,
+   "explanation": "Dipl- (double) + -opia (vision) = diplopia, double vision.",
+   "source": "Assessment in Action — Chapter 5",
+   "topic": "suffixes",
+   "topic_n": 3
+  },
+  {
+   "question": "Both of a patient's hands show the same blue discoloration, cyanosis (cyan = blue, -osis = condition). Because it appears on both sides, you document it as:",
+   "choices": [
+    "Unilateral pallor",
+    "Bilateral cyanosis",
+    "Unilateral cyanosis",
+    "Bilateral erythema"
+   ],
+   "answer": 1,
+   "explanation": "Both hands means both sides, and bi- means two — bilateral. Cyan is blue, so the condition is cyanosis.",
+   "source": "Case Study — Chapter 5",
+   "topic": "positions and directional terms",
+   "topic_n": 4
+  },
+  {
+   "question": "A paramedic starts an IV in the patient's left antecubital area. Ante- means front or before, and cubit refers to the elbow. The line went into a vein at the:",
+   "choices": [
+    "Inside of the ankle",
+    "Back of the knee",
+    "Front of the wrist",
+    "Front of the elbow"
+   ],
+   "answer": 3,
+   "explanation": "Ante- (front) + cubit (elbow) = the front of the elbow, the usual IV site there.",
+   "source": "Case Study — Chapter 5",
+   "topic": "positions and directional terms",
+   "topic_n": 4
+  },
+  {
+   "question": "You arrive at a crash and find a 17-year-old lying face down on the pavement. For your report, the position you found him in is documented as:",
+   "choices": [
+    "Recumbent",
+    "Prone",
+    "Fowler",
+    "Supine"
+   ],
+   "answer": 1,
+   "explanation": "Face down is the prone position. Supine is face up.",
+   "source": "Assessment in Action — Chapter 5",
+   "topic": "positions and directional terms",
+   "topic_n": 4
+  },
+  {
+   "question": "A patient reports weakness on his left side only, and the right side tests normal. Uni- means one. You document the weakness as:",
+   "choices": [
+    "Hemilateral",
+    "Unilateral",
+    "Bilateral",
+    "Lateral"
+   ],
+   "answer": 1,
+   "explanation": "One side only is unilateral (uni- = one). Bilateral would mean both sides.",
+   "source": "Assessment in Action — Chapter 5",
+   "topic": "positions and directional terms",
+   "topic_n": 4
+  },
+  {
+   "question": "A PCR lists the abbreviation ASHD in a patient's history. Built from arteriosclerosis (hardened arteries) and heart disease, ASHD stands for:",
+   "choices": [
+    "Atrial septal heart defect",
+    "Arterial stenosis and heart damage",
+    "Arteriosclerotic heart disease",
+    "Acute severe heart disease"
+   ],
+   "answer": 2,
+   "explanation": "ASHD = arteriosclerotic heart disease, heart disease caused by hardened arteries.",
+   "source": "Case Study — Chapter 5",
+   "topic": "abbreviations",
+   "topic_n": 5
+  },
+  {
+   "question": "Before listing today's problems, a PCR has a PMH section where the crew writes the patient's 2019 heart attack and his diabetes. PMH covers the patient's:",
+   "choices": [
+    "Past medical history",
+    "Prehospital management history",
+    "Primary medical hospital",
+    "Present medication history"
+   ],
+   "answer": 0,
+   "explanation": "PMH = past medical history — conditions and events from before this call.",
+   "source": "Case Study — Chapter 5",
+   "topic": "abbreviations",
+   "topic_n": 5
+  },
+  {
+   "question": "A patient tells you he has no allergies to any medications or foods. The accepted abbreviation for the allergy field of your report is:",
+   "choices": [
+    "NA",
+    "ANN",
+    "ANK",
+    "NKA"
+   ],
+   "answer": 3,
+   "explanation": "NKA = no known allergies, the standard abbreviation for the allergy field.",
+   "source": "Assessment in Action — Chapter 5",
+   "topic": "abbreviations",
+   "topic_n": 5
+  },
+  {
+   "question": "On a transfer, two agencies use the same abbreviation to mean different things, and the receiving crew misreads when a treatment was given. This call shows the main danger of abbreviations: they",
+   "choices": [
+    "Are banned on patient care reports",
+    "Cannot be typed into documentation software",
+    "Can mean different things in different contexts",
+    "Are written in all capital letters"
+   ],
+   "answer": 2,
+   "explanation": "The same abbreviation can carry different meanings for different agencies or contexts, which is how misreadings happen.",
+   "source": "Assessment in Action — Chapter 5",
+   "topic": "abbreviations",
+   "topic_n": 5
+  }
+ ]
+}

@@ -127,6 +127,13 @@
    "chapter": 2
   },
   {
+   "category": "NREMT",
+   "file": "nremt-ch2-cases.json",
+   "note": "16 questions",
+   "title": "NREMT — Chapter 2, Case Study & Assessment in Action",
+   "chapter": 2
+  },
+  {
    "file": "nremt-ch3-set1.json",
    "title": "NREMT — Chapter 3, Set 1 (Topics 1–6)",
    "note": "42 questions",
@@ -211,6 +218,13 @@
    "chapter": 3
   },
   {
+   "category": "NREMT",
+   "file": "nremt-ch3-cases.json",
+   "note": "16 questions",
+   "title": "NREMT — Chapter 3, Case Study & Assessment in Action",
+   "chapter": 3
+  },
+  {
    "file": "nremt-ch4-set1.json",
    "title": "NREMT — Chapter 4, Set 1 (Topics 1–6)",
    "note": "12 questions",
@@ -258,6 +272,62 @@
    "note": "98 questions · shuffled",
    "category": "NREMT",
    "chapter": 4
+  },
+  {
+   "category": "NREMT",
+   "file": "nremt-ch4-cases.json",
+   "note": "18 questions",
+   "title": "NREMT — Chapter 4, Case Study & Assessment in Action",
+   "chapter": 4
+  },
+  {
+   "category": "NREMT",
+   "file": "nremt-ch5-cases.json",
+   "note": "21 questions",
+   "title": "NREMT — Chapter 5, Case Study & Assessment in Action",
+   "chapter": 5
+  },
+  {
+   "category": "NREMT",
+   "file": "nremt-ch5-terminology.json",
+   "note": "41 questions",
+   "title": "NREMT — Chapter 5, Terminology Homework",
+   "chapter": 5
+  },
+  {
+   "category": "NREMT",
+   "file": "nremt-ch6-cases.json",
+   "note": "122 questions",
+   "title": "NREMT — Chapter 6, Case Study & Assessment in Action",
+   "chapter": 6
+  },
+  {
+   "category": "NREMT",
+   "file": "nremt-ch7-cases.json",
+   "note": "28 questions",
+   "title": "NREMT — Chapter 7, Case Study & Assessment in Action",
+   "chapter": 7
+  },
+  {
+   "category": "NREMT",
+   "file": "nremt-ch8-cases.json",
+   "note": "27 questions",
+   "title": "NREMT — Chapter 8, Case Study & Assessment in Action",
+   "chapter": 8
+  },
+  {
+   "category": "NREMT",
+   "file": "nremt-ch9-cases.json",
+   "note": "23 questions",
+   "title": "NREMT — Chapter 9, Case Study & Assessment in Action",
+   "chapter": 9
+  },
+  {
+   "category": "NREMT",
+   "file": "nremt-ch10-cases.json",
+   "note": "73 questions",
+   "title": "NREMT — Chapter 10, Case Study & Assessment in Action",
+   "chapter": 10
   }
  ]
 }

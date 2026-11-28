@@ -1,0 +1,228 @@
+{
+ "questions": [
+  {
+   "answer": 1,
+   "choices": [
+    "Begin care under implied consent, since the patient did not object",
+    "Obtain the patient's consent before assessing or treating him",
+    "Advocate for the patient at the hospital before arrival",
+    "Have the patient sign a refusal form before any assessment"
+   ],
+   "explanation": "The patient is alert and able to decide for himself, so care starts with talking to him and getting his consent. Jumping straight to hands-on assessment without it is a failure to obtain consent.",
+   "question": "You arrive at the home of a 65-year-old man with crushing chest pain. Before saying a word to him, your partner walks straight up and starts taking his vital signs. What has your partner skipped doing?",
+   "source": "Assessment in Action — Chapter 3",
+   "topic": "consent",
+   "topic_n": 1
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Expressed consent",
+    "Implied consent",
+    "Informed consent",
+    "Mature consent"
+   ],
+   "explanation": "The patient was asked and then showed his agreement with a nod and by extending his arm. Consent a patient actively gives, by words or gesture, is expressed consent.",
+   "question": "Suppose instead that your partner introduces himself and asks the chest-pain patient, \"Can I check you over?\" The patient nods and holds out his arm. What kind of consent has the patient just given?",
+   "source": "Assessment in Action — Chapter 3",
+   "topic": "consent",
+   "topic_n": 1
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "The total cost of the ambulance transport and hospital stay",
+    "The names and credentials of everyone who will treat him",
+    "The treatments planned, their risks and benefits, any alternatives, and the consequences of refusing",
+    "A guarantee that the treatment will fix his problem"
+   ],
+   "explanation": "Informed consent means a competent patient agrees after understanding the treatment, its risks and benefits, the alternatives, and what could happen if he refuses. A competent patient who is not given that information has a legal right to refuse, and honoring that right matters.",
+   "question": "A patient who is alert, competent, and able to make his own decisions agrees to your care after you explain what you plan to do. For that agreement to count as a truly informed one, what else must he understand?",
+   "source": "Case Study — Chapter 3",
+   "topic": "consent",
+   "topic_n": 1
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Expressed consent, because a confused refusal does not count as speech",
+    "Informed consent, because EMS explained the treatment before he refused",
+    "Mandatory reporting, because syringes were found in the home",
+    "Implied consent, because he is mentally incompetent from the low glucose and would be assumed to want lifesaving care if he could decide"
+   ],
+   "explanation": "A glucose of 20 mg/dL has left him mentally incompetent, so he cannot make a valid refusal. Under implied consent (the emergency doctrine), the law assumes he would accept care and transport if he were able to express consent.",
+   "question": "At 2567 Walnut Lane you find a 32-year-old man who is confused and agitated. He tells you to leave, and his blood glucose reads 20 mg/dL. Why are you legally able to treat and transport him even though he is refusing?",
+   "source": "Case Study — Chapter 3",
+   "topic": "consent",
+   "topic_n": 1
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Leave the house at once, because any refusal ends the call",
+    "Work out whether a medical problem or drugs is behind his confusion and whether he is a danger to himself or others; the officer can authorize treatment and transport if he is a risk",
+    "Restrain him immediately and transport, without waiting for the officer's input",
+    "Search the home for illegal drugs before doing any assessment"
+   ],
+   "explanation": "The syringes could mean a medical condition like diabetes or illicit drug use, and the cause of his confusion drives what you may do. If the officer determines he is a risk to himself or others, the officer can authorize treatment and transport even over his objection.",
+   "question": "You have just arrived at the Walnut Lane call. The 32-year-old is confused, very agitated, telling you to leave, there is a box of syringes in the kitchen, and a police officer is already trying to calm him. What is the best next move?",
+   "source": "Case Study — Chapter 3",
+   "topic": "consent",
+   "topic_n": 1
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Restraint of a patient is never permitted, so the officer acted alone",
+    "Battery charges never apply once a patient swings at a provider",
+    "He is legally incompetent because of his low blood glucose, implied consent covers his care, and law enforcement authorized the restraint",
+    "The officer's presence transfers all liability to the police department"
+   ],
+   "explanation": "Because his low glucose made him legally incompetent, implied consent applies — he is assumed to want care he cannot currently accept. Law enforcement authorization for the restraint is also present, so this is not battery.",
+   "question": "The Walnut Lane patient swings at the paramedic, the officer takes him to the ground, and you help restrain him so his glucose can be checked and an IV started. Why is restraining him in this situation not battery?",
+   "source": "Case Study — Chapter 3",
+   "topic": "consent",
+   "topic_n": 1
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Let him know, clearly and honestly, how important it is that he accept transport to the hospital",
+    "Hand him the refusal form, since his signature releases you from liability",
+    "Order him to go to the hospital whether he wants to or not",
+    "Tell him his friend overreacted and that he can safely stay home"
+   ],
+   "explanation": "A competent patient may refuse, but with signs of a potentially serious cardiac problem your job is to make sure he understands what is at stake and to do your best to persuade him to accept transport. A signature on a form is not a substitute for that effort.",
+   "question": "Back on the chest-pain call, the 65-year-old — alert, with a crushing pain, an irregular pulse of 110, and a long cardiac history — tells you he does not want to go to the hospital and that his friend overreacted by calling. What is the best thing you can do for him right now?",
+   "source": "Assessment in Action — Chapter 3",
+   "topic": "refusal of care",
+   "topic_n": 2
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Practicing under implied consent",
+    "Extending your scope of practice",
+    "Recording a field impression",
+    "Serving the patient's best interest"
+   ],
+   "explanation": "She was competent and initially hesitant; giving her an honest picture of how serious her condition could be let her decide with full information. Acting that way is serving the patient's best interest.",
+   "question": "On another call that day, a woman agrees to treatment and transport only after you explain that her symptoms could mean a serious medical emergency. By laying out the risk honestly so she could make a good decision, you were:",
+   "source": "Assessment in Action — Chapter 3",
+   "topic": "refusal of care",
+   "topic_n": 2
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Nothing was wrong — the signed refusal ended the crew's responsibility",
+    "The patient was treated unprofessionally, and the crew gave up instead of doing their best to convince a man with a potentially serious problem to accept care",
+    "The only error was failing to get a witness signature on the form",
+    "The crew's mistake was not forcing transport, since chest pain removes the right to refuse"
+   ],
+   "explanation": "The partner's remark was unprofessional and dismissive of a man with a potentially serious medical problem. The crew had an ethical obligation to treat him respectfully and to try their best to convince him to agree to treatment and transport.",
+   "question": "Looking back at the chest-pain call, your partner handed the refusing patient a form and said, \"Sign here; it says if you die, it's not our fault.\" Later he told you, \"He signed a refusal — we can't be held liable.\" What was the real problem with how this call was handled?",
+   "source": "Assessment in Action — Chapter 3",
+   "topic": "refusal of care",
+   "topic_n": 2
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Yes — implied consent remains in effect until the call is fully documented",
+    "Yes — once an IV has been started, transport is mandatory",
+    "No — now that his glucose is normal he is legally competent, so he may refuse, and you cannot restrain or transport him without his consent",
+    "Only the paramedic may decide, because she started the IV"
+   ],
+   "explanation": "Implied consent lasted only while he was incompetent. Once his glucose normalized he became legally competent again, and a competent patient can refuse care — EMS can no longer restrain him or provide care and transport without consent.",
+   "question": "A few minutes after the dextrose, the Walnut Lane patient's glucose is back in the normal range and he answers questions about person, place, time, and event appropriately. He again refuses the hospital and demands that you take the IV out. Can you keep restraining him and transport him anyway?",
+   "source": "Case Study — Chapter 3",
+   "topic": "refusal of care",
+   "topic_n": 2
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "Explain the risks of refusing once more and confirm he understands them, tell him how to keep his glucose from dropping again and to call EMS if symptoms return, have him and a witness sign the refusal form, and document the whole sequence",
+    "Get his signature on the refusal form and clear quickly, since he is hostile and further talk will only upset him",
+    "Skip the paperwork — documentation of a refusal is optional when the patient is uncooperative",
+    "Stay on scene and keep restraining him until he agrees to go"
+   ],
+   "explanation": "A sound refusal means re-explaining the risks of nontransport, checking that he understands them, telling him how to prevent a recurrence and when to call EMS again, getting the refusal form signed by the patient and a witness (or a witness alone if he will not sign), and documenting everything thoroughly.",
+   "question": "The Walnut Lane patient, now alert and competent, is still refusing transport. Which of the following completes a proper refusal before you leave the scene?",
+   "source": "Case Study — Chapter 3",
+   "topic": "refusal of care",
+   "topic_n": 2
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "Scope of practice",
+    "Breach of duty",
+    "Mandatory reporting",
+    "Duty to act"
+   ],
+   "explanation": "Once your unit is dispatched to an emergency, you have a legal obligation to respond and provide care. That obligation is your duty to act.",
+   "question": "Your crew is dispatched to the chest-pain call across town. From the moment that dispatch comes in, the law expects your ambulance to respond and begin care. That obligation is called your:",
+   "source": "Assessment in Action — Chapter 3",
+   "topic": "duty to act and abandonment",
+   "topic_n": 3
+  },
+  {
+   "answer": 1,
+   "choices": [
+    "Performed triage, because a drowning child outranks a chest-pain patient",
+    "Abandoned the patient, because they left someone whose care they had begun without an equal or higher level of care taking over",
+    "Acted as patient advocates, because they responded to the more dramatic call",
+    "Followed their duty to act, because a new emergency resets their obligations"
+   ],
+   "explanation": "Once you begin caring for a patient, leaving him before care is properly transferred to someone of equal or higher training is abandonment — even when another emergency is calling. Promising to send another ambulance later does not change that.",
+   "question": "Midway through the chest-pain call, you hear a neighbor crying for help — a child is drowning just around the corner. You and your partner leave the chest-pain patient, telling him you must respond and will send another ambulance for him as soon as possible. What has the crew just done?",
+   "source": "Assessment in Action — Chapter 3",
+   "topic": "duty to act and abandonment",
+   "topic_n": 3
+  },
+  {
+   "answer": 2,
+   "choices": [
+    "Battery",
+    "Breach of confidentiality",
+    "Negligence or abandonment",
+    "False imprisonment"
+   ],
+   "explanation": "A patient who is mentally incompetent cannot make a valid refusal, so walking away is a failure to treat someone you had a duty to help. That can bring charges of negligence or abandonment.",
+   "question": "Back at Walnut Lane, suppose the crew had simply walked out when the confused man first told them to leave, without checking his glucose or treating him. Because he was mentally incompetent to refuse care, the crew could face charges of:",
+   "source": "Case Study — Chapter 3",
+   "topic": "duty to act and abandonment",
+   "topic_n": 3
+  },
+  {
+   "answer": 3,
+   "choices": [
+    "It is only a problem if the patient finds out what you said",
+    "Confidentiality covers only the written report, not conversation",
+    "Call details become public record once the run is over",
+    "Inappropriate disclosure of patient information can bring liability for breach of confidentiality and HIPAA violations, including civil or criminal lawsuits"
+   ],
+   "explanation": "What you learn about a patient on a call is confidential and protected by his right to privacy. Disclosing it to people not involved in his care can expose you and your agency to breach-of-confidentiality and HIPAA liability, with civil and/or criminal lawsuits possible.",
+   "question": "A week after the Walnut Lane call, a friend who is not in health care asks you about \"that crazy call with the syringes,\" and you share details of the patient's condition and treatment. Why is that a legal problem?",
+   "source": "Case Study — Chapter 3",
+   "topic": "confidentiality and disclosure",
+   "topic_n": 4
+  },
+  {
+   "answer": 0,
+   "choices": [
+    "The nurse, physician assistant, or physician who accepts transfer of his care at the hospital",
+    "Law enforcement, routinely, on every call involving illegal drugs",
+    "His family members, so they can intervene with him",
+    "No one — his drug use is private and relevant to nobody else"
+   ],
+   "explanation": "His heroin use is important to continuity of care, so it goes to the nurse, physician assistant, or physician who takes over at the hospital. Drug addiction is treated as an illness, not a crime, and law enforcement is not notified unless there are extenuating circumstances.",
+   "question": "During a transport, your patient admits that he used heroin recently. That information matters for how he is treated. Who should you pass it to?",
+   "source": "Assessment in Action — Chapter 3",
+   "topic": "confidentiality and disclosure",
+   "topic_n": 4
+  }
+ ]
+}

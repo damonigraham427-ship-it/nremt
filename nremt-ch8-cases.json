@@ -1,0 +1,382 @@
+{
+  "questions": [
+    {
+      "question": "You are 200 yards into the woods where a tree fell on a 42-year-old man. The trunk is still across his upper legs and pelvis, and bystanders are jacking it up. The moment the tree is lifted clear, you need to get him out from under it fast, before it can shift or settle back. What is the best way to remove him at that moment?",
+      "choices": [
+        "Power lift",
+        "Clothes drag",
+        "Extremity lift",
+        "Direct ground lift"
+      ],
+      "answer": 1,
+      "explanation": "He has to be dragged clear of the load immediately, and the clothes drag lets you pull him out by his clothing without first positioning a board or lifting him. Lifting techniques would take time he does not have under a jacked-up tree.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Emergency moves and drags",
+      "topic_n": 1
+    },
+    {
+      "question": "You arrive at a house fire and find a patient down just inside the doorway, with smoke conditions getting worse by the second. There is no time to assess or treat her where she lies — you grab her and pull her out to the yard first. A move like this, dragging a patient from a dangerous scene before assessment and care, is called a(n):",
+      "choices": [
+        "Direct ground lift",
+        "Extremity lift",
+        "Emergency move",
+        "Power lift"
+      ],
+      "answer": 2,
+      "explanation": "When the scene itself is the threat, the patient is dragged or pulled to safety before assessment and care begin — that is the definition of an emergency move. The other options are lifting techniques used once a patient can be handled normally.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Emergency moves and drags",
+      "topic_n": 1
+    },
+    {
+      "question": "While freeing the man pinned by the tree, you are pulling and lifting in awkward positions over rough ground. To protect your own back, the one body-mechanics rule you cannot break is to:",
+      "choices": [
+        "Keep your back straight",
+        "Keep your feet close together",
+        "Bend as far forward at the hips as possible",
+        "Keep your back curved so you can reach farther"
+      ],
+      "answer": 0,
+      "explanation": "A straight back keeps the lifting load on your legs and off your spine. Bending forward at the hips or rounding your back is exactly how providers get hurt.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Body mechanics and team lifting",
+      "topic_n": 2
+    },
+    {
+      "question": "You are using a body drag to move a patient. Your back is locked and straight, the way it should be. What should your arms be doing?",
+      "choices": [
+        "Your arms should be fully extended with your elbows locked",
+        "You should bend from the waist with your feet 12 inches (30 cm) apart",
+        "Your elbows should extend only just beyond the front of your torso",
+        "Your feet should be kept close together so you can pivot"
+      ],
+      "answer": 2,
+      "explanation": "In a body drag, your elbows should extend just beyond the anterior torso — no farther. Reaching out with fully extended, locked arms pulls the load away from your center of gravity and strains your back and shoulders.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Body mechanics and team lifting",
+      "topic_n": 2
+    },
+    {
+      "question": "Your patient is secured on a backboard and you and your partner are about to lift it together. Which technique should you use to get the board up?",
+      "choices": [
+        "Lateral lift",
+        "Diamond carry",
+        "Power grip",
+        "Power lift"
+      ],
+      "answer": 3,
+      "explanation": "Lifting a backboard calls for the power lift: back upright, legs bent, and the lift done by straightening your legs. The power grip describes how you hold the handles, and the diamond carry is for carrying once the board is already up.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Body mechanics and team lifting",
+      "topic_n": 2
+    },
+    {
+      "question": "A crew that talks constantly during every lift — one person calling the count, everyone moving together — gets through the same heavy lifts with far fewer strained backs than a crew that just grabs and heaves. Why does that constant communication prevent provider injuries?",
+      "choices": [
+        "It lets the strongest provider take most of the weight",
+        "It coordinates everyone's lifting and carrying movements so the team moves as one",
+        "It removes the need for proper body mechanics",
+        "It speeds the move up so technique matters less"
+      ],
+      "answer": 1,
+      "explanation": "Communication works because it constantly coordinates your lifting and carrying movements with your team members, so nobody twists, jerks, or takes a sudden uneven share of the load. It never replaces body mechanics — it makes them possible as a team.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Body mechanics and team lifting",
+      "topic_n": 2
+    },
+    {
+      "question": "You are about to lift a patient with your partner, and you pause for ten seconds first. Which set of questions is the right one to run through before you lift?",
+      "choices": [
+        "Am I physically strong enough for this lift, is there room to get into a proper stance, and do I need additional personnel?",
+        "Is the patient going to cooperate, is the stretcher close enough, and is the route downhill?",
+        "Can I lift mostly with my back, are my feet together, and can we skip the count?",
+        "Is this an emergency move, is the board padded, and did someone call the hospital?"
+      ],
+      "answer": 0,
+      "explanation": "Before any lift you should ask whether you are physically strong enough, whether there is adequate room to get into the proper stance, and whether you need additional personnel. If any answer is wrong, fix it before you lift — not after someone is hurt.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Body mechanics and team lifting",
+      "topic_n": 2
+    },
+    {
+      "question": "You grip the handle of the stretcher by sliding your hand underneath it, palm facing up and thumb extended, so the underside of the handle rests fully on your curved palm, supported by your fingers and thumb. That gripping technique is called the:",
+      "choices": [
+        "Power lift",
+        "Diamond carry",
+        "Power grip",
+        "Extremity lift"
+      ],
+      "answer": 2,
+      "explanation": "That palm-up, thumb-extended grip, with the handle supported on the curved palm, is the power grip. The power lift is the leg-driven lift itself, not the way you hold the handle.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Body mechanics and team lifting",
+      "topic_n": 2
+    },
+    {
+      "question": "An alert patient is sitting on the floor of her apartment after a minor fall. She has no suspected spinal or extremity injuries, but she cannot stand on her own. You and your partner lift her by her arms and legs to move her onto the stretcher. Which lift did you use?",
+      "choices": [
+        "Direct ground lift",
+        "Power lift",
+        "Diamond carry",
+        "Extremity lift"
+      ],
+      "answer": 3,
+      "explanation": "The extremity lift is used for patients who are supine or sitting with no suspected extremity or spinal injuries, lifting by the arms and legs. The direct ground lift is only for a patient lying supine on the ground, which she is not.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Lifts and carries",
+      "topic_n": 3
+    },
+    {
+      "question": "A man is lying flat on his back on the ground after collapsing. He has no suspected spinal injury. Three of you kneel along his sides, slide your arms under his back and legs, and lift him straight up in one motion to place him on the stretcher. Which lift is this?",
+      "choices": [
+        "Extremity lift",
+        "Direct ground lift",
+        "Clothes drag",
+        "Firefighter's carry"
+      ],
+      "answer": 1,
+      "explanation": "Lifting a supine patient straight up off the ground with providers positioned along his sides is the direct ground lift, used when there is no suspected spinal injury. The extremity lift moves the patient by his arms and legs instead.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Lifts and carries",
+      "topic_n": 3
+    },
+    {
+      "question": "Back in the woods, the stretcher cannot be brought to the man who was pinned by the tree, so your four-person team has to carry him out on the backboard: one provider at the head, one at the foot, and one on each side, each side provider using one hand so everyone can face forward as they walk. This carry is the:",
+      "choices": [
+        "Diamond carry",
+        "Firefighter's carry",
+        "Direct carry",
+        "Emergency carry"
+      ],
+      "answer": 0,
+      "explanation": "One provider at the head, one at the foot, and one at each side using one hand so all four face forward is the diamond carry — the standard way to hand-carry a board when the stretcher cannot reach the patient.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Lifts and carries",
+      "topic_n": 3
+    },
+    {
+      "question": "The man in the woods had a tree fall across his pelvis and upper legs, and he reports tremendous pain in his right hip and thigh. He is not complaining of neck or back pain. Should spinal immobilization be part of his care?",
+      "choices": [
+        "Yes — every trauma patient gets immobilized no matter what",
+        "No — he is not reporting any neck or back pain",
+        "Yes — there is a significant mechanism of injury",
+        "No — there is no significant mechanism of injury"
+      ],
+      "answer": 2,
+      "explanation": "A tree falling on a patient is a significant mechanism of injury, and that alone is reason to consider spinal immobilization. A lack of neck or back pain does not clear him — pain and tingling can begin only after the initial shock of the incident wears off.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Spinal protection and extrication",
+      "topic_n": 4
+    },
+    {
+      "question": "A 54-year-old woman hit a pole at moderate speed. She was belted, the airbag deployed, the front-end damage is minor, and her only complaint is neck pain. She is stable, with no life-threatening injuries and no other findings on a rapid exam. What is your treatment priority for her?",
+      "choices": [
+        "Rapidly extricate her in under a minute before doing anything else",
+        "Safely and carefully remove her from the vehicle to the ambulance in a way that minimizes movement of her spine",
+        "Complete a full head-to-toe exam before moving her at all",
+        "Remove her neck from any support so she can show you where it hurts"
+      ],
+      "answer": 1,
+      "explanation": "Because she is stable with no immediate life threats, the priority is a careful removal that minimizes spinal movement — not speed, and not a prolonged exam in the seat. Rapid extrication is reserved for hazards or a deteriorating patient, neither of which she has yet.",
+      "source": "Case Study — Chapter 8",
+      "topic": "Spinal protection and extrication",
+      "topic_n": 4
+    },
+    {
+      "question": "To get that same patient out of her car safely — keeping her spine in alignment and keeping her balanced all the way to the stretcher — the resource that matters most is:",
+      "choices": [
+        "A second ambulance standing by",
+        "A physician riding along to direct the move",
+        "Extra oxygen equipment at the car door",
+        "Sufficient personnel, including firefighters if needed, to control the move"
+      ],
+      "answer": 3,
+      "explanation": "Safe removal takes enough hands: fellow crew members or additional personnel such as firefighters, so spinal alignment is maintained and the patient stays balanced during the move to the stretcher. Equipment cannot substitute for the people controlling her body.",
+      "source": "Case Study — Chapter 8",
+      "topic": "Spinal protection and extrication",
+      "topic_n": 4
+    },
+    {
+      "question": "Your partner is in the back seat holding the patient's head. Any movement makes her complain of severe pain in her neck and lower back, and she now reports tingling in her hands. What is the best way to get her out of the vehicle?",
+      "choices": [
+        "Apply a cervical collar and rely on it alone to stabilize her neck during the transfer",
+        "Use a cervical collar plus a short backboard or vest-type device, slide her out on a long backboard, and keep manual stabilization of her neck until she is fully secured on the stretcher",
+        "Log roll her sideways out of the door onto the ground",
+        "Use an extremity lift by her arms and legs to bring her out quickly"
+      ],
+      "answer": 1,
+      "explanation": "Her pain and tingling point to a possible cervical spine injury, so the move has to produce as little neck motion as possible: collar, a short backboard or vest-type device, a long backboard to slide her out, and manual stabilization the whole way. A collar alone cannot totally stabilize the neck during a transfer, which is why the manual hold continues until she is secured.",
+      "source": "Case Study — Chapter 8",
+      "topic": "Spinal protection and extrication",
+      "topic_n": 4
+    },
+    {
+      "question": "Midway through your assessment of the woman in the crashed car, your partner calls out that a thin line of smoke is escaping from under the hood. Everything about your removal plan changes. What is the best way to move her now, and with how many providers?",
+      "choices": [
+        "Keep using the slow vest-device extrication — the smoke is probably minor",
+        "Wait beside the car for the fire crew to put the smoke out before touching her",
+        "Perform a rapid extrication, ideally with three knowledgeable and practiced providers",
+        "Have one provider pull her out alone while the other gets the stretcher"
+      ],
+      "answer": 2,
+      "explanation": "Smoke from the hood is a potential hazard that makes rapid extrication necessary — the risk of staying now outweighs the risk of moving faster. Done properly, it takes three knowledgeable and practiced providers working together.",
+      "source": "Case Study — Chapter 8",
+      "topic": "Spinal protection and extrication",
+      "topic_n": 4
+    },
+    {
+      "question": "Your patient is loaded in the ambulance. She tells you the cervical collar is uncomfortable and that it feels hard to breathe in it. You reassess her: her airway is patent and her breathing is adequate. What should you do?",
+      "choices": [
+        "Leave the collar in place, explain why she needs it, and keep reassessing her airway",
+        "Remove the collar for comfort — her exam was reassuring",
+        "Remove the collar and let her hold her own head still",
+        "Loosen the collar so it no longer limits her neck movement"
+      ],
+      "answer": 0,
+      "explanation": "A cervical collar should not be removed unless there is an issue with the patient's airway, and hers is patent with adequate breathing. If a collar ever must come off, manual stabilization has to replace it — comfort alone is never the reason, though explaining and empathizing with her discomfort absolutely is part of the care.",
+      "source": "Case Study — Chapter 8",
+      "topic": "Spinal protection and extrication",
+      "topic_n": 4
+    },
+    {
+      "question": "The man pinned by the tree is finally free. Because of the significant mechanism, you are treating him as a possible spine injury. How should he be moved onto the backboard?",
+      "choices": [
+        "Extremity lift",
+        "Direct ground lift",
+        "Log roll with attention to the cervical spine",
+        "Scoop stretcher"
+      ],
+      "answer": 3,
+      "explanation": "The scoop stretcher is the choice here: it is fitted around him where he lies, so he can be lifted without being rolled or lifted by his extremities. That matters for a patient with a significant mechanism and possible pelvic and spinal injuries.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Scoop stretcher",
+      "topic_n": 5
+    },
+    {
+      "question": "Your partner radios from the patient's side: \"Bring me the orthopaedic stretcher.\" Which piece of equipment do you grab?",
+      "choices": [
+        "Scoop stretcher",
+        "Basket stretcher",
+        "Flexible stretcher",
+        "Wheeled ambulance stretcher"
+      ],
+      "answer": 0,
+      "explanation": "The scoop stretcher is also known as the orthopaedic stretcher — the one that splits into sections and is fitted around a patient lying on a flat surface. The names are interchangeable, so the radio call and the device are the same thing.",
+      "source": "Assessment in Action — Chapter 8",
+      "topic": "Scoop stretcher",
+      "topic_n": 5
+    },
+    {
+      "question": "Suppose the woman in the crash had been thrown from the car instead, and you find her lying on the pavement with very little working room around her. Rather than log rolling her onto a backboard, which device lets you pick her up — and why does it fit this situation?",
+      "choices": [
+        "Stair chair, because she can be carried sitting up",
+        "Portable stretcher, because it folds for storage",
+        "Scoop stretcher, because it separates into two sections that slide under her from either side and fasten at the head and foot",
+        "Basket stretcher, because it drains water"
+      ],
+      "answer": 2,
+      "explanation": "The scoop stretcher separates into two sections that can be placed under the patient laterally from either side, then fastened at the head and foot to form one lifting device — no log roll needed, which is exactly what you want when space around the patient is limited. Once she is on the gurney, the sections separate and come away.",
+      "source": "Case Study — Chapter 8",
+      "topic": "Scoop stretcher",
+      "topic_n": 5
+    },
+    {
+      "question": "One stretcher does most of your everyday work: it rolls along the ground beside the patient, and its collapsible undercarriage folds so the whole unit can be loaded into the ambulance. That stretcher is the:",
+      "choices": [
+        "Portable stretcher",
+        "Wheeled ambulance stretcher",
+        "Flexible stretcher",
+        "Basket stretcher"
+      ],
+      "answer": 1,
+      "explanation": "The wheeled ambulance stretcher — also just called the ambulance stretcher — is the one with wheels and a collapsible undercarriage made for loading into the ambulance. The portable and flexible stretchers have no wheels or undercarriage.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Stretchers, boards, and devices",
+      "topic_n": 6
+    },
+    {
+      "question": "In the back of the rescue truck you find a stretcher built on a strong, rectangular, tubular metal frame with rigid fabric stretched across it. No wheels, no folding parts. This is a:",
+      "choices": [
+        "Flexible stretcher",
+        "Wheeled ambulance stretcher",
+        "Scoop stretcher",
+        "Portable stretcher"
+      ],
+      "answer": 3,
+      "explanation": "A rigid fabric panel stretched across a strong rectangular tubular metal frame describes the portable stretcher. The flexible stretcher is the one that folds or rolls up, which this frame cannot do.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Stretchers, boards, and devices",
+      "topic_n": 6
+    },
+    {
+      "question": "You need a carrying device for a cramped scene. The one you pick is rigid and supportive once it is secured around the patient, but when the call is over it folds or rolls up for storage. That device is the:",
+      "choices": [
+        "Flexible stretcher",
+        "Portable stretcher",
+        "Basket stretcher",
+        "Wheeled ambulance stretcher"
+      ],
+      "answer": 0,
+      "explanation": "Rigid around the patient in use, folded or rolled when not in use — that combination defines the flexible stretcher. The portable stretcher's metal frame stays rigid all the time.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Stretchers, boards, and devices",
+      "topic_n": 6
+    },
+    {
+      "question": "A conscious patient on the third floor of a house needs to come down a narrow, turning stairway, and she can safely sit up for the trip. The device made for exactly this job is the:",
+      "choices": [
+        "Scoop stretcher",
+        "Stair chair",
+        "Backboard",
+        "Basket stretcher"
+      ],
+      "answer": 1,
+      "explanation": "The stair chair is a lightweight folding device built to carry a conscious, seated patient up or down stairs. The other options all carry a patient lying flat, which a narrow stairway will not allow.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Stretchers, boards, and devices",
+      "topic_n": 6
+    },
+    {
+      "question": "A hiker has to be carried out of a creek bed during a water rescue. The crew brings a rigid stretcher that surrounds and supports him while letting water drain out through holes in the bottom — the one also called a Stokes litter. This is the:",
+      "choices": [
+        "Flexible stretcher",
+        "Portable stretcher",
+        "Basket stretcher",
+        "Scoop stretcher"
+      ],
+      "answer": 2,
+      "explanation": "The basket stretcher is the rigid rescue stretcher that surrounds and supports the patient and drains water through its bottom; Stokes litter is its other name. It is the standard device for technical and water rescues.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Stretchers, boards, and devices",
+      "topic_n": 6
+    },
+    {
+      "question": "For a patient with a suspected hip, pelvic, spinal, or lower extremity injury, you reach for the long, flat, rigid board that gives her body full support — the one your crew variously calls a spine board, a trauma board, or a longboard. Its formal name here is the:",
+      "choices": [
+        "Scoop stretcher",
+        "Portable stretcher",
+        "Stair chair",
+        "Backboard"
+      ],
+      "answer": 3,
+      "explanation": "The long, flat, rigid board used to support suspected hip, pelvic, spinal, and lower extremity injuries is the backboard; spine board, trauma board, and longboard are all names for the same board.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Stretchers, boards, and devices",
+      "topic_n": 6
+    },
+    {
+      "question": "A hospital note describes a patient's long-term care plan as the management of her obesity and the diseases that come with it, handled by a dedicated specialty service. The branch of medicine concerned with the management — prevention or control — of obesity and allied diseases is called:",
+      "choices": [
+        "Bariatrics",
+        "Geriatrics",
+        "Body mechanics",
+        "Pediatrics"
+      ],
+      "answer": 0,
+      "explanation": "Bariatrics is the branch of medicine concerned with the management of obesity and allied diseases. The word itself is the giveaway once you meet it: it names the specialty, not a lifting technique or an age group.",
+      "source": "Flashcards — Chapter 8",
+      "topic": "Bariatrics",
+      "topic_n": 7
+    }
+  ]
+}

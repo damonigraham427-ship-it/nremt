@@ -1,0 +1,1712 @@
+{
+  "questions": [
+    {
+      "question": "You are dispatched to an unresponsive person at an automotive garage and find a middle-aged man lying faceup on the ground by a tire rack. As you approach and look at the front side of his body, which plane of the body are you viewing?",
+      "choices": [
+        "Midsagittal plane",
+        "Sagittal plane",
+        "Coronal plane",
+        "Transverse plane"
+      ],
+      "answer": 2,
+      "explanation": "The coronal (frontal) plane divides the body into front and back portions, so looking at the patient's front side means you are viewing the coronal plane.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Planes and assessment landmarks",
+      "topic_n": 1
+    },
+    {
+      "question": "After opening the garage patient's airway and confirming he is breathing on his own, you check for a pulse on the side of his neck, just beside the trachea. Which artery are you palpating?",
+      "choices": [
+        "Radial artery",
+        "Carotid artery",
+        "Femoral artery",
+        "Brachial artery"
+      ],
+      "answer": 1,
+      "explanation": "The pulse point on the side of the neck, just lateral to the trachea, is the carotid artery.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Planes and assessment landmarks",
+      "topic_n": 1
+    },
+    {
+      "question": "Your rapid assessment of the unresponsive garage patient turns up marked swelling in his right thigh. Which bone sits in the region you are examining?",
+      "choices": [
+        "Tibia",
+        "Fibula",
+        "Patella",
+        "Femur"
+      ],
+      "answer": 3,
+      "explanation": "The thigh contains a single bone, the femur; the tibia and fibula are in the lower leg and the patella is the kneecap.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "While you work on the garage patient, your partner asks what mineral bone cells rely on most to build bone that is hard and resilient. Which mineral is it?",
+      "choices": [
+        "Calcium",
+        "Sodium",
+        "Potassium",
+        "Magnesium"
+      ],
+      "answer": 0,
+      "explanation": "Calcium is the predominant mineral bone cells use to create a hard and resilient structure.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "En route to the hospital you reassess the patient and note bruising and instability over his right cheekbone. What is the proper name for that bone?",
+      "choices": [
+        "Maxilla",
+        "Zygoma",
+        "Mandible",
+        "Sphenoid"
+      ],
+      "answer": 1,
+      "explanation": "The cheekbone is the zygoma; the maxilla is the upper jaw and the mandible is the lower jaw.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "You examine the patient's forearm and wrist for injuries. Of the two bones in the forearm, the larger one at the wrist is the:",
+      "choices": [
+        "Ulna",
+        "Humerus",
+        "Clavicle",
+        "Radius"
+      ],
+      "answer": 3,
+      "explanation": "The radius is the larger forearm bone at the wrist; the humerus is in the upper arm and the clavicle is the collarbone.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "You check the patient's elbow as part of your assessment. The joint there only flexes and extends in one plane — it does not rotate or glide. What type of joint is the elbow?",
+      "choices": [
+        "Hinge joint",
+        "Ball-and-socket joint",
+        "Saddle joint",
+        "Immovable joint"
+      ],
+      "answer": 0,
+      "explanation": "A joint that moves in one plane, flexing and extending like the elbow, is a hinge joint; a ball-and-socket joint like the shoulder moves in many directions.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "En route, the garage patient's breathing becomes ineffective and his body can no longer move gas the way it should. What is happening at the cellular level as oxygen delivery falls off?",
+      "choices": [
+        "Cells increase aerobic metabolism and generate extra energy to compensate",
+        "Lactic acid levels fall, the blood pH rises, and the cells recover on their own",
+        "Cells shift to anaerobic metabolism, lactic acid builds up, the blood pH drops, and cells begin to die",
+        "Heart and brain cells switch to stored oxygen and can go for hours without a fresh supply"
+      ],
+      "answer": 2,
+      "explanation": "When ventilation or respiration is impaired, cells are forced from aerobic to anaerobic metabolism. Lactic acid is the by-product; once too much builds up, blood pH drops and cells die — the heart and brain survive only minutes without constant oxygen.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Based on your findings, you suspect the garage patient has a closed head injury. His level of consciousness is fading, and his blood pressure, heart rate, and breathing are all becoming unstable. Which structure of the brain is responsible for level of consciousness and maintenance of vital signs?",
+      "choices": [
+        "Cerebrum",
+        "Brainstem",
+        "Cerebellum",
+        "Spinal cord"
+      ],
+      "answer": 1,
+      "explanation": "The brainstem is the control center for consciousness and vital signs: the midbrain governs level of consciousness, while the pons and medulla regulate blood pressure, heart rate, and respiratory rate.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "Just before you reach the hospital, you take a final set of vital signs on the garage patient. His pulse was 89 beats/min at first contact and is now 116 beats/min as his condition worsens. Which division of the autonomic nervous system is driving this stress response?",
+      "choices": [
+        "Parasympathetic nervous system",
+        "Somatic nervous system",
+        "Central nervous system",
+        "Sympathetic nervous system"
+      ],
+      "answer": 3,
+      "explanation": "The sympathetic half of the autonomic nervous system takes over in times of stress and raises the vital signs to help the body adapt; the parasympathetic half dominates during rest and relaxation.",
+      "source": "Assessment in Action — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "You are called to 340 Tulip Lane for a 45-year-old man with severe back pain who cannot sit still. You find tenderness on palpation over his right flank and suspect his right kidney. Where do the kidneys actually sit in the body?",
+      "choices": [
+        "Behind the abdominal cavity, above the level of the umbilicus",
+        "Inside the lower abdominal cavity, below the level of the umbilicus",
+        "In the chest, behind the lungs",
+        "Along the front of the pelvis, beside the bladder"
+      ],
+      "answer": 0,
+      "explanation": "The kidneys are retroperitoneal — behind the abdominal cavity — and sit above the umbilicus, which is why kidney pain shows up in the flank and back.",
+      "source": "Case Study — Chapter 6",
+      "topic": "Urinary system anatomy",
+      "topic_n": 5
+    },
+    {
+      "question": "The same region behind the abdominal cavity that holds the kidneys holds other structures as well. Which set of structures also sits back there with the kidneys?",
+      "choices": [
+        "The heart and the lungs",
+        "The trachea and the esophagus",
+        "The adrenal glands and the pancreas",
+        "The spleen and the stomach"
+      ],
+      "answer": 2,
+      "explanation": "The adrenal glands sit on top of each kidney, and the pancreas is also retroperitoneal; the liver, gallbladder, and part of the large intestine are nearby sources to consider for right-sided pain.",
+      "source": "Case Study — Chapter 6",
+      "topic": "Urinary system anatomy",
+      "topic_n": 5
+    },
+    {
+      "question": "The Tulip Lane patient's pain starts coming in waves as a stone begins moving down his ureter. Based on where that stone is traveling, what additional complaints might he now report?",
+      "choices": [
+        "Pain that stays locked in one small spot, with clear urine and no nausea",
+        "Pain spreading toward his groin, blood in his urine, and nausea or vomiting",
+        "Pain in both shoulders and a sudden drop in his pulse",
+        "A feeling of calm and a steady decrease in pain"
+      ],
+      "answer": 1,
+      "explanation": "Kidney pain radiates along nearby nerves to the abdomen, flank, back, or groin. A stone moving down the ureter irritates it and can cause hematuria (blood in the urine), and the pain and stress commonly cause nausea or vomiting.",
+      "source": "Case Study — Chapter 6",
+      "topic": "Urinary system anatomy",
+      "topic_n": 5
+    },
+    {
+      "question": "Put the Tulip Lane findings together: the pain started suddenly with no injury he can recall, it rises and falls in waves, he is restless and cannot find a comfortable position, and he has tenderness over his right flank. What do these clues most strongly point to?",
+      "choices": [
+        "A pulled back muscle from lifting",
+        "A slipped spinal disc",
+        "A fractured vertebra from a fall he forgot",
+        "A kidney stone"
+      ],
+      "answer": 3,
+      "explanation": "Sudden onset without trauma, spasmodic wave-like pain, restlessness, and flank tenderness are the classic presentation of a kidney stone — not of a traumatic back injury, which he would usually be able to explain and which does not come in waves.",
+      "source": "Case Study — Chapter 6",
+      "topic": "Urinary system anatomy",
+      "topic_n": 5
+    },
+    {
+      "question": "Your partner quizzes a trainee on the ride back: the kidneys are the topmost part of which body system, and how does that system move waste out of the body?",
+      "choices": [
+        "The bladder filters blood and makes urine, which the kidneys store and release through the ureters",
+        "The ureters filter blood, and the kidneys drain the waste straight out through the skin",
+        "The kidneys filter blood and produce urine, which travels through the ureters to the bladder and leaves the body through the urethra",
+        "The kidneys store urine made by the bladder, and the urethra filters it before it leaves"
+      ],
+      "answer": 2,
+      "explanation": "The kidneys are the most superior part of the urinary system. They filter blood and produce urine; each ureter carries it to the bladder, which empties through the urethra. The system also controls fluid balance and helps control blood pH.",
+      "source": "Case Study — Chapter 6",
+      "topic": "Urinary system anatomy",
+      "topic_n": 5
+    },
+    {
+      "question": "The Tulip Lane patient insists he must have 'hurt his back,' but he cannot name any injury. Why does your knowledge of anatomy change how you assess him?",
+      "choices": [
+        "It tells you which structures lie under the painful area — muscle, spine, or kidney — so you can direct your palpation, questions, and treatment plan",
+        "It doesn't change anything; back pain is a muscle injury until the hospital proves otherwise",
+        "It lets you skip the history, since the anatomy already tells you the diagnosis",
+        "It only matters for trauma patients, not for medical complaints like his"
+      ],
+      "answer": 0,
+      "explanation": "Back pain can come from trauma, muscle pulls, slipped discs, or kidney stones. Knowing which structures cause which symptoms lets you focus the assessment — palpation, movement, onset, and character of pain — instead of guessing.",
+      "source": "Case Study — Chapter 6",
+      "topic": "Anatomy in assessment and communication",
+      "topic_n": 6
+    },
+    {
+      "question": "Suppose the Tulip Lane crew had decided the patient's pain was a spinal injury and treated it that way, instead of recognizing the kidney problem. What would most likely have happened to his care?",
+      "choices": [
+        "His pain would have eased faster once he was immobilized",
+        "Nothing would change, because the treatments for the two problems are interchangeable",
+        "Immobilization could have increased his pain, and pain management and position of comfort would have been delayed",
+        "He would have received an IV and morphine sooner"
+      ],
+      "answer": 2,
+      "explanation": "Treating a kidney stone like a spinal injury leads to immobilization that can worsen the pain, and it delays the care he actually needed — position of comfort, an IV, and pain management. Missing the cause can mean treating the patient incorrectly.",
+      "source": "Case Study — Chapter 6",
+      "topic": "Anatomy in assessment and communication",
+      "topic_n": 6
+    },
+    {
+      "question": "At the hospital, the paramedic's handoff uses precise anatomic terms, and the emergency physician clearly comes away trusting the crew's knowledge. Why does speaking that shared language have that effect?",
+      "choices": [
+        "Hospital staff are required to trust any crew that uses technical words",
+        "A common terminology makes communication clearer, supports continuity of care, and builds trust and respect for the prehospital provider",
+        "Technical terms hide any uncertainty the crew has about the patient",
+        "It shortens the handoff so the crew can clear the hospital faster"
+      ],
+      "answer": 1,
+      "explanation": "Sharing the same anatomy and terminology with other providers improves communication and patient care, and it raises the level of trust and respect those providers have in you and your agency.",
+      "source": "Case Study — Chapter 6",
+      "topic": "Anatomy in assessment and communication",
+      "topic_n": 6
+    },
+    {
+      "question": "Your partner asks you to write the narrative for the Tulip Lane call, and the report becomes part of the patient's official record. The hospital team never saw the scene. How does using correct anatomic terminology in your documentation help them?",
+      "choices": [
+        "It protects the agency from having to share the report with the hospital",
+        "It replaces the need to record his vital signs in the report",
+        "It lets the hospital bill the call at a higher level",
+        "It paints an accurate picture of what you found and where, so they can move straight to focused care instead of restarting the assessment"
+      ],
+      "answer": 3,
+      "explanation": "Good documentation paints a picture of the scene and your findings for providers who were not there. Accurate anatomic terms, the treatment given, and changes in vital signs help the hospital team continue care promptly instead of starting over.",
+      "source": "Case Study — Chapter 6",
+      "topic": "Anatomy in assessment and communication",
+      "topic_n": 6
+    },
+    {
+      "question": "A CT image shows your patient's body sliced across the waist into upper and lower sections. Which plane produced that view?",
+      "choices": [
+        "Transverse plane",
+        "Coronal plane",
+        "Sagittal plane",
+        "Midsagittal plane"
+      ],
+      "answer": 0,
+      "explanation": "The transverse plane divides the body into top and bottom parts. The coronal plane divides front from back, and the sagittal planes divide left from right.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Planes and assessment landmarks",
+      "topic_n": 1
+    },
+    {
+      "question": "An MRI view shows only the right half of a patient's head, split from the left half by a front-to-back vertical cut. Which plane is this?",
+      "choices": [
+        "Transverse plane",
+        "Sagittal plane",
+        "Coronal plane",
+        "Anatomic plane"
+      ],
+      "answer": 1,
+      "explanation": "A sagittal plane divides the body into left and right parts; when the cut runs exactly down the midline it is the midsagittal plane.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Planes and assessment landmarks",
+      "topic_n": 1
+    },
+    {
+      "question": "Before describing where a wound is, you picture the patient in the standard reference position. Which description matches that position?",
+      "choices": [
+        "Lying face down with the arms crossed over the chest",
+        "Standing facing forward, arms at the sides, with the palms facing backward",
+        "Standing facing forward, arms at the sides, with the palms, head, and feet facing forward",
+        "Sitting with the legs crossed and the head turned to one side"
+      ],
+      "answer": 2,
+      "explanation": "The anatomic position is standing, facing forward, arms at the sides, with palms, head, and feet all facing forward. Directional terms are based on this position.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Planes and assessment landmarks",
+      "topic_n": 1
+    },
+    {
+      "question": "You describe a penetrating wound by its distance from the nipple line and the navel, because those surface landmarks point to the structures underneath them. Working from surface landmarks this way is called:",
+      "choices": [
+        "Physiology",
+        "Pathophysiology",
+        "Systemic anatomy",
+        "Topographic anatomy"
+      ],
+      "answer": 3,
+      "explanation": "Topographic anatomy is the study of the superficial landmarks of the body that serve as guides to the structures lying beneath them.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Planes and assessment landmarks",
+      "topic_n": 1
+    },
+    {
+      "question": "Your partner documents a bruise as 'just inferior to the umbilicus.' Where is that bruise?",
+      "choices": [
+        "Just below the navel",
+        "Just below the kneecap",
+        "Just below the tip of the sternum",
+        "Just below the chin"
+      ],
+      "answer": 0,
+      "explanation": "The umbilicus is the navel, or belly button, so the bruise is just below the belly button.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Planes and assessment landmarks",
+      "topic_n": 1
+    },
+    {
+      "question": "A patient struck his forehead on the windshield and also has a wound at the very back of his head. The forehead bone and the most posterior skull bone are the:",
+      "choices": [
+        "Parietal and temporal bones",
+        "Frontal and occipital bones",
+        "Temporal and frontal bones",
+        "Occipital and parietal bones"
+      ],
+      "answer": 1,
+      "explanation": "The frontal bones form the forehead and the occipital bone is the most posterior bone of the cranium. The parietal bones lie between the temporal and occipital regions, and the temporal bones form the temples at the sides.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "A patient with a facial injury has a fractured upper jaw. The upper jawbones, which also help form the eye sockets and hold the upper teeth, are the:",
+      "choices": [
+        "Zygomas",
+        "Mandibles",
+        "Maxillae",
+        "Frontal bones"
+      ],
+      "answer": 2,
+      "explanation": "The maxillae are the upper jawbones; they assist in forming the orbit (eye socket), the nasal cavity, and the palate. The mandible is the lower jaw and the zygoma is the cheekbone.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "The part of the skull that encloses and protects the brain is made of eight bones. It, and the large opening at its base where the brain connects to the spinal cord, are the:",
+      "choices": [
+        "Maxilla and foramen magnum",
+        "Orbit and cranium",
+        "Calvarium and foramen ovale",
+        "Cranium and foramen magnum"
+      ],
+      "answer": 3,
+      "explanation": "The cranium encloses the brain and is composed of eight bones. The foramen magnum is the large opening at the base of the skull through which the brain connects to the spinal cord.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "A diver who hit his head may have injured the vertebrae in his neck, while a fall patient hurt the vertebrae between the neck and the lower back, where the ribs attach. Those two regions are the:",
+      "choices": [
+        "Cervical and thoracic spine",
+        "Lumbar and cervical spine",
+        "Thoracic and sacral spine",
+        "Cervical and lumbar spine"
+      ],
+      "answer": 0,
+      "explanation": "The cervical spine is the first seven vertebrae, in the neck. The thoracic spine is the 12 vertebrae between the cervical and lumbar regions, with a pair of ribs attached to each; the lumbar spine is the lowest five nonfused vertebrae.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "Which structure is built from the stacked vertebrae separated by tough, elastic shock-absorbing disks, and ends with the fused sacrum and the small tailbone?",
+      "choices": [
+        "Pelvic girdle",
+        "Vertebral column",
+        "Rib cage",
+        "Appendicular skeleton"
+      ],
+      "answer": 1,
+      "explanation": "The vertebral column is formed by the 33 vertebrae separated by intervertebral disks. The sacrum is five fused sacral vertebrae, and the coccyx — the last three or four vertebrae — is the tailbone.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "Three bones fuse together to form the pelvic ring (the hip bones, or coxae). Which set names those three bones?",
+      "choices": [
+        "Sacrum, coccyx, and pubis",
+        "Femur, ilium, and ischium",
+        "Ilium, ischium, and pubis",
+        "Ilium, pubis, and sacrum"
+      ],
+      "answer": 2,
+      "explanation": "Each side of the pelvic ring is formed by the fusion of the ilium, the ischium, and the pubis. The sacrum joins the ring to the vertebral column at the sacroiliac joint but is not one of the three fused hip bones.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "In a patient with a hip injury, the ball at the top of the femur normally sits in a socket on the lateral pelvis. That socket is the:",
+      "choices": [
+        "Glenoid cavity",
+        "Pubic symphysis",
+        "Sacroiliac joint",
+        "Acetabulum"
+      ],
+      "answer": 3,
+      "explanation": "The femoral head fits snugly into the acetabulum, the depression where the pelvis's three component bones join. The pelvic girdle connects the legs to the axial skeleton, and the sacroiliac joint connects the pelvis to the vertebral column.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "Which grouping belongs to the axial skeleton rather than the appendicular skeleton?",
+      "choices": [
+        "Skull, vertebral column, and rib cage",
+        "Arms, legs, and pelvis",
+        "Shoulder girdle and arms",
+        "Pelvis and legs"
+      ],
+      "answer": 0,
+      "explanation": "The axial skeleton comprises the skull, vertebral column, and rib cage. The appendicular skeleton comprises the arms, legs, pelvis, and shoulder girdle.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "A cyclist lands on his shoulder and breaks his collarbone. The collarbone and the shoulder blade belong to which structure that attaches the arms to the axial skeleton?",
+      "choices": [
+        "Pelvic girdle",
+        "Pectoral girdle",
+        "Thoracic cage",
+        "Vertebral column"
+      ],
+      "answer": 1,
+      "explanation": "The pectoral girdle supports the arms and comprises the clavicles and scapulae. The clavicle (collarbone) sits lateral to the sternum and anterior to the scapula (shoulder blade).",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "A patient fell on an outstretched arm. The bone of the upper arm, and the inner forearm bone on the side opposite the thumb, are the:",
+      "choices": [
+        "Radius and ulna",
+        "Humerus and radius",
+        "Humerus and ulna",
+        "Clavicle and ulna"
+      ],
+      "answer": 2,
+      "explanation": "The humerus is the supporting bone of the upper arm. In the forearm, the ulna is the inner bone on the side opposite the thumb; the radius is on the thumb side.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "You splint a crushed hand. From the wrist outward, the small wrist bones, the bones of the hand, and the finger bones are the:",
+      "choices": [
+        "Tarsals, metatarsals, and phalanges",
+        "Carpals, phalanges, and metacarpals",
+        "Metacarpals, carpals, and phalanges",
+        "Carpals, metacarpals, and phalanges"
+      ],
+      "answer": 3,
+      "explanation": "The carpals are the small bones of the wrist, the metacarpals are the bones of the hand between the carpals and the fingers, and the phalanges are the bones of the fingers and toes.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "A patient has a deformity of the lower leg. The larger shinbone and the smaller bone on the lateral side of the lower leg are the:",
+      "choices": [
+        "Tibia and fibula",
+        "Tibia and femur",
+        "Femur and fibula",
+        "Fibula and patella"
+      ],
+      "answer": 0,
+      "explanation": "The tibia is the shinbone, the larger of the two lower leg bones. The fibula is the smaller lower leg bone, located on the lateral side.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "A patient jumped from a height, landed on his feet, and fractured his heel bone. The heel bone is the:",
+      "choices": [
+        "Malleolus",
+        "Calcaneus",
+        "Metatarsal",
+        "Navicular"
+      ],
+      "answer": 1,
+      "explanation": "The calcaneus is the heel bone. The tarsals sit between the lower leg bones and the metatarsals of the foot, and the malleolus is the rounded bony prominence on either side of the ankle.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "In a knee injury, you recall the joint is wrapped in a fibrous sac whose lining secretes a lubricating fluid into the joint space. That lubricating fluid is:",
+      "choices": [
+        "Cerebrospinal fluid",
+        "Plasma",
+        "Synovial fluid",
+        "Lymph"
+      ],
+      "answer": 2,
+      "explanation": "The joint capsule is the fibrous sac enclosing a joint; its lining, the synovial membrane, secretes synovial fluid, the small amount of liquid that lubricates the joint.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "A weightlifter feels a pop where a muscle meets bone, while a football player's sprain damaged the tissue connecting bone to bone. The tissue that attaches muscle to bone is a:",
+      "choices": [
+        "Ligament",
+        "Cartilage band",
+        "Joint capsule",
+        "Tendon"
+      ],
+      "answer": 3,
+      "explanation": "Tendons are fibrous connective tissue that attach muscle to bone. Ligaments are bands of fibrous tissue that connect bones to bones and support and strengthen a joint — the tissue injured in a sprain.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "The ends of the bones in a joint are covered by a pearly white layer of specialized cartilage that lets the surfaces glide against each other. That covering is:",
+      "choices": [
+        "Articular cartilage",
+        "Synovial membrane",
+        "Periosteum",
+        "Ligament"
+      ],
+      "answer": 0,
+      "explanation": "Articular cartilage is the pearly white layer of specialized cartilage covering the contact surfaces on the ends of bones. Cartilage in general forms the support structure of the skeletal system and provides cushioning.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "At the place where two bones come into contact, your patient bends his elbow to bring his hand toward his shoulder, then straightens it again. Bending and straightening a joint are called:",
+      "choices": [
+        "Rotation and circumduction",
+        "Flexion and extension",
+        "Abduction and adduction",
+        "Pronation and supination"
+      ],
+      "answer": 1,
+      "explanation": "A joint is the place where two bones come into contact. Flexion is the bending of a joint and extension is its straightening.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "Which muscle type makes up the bulk of the gastrointestinal tract, is present in nearly every organ, and works without any conscious control?",
+      "choices": [
+        "Skeletal muscle",
+        "Cardiac muscle",
+        "Smooth muscle",
+        "Voluntary muscle"
+      ],
+      "answer": 2,
+      "explanation": "Smooth muscle is involuntary muscle and constitutes the bulk of the gastrointestinal tract. Skeletal muscle is striated, voluntary muscle attached to bones; voluntary muscle is under direct control of the brain, and involuntary muscle is under no conscious control.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "A patient cannot straighten his elbow after an injury to the muscle in the back of the upper arm. That muscle is the:",
+      "choices": [
+        "Biceps",
+        "Quadriceps",
+        "Deltoid",
+        "Triceps"
+      ],
+      "answer": 3,
+      "explanation": "The triceps is the muscle in the back of the upper arm and extends the elbow. The biceps is the large muscle covering the front of the humerus.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "The specialized bone that lies within the tendon of the quadriceps muscle at the front of the knee is the:",
+      "choices": [
+        "Patella",
+        "Calcaneus",
+        "Malleolus",
+        "Fabella"
+      ],
+      "answer": 0,
+      "explanation": "The patella is the kneecap, a specialized bone lying within the tendon of the quadriceps muscle.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "A bleeding patient's tissues are not getting enough blood flow, and his cells are beginning to fail for lack of circulation. The flow of blood through the body tissues is called perfusion; this failure state is called:",
+      "choices": [
+        "Hypoxia",
+        "Shock (hypoperfusion)",
+        "Respiratory compromise",
+        "Diffusion failure"
+      ],
+      "answer": 1,
+      "explanation": "Perfusion is the flow of blood through body tissues and vessels. Shock — also called hypoperfusion — is the condition in which the circulatory system fails to provide sufficient circulation to maintain normal cellular function.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Taken together, all the chemical reactions that supply the cells with energy from nutrients — both the kind that uses oxygen and the kind that does not — are called:",
+      "choices": [
+        "Oncotic pressure",
+        "Diffusion",
+        "Cellular metabolism",
+        "Ventilation"
+      ],
+      "answer": 2,
+      "explanation": "Cellular metabolism is the set of chemical reactions that supplies cells with energy, including both aerobic and anaerobic metabolism. Metabolism in general is the biochemical process that produces energy from nutrients within the cells.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "During prolonged hypoxia, cells run low on the nucleotide they use to store energy. That energy-storage nucleotide is:",
+      "choices": [
+        "DNA",
+        "Hemoglobin",
+        "Lactic acid",
+        "Adenosine triphosphate (ATP)"
+      ],
+      "answer": 3,
+      "explanation": "Adenosine triphosphate (ATP) is the nucleotide involved in energy metabolism and is used to store energy for the cells.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Fluid is pushed within a capillary by the pressure of water against the vessel walls, and drawn in by the pull created by plasma proteins. The protein-driven pull is called:",
+      "choices": [
+        "Oncotic pressure",
+        "Hydrostatic pressure",
+        "Systemic vascular resistance",
+        "Diffusion"
+      ],
+      "answer": 0,
+      "explanation": "Oncotic pressure is the pressure drawing water into the capillary as a result of the presence of plasma proteins. Hydrostatic pressure is the pressure of water against the walls of its container.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "A patient with severe burns leaks fluid into the space between his cells, causing swelling. That space is the:",
+      "choices": [
+        "Intracellular space",
+        "Interstitial space",
+        "Pleural space",
+        "Peritoneal space"
+      ],
+      "answer": 1,
+      "explanation": "The interstitial space is the space in between the cells. The intracellular space is the space within the cells themselves.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Your patient takes in about 500 mL of air with each breath and breathes 12 times per minute. His minute volume is:",
+      "choices": [
+        "500 mL",
+        "5,000 mL",
+        "6,000 mL",
+        "12,500 mL"
+      ],
+      "answer": 2,
+      "explanation": "Minute volume is the volume of air moved in and out of the lungs per minute: tidal volume (the air moved in one breath, here 500 mL) multiplied by the respiratory rate (12) equals 6,000 mL.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Even after your patient exhales as hard as he possibly can, some air remains in his lungs and cannot be expelled. That remaining air is the:",
+      "choices": [
+        "Tidal volume",
+        "Expiratory reserve volume",
+        "Inspiratory reserve volume",
+        "Residual volume"
+      ],
+      "answer": 3,
+      "explanation": "Residual volume is the air that remains in the lungs after maximal expiration. The expiratory reserve is the extra air that can be exhaled after a normal breath out, and the inspiratory reserve is the extra air that can be inhaled after a normal breath in.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Air sitting in the trachea and bronchi never reaches the alveoli and cannot take part in gas exchange. Those portions of the airway are called:",
+      "choices": [
+        "Dead space",
+        "Pleural space",
+        "Interstitial space",
+        "Residual volume"
+      ],
+      "answer": 0,
+      "explanation": "Dead space is any portion of the airway that contains air but cannot participate in gas exchange, such as the trachea and bronchi.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "A patient with a pulmonary embolism moves air in and out of his lungs, but blood flow past the alveoli is blocked. The measurement that compares how much gas is being moved to how much blood is flowing around the alveoli is the:",
+      "choices": [
+        "Tidal volume",
+        "V/Q ratio",
+        "Minute volume",
+        "Stroke volume"
+      ],
+      "answer": 1,
+      "explanation": "The V/Q ratio measures how much gas is being moved effectively compared with how much blood is flowing around the alveoli of the lungs. When ventilation and perfusion do not match, gas exchange suffers.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Oxygen passes from the alveoli into the blood because it moves from an area of higher concentration to an area of lower concentration. That movement is called:",
+      "choices": [
+        "Perfusion",
+        "Ventilation",
+        "Diffusion",
+        "Peristalsis"
+      ],
+      "answer": 2,
+      "explanation": "Diffusion is the movement of a gas from an area of higher concentration to an area of lower concentration. Ventilation is the exchange of air between the lungs and the environment, and respiration is the overall process of exchanging oxygen and carbon dioxide.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "A COPD patient's blood work shows too little oxygen reaching his tissues and an abnormally high level of carbon dioxide in his blood. The high carbon dioxide state is called:",
+      "choices": [
+        "Hypoxia",
+        "Cyanosis",
+        "Apnea",
+        "Hypercapnia"
+      ],
+      "answer": 3,
+      "explanation": "Hypercapnia (also called hypercarbia) is an abnormally high level of carbon dioxide in the bloodstream. Hypoxia is a deficient oxygen concentration in the tissues.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Your patient's body can no longer move gas effectively enough to meet its needs, even though he is still breathing on his own. This state is called:",
+      "choices": [
+        "Respiratory compromise",
+        "Hyperventilation",
+        "Dead space",
+        "Agonal breathing"
+      ],
+      "answer": 0,
+      "explanation": "Respiratory compromise is the inability of the body to move gas effectively. Left uncorrected, it forces cells into anaerobic metabolism and they begin to die.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "A patient in severe distress is using the muscles of her neck, chest, back, and abdomen to help expand her chest because her normal breathing effort is not enough. This is called:",
+      "choices": [
+        "Agonal gasps",
+        "Labored breathing",
+        "Shallow breathing",
+        "Respiratory compromise"
+      ],
+      "answer": 1,
+      "explanation": "Labored breathing is the use of muscles of the chest, back, and abdomen to assist in expanding the chest; it occurs when air movement into the lungs is impaired and extra effort is needed.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Minutes after a collapse, an unresponsive patient takes only occasional slow, gasping breaths. This abnormal pattern, sometimes seen in cardiac arrest, is:",
+      "choices": [
+        "Labored breathing",
+        "Hypercapnia",
+        "Agonal gasps",
+        "Kussmaul respirations"
+      ],
+      "answer": 2,
+      "explanation": "Agonal gasps are an abnormal breathing pattern characterized by slow, gasping breaths, sometimes seen in patients in cardiac arrest. They are not effective breathing.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "A patient with chronic lung disease has lived with low blood oxygen levels for years, and that low oxygen level — rather than carbon dioxide — is now the main stimulus driving his breathing. This is called:",
+      "choices": [
+        "Hypercapnic drive",
+        "Oncotic drive",
+        "Dead space effect",
+        "Hypoxic drive"
+      ],
+      "answer": 3,
+      "explanation": "Hypoxic drive is a condition in which chronically low levels of oxygen in the blood stimulate the respiratory drive; it is seen in patients with chronic lung diseases.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "Your partner ventilates an apneic patient with a bag-mask device, moving air into and out of the lungs. The exchange of air between the lungs and the environment is called:",
+      "choices": [
+        "Ventilation",
+        "Respiration",
+        "Diffusion",
+        "Perfusion"
+      ],
+      "answer": 0,
+      "explanation": "Ventilation is the exchange of air between the lungs and the environment, whether done spontaneously by the patient or with assistance. Respiration is the broader process of exchanging oxygen and carbon dioxide.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Respiratory compromise and metabolism",
+      "topic_n": 3
+    },
+    {
+      "question": "The division of the nervous system made up of the brain and spinal cord is the:",
+      "choices": [
+        "Peripheral nervous system",
+        "Central nervous system",
+        "Autonomic nervous system",
+        "Somatic nervous system"
+      ],
+      "answer": 1,
+      "explanation": "The central nervous system is the brain and spinal cord. The peripheral nervous system consists of the 31 pairs of spinal nerves and 12 pairs of cranial nerves, and the nervous system as a whole controls virtually all activities of the body.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "The extensions of a neuron that carry impulses away from the nerve cell body toward the receivers of other neurons are called:",
+      "choices": [
+        "Myelin sheaths",
+        "Dendrites",
+        "Axons",
+        "Ganglia"
+      ],
+      "answer": 2,
+      "explanation": "Axons carry impulses away from the nerve cell body to the dendrites (receivers) of other neurons. Neurons are the functional units of the nervous system — the nerve cells themselves.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "A patient touches a hot pan and jerks his hand away. The nerves that carried the sensations of heat and pain from his hand to the central nervous system are:",
+      "choices": [
+        "Motor nerves",
+        "Cranial nerves",
+        "Autonomic nerves",
+        "Sensory nerves"
+      ],
+      "answer": 3,
+      "explanation": "Sensory nerves carry sensations such as touch, taste, smell, heat, cold, and pain from the body to the central nervous system. Motor nerves carry information from the central nervous system out to the muscles.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "The largest of the three major subdivisions of the brain, sometimes called the gray matter, is the:",
+      "choices": [
+        "Cerebrum",
+        "Brainstem",
+        "Cerebellum",
+        "Medulla"
+      ],
+      "answer": 0,
+      "explanation": "The cerebrum is the largest subdivision of the brain and handles higher functions such as perception and thought. The brain as a whole is the controlling organ of the body and the center of consciousness.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "A stroke patient can move his arms and legs, but his movements are clumsy and uncoordinated, especially fine movements of his fingers. The 'little brain' that coordinates voluntary movement of large and small muscle groups is the:",
+      "choices": [
+        "Cerebrum",
+        "Cerebellum",
+        "Pons",
+        "Midbrain"
+      ],
+      "answer": 1,
+      "explanation": "The cerebellum is one of the three major subdivisions of the brain; it coordinates the voluntary movement of large muscle groups and provides coordination of small muscle groups.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "Within the brainstem, the part that lies below the midbrain and above the medulla, and the lowermost part of the brainstem, which continues into the spinal cord, are the:",
+      "choices": [
+        "Cerebellum and pons",
+        "Midbrain and pons",
+        "Pons and medulla oblongata",
+        "Medulla and cerebrum"
+      ],
+      "answer": 2,
+      "explanation": "The pons lies below the midbrain and above the medulla and contains important nerve fibers. The medulla oblongata is the lowermost part of the brainstem, continuous with the spinal cord; the midbrain helps regulate the level of consciousness.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "A head-injured patient cannot stay awake even with stimulation. The system in the upper brainstem responsible for maintaining consciousness and one's level of arousal is the:",
+      "choices": [
+        "Cerebellum",
+        "Cerebral cortex",
+        "Somatic nervous system",
+        "Reticular activating system"
+      ],
+      "answer": 3,
+      "explanation": "The reticular activating system, located in the upper brainstem, is responsible for maintenance of consciousness, specifically one's level of arousal.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "The structure that lies inside the spinal canal and carries virtually all nerve messages between the brain and the rest of the body is the:",
+      "choices": [
+        "Spinal cord",
+        "Peripheral nerve trunk",
+        "Cerebrospinal fluid",
+        "Vertebral column"
+      ],
+      "answer": 0,
+      "explanation": "The spinal cord is an extension of the brain composed of virtually all the nerves carrying messages between the brain and the rest of the body; it lies inside and is protected by the spinal canal.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "The fluid produced in the ventricles of the brain that flows in the space around the brain and spinal cord, bathing and cushioning them, is:",
+      "choices": [
+        "Plasma",
+        "Cerebrospinal fluid",
+        "Lymph",
+        "Synovial fluid"
+      ],
+      "answer": 1,
+      "explanation": "Cerebrospinal fluid is produced in the ventricles of the brain and flows in the subarachnoid space, bathing the meninges and the brain and spinal cord.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "At rest after a large meal, a healthy patient's body focuses on digestion and relaxation. The autonomic division in control then — and the separate system that governs voluntary movement — are the:",
+      "choices": [
+        "Sympathetic and somatic systems",
+        "Parasympathetic and sympathetic systems",
+        "Parasympathetic and somatic systems",
+        "Somatic and autonomic systems"
+      ],
+      "answer": 2,
+      "explanation": "The parasympathetic nervous system controls vegetative functions such as digestion of food and relaxation. The somatic nervous system regulates activities over which there is voluntary control, while the sympathetic division handles active, stressful responses.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "A medication stimulates the receptors that increase the force of the heart's contraction and its rate. Receptors that respond to norepinephrine-type stimulation this way are the:",
+      "choices": [
+        "Alpha-adrenergic receptors",
+        "Oncotic receptors",
+        "Cholinergic receptors",
+        "Beta-adrenergic receptors"
+      ],
+      "answer": 3,
+      "explanation": "Beta-adrenergic receptors, when stimulated, increase the force of contraction and heart rate. Alpha-adrenergic receptors cause constriction of blood vessels. 'Adrenergic' pertains to nerves that release the neurotransmitter norepinephrine.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "The medication that increases heart rate and blood pressure but also eases breathing problems, and the neurotransmitter sometimes used in shock to constrict blood vessels, are:",
+      "choices": [
+        "Epinephrine and norepinephrine",
+        "Norepinephrine and epinephrine",
+        "Epinephrine and insulin",
+        "Norepinephrine and plasma"
+      ],
+      "answer": 0,
+      "explanation": "Epinephrine increases heart rate and blood pressure and eases breathing by decreasing airway resistance. Norepinephrine is a neurotransmitter and drug used in shock that produces vasoconstriction through its alpha-stimulator properties.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Brain and nervous system control",
+      "topic_n": 4
+    },
+    {
+      "question": "Urine collecting inside the kidney gathers in a cone-shaped area that funnels it into the ureter. That area is the:",
+      "choices": [
+        "Urinary bladder",
+        "Renal pelvis",
+        "Urethra",
+        "Renal capsule"
+      ],
+      "answer": 1,
+      "explanation": "The renal pelvis is the cone-shaped area that collects urine from the kidneys and funnels it through the ureter into the bladder.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Urinary system anatomy",
+      "topic_n": 5
+    },
+    {
+      "question": "The sac that sits behind the pubic symphysis, is made of smooth muscle, and collects and stores urine until it is released is the:",
+      "choices": [
+        "Ureter",
+        "Renal pelvis",
+        "Urinary bladder",
+        "Prostate gland"
+      ],
+      "answer": 2,
+      "explanation": "The urinary bladder is a sac of smooth muscle behind the pubic symphysis (the bony prominence at the midline of the lower abdomen) that collects and stores urine. It empties through the urethra.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Urinary system anatomy",
+      "topic_n": 5
+    },
+    {
+      "question": "The hollow muscular organ that pumps blood throughout the body is the heart, and its muscular wall is called the:",
+      "choices": [
+        "Cardiac skeleton",
+        "Pericardium",
+        "Endocardial sac",
+        "Myocardium"
+      ],
+      "answer": 3,
+      "explanation": "The myocardium is the heart muscle — the thick muscular wall that does the pumping.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "Blood returning to the heart enters the two upper chambers first, then passes down to the two lower chambers that pump it out. The upper and lower chambers are the:",
+      "choices": [
+        "Atria and ventricles",
+        "Ventricles and atria",
+        "Atria and septa",
+        "Ventricles and valves"
+      ],
+      "answer": 0,
+      "explanation": "The atria are the two upper chambers of the heart; the ventricles are the two lower chambers that pump blood out to the lungs and body.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The thin bands of fibrous tissue that anchor the heart's valves and prevent them from inverting when the ventricles contract are the:",
+      "choices": [
+        "Ligaments",
+        "Chordae tendineae",
+        "Tunica media",
+        "Trabeculae"
+      ],
+      "answer": 1,
+      "explanation": "The chordae tendineae are thin bands of fibrous tissue that attach to the valves in the heart and prevent them from inverting.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "Blood leaving the right ventricle flows through the pulmonary arteries and their branches, across the lungs, and returns through the pulmonary veins to the left atrium. That loop is the:",
+      "choices": [
+        "Systemic circulation",
+        "Portal circulation",
+        "Pulmonary circulation",
+        "Coronary circulation"
+      ],
+      "answer": 2,
+      "explanation": "That right-heart-to-lungs-to-left-heart loop is the pulmonary circulation. Systemic circulation is the portion of the circulatory system outside the heart and lungs, and the circulatory system overall is the network of arteries, arterioles, capillaries, venules, and veins.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The main artery leaving the left side of the heart, carrying freshly oxygenated blood to the body, is the:",
+      "choices": [
+        "Pulmonary artery",
+        "Superior vena cava",
+        "Carotid artery",
+        "Aorta"
+      ],
+      "answer": 3,
+      "explanation": "The aorta is the main artery leaving the left side of the heart and carrying freshly oxygenated blood to the body.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "Which pairing is correct — the artery carrying oxygen-poor blood from the right ventricle to the lungs, and the veins returning oxygenated blood from the lungs to the left atrium?",
+      "choices": [
+        "Pulmonary artery and pulmonary veins",
+        "Aorta and vena cava",
+        "Pulmonary veins and pulmonary artery",
+        "Hepatic artery and pulmonary veins"
+      ],
+      "answer": 0,
+      "explanation": "The pulmonary artery is the major artery leading from the right ventricle to the lungs and carries oxygen-poor blood. The four pulmonary veins return oxygenated blood from the lungs to the left atrium.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The two largest veins in the body — one carrying blood from the upper extremities, head, and neck, the other from the lower extremities and pelvis — are the:",
+      "choices": [
+        "Aorta and pulmonary vein",
+        "Superior and inferior vena cava",
+        "Jugular and femoral veins",
+        "Portal and hepatic veins"
+      ],
+      "answer": 1,
+      "explanation": "The superior vena cava drains the upper extremities, head, and neck; the inferior vena cava drains the lower extremities and pelvis. Both return blood to the right atrium.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The smallest branches of the arteries lead into the tiny vessels where oxygen, carbon dioxide, nutrients, and waste actually pass between the blood and the tissues. Those exchange vessels are the:",
+      "choices": [
+        "Venules",
+        "Arterioles",
+        "Capillary vessels",
+        "Tunica media"
+      ],
+      "answer": 2,
+      "explanation": "Capillary vessels are the tiny blood vessels between the arterioles and venules that permit transfer of oxygen, carbon dioxide, nutrients, and waste between body tissues and the blood. Arterioles are the smallest branches of arteries leading to that capillary network.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The middle and thickest layer of a blood vessel wall, composed of elastic tissue and smooth muscle cells, is the:",
+      "choices": [
+        "Endothelium",
+        "Tunica intima",
+        "Tunica adventitia",
+        "Tunica media"
+      ],
+      "answer": 3,
+      "explanation": "The tunica media is the middle and thickest layer of a blood vessel wall; its smooth muscle lets the vessel constrict and dilate.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "When you palpate a patient's wrist, the wave of pressure you feel each time the heart contracts and forces blood out of the left ventricle is the:",
+      "choices": [
+        "Pulse",
+        "Blood pressure",
+        "Stroke volume",
+        "Cardiac output"
+      ],
+      "answer": 0,
+      "explanation": "The pulse is the wave of pressure created as the heart contracts and forces blood out of the left ventricle into the arteries.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "Using a sphygmomanometer, you measure the pressure that the blood exerts against the walls of the arteries as it passes through them. That measurement is the patient's:",
+      "choices": [
+        "Pulse",
+        "Blood pressure",
+        "Systemic vascular resistance",
+        "Minute volume"
+      ],
+      "answer": 1,
+      "explanation": "Blood pressure is the pressure blood exerts against the walls of the arteries; a sphygmomanometer is the device used to measure it.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "On a cardiac monitor, the period of contraction of the ventricles and the period of their relaxation are called:",
+      "choices": [
+        "Diastole and systole",
+        "Depolarization and repolarization",
+        "Systole and diastole",
+        "Inspiration and expiration"
+      ],
+      "answer": 2,
+      "explanation": "Systole is the contraction, or period of contraction, of the heart — especially the ventricles. Diastole is the relaxation, or period of relaxation, of the heart.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "A patient's heart pumps 70 mL of blood forward with each ventricular contraction and beats 80 times per minute. His cardiac output is:",
+      "choices": [
+        "700 mL per minute",
+        "56,000 mL per minute",
+        "150 mL per minute",
+        "5,600 mL per minute"
+      ],
+      "answer": 3,
+      "explanation": "Cardiac output is the volume of blood circulated by the heart in 1 minute: stroke volume (the volume pumped with each contraction, 70 mL) multiplied by heart rate (beats per minute, 80) equals 5,600 mL per minute.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The resistance that blood must overcome to be able to move within the blood vessels is called:",
+      "choices": [
+        "Systemic vascular resistance",
+        "Oncotic pressure",
+        "Hydrostatic pressure",
+        "Stroke volume"
+      ],
+      "answer": 0,
+      "explanation": "Systemic vascular resistance is the resistance blood must overcome to move within the blood vessels; it rises when vessels constrict and falls when they dilate.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The sticky, yellow fluid that carries the blood cells and nutrients and transports cellular waste material throughout the body is:",
+      "choices": [
+        "Lymph",
+        "Plasma",
+        "Cerebrospinal fluid",
+        "Synovial fluid"
+      ],
+      "answer": 1,
+      "explanation": "Plasma is the fluid portion of blood that carries the blood cells and nutrients and transports cellular waste.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The cells that carry oxygen to the body's tissues do so by means of an oxygen-carrying protein. Those cells and that protein are:",
+      "choices": [
+        "Leukocytes and plasma",
+        "Platelets and fibrin",
+        "Erythrocytes and hemoglobin",
+        "Lymphocytes and albumin"
+      ],
+      "answer": 2,
+      "explanation": "Red blood cells (erythrocytes) carry oxygen to the tissues; hemoglobin is the oxygen-carrying protein found inside them.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The blood cells that play a role in the body's immune defense against infection — also called leukocytes — are the:",
+      "choices": [
+        "Red blood cells",
+        "Erythrocytes",
+        "Platelets",
+        "White blood cells"
+      ],
+      "answer": 3,
+      "explanation": "White blood cells (leukocytes) defend the body against infection. Red blood cells (erythrocytes) carry oxygen, and platelets start clot formation.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "The tiny, disc-shaped elements in blood — much smaller than the cells and the smallest of the formed elements — that are essential in the initial formation of a blood clot are:",
+      "choices": [
+        "Platelets",
+        "Leukocytes",
+        "Erythrocytes",
+        "Lymph nodes"
+      ],
+      "answer": 0,
+      "explanation": "Platelets are tiny, disc-shaped formed elements essential to the initial formation of a blood clot.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "To control bleeding in the thigh, you press on the major artery of the thigh, which is a continuation of the external iliac artery and supplies blood to the lower extremity. That vessel is the:",
+      "choices": [
+        "Popliteal artery",
+        "Femoral artery",
+        "Posterior tibial artery",
+        "Dorsalis pedis artery"
+      ],
+      "answer": 1,
+      "explanation": "The femoral artery is the major artery of the thigh. The posterior tibial and dorsalis pedis arteries are pulse points in the foot.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "To control bleeding in the arm, you press on the major vessel of the upper extremities that supplies blood to the arm. That vessel is the:",
+      "choices": [
+        "Radial artery",
+        "Carotid artery",
+        "Brachial artery",
+        "Axillary vein"
+      ],
+      "answer": 2,
+      "explanation": "The brachial artery is the major vessel supplying the arm. The radial artery is its continuation into the forearm, palpable at the wrist on the thumb side.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "Checking circulation in an injured foot, you palpate just behind the inner ankle bone and on the front of the foot between the first and second metatarsals. Those two pulse points are the:",
+      "choices": [
+        "Femoral and popliteal arteries",
+        "Peroneal and plantar arteries",
+        "Radial and ulnar arteries",
+        "Posterior tibial and dorsalis pedis arteries"
+      ],
+      "answer": 3,
+      "explanation": "The posterior tibial artery sits just behind the medial malleolus and supplies the foot; the dorsalis pedis artery runs on the anterior surface of the foot between the first and second metatarsals.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "All the structures of the body that contribute to the process of breathing — the upper and lower airways and their component structures — make up the:",
+      "choices": [
+        "Respiratory system",
+        "Circulatory system",
+        "Musculoskeletal system",
+        "Endocrine system"
+      ],
+      "answer": 0,
+      "explanation": "The respiratory system consists of all the structures that contribute to breathing, including the upper and lower airways.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Airway and respiratory anatomy",
+      "topic_n": 8
+    },
+    {
+      "question": "The windpipe — the main trunk for air passing to and from the lungs — is the:",
+      "choices": [
+        "Esophagus",
+        "Trachea",
+        "Bronchus",
+        "Pharynx"
+      ],
+      "answer": 1,
+      "explanation": "The trachea is the windpipe, the main trunk for air passing to and from the lungs.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Airway and respiratory anatomy",
+      "topic_n": 8
+    },
+    {
+      "question": "A thin, leaf-shaped valve lets air pass into the trachea but keeps food and liquid out of it during swallowing. That valve is the:",
+      "choices": [
+        "Thyroid cartilage",
+        "Cricoid cartilage",
+        "Epiglottis",
+        "Uvula"
+      ],
+      "answer": 2,
+      "explanation": "The epiglottis is the thin, leaf-shaped valve that allows air into the trachea but prevents food and liquid from entering during swallowing.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Airway and respiratory anatomy",
+      "topic_n": 8
+    },
+    {
+      "question": "The part of the pharynx that lies above the level of the palate, and the tubular part that extends from the back of the mouth down toward the esophagus and trachea, are the:",
+      "choices": [
+        "Oropharynx and nasopharynx",
+        "Nasopharynx and larynx",
+        "Laryngopharynx and trachea",
+        "Nasopharynx and oropharynx"
+      ],
+      "answer": 3,
+      "explanation": "The nasopharynx is the part of the pharynx above the level of the roof of the mouth (palate). The oropharynx is the tubular structure extending vertically from the back of the mouth to the esophagus and trachea.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Airway and respiratory anatomy",
+      "topic_n": 8
+    },
+    {
+      "question": "The firm prominence of cartilage forming the upper part of the larynx — the Adam's apple — and the firm ridge of cartilage forming the lower part of the larynx are the:",
+      "choices": [
+        "Thyroid cartilage and cricoid cartilage",
+        "Cricoid cartilage and thyroid cartilage",
+        "Epiglottis and thyroid cartilage",
+        "Thyroid cartilage and epiglottis"
+      ],
+      "answer": 0,
+      "explanation": "The thyroid cartilage forms the upper part of the larynx (the Adam's apple) and the cricoid cartilage forms its lower part. The cricothyroid membrane is the thin sheet of fascia connecting the two.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Airway and respiratory anatomy",
+      "topic_n": 8
+    },
+    {
+      "question": "The tiny air sacs of the lungs in which the exchange of oxygen and carbon dioxide takes place are the:",
+      "choices": [
+        "Bronchioles",
+        "Alveoli",
+        "Pleura",
+        "Capillaries"
+      ],
+      "answer": 1,
+      "explanation": "The alveoli are the air sacs of the lungs where oxygen and carbon dioxide exchange with the blood in the surrounding capillaries.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Airway and respiratory anatomy",
+      "topic_n": 8
+    },
+    {
+      "question": "The serous membranes that cover the lungs and line the chest, enclosing a potential space between them, are the:",
+      "choices": [
+        "Pericardium and pericardial space",
+        "Diaphragm and thoracic space",
+        "Pleura and pleural space",
+        "Mediastinum and pleural sac"
+      ],
+      "answer": 2,
+      "explanation": "The pleura are the serous membranes covering the lungs and lining the thorax. The pleural space is the potential space between the parietal and visceral pleura — 'potential' because under normal conditions the space does not exist.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Airway and respiratory anatomy",
+      "topic_n": 8
+    },
+    {
+      "question": "The muscular dome that forms the undersurface of the chest, separating the chest from the abdominal cavity, is the:",
+      "choices": [
+        "Peritoneum",
+        "Intercostal sheet",
+        "Pleura",
+        "Diaphragm"
+      ],
+      "answer": 3,
+      "explanation": "The diaphragm is the muscular dome separating the thorax from the abdominal cavity; its contraction drives inhalation.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Airway and respiratory anatomy",
+      "topic_n": 8
+    },
+    {
+      "question": "Food moves from the pharynx to the stomach through a collapsible tube, propelled by wavelike contractions of its smooth muscle. That tube and that wavelike motion are the:",
+      "choices": [
+        "Esophagus and peristalsis",
+        "Trachea and peristalsis",
+        "Esophagus and digestion",
+        "Duodenum and peristalsis"
+      ],
+      "answer": 0,
+      "explanation": "The esophagus is the collapsible tube from the pharynx to the stomach, and peristalsis is the wavelike contraction of smooth muscle that propels contents through tubular organs. Digestion itself is the processing of food that nourishes the individual cells of the body.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Digestive system",
+      "topic_n": 9
+    },
+    {
+      "question": "The portion of the digestive tube between the stomach and the cecum, consisting of the duodenum, jejunum, and ileum, is the:",
+      "choices": [
+        "Large intestine",
+        "Small intestine",
+        "Colon",
+        "Rectum"
+      ],
+      "answer": 1,
+      "explanation": "The small intestine runs from the stomach to the cecum and comprises the duodenum, jejunum, and ileum. The large intestine encircles the abdomen around the small bowel.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Digestive system",
+      "topic_n": 9
+    },
+    {
+      "question": "The first part of the large intestine, into which the ileum opens — and which has a small, tubular structure attached to its lower border that often becomes inflamed — is the:",
+      "choices": [
+        "Colon, with the gallbladder attached",
+        "Rectum, with the appendix attached",
+        "Cecum, with the appendix attached",
+        "Ileum, with the cecum attached"
+      ],
+      "answer": 2,
+      "explanation": "The cecum is the first part of the large intestine, and the appendix is the small tubular structure attached to its lower border in the right lower quadrant. The rectum is the lowermost end of the colon.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Digestive system",
+      "topic_n": 9
+    },
+    {
+      "question": "Bile produced by the large, solid organ in the right upper quadrant is collected in a sac on that organ's undersurface and discharged into the duodenum. The storage sac is the:",
+      "choices": [
+        "Pancreas",
+        "Appendix",
+        "Spleen",
+        "Gallbladder"
+      ],
+      "answer": 3,
+      "explanation": "The gallbladder is the sac on the undersurface of the liver that collects bile from the liver and discharges it into the duodenum through the bile ducts. The liver itself is the large solid organ in the right upper quadrant that produces bile.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Digestive system",
+      "topic_n": 9
+    },
+    {
+      "question": "The flat, solid organ that lies below the liver and stomach, is a major source of digestive enzymes, and also produces insulin is the:",
+      "choices": [
+        "Pancreas",
+        "Spleen",
+        "Gallbladder",
+        "Adrenal gland"
+      ],
+      "answer": 0,
+      "explanation": "The pancreas produces most digestive enzymes and the hormone insulin. (It also sits in the retroperitoneal space, behind the abdominal cavity.)",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Digestive system",
+      "topic_n": 9
+    },
+    {
+      "question": "The glands that keep the mouth and pharynx moist are the salivary glands. Once food has been mixed with stomach secretions and leaves the stomach, that mixture is called:",
+      "choices": [
+        "Bile",
+        "Chyme",
+        "Mucus",
+        "Plasma"
+      ],
+      "answer": 1,
+      "explanation": "Chyme is the substance that leaves the stomach — a combination of the eaten foods with added stomach secretions.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Digestive system",
+      "topic_n": 9
+    },
+    {
+      "question": "The outer layer of skin, sealed together to form a watertight protective covering, and the inner layer containing hair follicles, sweat glands, nerve endings, and blood vessels, are the:",
+      "choices": [
+        "Dermis and epidermis",
+        "Stratum corneum and germinal layer",
+        "Epidermis and dermis",
+        "Subcutaneous tissue and dermis"
+      ],
+      "answer": 2,
+      "explanation": "The epidermis is the outer layer of skin; the dermis is the inner layer, containing hair follicles, sweat glands, nerve endings, and blood vessels.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skin, endocrine, and reproductive systems",
+      "topic_n": 10
+    },
+    {
+      "question": "New skin cells are formed in the deepest layer of the epidermis, while the tissue directly under the dermis — largely fat — insulates the body. Those two structures are the:",
+      "choices": [
+        "Subcutaneous tissue and germinal layer",
+        "Stratum corneum and dermis",
+        "Germinal layer and sebaceous layer",
+        "Germinal layer and subcutaneous tissue"
+      ],
+      "answer": 3,
+      "explanation": "The germinal layer is the deepest layer of the epidermis, where new skin cells form; the stratum corneum is the outermost, dead layer. Subcutaneous tissue lies directly under the dermis and insulates the body. The skin also holds sweat glands (which secrete sweat), sebaceous glands (which discharge oily sebum along hair shafts), and hair follicles (the small organs that produce hair).",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skin, endocrine, and reproductive systems",
+      "topic_n": 10
+    },
+    {
+      "question": "The linings of body cavities and passages that communicate with the environment are kept lubricated by a watery secretion. Those linings and that secretion are the:",
+      "choices": [
+        "Mucous membranes and mucus",
+        "Serous membranes and lymph",
+        "Synovial membranes and synovial fluid",
+        "Pleura and pleural fluid"
+      ],
+      "answer": 0,
+      "explanation": "Mucous membranes line body cavities and passages that communicate directly or indirectly with the environment, and mucus is the watery secretion that lubricates the body openings.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skin, endocrine, and reproductive systems",
+      "topic_n": 10
+    },
+    {
+      "question": "Muscles that encircle a duct, tube, or opening and, by contracting, constrict it — such as those at the external urinary opening and the lower rectum — are called:",
+      "choices": [
+        "Valves",
+        "Sphincters",
+        "Peristaltic rings",
+        "Diaphragms"
+      ],
+      "answer": 1,
+      "explanation": "Sphincters are muscles that encircle and, by contracting, constrict a duct, tube, or opening.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skin, endocrine, and reproductive systems",
+      "topic_n": 10
+    },
+    {
+      "question": "Substances formed in specialized glands and carried in the blood to another organ or group of cells, where they regulate activity, are:",
+      "choices": [
+        "Enzymes",
+        "Antibodies",
+        "Hormones",
+        "Electrolytes"
+      ],
+      "answer": 2,
+      "explanation": "Hormones are formed in specialized organs or glands and carried to another organ or group of cells. The endocrine system is the complex message and control system that integrates many body functions, including the release of hormones.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skin, endocrine, and reproductive systems",
+      "topic_n": 10
+    },
+    {
+      "question": "Substances whose job is to speed up the rate of specific biochemical reactions in the body are:",
+      "choices": [
+        "Hormones",
+        "Buffers",
+        "Electrolytes",
+        "Enzymes"
+      ],
+      "answer": 3,
+      "explanation": "Enzymes are substances designed to speed up the rate of specific biochemical reactions.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skin, endocrine, and reproductive systems",
+      "topic_n": 10
+    },
+    {
+      "question": "The primary female reproductive organs that produce an ovum (egg), and the tubes connecting them to the uterus where fertilization of the ovum usually occurs, are the:",
+      "choices": [
+        "Ovaries and fallopian tubes",
+        "Fallopian tubes and ovaries",
+        "Uterus and ovaries",
+        "Ovaries and cervix"
+      ],
+      "answer": 0,
+      "explanation": "The ovaries produce the ovum; the fallopian tubes connect each ovary with the uterus and are the primary location for fertilization. The vagina is the outermost cavity of the reproductive tract — the lower part of the birth canal.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skin, endocrine, and reproductive systems",
+      "topic_n": 10
+    },
+    {
+      "question": "The small gland that surrounds the male urethra where it emerges from the urinary bladder, and secretes a fluid that forms part of the semen, is the:",
+      "choices": [
+        "Testicle",
+        "Prostate gland",
+        "Seminal vesicle",
+        "Cowper gland"
+      ],
+      "answer": 1,
+      "explanation": "The prostate gland surrounds the male urethra at the bladder outlet and secretes part of the semen. The testicles produce hormones and sperm, the seminal vesicles are storage sacs for sperm and seminal fluid, and semen is the fluid ejaculated from the penis containing sperm.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skin, endocrine, and reproductive systems",
+      "topic_n": 10
+    },
+    {
+      "question": "Along the lymph vessels in a patient's neck and groin, you palpate small, oval-shaped structures that filter the fluid draining from the tissues. Those structures are:",
+      "choices": [
+        "Spleen glands",
+        "Sebaceous glands",
+        "Lymph nodes",
+        "Sphincters"
+      ],
+      "answer": 2,
+      "explanation": "Lymph nodes are tiny, oval-shaped structures located along the lymph vessels that filter lymph — the thin, straw-colored fluid that carries nutrients and hormones to the cells and carries waste products away.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Cardiovascular system and blood",
+      "topic_n": 7
+    },
+    {
+      "question": "During chest compressions, you are careful to keep your hands off the narrow, cartilaginous lower tip of the sternum, where pressure could cause injury. That tip is the:",
+      "choices": [
+        "Manubrium",
+        "Clavicle",
+        "Costal cartilage",
+        "Xiphoid process"
+      ],
+      "answer": 3,
+      "explanation": "The xiphoid process is the narrow, cartilaginous lower tip of the sternum.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Planes and assessment landmarks",
+      "topic_n": 1
+    },
+    {
+      "question": "The breast bone — the flat bone in the center of the chest whose upper quarter is called the manubrium — is the:",
+      "choices": [
+        "Sternum",
+        "Clavicle",
+        "Scapula",
+        "Xiphoid process"
+      ],
+      "answer": 0,
+      "explanation": "The sternum is the breast bone; its upper quarter is the manubrium, and its lower tip is the xiphoid process.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Skeletal system",
+      "topic_n": 2
+    },
+    {
+      "question": "The body cavity located below the diaphragm that contains many of the major organs of digestion and excretion is the:",
+      "choices": [
+        "Thorax",
+        "Abdomen",
+        "Cranium",
+        "Retroperitoneum"
+      ],
+      "answer": 1,
+      "explanation": "The abdomen is the body cavity below the diaphragm containing many of the major organs of digestion and excretion. The thorax is the chest cavity above the diaphragm.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Digestive system",
+      "topic_n": 9
+    },
+    {
+      "question": "The chest cavity that contains the heart, lungs, esophagus, and great vessels is the:",
+      "choices": [
+        "Abdomen",
+        "Pleural space",
+        "Thorax",
+        "Peritoneal cavity"
+      ],
+      "answer": 2,
+      "explanation": "The thorax is the chest cavity containing the heart, lungs, esophagus, and great vessels; the thoracic cage (the rib cage) protects it.",
+      "source": "Flashcards — Chapter 6",
+      "topic": "Airway and respiratory anatomy",
+      "topic_n": 8
+    }
+  ]
+}

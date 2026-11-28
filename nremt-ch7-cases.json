@@ -1,0 +1,396 @@
+{
+  "questions": [
+    {
+      "topic": "Aging changes and falls",
+      "topic_n": 1,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "You are called to an assisted-living facility where a 72-year-old woman has fallen and was found on the bathroom floor. The nurse tells you she takes several medications. As you think through what most likely brought her down, which of the following is the LEAST likely cause of her fall?",
+      "choices": [
+        "Hypotension",
+        "Balance problems",
+        "Muscle weakness",
+        "Hypertension"
+      ],
+      "answer": 3,
+      "explanation": "Balance problems, muscle weakness, and low blood pressure are all common reasons an older adult falls. High blood pressure by itself is not a typical cause of a fall."
+    },
+    {
+      "topic": "Aging changes and falls",
+      "topic_n": 1,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "The nurse hands you the list of several medications this 72-year-old takes. Why does that list matter when you are trying to figure out why she fell?",
+      "choices": [
+        "Her medications only matter once she reaches the hospital, not during your assessment",
+        "Side effects from some medications can cause weakness, dizziness, or a drop in blood pressure, any of which can bring on a fall",
+        "A patient on several medications almost never falls for a medical reason",
+        "The medication list tells you her pupils will be fixed and dilated"
+      ],
+      "answer": 1,
+      "explanation": "Many medications older adults take can cause weakness, dizziness, or hypotension as side effects. Knowing what she takes and what those drugs can do helps you understand what caused the fall."
+    },
+    {
+      "topic": "Aging changes and falls",
+      "topic_n": 1,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "You shine your penlight into the 72-year-old patient's eyes as part of your assessment. What should you expect to find in a patient her age?",
+      "choices": [
+        "A vision deficit",
+        "Fixed, dilated pupils",
+        "A slower pupillary reaction than you would see in a younger adult",
+        "Unequal pupils"
+      ],
+      "answer": 2,
+      "explanation": "Aging slows the pupils' response to light, so a slower pupillary reaction is expected in an older adult. Fixed, dilated, or unequal pupils would point to something else going on."
+    },
+    {
+      "topic": "Aging changes and falls",
+      "topic_n": 1,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "While you work, the nurse mentions this patient has been sleeping poorly since she became ill. Changes in sleep patterns can be a consequence of age-related illness in which body system?",
+      "choices": [
+        "Nervous system",
+        "Renal system",
+        "Sensory system",
+        "Endocrine system"
+      ],
+      "answer": 0,
+      "explanation": "Sleep pattern changes are tied to the nervous system, so age-related illness affecting that system can disturb an older adult's sleep."
+    },
+    {
+      "topic": "Communication and psychosocial issues",
+      "topic_n": 2,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "You are interviewing the 72-year-old after her fall. She seems to understand you, but her answers come slowly. What is the best way to handle the conversation?",
+      "choices": [
+        "Speak as loudly as you can so she hears every word",
+        "Stand directly in front of her at all times because her peripheral vision is gone",
+        "Give her extra time to respond, since older adult patients may take longer to answer questions",
+        "Assume she cannot follow you and direct all of your questions to the nurse"
+      ],
+      "answer": 2,
+      "explanation": "It may simply take an older adult patient more time to respond to your questions. Giving her that time works better than shouting or talking around her."
+    },
+    {
+      "topic": "Communication and psychosocial issues",
+      "topic_n": 2,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "As you talk, the patient mentions that several of her friends have died this year and that her health care bills keep climbing. Which set of issues is she describing, the kind people commonly deal with in late adulthood?",
+      "choices": [
+        "Isolation, depression, grief over losing friends and loved ones, and the rising cost of health care",
+        "Separation anxiety and fear of strangers",
+        "Peer pressure and struggles over identity at school",
+        "Worry about toilet training and starting preschool"
+      ],
+      "answer": 0,
+      "explanation": "Late adulthood commonly brings rising health care costs, facing mortality, the death of friends and loved ones, isolation, and depression."
+    },
+    {
+      "topic": "Life expectancy and care of older adults",
+      "topic_n": 3,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "Two patients in their seventies can have very different vital signs. Which of the following represents a potentially controllable or changeable factor affecting vital signs in older adults?",
+      "choices": [
+        "The patient's immune system",
+        "The patient's cardiovascular system",
+        "The patient's diet",
+        "The overall health of the patient"
+      ],
+      "answer": 3,
+      "explanation": "Of these factors, the patient's overall health is the one that can be maintained or changed over time and influences vital sign values in older adults."
+    },
+    {
+      "topic": "Life expectancy and care of older adults",
+      "topic_n": 3,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "This patient lives in an assisted-living facility, but thinking about older adults across the United States as a whole, who provides the most care for them?",
+      "choices": [
+        "Family members",
+        "Home health nurses",
+        "Nursing homes",
+        "Assisted-living facilities"
+      ],
+      "answer": 0,
+      "explanation": "Despite all of the professional care options, family members provide the most care for older adults in the United States."
+    },
+    {
+      "topic": "Life expectancy and care of older adults",
+      "topic_n": 3,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "Your patient is 72 and still living fairly independently. Which of the following is one of the things that shapes how long a person is expected to live?",
+      "choices": [
+        "The color of their eyes",
+        "The number of siblings they grew up with",
+        "The country they were born in and the public health advances of that era",
+        "Their blood type"
+      ],
+      "answer": 2,
+      "explanation": "Life expectancy is shaped by the year you were born and the country you live in, which carry public health advances, diet, exercise attitudes, and access to medical care with them. Overall health, medical conditions, and medications also contribute."
+    },
+    {
+      "topic": "Life expectancy and care of older adults",
+      "topic_n": 3,
+      "source": "Assessment in Action — Chapter 7",
+      "question": "Facilities like this assisted-living home keep opening across the country. Why is there an increased need for additional extended care facilities?",
+      "choices": [
+        "Hospitals no longer admit older adult patients",
+        "The large baby boom generation, born in the 1940s through the 1960s, has aged into older adulthood",
+        "Older adults no longer have family members to care for them",
+        "Medicare requires all older adults to live in a facility"
+      ],
+      "answer": 1,
+      "explanation": "The baby boom of the 1940s through the 1960s produced a large generation that has now reached older adulthood, increasing the number of older adults and the need for extended care facilities."
+    },
+    {
+      "topic": "Infant assessment",
+      "topic_n": 4,
+      "source": "Case Study — Chapter 7",
+      "question": "You and your partner are at a rural home during an influenza epidemic. You start with the 9-month-old boy: he is breathing at 60 breaths/min, his brachial pulse is 152 beats/min, his SpO2 is 96%, his temperature is 100.6°F, and he has not been taking much formula. Normal for his age is a respiratory rate of 25–50 and a heart rate of 100–160. Which statement best fits what you found?",
+      "choices": [
+        "His respiratory rate of 60 is above the normal infant range, while his heart rate of 152 is high but still within normal limits — and a temperature of 100.6°F is significant in an infant whose immune system is not fully developed",
+        "All of his vital signs are within normal limits for a 9-month-old",
+        "His heart rate of 152 is dangerously high and is the most concerning finding",
+        "A temperature of 100.6°F is too low to mean anything at his age"
+      ],
+      "answer": 0,
+      "explanation": "His respiratory rate of 60 is above the normal infant range of 25–50, but his heart rate, although high, is still within the normal 100–160 range. Even a modest fever is significant in an infant because his immune system is not fully developed."
+    },
+    {
+      "topic": "Infant assessment",
+      "topic_n": 4,
+      "source": "Case Study — Chapter 7",
+      "question": "As you watch the 9-month-old breathe, his belly rises and falls noticeably with each breath. You see no retractions and his color looks fine. Why does he breathe this way?",
+      "choices": [
+        "His lungs are too immature to move any air on their own",
+        "He is tiring out and going into respiratory failure",
+        "Something is partially blocking his airway",
+        "Infants depend on the diaphragm much more than older children and adults, and with a less rigid, more horizontal rib cage the abdomen normally moves with each breath"
+      ],
+      "answer": 3,
+      "explanation": "Infants have a less rigid, more horizontal rib cage and depend on their diaphragm, so the abdomen commonly moves with ventilations. Unless it comes with retractions, poor color, or other distress signs, belly breathing is considered normal for an infant."
+    },
+    {
+      "topic": "Infant assessment",
+      "topic_n": 4,
+      "source": "Case Study — Chapter 7",
+      "question": "The baby's mother hands him to you and walks away to check on the other children. He does not react to you, does not respond when you say his name, and does not fuss as she leaves. For a 9-month-old, why does that worry you?",
+      "choices": [
+        "It should not — babies this age never react to strangers",
+        "A baby his age should react to strangers and show some separation anxiety when his mother walks away, so this flat response suggests altered mental status, possibly from hypoxia or dehydration",
+        "It proves he has a head injury",
+        "It means his fever has broken and he is improving"
+      ],
+      "answer": 1,
+      "explanation": "A 9-month-old should react to strangers and show separation anxiety when his mother leaves. His decreased reaction may come from fatigue from coughing or dehydration from poor formula intake, and altered mental status can also be a sign of hypoxia from the respiratory infection."
+    },
+    {
+      "topic": "Toddler and adolescent assessment",
+      "topic_n": 5,
+      "source": "Case Study — Chapter 7",
+      "question": "Next you check the 3-year-old sister. She cries and tries to hide when you approach, but settles once her mother holds her, you talk quietly, and you let her hold your stethoscope. Her respirations are 28 and regular and her heart rate is 120; normal for a toddler is 20–30 breaths/min and 90–150 beats/min. What do you make of her?",
+      "choices": [
+        "Her vital signs are dangerously abnormal and she needs to go right now",
+        "Her crying and hiding mean her mental status is altered",
+        "Her vital signs are within the normal range for her age, and being shy and tearful with strangers is normal toddler behavior",
+        "Her heart rate of 120 is too slow for a toddler"
+      ],
+      "answer": 2,
+      "explanation": "Her respiratory rate and heart rate both fall within the normal toddler ranges. Toddlers may still be shy with strangers and cry easily, but they often respond to being talked to quietly and can answer simple questions."
+    },
+    {
+      "topic": "Toddler and adolescent assessment",
+      "topic_n": 5,
+      "source": "Case Study — Chapter 7",
+      "question": "The 14-year-old sister is self-conscious about your exam, so her mother stays in the room. Her lung sounds are clear, though she has a cough and nasal congestion; her pulse is 82, respirations 22, blood pressure 94/60, and temperature 101°F, and she says she aches all over and feels awful. She is developing breasts, has started menstruating, has acne, and has had a growth spurt this year. How do you sum up her findings?",
+      "choices": [
+        "Nothing here is significantly abnormal for her — a slightly fast respiratory rate and a fever fit a respiratory infection like the flu, and the breast development, menstruation, growth spurt, and acne are normal puberty changes",
+        "Her blood pressure of 94/60 means she is in shock",
+        "Breast development and menstruation at 14 are delayed and abnormal",
+        "Her clear lung sounds rule out any illness"
+      ],
+      "answer": 0,
+      "explanation": "Although she is slightly tachypneic and has a fever, those findings are not unusual for a patient with a respiratory infection such as the flu, and the physical changes described are normal puberty changes for an adolescent."
+    },
+    {
+      "topic": "Toddler and adolescent assessment",
+      "topic_n": 5,
+      "source": "Case Study — Chapter 7",
+      "question": "You have now assessed both the toddler and the adolescent. Neither has significantly abnormal vital signs or lung findings, and each one's mental status looks appropriate for her age group. There is only one ambulance and sicker patients to move. What is the right call for these two girls?",
+      "choices": [
+        "Transport both of them — any child with a fever has to go",
+        "Transport the toddler only, because she cried when you approached",
+        "Transport the adolescent only, because her temperature is the higher of the two",
+        "Neither of them needs to be transported at this time; they can stay home while you take the patients who truly need the hospital"
+      ],
+      "answer": 3,
+      "explanation": "Because neither the toddler nor the adolescent is showing significantly abnormal vital signs or lung findings, and their mental status is appropriate for their age groups, neither needs transport to the hospital at this time."
+    },
+    {
+      "topic": "Older adult respiratory illness",
+      "topic_n": 6,
+      "source": "Case Study — Chapter 7",
+      "question": "Your partner fills you in on the 71-year-old grandmother: she seems very confused and responds very slowly to simple questions, her respiratory rate is 32, heart rate 110, blood pressure 152/90, SpO2 88%, and her cough is weak. Which interpretation fits her best?",
+      "choices": [
+        "Her blood pressure of 152/90 is the emergency and explains everything else",
+        "Her confusion most likely reflects hypoxia given the 88% saturation, alongside her fast breathing and fast heart rate — and her blood pressure may be near her normal, since many older adults have hypertension",
+        "Every one of her vital signs is normal for a 71-year-old",
+        "Her slow answers are just normal aging and need no attention"
+      ],
+      "answer": 1,
+      "explanation": "She has altered mental status, most likely due to hypoxia as indicated by her low oxygen saturation, and she also has tachypnea and tachycardia. Her blood pressure, although a little high, may be in the normal range for her, as many older adults have hypertension."
+    },
+    {
+      "topic": "Older adult respiratory illness",
+      "topic_n": 6,
+      "source": "Case Study — Chapter 7",
+      "question": "The grandmother is admitted with pneumonia while the younger members of the same household shake off the same flu. Why is an older adult like her more likely to develop pneumonia than the younger people in the family?",
+      "choices": [
+        "Older adults have stronger cough and gag reflexes that push germs deeper into the lungs",
+        "Their white blood cells become more aggressive at fighting infection with age",
+        "Aging weakens immune defenses, and the lungs change too — less respiratory muscle strength, fewer cilia, and weaker cough and gag reflexes make it harder to clear the airway",
+        "Their vital capacity increases with age, so their lungs trap more germs"
+      ],
+      "answer": 2,
+      "explanation": "Older adults have decreased immune function and white blood cells that are less aggressive at fighting infection. Vital capacity falls with decreased respiratory muscle mass and strength, decreased alveolar surface area, and a stiffening thoracic cage; fewer cilia and weaker cough and gag reflexes make clearing the airway harder and raise the risk of aspiration, especially alongside chronic disease like her COPD."
+    },
+    {
+      "topic": "Infant assessment",
+      "topic_n": 4,
+      "source": "Flashcards — Chapter 7",
+      "question": "During a well-baby check, a loud noise startles a 3-week-old newborn. She throws her arms out wide, spreads her fingers, and then seems to grab at the air. This response is an example of the:",
+      "choices": [
+        "Palmar grasp reflex",
+        "Moro reflex",
+        "Sucking reflex",
+        "Rooting reflex"
+      ],
+      "answer": 1,
+      "explanation": "A startled infant who throws the arms out wide, spreads the fingers, and seems to grab at things is showing the Moro reflex. The palmar grasp reflex is gripping an object placed in the palm, and the sucking reflex starts when the lips are stroked."
+    },
+    {
+      "topic": "Infant assessment",
+      "topic_n": 4,
+      "source": "Flashcards — Chapter 7",
+      "question": "You place your gloved finger into the palm of a 2-month-old during your assessment, and she immediately curls her fingers tightly around it and holds on. This response is the:",
+      "choices": [
+        "Sucking reflex",
+        "Moro reflex",
+        "Palmar grasp reflex",
+        "Trust versus mistrust stage"
+      ],
+      "answer": 2,
+      "explanation": "An infant who grasps an object placed in the palm is showing the palmar grasp reflex. The sucking reflex is triggered by stroking the lips, and the Moro reflex is the startle response with the arms thrown wide."
+    },
+    {
+      "topic": "Infant assessment",
+      "topic_n": 4,
+      "source": "Flashcards — Chapter 7",
+      "question": "A first-time mother is worried because she can feel a soft, flat spot on top of her 5-month-old's head where the skull bones do not seem to meet. There is no injury and the baby is acting normally. What are you feeling?",
+      "choices": [
+        "The fontanelles — areas where the infant's skull has not yet fused together",
+        "A depressed skull fracture",
+        "A sign of dangerous pressure building inside the skull",
+        "A bulging artery under the scalp"
+      ],
+      "answer": 0,
+      "explanation": "The soft spots are the fontanelles, areas where the neonate's or infant's skull has not yet fused together. They are a normal finding at 5 months and usually disappear at approximately 18 months of age."
+    },
+    {
+      "topic": "Life span stages and development",
+      "topic_n": 7,
+      "source": "Flashcards — Chapter 7",
+      "question": "You are helping orient a new EMT and quiz her on the pediatric life span stages. Which set of age ranges is matched correctly?",
+      "choices": [
+        "Neonate: birth to 1 year; Infant: 1 to 3 years; Toddler: 3 to 6 years",
+        "Preschooler: 6 to 12 years; School age: 3 to 6 years; Adolescent: 19 to 40 years",
+        "Infant: birth to 1 month; Toddler: 6 to 12 years; School age: 1 to 3 years",
+        "Neonate: birth to 1 month; Infant: 1 month to 1 year; Toddler: 1 to 3 years; Preschooler: 3 to 6 years; School age: 6 to 12 years; Adolescent: 12 to 18 years"
+      ],
+      "answer": 3,
+      "explanation": "The pediatric stages run in order: neonate (birth to 1 month), infant (1 month to 1 year), toddler (1 to 3 years), preschooler (3 to 6 years), school age (6 to 12 years), and adolescent (12 to 18 years). Every other set scrambles at least one of those ranges."
+    },
+    {
+      "topic": "Life span stages and development",
+      "topic_n": 7,
+      "source": "Flashcards — Chapter 7",
+      "question": "A training slide lists the adult life span stages for a class of new EMTs. Which grouping is correct?",
+      "choices": [
+        "Early adult: 41 to 60 years; Middle adult: 61 years and older; Older adult: 19 to 40 years",
+        "Early adult: 19 to 40 years; Middle adult: 41 to 60 years; Older adult: 61 years and older",
+        "Early adult: 12 to 18 years; Middle adult: 19 to 40 years; Older adult: 41 to 60 years",
+        "Early adult: 19 to 40 years; Middle adult: 61 years and older; Older adult: 41 to 60 years"
+      ],
+      "answer": 1,
+      "explanation": "The adult stages are early adult (19 to 40 years), middle adult (41 to 60 years), and older adult (61 years and older). The other groupings swap the middle and older adult ranges or pull the adolescent years into adulthood."
+    },
+    {
+      "topic": "Life span stages and development",
+      "topic_n": 7,
+      "source": "Flashcards — Chapter 7",
+      "question": "A 9-year-old tells you he would never cheat on a test because his teacher and his friends would think badly of him, and he wants them to see him as a good kid. His thinking is driven mainly by how the people around him would judge him. This is an example of:",
+      "choices": [
+        "Preconventional reasoning",
+        "Trust versus mistrust",
+        "Conventional reasoning",
+        "Postconventional reasoning"
+      ],
+      "answer": 2,
+      "explanation": "Looking for approval from peers and society is conventional reasoning. Preconventional reasoning is acting almost purely to avoid punishment or get what you want, and postconventional reasoning is basing decisions on your own conscience."
+    },
+    {
+      "topic": "Life span stages and development",
+      "topic_n": 7,
+      "source": "Flashcards — Chapter 7",
+      "question": "A 10-month-old is brought in by parents who keep her days predictable — regular feeding times, a steady routine, and the same caregivers day after day. According to life span development theory, an infant growing up in this kind of planned, organized, routine world is working through which stage?",
+      "choices": [
+        "Trust versus mistrust",
+        "Conventional reasoning",
+        "Postconventional reasoning",
+        "Preconventional reasoning"
+      ],
+      "answer": 0,
+      "explanation": "From birth to approximately 18 months of age, infants are in the trust versus mistrust stage. When their world is planned, organized, and routine, they learn to trust their parents or caregivers."
+    },
+    {
+      "topic": "Body systems and injury terms",
+      "topic_n": 8,
+      "source": "Flashcards — Chapter 7",
+      "question": "A 68-year-old man with chest pain tells you his doctor has warned him for years about cholesterol and calcium building up inside the walls of his arteries, forming plaque that is slowly narrowing them and blocking blood flow. That buildup is known as:",
+      "choices": [
+        "Hypertension",
+        "An embolism",
+        "Aneurysm",
+        "Atherosclerosis"
+      ],
+      "answer": 3,
+      "explanation": "Atherosclerosis is the disorder in which cholesterol and calcium build up inside the walls of the blood vessels, forming plaque. That plaque eventually leads to a partial or complete blockage of blood flow."
+    },
+    {
+      "topic": "Body systems and injury terms",
+      "topic_n": 8,
+      "source": "Flashcards — Chapter 7",
+      "question": "A dialysis nurse explaining kidney function to a patient's family says the kidneys do all of their filtering in millions of tiny working units. Those basic filtering units are called:",
+      "choices": [
+        "Alveoli",
+        "Nephrons",
+        "Fontanelles",
+        "Cilia"
+      ],
+      "answer": 1,
+      "explanation": "The nephrons are the basic filtering units in the kidneys. Alveoli are the air sacs of the lungs, cilia are tiny hair-like structures that move mucus, and fontanelles are the soft spots of an infant's skull."
+    },
+    {
+      "topic": "Body systems and injury terms",
+      "topic_n": 8,
+      "source": "Flashcards — Chapter 7",
+      "question": "Reviewing a chart, you read that a small child who was ventilated with too much pressure during a resuscitation developed a lung injury caused by that excess pressure on the enclosed surfaces of the lungs. This type of injury is called:",
+      "choices": [
+        "A contusion",
+        "Atherosclerosis",
+        "Barotrauma",
+        "A laceration"
+      ],
+      "answer": 2,
+      "explanation": "Barotrauma is injury caused by pressure to enclosed body surfaces, for example from too much pressure in the lungs. It is a risk whenever a patient — especially a small child — is ventilated with excessive pressure."
+    }
+  ]
+}
